@@ -1,7 +1,7 @@
 import json
 import urllib.request
 from urllib.request import urlopen
-from bs4 import BeautifulSoup
+# from bs4 import BeautifulSoup
 from selenium import webdriver
 from selenium.webdriver.chrome.options import Options
 import time
@@ -34,7 +34,7 @@ def get_html(url):
             the_page = response.read()
         the_page = (str(the_page))
     except:
-        print("cannot crawl")
+        # print("cannot crawl")
         flag = True
 
     flag = True
@@ -75,7 +75,7 @@ def get_html(url):
 
 
 def view_html_structure(url, known_html=[], wrong_words=[]):
-    print(wrong_words)
+    # print(wrong_words)
     html = []
     if len(known_html) == 0:
         html = get_html(url)
@@ -157,8 +157,8 @@ def view_html_structure(url, known_html=[], wrong_words=[]):
                 continue
             html_tree[level][-1].append(i[1])
             level -= 1
-    for i in html_tree:
-        print(len(i), i)
+    # for i in html_tree:
+    #     print(len(i), i)
 
     path_dict = {}
     tmp = []
@@ -203,7 +203,7 @@ def view_html_structure(url, known_html=[], wrong_words=[]):
                         path_dict[r].append(list(p).copy())
 
         tmp = update_tmp.copy()
-    print(path_dict)
+    # print(path_dict)
 
     for i in path_dict.keys():
         for j in path_dict[i]:
@@ -212,7 +212,7 @@ def view_html_structure(url, known_html=[], wrong_words=[]):
             for k in j:
                 t.append(html_tree[n][k][1])
                 n += 1
-            print(i, j, raw_html[html_tree[n - 1][k][2] + 1], t, html_tree[n - 1][k])
+            # print(i, j, raw_html[html_tree[n - 1][k][2] + 1], t, html_tree[n - 1][k])
             # print(i, raw_html[html_tree[n - 1][k][2] + 1])
 
     candidate_num = sum([len(path_dict[i]) for i in path_dict.keys()])
@@ -236,7 +236,7 @@ def view_html_structure(url, known_html=[], wrong_words=[]):
         else:
             break
         a += 1
-    print(common_structure)
+    # print(common_structure)
 
     final_result = []
 
@@ -276,8 +276,9 @@ def view_html_structure(url, known_html=[], wrong_words=[]):
                 # print(a[0][0], i)
                 each_structure[i] = a[0][0]
             except:
-                print('No ' + i)
-        print(common_structure)
+                a31 = 0
+                # print('No ' + i)
+        # print(common_structure)
 
         subtree_roots = []
         for i in range(len(html_tree[len(common_structure)])):
@@ -413,7 +414,7 @@ def view_html_structure(url, known_html=[], wrong_words=[]):
                 if subtree_path1[i] == 'None':
                     subtree_path2[i] = 'None'
                 else:
-                    print(i)
+                    # print(i)
                     t1 = defaultdict(int)
                     for j in subtree_path[i].keys():
                         t1[j[:j.rfind('<')]] += subtree_path[i][j]
@@ -447,7 +448,7 @@ def view_html_structure(url, known_html=[], wrong_words=[]):
                 for k in j:
                     path_to_result[i][k[1]] = [k[2], k[3]]
 
-        print(subtree_path)
+        # print(subtree_path)
 
         if len(correct_subtree_path) == 0:
             for i in subtree_path.keys():
@@ -525,7 +526,7 @@ def view_html_structure(url, known_html=[], wrong_words=[]):
                                 anchor_points[k][anchor_index] = 0
                             anchor_points[k][anchor_index] += 1
 
-                print(anchor_points)
+                # print(anchor_points)
                 best_anchor_point = []
                 for j in anchor_points.keys():
                     best_anchor_point.append([j, max(anchor_points[j].values()) / sum(anchor_points[j].values())])
@@ -534,8 +535,8 @@ def view_html_structure(url, known_html=[], wrong_words=[]):
                 best_anchor_point[1] = max(anchor_points[best_anchor_point[0]], key=anchor_points[best_anchor_point[0]].get)
                 if best_anchor_point[0] == 'start' or best_anchor_point[0] == 'end':
                     best_anchor_point.append(parent)
-                print(best_anchor_point)
-                print()
+                # print(best_anchor_point)
+                # print()
                 subtree_path[i] = best_anchor_point.copy()
 
         result = []
@@ -563,11 +564,11 @@ def view_html_structure(url, known_html=[], wrong_words=[]):
                         a = a.replace('\n', ' ')
                         if ' ' in a:
                             a = a[:-1]
-                        print(j + ': ' + a)
+                        # print(j + ': ' + a)
                         d[j] = a
                         total_match += 1
                     else:
-                        print(j + ': missing')
+                        # print(j + ': missing')
                         d[j] = 'Missing'
                         missing += 1
                 else:
@@ -598,44 +599,45 @@ def view_html_structure(url, known_html=[], wrong_words=[]):
                             a = a.replace('\n', ' ')
                             if ' ' in a:
                                 a = a[:-1]
-                            print(j + ': ' + a)
+                            # print(j + ': ' + a)
                             d[j] = a
                             total_match += 1
                         else:
-                            print(j + ': missing')
+                            # print(j + ': missing')
                             d[j] = 'Missing'
                             missing += 1
                     except:
-                        print(j + ': missing')
+                        # print(j + ': missing')
                         d[j] = 'Missing'
                         missing += 1
 
-            print()
+            # print()
             if missing < 3:
                 result.append(d.copy())
             total_miss += missing
             total_num += 5
         # print(subtree_path)
-        print('--------------------------------------------------------------------')
-        print('--------------------------------------------------------------------')
-        print('--------------------------------------------------------------------')
-        print('--------------------------------------------------------------------')
-        print('--------------------------------------------------------------------')
-        print('--------------------------------------------------------------------')
+        # print('--------------------------------------------------------------------')
+        # print('--------------------------------------------------------------------')
+        # print('--------------------------------------------------------------------')
+        # print('--------------------------------------------------------------------')
+        # print('--------------------------------------------------------------------')
+        # print('--------------------------------------------------------------------')
 
         try:
             a_num, a = handle_extreme_edge_case(subtree_dict, subtree_path, raw_html)
-            print(a)
+            # print(a)
             if a_num > total_match:
                 for r in a:
                     final_result.append(r.copy())
                 return subtree_path
         except:
-            print('nothing happens')
+            a31 = 0
+            # print('nothing happens')
 
         if total_miss / total_num > 0.66:
-            print('Warning----------Total Miss:', total_miss, '  Num: ', total_num)
-            print()
+            # print('Warning----------Total Miss:', total_miss, '  Num: ', total_num)
+            # print()
             return {}
 
         for r in result:
@@ -647,7 +649,7 @@ def view_html_structure(url, known_html=[], wrong_words=[]):
     for i in common_structures:
         try:
             r = find_all_target_data(i, true_path)
-            print('r', r)
+            # print('r', r)
             for j in r.keys():
                 true_path[j] = r[j]
         except:
@@ -663,7 +665,7 @@ def view_html_structure(url, known_html=[], wrong_words=[]):
                 m[j[i]] += 1
         if len(m) > 0 and max(m.values()) / (sum(m.values()) + 0.1) > 0.93:
             noise.append(max(m, key=m.get).strip())
-    print(wrong_words)
+    # print(wrong_words)
     if len(noise) > 0:
         for i in wrong_words:
             noise.append(i)

@@ -107,7 +107,7 @@ for i in words_dict.keys():
             keyword_list.append(j[1])
         if a == 20:
             break
-print(keywords_dict)
+# print(keywords_dict)
 
 entries = list(keywords_dict.keys())
 def vectorize(d):

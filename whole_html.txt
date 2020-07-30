@@ -1164,7 +1164,7 @@ Wireless Networks &amp; Mobile Computing
 <div class="view-content">
 <div class="people-list">
  
-<ul class="faculty-list" style="position: relative; height: 15750px;">
+<ul class="faculty-list masonry" style="position: relative; height: 15750px;">
  
 <li class="views-row views-row-1 views-row-odd views-row-first masonry-brick" style="position: absolute; top: 0px; left: 0px;">
 <div class="views-field views-field-field-person-photo">
@@ -14366,7 +14366,7 @@ MIT Electrical Engineering &amp; Computer Science | Room 38-401 | 77 Massachuset
 
 </div>
 <div id="_atssh" style="visibility: hidden; height: 1px; width: 1px; position: absolute; top: -9999px; z-index: 100000;">
-<iframe id="_atssh460" title="AddThis utility frame" style="height: 1px; width: 1px; position: absolute; top: 0px; z-index: 100000; border: 0px; left: 0px;" src="https://s7.addthis.com/static/sh.f48a1a04fe8dbf021b4cda1d.html#rand=0.9047314435920686&amp;iit=1596077091273&amp;tmr=load%3D1596077087677%26core%3D1596077087731%26main%3D1596077091268%26ifr%3D1596077091276&amp;cb=0&amp;cdn=0&amp;md=0&amp;kw=&amp;ab=-&amp;dh=www.eecs.mit.edu&amp;dr=&amp;du=https%3A%2F%2Fwww.eecs.mit.edu%2Fpeople%2Ffaculty-advisors&amp;href=https%3A%2F%2Fwww.eecs.mit.edu%2Fpeople%2Ffaculty-advisors&amp;dt=Faculty%20%7C%20MIT%20EECS&amp;dbg=0&amp;cap=tc%3D0%26ab%3D0&amp;inst=1&amp;jsl=1&amp;prod=undefined&amp;lng=en&amp;ogt=&amp;pc=men&amp;pub=ra-4f74ccc02b21e6e9&amp;ssl=1&amp;sid=5f22341f19ed2a60&amp;srf=0.01&amp;ver=300&amp;xck=0&amp;xtr=0&amp;og=&amp;csi=undefined&amp;rev=v8.28.7-wp&amp;ct=1&amp;xld=1&amp;xd=1">
+<iframe id="_atssh372" title="AddThis utility frame" style="height: 1px; width: 1px; position: absolute; top: 0px; z-index: 100000; border: 0px; left: 0px;" src="https://s7.addthis.com/static/sh.f48a1a04fe8dbf021b4cda1d.html#rand=0.9650015582443685&amp;iit=1596077233309&amp;tmr=load%3D1596077232643%26core%3D1596077232697%26main%3D1596077233305%26ifr%3D1596077233312&amp;cb=0&amp;cdn=0&amp;md=0&amp;kw=&amp;ab=-&amp;dh=www.eecs.mit.edu&amp;dr=&amp;du=https%3A%2F%2Fwww.eecs.mit.edu%2Fpeople%2Ffaculty-advisors&amp;href=https%3A%2F%2Fwww.eecs.mit.edu%2Fpeople%2Ffaculty-advisors&amp;dt=Faculty%20%7C%20MIT%20EECS&amp;dbg=0&amp;cap=tc%3D0%26ab%3D0&amp;inst=1&amp;jsl=1&amp;prod=undefined&amp;lng=en&amp;ogt=&amp;pc=men&amp;pub=ra-4f74ccc02b21e6e9&amp;ssl=1&amp;sid=5f2234b0779f6e6d&amp;srf=0.01&amp;ver=300&amp;xck=0&amp;xtr=0&amp;og=&amp;csi=undefined&amp;rev=v8.28.7-wp&amp;ct=1&amp;xld=1&amp;xd=1">
 </iframe>
 </div>
 <style id="service-icons-0">

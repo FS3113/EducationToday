@@ -106,7 +106,7 @@ def handle_extreme_edge_case(subtree_dict_pre, subtree_path_pre, raw_html):
         for j in subtree_dict[i]:
             for k in j:
                 path_to_result[i][k[1]] = [k[2], k[3]]
-    print(subtree_path)
+    # print(subtree_path)
 
     result = []
     total_miss, total_num, total_match = 0, 1, 0
@@ -132,11 +132,11 @@ def handle_extreme_edge_case(subtree_dict_pre, subtree_path_pre, raw_html):
                     a = a.replace('\n', ' ')
                     if ' ' in a:
                         a = a[:-1]
-                    print(j + ': ' + a)
+                    # print(j + ': ' + a)
                     d[j] = a
                     total_match += 1
                 else:
-                    print(j + ': missing')
+                    # print(j + ': missing')
                     d[j] = 'Missing'
                     missing += 1
             else:
@@ -167,27 +167,27 @@ def handle_extreme_edge_case(subtree_dict_pre, subtree_path_pre, raw_html):
                         a = a.replace('\n', ' ')
                         if ' ' in a:
                             a = a[:-1]
-                        print(j + ': ' + a)
+                        # print(j + ': ' + a)
                         d[j] = a
                         total_match += 1
                     else:
-                        print(j + ': missing')
+                        # print(j + ': missing')
                         d[j] = 'Missing'
                         missing += 1
                 except:
-                    print(j + ': missing')
+                    # print(j + ': missing')
                     d[j] = 'Missing'
                     missing += 1
 
-        print()
+        # print()
         if missing < 3:
             result.append(d.copy())
         total_miss += missing
         total_num += 5
     # print(subtree_path)
-    print('~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~')
-    print('~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~')
-    print('~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~')
+    # print('~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~')
+    # print('~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~')
+    # print('~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~')
 
     return total_match, result
 
