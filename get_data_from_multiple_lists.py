@@ -37,11 +37,11 @@ def get_html(url):
         # print("cannot crawl")
         flag = True
 
-    flag = True
+    # flag = True
     if flag:
         try:
             chrome_option = Options()
-            driver1 = webdriver.Chrome(executable_path='/Users/juefei/Desktop/Research/chromedriver',
+            driver1 = webdriver.Chrome(executable_path='/home/vagrant/EducationToday/chromedriver',
                                        chrome_options=chrome_option)
             driver1.get(url)
             the_page = str(driver1.page_source)
