@@ -1,0 +1,10318 @@
+b'
+\r\n
+\r\n
+\r\n
+\r\n
+\r\n
+var added_by_webtools_is_responsive = true;
+\r\n
+\r\n
+\r\n
+\r\n
+\r\n
+\r\n
+ILLINOIS | University of Illinois Urbana-Champaign
+\r\n
+\r\n
+\r\n
+\r\n
+\r\n
+\r\n
+\r\n (function(d) {\r\n var config = {\r\n kitId: \'bhg8dpt\',\r\n scriptTimeout: 3000\r\n },\r\n h=d.documentElement,t=setTimeout(function(){h.className=h.className.replace(/\\bwf-loading\\b/g,"")+" wf-inactive";},config.scriptTimeout),tk=d.createElement("script"),f=false,s=d.getElementsByTagName("script")[0],a;h.className+=" wf-loading";tk.src=\'//use.typekit.net/\'+config.kitId+\'.js\';tk.async=true;tk.onload=tk.onreadystatechange=function(){a=this.readyState;if(f||a&&a!="complete"&&a!="loaded")return;f=true;clearTimeout(t);try{Typekit.load(config)}catch(e){}};s.parentNode.insertBefore(tk,s)\r\n })(document);\r\n
+\r\n
+\r\n
+\r\naudio{\r\n height:36px;\r\n margin-bottom:8px;\r\n margin-top:8px;\r\n}\r\n
+\r\n \r\n
+\r\n
+\r\n \r\n
+\r\n\r\n
+\r\n\r\n\r\n
+\r\n
+\r\n\r\n\r\n\r\n
+\r\n\r\n
+\r\n
+\r\n
+Skip to main content
+\r\n
+\r\n\r\n
+\r\n
+\r\n
+\r\n
+\r\n
+\r\n
+\r\n
+University of Illinois at Urbana-Champaign
+\r\n
+\r\n\r\n
+\r\n
+\r\n
+\r\n\r\n
+\r\n
+\r\n
+\r\n
+Search
+\r\n
+\r\n\r\n
+\r\n
+\r\n
+\r\n
+\r\n
+\r\n
+\r\n
+\r\n
+Enter Keyword, Phrase, or Name
+\r\n\r\n
+Search Website
+\r\n
+\r\n
+\r\n
+\r\n
+\r\n\r\n
+\r\n
+\r\n
+\r\n
+\r\n
+\r\n
+Enter Last Name, Title, or Unit
+\r\n\r\n
+Search Directory
+\r\n
+\r\n
+\r\n
+\r\n
+--\r\n
+\r\n\r\n
+\r\n
+\r\n\r\n
+\r\n
+\r\n
+\r\n
+\r\n
+\r\n \r\n
+\r\n
+\r\n \r\n
+\r\n
+\r\n
+\r\n
+\r\n
+Quicklinks
+\r\n
+\r\n
+Campus Directory
+\r\n
+Map
+\r\n
+Library
+\r\n
+\r\n
+Give
+Now
+\r\n
+\r\n
+\r\n \r\n
+\r\n
+Resources for
+\r\n
+\r\n
+Students
+\r\n
+Faculty &amp; Staff
+\r\n
+Alumni
+\r\n
+Parents
+\r\n
+\r\n
+\r\n
+\r\n
+\r\n \r\n\r\n
+\r\n
+\r\n
+\r\n
+About
+\r\n
+\r\n
+\r\n
+\r\n
+\r\n
+\r\n
+\r\n
+About Links
+\r\n
+\r\n
+Overview
+\r\n
+Leadership
+\r\n
+Facts
+\r\n
+Research Milestones
+\r\n
+Nobels &amp; Pulitzers
+\r\n
+Rankings
+\r\n
+Campus Tours
+\r\n
+\r\n
+\r\n
+\r\n
+\r\n
+Related Links
+: About
+\r\n
+\r\n
+Calendars
+\r\n
+Map
+\r\n
+A-Z Index
+\r\n
+\r\n
+\r\n
+\r\n
+\r\n
+\r\n \r\n
+\r\n
+Admissions
+\r\n
+\r\n
+\r\n
+\r\n
+\r\n
+\r\n
+\r\n
+Admissions Links
+\r\n
+\r\n
+Undergraduate Admissions
+\r\n
+\r\n
+Apply
+\r\n
+Majors
+\r\n
+Blogs
+\r\n
+Visit
+\r\n
+Tuition
+\r\n
+Financial Aid
+\r\n
+Request Info
+\r\n
+Contact Us
+\r\n
+\r\n
+\r\n
+Graduate College
+\r\n
+\r\n
+Apply
+\r\n
+Programs &amp; Contacts
+\r\n
+Funding
+\r\n
+\r\n
+\r\n
+\r\n
+\r\n \r\n
+\r\n
+\r\n
+Related Links
+: About
+\r\n
+\r\n
+Student Affairs
+\r\n
+Undergraduate Catalog
+\r\n
+Graduate Catalog
+\r\n
+\r\n
+\r\n
+\r\n
+\r\n
+\r\n \r\n
+\r\n
+Academics
+\r\n
+\r\n
+\r\n
+\r\n
+\r\n
+\r\n
+\r\n
+Academics Links
+\r\n
+\r\n
+Academic Programs
+\r\n
+\r\n
+Colleges &amp; Schools
+\r\n
+Programs of Study
+\r\n
+Honors Programs
+\r\n
+Illinois Online
+\r\n
+\r\n
+\r\n
+Classes &amp; Registration
+\r\n
+\r\n
+Course Explorer
+\r\n
+Register for Class
+\r\n
+Academic Calendar
+\r\n
+Transcripts
+\r\n
+\r\n
+\r\n
+\r\n
+\r\n
+\r\n
+\r\n
+Related Links
+: Academics
+\r\n
+\r\n
+Provost
+\r\n
+Registrar
+\r\n
+Compass
+\r\n
+Library
+\r\n
+\r\n
+\r\n
+\r\n
+\r\n
+\r\n\r\n
+\r\n
+Research
+\r\n
+\r\n
+\r\n
+\r\n
+\r\n
+\r\n
+\r\n
+Research Links
+\r\n
+\r\n
+Vice Chancellor for Research
+\r\n
+Research News
+\r\n
+Research Centers
+\r\n
+Find an Illinois Expert (Illinois Research Connections)
+\r\n
+Research Park
+\r\n
+Technology Commercialization
+\r\n
+Corporate Partnership Opportunities
+\r\n
+Library
+\r\n
+\r\n
+\r\n
+\r\n
+\r\n
+Related Links
+: Research
+\r\n
+\r\n
+Research Calendar
+\r\n
+Strategic Plan
+\r\n
+Research Park
+\r\n
+\r\n
+\r\n
+\r\n
+\r\n
+\r\n\r\n
+\r\n
+Outreach
+\r\n
+\r\n
+\r\n
+\r\n
+\r\n
+\r\n
+\r\n
+Outreach Links
+\r\n
+\r\n
+Corporate Relations
+\r\n
+Community
+\r\n
+U of I Extension
+\r\n
+4-H Youth Development
+\r\n
+Outreach Events
+\r\n
+\r\n
+\r\n
+\r\n
+\r\n
+Related Links
+: Outreach
+\r\n
+\r\n
+Strategic Plan
+\r\n
+Calendars
+\r\n
+\r\n
+\r\n
+\r\n
+\r\n
+\r\n\r\n
+\r\n
+International
+\r\n
+\r\n
+\r\n
+\r\n
+\r\n
+\r\n
+\r\n
+International Links
+\r\n
+\r\n
+Illinois International
+\r\n
+International Admissions
+\r\n
+Study Abroad
+\r\n
+Academic Programs
+\r\n
+Global Impact
+\r\n
+International Student Resources
+\r\n
+International Faculty, Staff, and Scholar Resources
+\r\n
+\r\n
+\r\n
+\r\n
+\r\n
+Related Links
+: International
+\r\n
+\r\n
+Calendars
+\r\n
+Student Affairs
+\r\n
+\r\n
+\r\n
+\r\n
+\r\n
+\r\n\r\n
+\r\n
+Arts &amp; Culture
+\r\n
+\r\n
+\r\n
+\r\n
+\r\n
+\r\n
+\r\n
+Arts &amp; Culture Links
+\r\n
+\r\n
+College of Fine &amp; Applied Arts
+\r\n
+College of Liberal Arts and Sciences
+\r\n
+Inclusion and Intercultural Relations
+\r\n
+Krannert Center for the Performing Arts
+\r\n
+Krannert Art Museum
+\r\n
+Library Special Collections
+\r\n
+Spurlock Museum
+\r\n
+Japan House
+\r\n
+Allerton Park and Retreat Center
+\r\n
+Illini Union
+\r\n
+\r\n
+\r\n
+\r\n
+\r\n\r\n
+\r\n
+Athletics
+\r\n
+\r\n
+\r\n
+\r\n
+\r\n
+\r\n
+\r\n
+Athletics Links
+\r\n
+\r\n
+Fighting Illini Athletics
+\r\n
+Wheelchair &amp; Adapted Sports
+\r\n
+Campus Recreation
+\r\n
+Marching Illini
+\r\n
+Illini Pride
+\r\n
+\r\n
+\r\n
+\r\n
+\r\n
+Related Links
+: Athletics
+\r\n
+\r\n
+Campus Map
+\r\n
+Calendars
+\r\n
+\r\n
+\r\n
+\r\n
+\r\n
+\r\n \r\n
+\r\n\r\n\r\n
+\r\n
+Close Navigation
+\r\n
+\r\n\r\n
+\r\n\r\n
+\r\n
+\r\n\r\n
+\r\n\r\n
+document.title = \'Faculty | University of Illinois\';
+\t\t\tdocument.getElementById(\'page-title\').innerHTML = \'ILLINOIS FACULTY\';\n\t\t
+Faculty Listing
+Campus Directory
+Faculty Listing
+Agricultural, Consumer and Environmental Sciences, College of
+Agricultural Communications Program
+Cupps-Miller, Heather Anne
+,
+Outreach Coordinator
+Danzl, Richard Gerald
+,
+ACADEMIC HRLY TEACH
+Evans, James F
+,
+PROF EMERITUS, Agricultural Comm Pgm &amp; Crse
+Agricultural Leadership Education and Communication Program
+Chunoo, Vivechkanand Sewcharran
+,
+Assistant Professor
+Collins, Jasmine Danielle
+,
+Assistant Professor
+Cupps-Miller, Heather Anne
+,
+Outreach Coordinator
+Emmert, Jason Lee
+,
+PROF, Animal Sciences
+Keating, Kari H
+,
+TEACHING ASST PROF
+Korte, Debra Sue
+,
+TEACHING ASST PROF
+Leman, Amy Marie
+,
+Assistant Professor
+Ochs, Gary Alan
+,
+Instructor
+Rosch, David Michael
+,
+Associate Professor
+Smist, Jennifer Anne
+,
+Instructor
+Agricultural and Consumer Economics, Department of
+Allen, Sharon Christine
+,
+Academic Hourly
+Allen-Smith, Joyce E
+,
+Associate Professor
+Ando, Amy W
+,
+Professor
+Arends-Kuenning, Mary Paula
+,
+Associate Professor
+Barnard, Jessa Marie
+,
+DIR OF STUDY ABROAD
+Barry, Peter J
+,
+Emeriti Faculty
+Baylis, Katherine R
+,
+Associate Professor
+Beller, Andrea H
+,
+Emeriti Faculty
+Bera, Anil K
+,
+Professor
+Braden, John B
+,
+Emeriti Faculty
+Breen, John
+,
+Academic Hourly
+Bullock, David S
+,
+Professor
+Christensen, Peter
+,
+Assistant Professor
+Coppess, Jonathan W
+,
+Assistant Professor
+Crost, Benjamin
+,
+Assistant Professor
+Dall\'Erba, Sandy
+,
+Professor
+Ellison, Brenna
+,
+Associate Professor
+Endres, A Bryan
+,
+Professor, Food &amp; Agricultural Law
+Fettig, Lyle P
+,
+Emeriti Faculty
+Finnegan, Ann Butler
+,
+Director, Undergraduate Admissions and Advising
+Garcia, Philip
+,
+Professor
+Goldsmith, Peter D
+,
+Professor
+Good, Darrel L
+,
+Emeriti Faculty
+Grossman, Margaret R
+,
+Emeriti Faculty, Bock Chair in Agricultural Law
+Gundersen, Craig
+,
+Professor
+Gundersen, Lisa Christine
+,
+Lecturer
+Hauser, Robert J
+,
+Special Advisor to Vice Provost, Provost/VCAA Admin
+Hubbs, Joseph Todd
+,
+Assistant Professor
+Irani, Kaizad Rusi
+,
+ACADEMIC HRLY TEACH
+Irwin, Scott H
+,
+Laurence J. Norton Chair of Agricultural Marketing
+Kesan, Jay P
+,
+Professor
+Khanna, Madhu
+,
+Professor
+Lakner, Hilda Buckley
+,
+Emeriti Faculty
+Leuthold, Raymond M
+,
+Emeriti Faculty
+Lo, Alexander C
+,
+Instructor
+Lyons, Angela Christine
+,
+Associate Professor
+Mallory, Mindy L
+,
+Associate Professor
+McNamara, Paul E
+,
+Associate Professor
+Michelson, Hope C
+,
+Assistant Professor
+Miller, Gay Y
+,
+Professor, Epidemiology and Preventive Medicine
+Morganosky, Michelle
+,
+Emeriti Faculty
+Moss, LeeAnn Elizabeth
+,
+ACADEMIC HOURLY TEACH
+Myers, Erica
+,
+Assistant Professor
+Nelson, Carl
+,
+Associate Professor
+Onal, Hayri
+,
+Professor
+Paulson, Nicholas D
+,
+Associate Professor
+Schnitkey, Gary Donald
+,
+Professor
+Scholl, Jon H
+,
+Instructor
+Seitz, Wesley D
+,
+Emeriti Faculty
+Serra Devesa, Maria Teresa
+,
+Professor
+Sherrick, Bruce J
+,
+Professor
+Stoddard, Paul B
+,
+SR LECTURER IN AGBUS
+Swanson, Burton E
+,
+Emeriti Faculty
+Thompson, Robert I
+,
+Emeriti Faculty
+Uchtmann, Donald L
+,
+Emeriti Faculty
+Unnevehr, Laurian J
+,
+Emeriti Faculty
+Winter-Nelson, Alex E
+,
+Professor
+Xu, Yilan
+,
+Associate Professor
+Agricultural, Biological and Engineering, Department of
+Abbott, Annie Ruth
+,
+DIR OF UGRAD STDY
+Accad, Evelyne
+,
+Professor Emerita
+Ackerson, Barry James
+,
+Emeritus Professor
+Aherin, Robert A
+,
+Professor
+Ahmad, Irfan S
+,
+EXEC DIR, INTERDISC INIT
+Akresh, Ilana Redstone
+,
+Associate Professor
+Akresh, Richard S
+,
+Associate Professor
+Allen-Smith, Joyce E
+,
+Associate Professor
+Allman, Jean Marie
+,
+Adjunct Professor
+Althouse, Mark Adam
+,
+Program Coordinator
+Amadu, Festus Onesimus
+Ambrose, Stanley H
+,
+Professor
+Anaya, Lauren A
+,
+Adjunct Professor
+Anderson, Steven G
+,
+Dean
+Angel, James Randal
+,
+Affiliate
+Anthony, Kathryn H
+,
+ACSA Distinguished Professor, School of Architecture
+Arends-Kuenning, Mary Paula
+,
+Associate Professor
+Armstrong, Chandler Matthew
+Armstrong, M Jocelyn
+,
+Emeriti Faculty
+Arnould, Richard J
+Arvan, Lanny
+Arvin-Rad, Hassan
+,
+Lecturer
+Atkins, Laura Beth
+Attig, Derek William
+,
+ASST DIR
+Ay, Deniz
+Baldwin, Jennifer L
+Balgopal, Pallassana R
+,
+Professor Emeritus
+Barnes, Teresa Ann
+,
+Associate Professor
+Barnett, Bernice McNair
+,
+Associate Professor
+Barro, Maimouna Abdoulaye
+,
+Associate Director
+Bassett, Thomas J
+Bauer, Dale
+Bayat, Asef
+,
+Professor
+Baylis, Katherine R
+,
+Associate Professor
+Bekal, Sadia
+,
+Academic Hourly
+Beller, Andrea H
+,
+Emeriti Faculty
+Bello Bravo, Maria Julia
+,
+ASST DIR
+Bera, Anil K
+,
+Professor
+Bernal, Juan C
+Bernhardt, Mark Daniel
+,
+Professor
+Bhalerao, Kaustubh
+,
+Associate Professor
+Bhatt, Rakesh Mohan
+,
+Professor
+Bicca Marques, Julio Cesar
+,
+Research Associate
+Billman, Becky L
+Blake, Nancy
+Blaschek, Hans-Peter M
+,
+Professor Emeritus, FSHN
+Boakye, Jessica S
+Bohn, Andrea B
+,
+VST ASSOC DIR, INGENAES
+Bohn, Dawn M
+,
+Teaching Assistant Professor, FSHN
+Boone, Anne M
+,
+STDNT ACAD PRGM COORD
+Bowen, Merle L
+,
+Associate Professor
+Bowers, Jill R
+,
+Adjunct Lecturer
+Brawn, Jeffrey D
+,
+Professor
+Brazee, Richard J
+,
+Associate Professor
+Bresler, Liora
+,
+Professor Emerita
+Brooks, Jan D
+,
+Instructor
+Brown, Jeff
+,
+Josef and Margot Lakonishok Professor and Dean of Business
+Brown, Nicole Marie
+,
+CENTER AFFILIATE
+Brown, Ruth Nicole
+,
+ASSOC PROF, Educ Policy, Orgzn &amp; Leadrshp
+Bullock, David S
+,
+Professor
+Burgos, Adrian
+,
+Professor
+Buriak, Philip
+,
+Emeriti Faculty
+Cacho, Lisa Marie
+,
+Associate Professor
+Cadwallader, Keith R
+,
+Professor of Food Chemistry
+Carter-Black, Janet D
+,
+TEACHING PROF
+Chandler, Hugh S
+,
+Emeriti Faculty
+Chassy, Bruce M
+,
+Professor
+Chen, Nuole
+,
+VST RES SPEC
+Chen, Xiaoguang
+,
+Visiting Scholar
+Chen, Ying
+Chester, Katrina Ross
+,
+SR BUSINESS OPERATIONS MANAGER
+Chhatre, Ashwini
+,
+Adjunct Professor
+Chiou-Peng, Tzehuey
+,
+CURATOR OF SPEC EXHIBITS &amp; RES, Spurlock Museum
+Cho, In-Koo
+,
+Professor
+Choi, Hyun Eun
+,
+Instructional Leader
+Christianson, Leslie L
+,
+Professor Emeritus
+Chu, Clara M
+,
+Professor
+Cidell, Julie L
+,
+Professor
+Clancy, Kathryn B H
+,
+Associate Professor
+Cole, Cheryl L
+,
+Professor and Head, Media &amp; Cinema Studies
+Cole, Susan Ann
+,
+Associate Professor
+Cooke, Richard A C
+,
+Professor
+Crossman, Kimberly A
+Crowell, Dennis Jay
+,
+Adjunct Instructor
+Crummey, Donald E
+,
+Emeriti Faculty
+Cunningham, Clark E
+,
+emeritus
+Dahl, Doris K
+,
+Communications Coordinator
+Danao, Mary-Grace
+,
+Assistant Professor
+Darder, Antonia
+Darfour-Oduro, Sandra Asantewaa
+Dash, Leon Decosta
+,
+Swanlund Chair Professor of Journalism
+Davis, Ollie Watts
+,
+Professor
+Day, Shari Ann
+Dearborn, Lynne Marie
+,
+Associate Professor, Associate Director, School of Architecture
+DeBrock, Lawrence M
+,
+Professor of Finance
+Deck, Alice A
+,
+Emeriti Faculty
+De La Rosa, Belinda
+,
+Dir of Assessment Auxiliary, Health, &amp; Wellbeing
+Delgado, Luisa-Elena
+,
+Professor
+Deltas, George
+,
+Professor
+Demejia, Elvira
+,
+Professor, Food Science and Human Nutrition
+Denzin, Norman K
+,
+Emeriti Faculty
+Desmond, Jane
+,
+Professor
+Diehl, Paul F
+Dill, Brian
+,
+Associate Professor
+Dominguez, Virginia Rosa
+,
+Professor
+Dowling, Julie
+,
+Associate Professor
+Dushku, Silvana
+,
+Senior Lecturer
+Eamon, Mary Keegan
+Earls Larrison, Tara
+,
+TEACHING ASSOC PROF
+Ebata, Aaron T
+,
+Associate Professor of Social Development
+Eckhoff, Steven
+,
+Professor
+Ellinger, Paul N
+,
+Professor
+Emerson, Thomas E
+,
+RESEARCH AFFILIATE, Prairie Research Institute
+Emmert, Jason Lee
+,
+PROF, Animal Sciences
+Endres, A Bryan
+,
+Professor, Food &amp; Agricultural Law
+Erdman, John W
+,
+PROF EMERITUS, Interdis Health Sci Institute
+Esfahani, Hadi S
+,
+Professor
+Espiritu, Augusto F
+,
+Associate Professor
+Etienne, Margareth
+,
+Professor
+Fagyal, Zsuzsanna
+,
+Associate Professor
+Fan, Linlin
+Farmer, Helen S
+,
+Emeriti Faculty
+Farnell, Brenda M
+,
+Professor
+Feng, Hao
+,
+Professor
+Fennell, Christopher
+,
+Professor
+Ferguson, Duncan Craig
+,
+Professor Emeritus, Comparative Biosciences
+Feser, Edward
+Fettig, Lyle P
+,
+Emeriti Faculty
+Fierro, Andrea J
+,
+Administrative Aide
+Fiese, Barbara
+,
+Professor, Human Development and Family Studies
+Finnegan, Cara Anne
+,
+Professor
+Fisher, Meghan Colleen
+Fitzgerald, Louise F
+,
+Professor Emerita
+Flynn, Karen
+,
+Associate Professor
+Ford, Barbara Jean
+Ford, Steven E
+,
+Research Engineer
+Forrest, Sharita L
+,
+Editor: Education, News
+Fort, Vernita Pearl
+Foster, Holly J
+,
+Administrative Aide
+Frankenberg, Susan R
+,
+MUSEUM STUDIES PROGRAM COORD
+Freeman Bost, Kelly K
+,
+Professor of Child Development
+Fresco, Karen L
+Freund, Gregory G
+,
+Professor (RT)
+Friend, Duane E
+,
+EXT EDUC, AGRI NATRL RSRC III
+Frost, Samantha L
+,
+Professor
+Frye, Lilabeth Norton
+,
+RES PRGM COORD
+Fu, Poshek
+,
+Professor
+Gahvari, Firouz
+,
+Professor
+Gandhi, Rajmohan
+Garber, Paul Alan
+Garcia, Philip
+,
+Professor
+Gardoni, Paolo
+,
+Professor
+Ghamari-Tabrizi, Behrooz
+,
+Professor
+Giertz, J Fred
+,
+PROF EMERITUS, Instit of Govt &amp; Pub Affs -- University Administration
+Gille, Zsuzsa
+,
+Professor
+Gilot, Anne Catherine
+,
+ACADEMIC HOURLY RSRCH
+Ginsburg, Rebecca
+,
+Associate Professor
+Gitler, Terri
+,
+OFFICE SUPPORT SPECIALIST
+Goering, Carroll E
+,
+Emeriti Faculty
+Goldman, Dara Ellen
+,
+Associate Professor
+Goldsmith, Peter D
+,
+Professor
+Gottlieb, Alma J
+Green, Angela R
+,
+Assistant Professor
+Greene, Jennifer Caroline
+,
+Professor Emerita
+Gresh, Rebecca A
+Grift, Tony E
+,
+Associate Professor
+Grossman, Margaret R
+,
+Emeriti Faculty, Bock Chair in Agricultural Law
+Grossman, Michael
+,
+Professor Emeritus, Genetics
+Gundersen, Craig
+,
+Professor
+Gundersen, Lisa Christine
+,
+Lecturer
+Hahn, Laura Diane
+,
+Director, AE3
+Haight, Wendy Lea
+,
+Professor
+Hannon, Bruce M
+,
+Jubilee Professor, Liberal Arts and Sciences,
+Hansen, Alan Christopher
+,
+Professor
+Harbourt, Christopher Mark
+,
+Adjunct Assistant Professor
+Hardy, Bobbi Lee Battleson
+,
+COMN &amp; CUSTOMER REL COORD
+Harper, Joe Grant
+,
+Professor of Technical Systems Management
+Hartman, Andrea Wilbon
+Heller, Wendy
+,
+Professor
+Hernandez, Rosalba
+,
+Assistant Professor
+Hewings, Geoffrey J D
+,
+Professor Emeritus
+Hilger, Stephanie M
+,
+Professor
+Hill, Jacquetta F
+,
+Adjunct Professor
+Hoffman, Valerie J
+,
+Professor
+Hoganson, Kristin Lee
+,
+Professor
+Holtzclaw-Stone, Heather Nicole
+,
+DIR UGRAD STDY
+Hong, Seung-Hyun
+,
+Associate Professor
+Hook, Sara
+,
+Professor
+Hoxie, Frederick E
+Hudson, Robert J M
+,
+Associate Professor, Natural Resources and Environmental Sciences
+Hughes, Robert
+,
+Professor of Child Development
+Hurd, Heidi M
+,
+Professor
+Husby, Ralph D
+Ingold, Cynthia Sue
+,
+ASSOC PROF UNIV LIBRARY
+Iriye, Masumi
+,
+DEPUTY DIR, CAS
+Islam, Sharif U
+,
+System Engineer, Blue Waters
+Jakle, John A
+,
+Emeriti Faculty
+Jarrett, Robin L
+,
+Professor, African American Studies
+Jeffery, Elizabeth H
+,
+Professor Emerita
+Jenkins, Christine A
+,
+Associate Professor
+Jenkins, Robert J
+,
+UGRAD PRGM STDY ABROAD ADVR
+Johnson, Laurie R
+,
+Professor
+Johnson, Lynnea Sue
+,
+EH OFFICE ADMIN (LU)
+Johnson, Rodney W
+,
+Professor, Integrative Immunology and Behavior
+Jones, Robert A
+,
+Emeriti Faculty
+Kahn, Jacquelyn Sue
+,
+ACAD ADV &amp; ADMIN COORD
+Kaiser, Anita R
+,
+Assistant Director,
+Kalipeni, Ezekiel
+,
+Professor
+Kalita, Prasanta Kumar
+,
+Professor
+Kar, Robin B
+,
+Professor
+Karney, Daniel Houghton
+Kashem, Md Shakil Bin
+,
+Teaching Assistant Professor
+Keenan, Patrick J
+,
+Professor
+Keller, Janet Dixon
+,
+Emeriti Faculty
+Kellogg, Earl D
+,
+Emeriti Faculty
+Kelsky, Karen Lee
+Kesan, Jay P
+,
+Professor
+Keyvan, Renee I
+Khanna, Madhu
+,
+Professor
+Kim, Jae-Kyun
+Kim, Soo Mee
+Kingery, Linda S
+,
+Adjunct Instructor
+Kiska, Sherri L
+,
+Accountant I
+Klean Zwilling, Jillian Marie
+Klein, Joan Larsen
+,
+Emeriti Faculty
+Kobel, Therese B
+,
+DIRECTOR, TAX SCHOOL
+Kokini, Jozef L
+,
+PROF, Food Science &amp; Human Nutrition
+Kolodziej, Edward
+,
+PROF EMERITUS, Political Science
+Konigsberg, Lyle W
+,
+Professor
+Kopels, Sandra Lee
+,
+Professor
+Korman, Daniel Z
+,
+Associate Professor
+Korr, Wynne Sandra
+,
+Professor
+Koshy, Susan
+,
+Associate Professor
+Kowalewski, Miguel Martin
+,
+Research Associate
+Kramer, Laurie F
+,
+Associate Dean, Academic Programs
+Krasa, Stefan
+,
+Professor
+Kuhlenschmidt, Mark S
+,
+Pathobiology
+Kurisu, Sheri-Lynn Sunshine
+Kwon, Yaejoon
+Lamers, Nicole Alane
+,
+DIR STDY ABROAD PRGM
+Larrison, Christopher Rollo
+,
+Associate Professor
+Larson, Reed W
+,
+Professor Emeritus, Family Ecology
+Larson, Susan M
+,
+ASST DEAN, Engineering Administration
+Lasersohn, Peter Nathan
+,
+Professor of Linguistics
+Lawler, John J
+,
+Professor
+Lawson, Laura
+Leff, Carol Skalnik
+,
+Associate Professor
+Lehman, Frederic K
+,
+Emeriti Faculty
+Leigh, Steven R
+,
+Adjunct Professor
+Lewis, R Barry
+,
+Emeriti Faculty
+Li, Hong
+,
+Associate Professor
+Lian, Bin
+Liao, Tim Futing
+,
+Professor
+Liechty, Janet M
+,
+Associate Professor
+Lila, Mary Ann
+,
+Emeriti Faculty
+Lindsey, Brenda Coble
+,
+Clinical Associate Professor
+Litchfield, J Bruce
+,
+Assistant Dean
+Liu, Ping
+Liu, Wei
+,
+GLOBAL EDUCATION SPEC
+Liu, Yingyi
+Lleras, Christy L
+,
+Associate Professor
+Lo, Alexander C
+,
+Instructor
+Lucas, Leanne
+,
+Academic Hourly
+Lutomia, Anne Namatsi
+Lyons, Angela Christine
+,
+Associate Professor
+Mahaffey, Vicki
+,
+Professor
+Malasquez Carbonel, Eduardo Alonso
+Malhi, Ripan S
+,
+Professor
+Malik, Rajeev P
+,
+Director
+Mallory, Mindy L
+,
+Associate Professor
+Manalansan, Martin Fajardo
+Marshall, Anna-Maria
+,
+Associate Professor
+Marshall, Keith A
+,
+Executive Director
+Martensen, Kathryn Ann
+,
+ASST PROVOST FOR ED PRGMS
+Mashhadi Farahani, Arash
+Maurer, Mary Frances
+,
+Clinical Associate Professor
+McBride, Brent A
+,
+Director, Child Development Lab
+McCarthy, Timothy G
+McDonagh, Deana C
+,
+Professor of Industrial Design
+McDonald, Melissa Michelle
+,
+AREA COORDINATOR
+McElwain, Nancy L
+,
+Professor
+McKeever, Stacey E
+,
+VST CQI SPEC
+McKinn, John
+,
+Associate Director
+McLafferty, Sara L
+,
+Professor
+McLaughlin, M Megan
+McMahon, Walter W
+,
+Professor Emeritus
+McMillen, Daniel P
+,
+Professor, Economics
+McNamara, Paul E
+,
+Associate Professor
+Melnick, Arthur
+,
+Emeriti Faculty
+Mendenhall, Ruby
+,
+ASSOC PROF, African American Studies
+Mendez Johnson, Veronica A
+Meyer, Joyce
+,
+Academic Hourly
+Miller, Gay Y
+,
+Professor, Epidemiology and Preventive Medicine
+Miraftab, Faranak
+,
+Professor, Urban &amp; Regional Planning
+Molina, Isabel
+,
+PROF, Latina/Latino Studies
+Montanari, Bernadette
+,
+Visiting Scholar
+Moodie, Ellen
+,
+Associate Professor
+Moore, Michael
+,
+Professor
+Morrow, Rebecca L
+Mueller, Benjamin C
+Muggli, Joseph R
+,
+SYST ENGR
+Muniandy, Parthiban
+,
+Lecturer
+Murav, Harriet Lisa
+,
+PROF, Slavic Languages &amp; Literature
+Murphy, Colleen
+,
+Professor, Law
+Murray, Bruce Arthur
+,
+DIR, AUSTRIA-ILLINOIS EXCHANGE
+Mustroph, Martina Laetitia
+Mwilambwe, Lowa
+,
+Acting Vice Chancellor for Student Affairs
+Nadeau, Chantal
+,
+Professor
+Nandkumar, Radha
+,
+ADJ ASST PROF, Atmospheric Sciences
+Neal, Larry D
+,
+Professor Emeritus
+Nelson, Carl
+,
+Associate Professor
+Nelson, Gerald C
+,
+Emeriti Faculty
+Nettl, Bruno
+,
+Professor Emeritus
+Neville, Helen A
+,
+Professor
+Ngo, Fiona
+,
+Associate Professor
+Nguyen, Mimi Thi
+,
+Associate Professor
+Niehans, Keri Michelle
+,
+AC ADV &amp; COORD ENGR PTHWS PRGM
+Niekerk, Carl Hendrik
+,
+Professor
+Nivin Valdiviezo, Rafael Javier
+Ogwal, Susan Akello
+Olemako, Teresia Rafael
+,
+Visiting Scholar
+Oliver, Cynthia
+,
+Professor
+Olson, Craig Allen
+,
+Professor
+Orlie, Melissa A
+Orta, Andrew
+,
+Professor
+Oswald, Ramona Faith
+,
+Professor of Family Studies, Department of Human and Community Development
+Pacheco-McEvoy, Rodrigo
+Pahre, Robert David
+,
+Professor
+Palaska-Nicholson, Suzana
+,
+Associate Director
+Palencia-Roth, Michael
+,
+Emeriti Faculty
+Parente, Stephen Lawrence
+,
+Associate Professor
+Paulson, Nicholas D
+,
+Associate Professor
+Peach, Matthew
+,
+Lecturer
+Pershing, Roscoe L
+,
+Emeriti Faculty
+Petrea, Robert Edward
+,
+PRIN RES SPEC IN AGR
+Phan, Maggie May
+Pickett, Adrienne Nicole
+,
+ACAD ADVS AND SKILLS SPEC
+Piedra, Lissette
+,
+Associate Professor
+Pintar, Judith A
+,
+Teaching Associate Professor
+Plath, David W
+,
+Emeriti Faculty
+Pomerantz, Eva Marie
+,
+Professor
+Powers, Elizabeth T
+,
+Associate Professor
+Purpura, Allyson
+,
+Senior Curator, Curator of Global African Art
+Raffaelli, Marcela
+,
+Professor Emerita
+Rai, Pronoy
+Rana, Junaid
+,
+Associate Professor
+Rashid, Salim
+,
+Emeriti Faculty
+Reagan, Leslie Jean
+,
+Professor
+Reis, Janet Mildred
+,
+Emeriti Faculty
+Reisner, Ann E
+,
+Associate Professor
+Renear, Allen H
+,
+Professor
+Ribot, Jesse C
+Rice, Kim G
+,
+OFFICE MANAGER
+Rich, Robert F
+Rigdon, Susan Marie
+,
+Research Associate
+Rodriguez, Luis F
+,
+Associate Professor
+Rogalla, Valerie
+Romero, Rolando J
+,
+Associate Professor
+Rose, William B
+,
+ACADEMIC HRLY RSRCH
+Roseman, Charles C
+,
+Associate Professor
+Rosenstein, Matthew Aaron
+,
+Director, Global Education and Training
+Ruggles, D Fairchild
+,
+Professor, Department of Landscape Architecture
+Ryan, Joseph Patrick
+,
+Associate Professor
+Ryu, Seokjong
+Saul, Mahir
+,
+Professor
+Scarborough, Isabel
+,
+RES ASSOC AFFL
+Schacht, Richard L
+,
+Emeriti Faculty
+Schideman, Lance Charles
+,
+Research Scientist
+Schmidt, Shelly J
+,
+Professor of Food Chemistry
+Schneider, Dorothee
+,
+TEACHING ASSOC PROF
+Schnitkey, Gary Donald
+,
+Professor
+Schnuer, Susan M
+,
+Associate Director, Mortenson Center, University Library
+Schoeplein, Melissa Beth
+,
+CAREER DEVLP SPEC
+Schug, David A
+,
+DIR, PRESTIG SCHOLAR
+Set, Eric B
+Seufferheld, Alejandra Maria
+,
+OUTREACH COORD
+Shackelford, Laura Lynn
+,
+Associate Professor, Anthropology
+Shafer, Wayne J
+,
+Emeriti Faculty
+Shao, Dan
+,
+Associate Professor
+Shapiro, Constance Hoenk
+,
+Professor
+Shea, Timothy M
+,
+Adjunct Lecturer
+Silverman, Helaine I
+,
+Professor
+Simmons, F William
+,
+Professor Emeritus
+Singer, Clifford E
+,
+Professor Emeritus
+Sivapalan, Murugesu
+,
+Professor
+Slagle, Ruth Lydia
+Smith, Douglas Cary
+,
+Associate Professor
+Smith, Rachel Ann
+Sofranko, Andrew J
+,
+Emeriti Faculty
+Solomon, Stanley G
+,
+EXT EDUC,AGRI NTRL RSRSC II
+Somerville, Siobhan B
+,
+Associate Professor, English
+Sonka, Steven T
+,
+Professor Emeritus, Agricultural Management
+Soppelsa, Maria Edisa
+Sprenkle, Case M
+Stafford, Beth Renee
+,
+Emeriti Faculty
+Steinberg, Mark D
+,
+Professor
+Steward, Dan
+,
+TEACHING ASST PROF
+Storm, Rachel Lauren
+,
+Assistant Director, Women\'s Resources Center, OIIR
+Stumpf, Rebecca
+,
+Professor
+Sugrue, Noreen M
+,
+Research Associate
+Sullivan, Ronda Lynn
+,
+Assistant Head, Business and Strategic Planning
+Summerfield, Gale E
+,
+Director, Women &amp; Gender in Global Perspectives
+Sun, Lingling
+Sun, Yigang
+,
+RES SPEC
+Swicegood, C Gray
+,
+ASSOC PROF EMERITUS, Illinois Abroad
+Swisher, Virginia Gail
+,
+Office Support Specialist (lu)
+Tabandeh, Seyedarmin
+Taira, Koji
+,
+Emeriti Faculty
+Tappenden, Kelly Anne
+,
+Kraft Foods Human Nutrition Endowed Professor
+Taub, Bart M
+,
+Professor Emeritus
+Tempest, Richard V
+,
+Associate Professor, Department of Slavic Languages &amp; Literatures
+Themanson, Jennifer A
+,
+Project Coordinator
+Thomas, Merin A
+Thompson, Jesse C
+,
+Assistant Dean, Academic Programs
+Ting, Kuan Chong
+,
+Professor
+Toby, Ronald P
+,
+Emeriti Faculty
+Tolliver, Joyce L
+,
+DIRECTOR, Ctr Translation Studies
+Toossi, Ali
+,
+Clinical Professor
+Tran, Steve
+,
+ACADEMIC HRLY RSRCH
+Treichler, Paula A
+,
+Emeriti Faculty
+Trent, William T
+,
+Professor
+Tumbleson, M E
+,
+Professor Emeritus
+Turino, Thomas R
+,
+Emeriti Faculty
+Uddin, Rizwan
+,
+Professor
+Ulen, Thomas S
+,
+Emeriti Faculty
+Valdivia, Angharad N
+,
+Research Professor of Communications
+Varden, Helga
+,
+Associate Professor
+Varela, Charles R
+,
+Research Associate
+Vazquez, Jose J
+,
+Clinical Professor
+Villamil, Anne
+Viruell-Fuentes, Edna A
+,
+Associate Professor
+Viswanathan, Madhubalan
+,
+Research Professor
+Vogen, Richard Alan
+,
+DIR, PLNG &amp; RSRC DEVLP
+Wade, Mara R
+,
+Professor
+Wallace, James D
+,
+Emeriti Faculty
+Wang, Shaowen
+,
+Professor and Department Head, Geography &amp; GIS
+Wang, Xinlei
+,
+Professor
+Wang, Yiqun
+Washo, Christine A
+,
+Adjunct Instructor
+Wegmann, Kate Melissa
+,
+Assistant Professor
+Weinberg, Shelley E
+,
+Associate Professor
+Wentling, Rose Mary
+,
+Professor Emerita
+White-Gibson, Nancy Louise
+Wiley, Angela R
+,
+Professor, Applied Family Studies
+Williams, Angela Selena
+,
+Associate Director
+Williams, Beth Ann
+Williams, Douglas Arnell
+Williamson, H F
+,
+Emeriti Faculty
+Wilson, David
+,
+Professor
+Winter-Nelson, Alex E
+,
+Professor
+Wisseman, Sarah U
+,
+ACADEMIC HOURLY, Osher Lifelong Learning Inst
+Witt, Steven W
+,
+ASSOC PROF OF LIB ADMIN
+Wu, Chi-Fang
+,
+Associate Professor
+Xu, Hui
+Yannelis, Nicholas
+,
+Emeriti Faculty
+Yates, Ronald E
+,
+Emeriti Faculty
+Yoon, Soo-Yeon
+Yu, George T
+,
+Emeriti Faculty
+Yu, Xiaowei
+Zerai, Assata
+,
+Associate Chancellor for Diversity
+Zhan, Min
+,
+Professor
+Zhang, Gehui
+Zhang, Yuanhui
+,
+Professor
+Zhang, Zheng
+Zhang, Zinnia
+Zhao, Rui
+,
+TEACHING ASST PROF
+Zuidema, Reiner T
+,
+Retired
+Animal Sciences, Department of
+Allen, Crystal Ann
+,
+Lecturer
+Bahr, Janice Mary
+,
+Professor Emerita
+Berger, Larry L
+,
+Emeriti Faculty
+Beverly, Joseph Lee
+,
+Professor
+Boler, Dustin Dee
+,
+Adjunct Associate Professor
+Cann, Isaac
+,
+Professor
+Cardoso, Felipe
+,
+Associate Professor
+Carr, Scott N
+,
+Adjunct Assistant Professor
+Carr, Tom R
+,
+Emeriti Faculty
+Cattai de Godoy, Maria Regina
+,
+Assistant Professor
+Cecava, Michael John
+,
+Adjunct Assistant Professor
+Clark, Jimmy Howard
+,
+Emeriti Faculty
+Cobb, Alan R
+Dailey, Megan J
+,
+DIR OF METROFEST
+Dilger, Anna Carol
+,
+Associate Professor
+Dilger, Ryan Neil
+,
+Associate Professor
+Drackley, James K
+,
+Professor
+Ellis, Michael
+,
+Professor
+Emmert, Jason Lee
+,
+PROF, Animal Sciences
+Fahey, George C
+,
+Professor Emeritus
+Fischer-Brown, Amy Elizabeth
+,
+TEACHING ASSOC PROF
+Garleb, Keith Allen
+Gaskins, H Rex
+,
+Associate Director for Education, Cancer Center at Illinois
+Green, Michelle Lynn
+,
+Adjunct Research Assistant Professor
+Grossman, Michael
+,
+Professor Emeritus, Genetics
+Hurley, Walter L
+,
+Professor, Animal Sciences
+Hutjens, Michael F
+,
+Professor
+Johnson, Rodney W
+,
+Professor, Integrative Immunology and Behavior
+Jones-Hamlow, Katelyn A
+,
+UNDERGRADUATE RECRUITER
+Kelley, Keith W
+,
+Professor
+Kesler, Darrel J
+,
+Professor Emeritus
+Kline, Kevin Halden
+,
+Professor
+Knox, Robert Victor
+,
+Professor
+Koelkebeck, Kenneth W
+,
+Professor
+Kukekova, Anna V
+,
+Associate Professor
+Lewin, Harris A
+,
+DIR RSDIS
+Loor, Juan J
+,
+Professor
+Mackie, Roderick Ian
+,
+Professor
+McCann, Joshua Clay
+,
+Assistant Professor
+McCusker, Robert H
+,
+Research Assistant Professor
+McKeith, Floyd K
+,
+Professor
+Merchen, Neal R
+,
+Associate Dean for Research, College of ACES
+Miller, David J
+,
+Professor
+Murphy, Michael R
+,
+Emeriti Faculty
+Novakofski, Jan E
+,
+Associate Vice Chancellor for Research for Compliance
+Nowak, Romana Angelika
+,
+Professor
+Parrett, Douglas F
+,
+Emeriti Faculty
+Parsons, Carl M
+,
+Professor
+Peterson, Beau A
+Pettigrew, James Eugene
+,
+Professor Emeritus
+Richardson, Sarah Danielle
+,
+Instructor
+Ridlon, Jason M
+,
+Assistant Professor
+Robinson, James L
+,
+Professor Emeritus
+Roca, Alfred L
+,
+Associate Professor
+Rodriguez-Zas, Sandra Luisa
+,
+Professor
+Rund, Lauretta A
+,
+Research Assistant Professor
+Schook, Lawrence B
+,
+Gutgsell Professor of Animal Sciences
+Shanks, Roger D
+,
+Emeriti Faculty
+Shike, Daniel William
+,
+Associate Professor
+Southey, Bruce Robert
+,
+Research Assistant Professor
+Spike, Thomas Edward
+Steelman, Andrew Jonathan
+,
+Assistant Professor
+Stein, Hans-Henrik
+,
+Professor, Animal Sciences
+Swanson, Kelly S
+,
+Professor, Department of Animal Sciences
+Webel, Douglas Maurice
+Wheeler, Matthew B
+,
+Professor, Animal Sciences, Bioengineering
+White, Bryan A
+,
+Professor and Graduate Program Coordinator, Animal Sciences
+Wolter, Bradley F
+Crop Sciences, Department of
+Babadoost, Mohammad
+,
+Professor, Vegetable &amp; Fruit
+Below, Frederick E
+,
+Professor of Plant Physiology
+Bohn, Martin O
+,
+Associate Professor
+Bradley, Carl Alan
+,
+Adjunct Associate Professor
+Briskin, Donald P
+,
+Professor of Plant Physiology
+Brown, Patrick J
+,
+Associate Professor
+Caetano-Anolles, Gustavo
+,
+Professor
+Clough, Steven J
+,
+AFFILIATE, IGB, Institute for Genomic Biology
+Davis, Adam
+,
+Professor
+Eastburn, Darin M
+,
+Associate Professor
+Hager, Aaron G
+,
+Associate Professor
+Hartman, Glen L
+,
+Adjunct Professor, Natural Res &amp; Env Sci
+Hudson, Matthew
+,
+Professor of Bioinformatics
+Juvik, John A
+,
+Professor of Plant Genetics
+Lambert, Kris Nicholas
+,
+Associate Professor, Nematology
+Lee, DoKyoung
+,
+Associate Professor
+Long, Stephen P
+,
+DEPUTY DIRECTOR, EBI, Institute for Genomic Biology
+Lovell, Sarah Taylor
+,
+Associate Professor
+Margenot, Andrew J
+,
+Assistant Professor
+Moose, Stephen Patrick
+,
+Professor, Maize Functional Genomics
+Mumm, Rita Hogan
+,
+Associate Professor
+Nafziger, Emerson Dale
+,
+Professor of Crop Sciences
+Ort, Donald Richard
+,
+Professor
+Parks, Gregory W
+,
+MGR OF SYST SERV
+Pittelkow, Cameron M
+,
+Assistant Professor of Agronomy
+Plewa, Michael Jacob
+,
+Professor
+Rayburn, A Lane
+,
+Professor of Cytogenetics
+Riechers, Dean Edward
+,
+Professor, Weed Physiology
+Riggins, Chance
+,
+Research Assistant Professor
+Sacks, Erik J
+,
+Associate Professor
+Schroeder, Nathan E
+,
+Associate Professor Dept. of Crop Sciences
+Seiter, Nicholas J
+,
+Research Assistant Professor
+Stewart, J Ryan
+,
+Assistant Professor
+Studer, Anthony Joseph
+,
+Assistant Professor
+Tranel, Patrick J
+,
+Professor of Molecular Weed Science
+Villamil, Maria Bonita
+,
+Associate Professor
+Vodkin, Lila O
+,
+Professor of Crop Molecular Biology
+Voigt, Thomas B
+,
+Professor
+Walker, David R
+,
+USDA-ARS Research Geneticist (Plants)
+Weinzierl, Richard Alan
+,
+Professor Emeritus
+Widholm, Jack M
+,
+Emeriti Faculty
+Wiesbrook, Michelle L
+,
+EXT SPEC
+Williams, David J
+,
+Emeriti Faculty
+Williams, Martin M
+,
+Associate Professor
+Zhao, Youfu
+,
+Associate Professor
+Food Science and Human Nutrition, Department of
+Andrade, Juan
+,
+Associate Professor
+Cadwallader, Keith R
+,
+Professor of Food Chemistry
+Chapman-Novakofski, Karen Marie
+,
+Professor, Department of Food Science &amp; Human Nutrition
+Chen, Hong
+,
+Associate Professor, FSHN
+Demejia, Elvira
+,
+Professor, Food Science and Human Nutrition
+Donovan, Sharon M
+,
+Professor and Melissa M. Noel Endowed Chair in Nutrition and Health
+Engeseth, Nicki Jene
+,
+Professor of Food Chemistry
+Feng, Hao
+,
+Professor
+Helferich, William G
+,
+Professor
+Holscher, Hannah Diane
+,
+Assistant Professor
+Jin, Yong-Su
+,
+Assistant Professor
+Lee, Soo-Yeun
+,
+Professor, FSHN
+Lee, Youngsoo
+,
+Assistant Professor
+Madak-Erdogan, Zeynep
+,
+Assistant Professor
+Miller, Michael J
+,
+Associate Professor
+Nakamura, Manabu T
+,
+Associate Professor
+Nickols, Sharon M
+,
+Professor
+Pan, Yuan-Xiang
+,
+Associate Professor of Molecular Nutrition, Food Science and Human Nutrition (FSHN)
+Pepino de Gruev, Marta Yanina
+,
+Assistant Professor
+Schmidt, Shelly J
+,
+Professor of Food Chemistry
+Stasiewicz, Matthew Jon
+,
+Assistant Professor
+Takhar, Pawan Singh
+,
+Professor
+Tappenden, Kelly Anne
+,
+Kraft Foods Human Nutrition Endowed Professor
+Human Development &amp; Family Studies, Department of
+Brooks, Jan D
+,
+Instructor
+Ebata, Aaron T
+,
+Associate Professor of Social Development
+Fiese, Barbara
+,
+Professor, Human Development and Family Studies
+Frantz, Kelly Michelle Tu
+,
+Assistant Professor
+Freeman Bost, Kelly K
+,
+Professor of Child Development
+Hardesty, Jennifer Leeann
+,
+Associate Professor
+Hughes, Robert
+,
+Professor of Child Development
+Jarrett, Robin L
+,
+Professor, African American Studies
+Koerner, Susan Silverberg
+,
+Department Head
+Kramer, Karen
+,
+Assistant Professor
+Kramer, Laurie F
+,
+Associate Dean, Academic Programs
+Kwon, Soo Ah
+,
+Associate Professor, Asian American Studies
+Larson, Reed W
+,
+Professor Emeritus, Family Ecology
+Lleras, Christy L
+,
+Associate Professor
+McBride, Brent A
+,
+Director, Child Development Lab
+McElwain, Nancy L
+,
+Professor
+Ogolsky, Brian Gabriel
+,
+Associate Professor
+Oswald, Ramona Faith
+,
+Professor of Family Studies, Department of Human and Community Development
+Raffaelli, Marcela
+,
+Professor Emerita
+Rosch, David Michael
+,
+Associate Professor
+Shapiro, Constance Hoenk
+,
+Professor
+Smith, Sharde
+,
+Assistant Professor
+Natural Resources and Environmental Sciences, Department of
+Arai, Yuji
+,
+Associate Professor
+Benson, Thomas J
+,
+Senior Wildlife Ecologist
+Berenbaum, May R
+,
+Professor
+Brawn, Jeffrey D
+,
+Professor
+Brazee, Richard J
+,
+Associate Professor
+Cao, Yong
+,
+Principal Research Scientist, Stream Ecology
+Chee-Sanford, Joanne Chin
+,
+Adjunct Assistant Professor, Crop Sciences
+Chow, Poo
+,
+Emeriti Faculty
+Czapar, George Frank
+,
+Associate Professor Emeritus
+Czesny, Sergiusz Jakob
+,
+Principal Research Scientist, Aquatic Ecology
+Darmody, Robert G
+,
+Professor Emeritus
+David, Mark B
+,
+Professor Emeritus
+Deal, Brian M
+,
+Professor
+Delucia, Evan H
+,
+Professor
+El-Naggar, Essam Mohamed
+,
+Academic Hourly - Research
+Endress, Anton G
+,
+Professor Emeritus
+Fagan, Peter
+,
+Emeriti Faculty
+Fraterrigo, Jennifer M
+,
+Associate Professor
+Freyfogle, Eric T
+,
+Professor Emeritus
+Gertner, George
+,
+Emeriti Faculty
+Grimley, David Aaron
+,
+Principal Research Scientist, Quaternary Geologist
+Guan, Kaiyu
+,
+Assistant Professor
+Hanks, Lawrence M
+,
+Professor
+Hartman, Glen L
+,
+Adjunct Professor, Natural Res &amp; Env Sci
+Hoover, Jeffrey P
+,
+Avian Ecologist
+Hudson, Robert J M
+,
+Associate Professor, Natural Resources and Environmental Sciences
+Hutchins Sperry, Jinelle
+,
+Adjunct Assistant Professor
+Jarrell, Wesley M
+,
+Emeriti Faculty
+Kent, Angela D
+,
+Associate Professor
+Khanna, Madhu
+,
+Professor
+Korban, Schuyler S
+,
+Professor Emeritus
+Krassa, Michael A
+,
+Chair Emeritus, Human Dimensions of Environmental Systems (HDES)
+Kuo, Ming
+,
+Associate Professor
+Larson, Eric R
+,
+Assistant Professor
+Larson, Richard A
+,
+Emeriti Faculty
+Lavey, Warren
+,
+ADJ PROF, Sch Earth, Soc, Environ Admin
+Levengood, Jeffrey M
+Lin, Yu-Feng
+,
+Principal Research Hydrogeologist, Illinois State Geological Survey
+Markus, Momcilo
+,
+Principal Research Scientist, Hydrology
+Mateus-Pinilla, Nohra E
+,
+Principal Veterinary Epidemiologist
+Matthews, Jeffrey Wayne
+,
+Associate Professor
+McIsaac, Gregory F
+,
+Emeriti Faculty
+McSweeney, Kevin
+,
+DIR OF ARBORETUM
+Miller, Craig A
+,
+Human Dimensions Biologist
+Miller, Daniel Charles
+,
+Assistant Professor
+Miller, James Robert
+,
+Associate Professor
+Molano-Flores, Brenda
+,
+Senior Plant Ecologist
+Mulvaney, Richard L
+,
+Professor
+Olson, Kenneth R
+,
+Professor Emeritus
+Pentrak, Martin
+,
+Associate Mineralogist
+Pentrakova, Linda
+,
+ACADEMIC HRLY RSRCH
+Philipp, David P
+,
+Academic Hourly - Research
+Phillips, Christopher A
+,
+Principal Herpetologist
+Raheel, Mastura
+,
+Emeriti Faculty
+Reisner, Ann E
+,
+Associate Professor
+Riecks-Soucek, David John
+,
+Ecotoxicologist/Entomologist
+Robinson, Gene E
+,
+Professor
+Schelsky, Wendy
+,
+PRIN RES SCI, BEHAVIORAL ECOL
+Schooley, Robert Lee
+,
+Associate Professor
+Simmons, F William
+,
+Professor Emeritus
+Solter, Leellen F
+,
+Research Affiliate, Illinois Natural History Survey
+Stodola, Kirk
+,
+Associate Ornithologist
+Stucki, Joseph William
+,
+Professor Emeritus
+Sullivan, William C
+,
+Director, ROKWIRE, Illinois\' Smart, Healthy Community Initiative
+Suski, Cory David
+,
+Professor
+Taft, John B
+,
+plant ecologist, botanical coordinator
+Taylor, Christopher A
+,
+Senior Curator of Fishes &amp; Crustaceans
+Thomason, Jason F
+,
+Section Head, Hydrogeology and Geophysics
+Van Riper, Carena
+,
+Assistant Professor
+Vining, Joanne
+,
+Professor Emeritus
+Wander, Michelle M
+,
+Professor of Soil Fertility
+Ward, Michael Patrick
+,
+Associate Professor
+Warner, Richard Eugene
+,
+RESEARCH AFFILIATE, IL Natural History Survey
+Weatherhead, Patrick J
+,
+Professor Emeritus
+Yannarell, Anthony
+,
+Associate Professor, Microbial Ecology
+Zheng, Wei
+,
+PRIN RES SCI, ENVRL CHEM
+Applied Health Sciences, College of
+Interdisciplinary Health Sciences (i-Health)
+Stewart, William P
+,
+Professor
+Kinesiology and Community Health, Department of
+Alston, Reginald J
+,
+ASSOC DEAN UGRAD/GRAD ACAD AFF
+Andrade, Flavia Cristina Drumond
+,
+Associate Professor
+Armstrong, M Jocelyn
+,
+Emeriti Faculty
+Barnes, Lynette C
+Boileau, Richard A
+,
+Emeriti Faculty
+Boppart, Marni
+,
+Assistant Professor, Kinesiology and Community Health
+Buchner, David M
+Burd, Nicholas A
+,
+Assistant Professor
+Carlson, Kristin Nicole
+,
+TCH ASST PROF
+Carlton, Les G
+Chiu, Chung-Yi
+,
+Associate Professor
+Cosat, Christopher A
+,
+ACADEMIC ADVISOR
+Farner, Susan M
+Gobin, Robyn Latrice
+,
+Assistant Professor
+Graber, Kim C
+,
+Professor and Interim Department Head
+Hanley-Maxwell, Cheryl D
+,
+Dean
+Hernandez, Manuel Enrique
+,
+Assistant Professor
+Jan, Yih-Kuen
+,
+Associate Professor, Kinesiology and Community Health
+Kaplan, Justine
+,
+Clinical Assistant Professor
+Kersh, Renique
+Khan, Naiman A
+,
+Assistant Professor
+Klonoff-Cohen, Hillary
+,
+Professor
+Lara-Cinisomo, Sandraluz
+,
+Assistant Professor
+Littlefield, Melissa Monique
+,
+Associate professor, English
+Lopez-Ortiz, Citlali
+,
+Assistant Professor
+McAuley, Edward
+,
+Professor Emeritus
+Meinert, Cassandra J
+,
+ACADEMIC ADVISOR
+Misner, James E
+,
+Emeriti Faculty
+Mullen, Sean P
+,
+Associate Professor
+O\'Neill, Amy
+,
+Academic Advisor
+O\'Rourke, Thomas W
+,
+Emeriti Faculty
+Petruzzello, Steven J
+,
+Professor
+Rice, Ian Matthew
+Rice, Laura A
+,
+Assistant Professor
+Rinaldi-Miles, Anna Irene
+Rogers, Wendy
+,
+Professor
+Rosenblatt, Karin Ann
+Schwingel, Andiara
+,
+Associate Professor
+Scott, Brittany M
+,
+ASST ATHLETIC TRAINER
+Sosnoff, Jacob J
+,
+Professor
+Strauser, David Ross
+,
+Professor
+Sydnor, Synthia
+,
+Associate Professor
+Trask, Jeffrey Tyson
+Wilund, Kenneth
+,
+Professor
+Woods, Amelia Mays
+,
+Professor
+Woods, Jeffrey A
+,
+ASSOC DEAN RESEARCH/CHAD DIR
+Zhu, Weimo
+,
+Professor
+Recreation, Sport and Tourism, Department of
+Berdychevsky Kustanovich, Yelyzaveta
+,
+Associate Professor
+Browning, Matthew
+Hardin, Donald R
+,
+Adjunct Instructor
+Huang, Zhuowei
+,
+Assistant Professor
+Liechty, Toni
+,
+Associate Professor
+McCann, Kenneth
+McKinney, William R
+,
+Emeriti Faculty
+Miller, Craig A
+,
+Human Dimensions Biologist
+Morris, Lynn Barnett
+,
+Associate Professor
+Payne, Laura
+,
+ASSOC PROF, Cooperative Extension
+Pyrz, Patty Sue
+,
+ACADEMIC ADVISOR
+Raycraft, Michael
+,
+Clinical Associate Professor
+Santos, Carla A
+,
+Professor
+Shinew, Kimberly J
+,
+Professor
+Stewart, William P
+,
+Professor
+Stodolska, Monika
+,
+Professor
+Tiger, Timothy Rush
+,
+STUDENT SERVICES ADVISOR
+Wachter, Cynthia J
+,
+Senior Lecturer
+Welty-Peachey, Jon
+,
+Associate Professor
+Wicks, Bruce E
+,
+ASSOC PROF, Cooperative Extension
+Speech and Hearing Science, Department of
+Ambrose, Nicoline G
+Aronoff, Justin Evan
+,
+Associate Professor
+Chambers, Ronny D
+,
+Associate Professor
+Channell, Marie Moore
+,
+Assistant Professor
+Davies Brenier, Laura
+,
+Lecturer
+Dramin Weiss, Susan Minnye
+,
+ASL INSTRUCTOR
+Franz, Abby L
+Gallagher, Tanya Montaleone
+,
+Timothy J. Nugent Professor in Rehabilitation Research
+Hadley, Pamela Ann
+,
+Professor
+Hahn, Laura Jean Wright
+,
+Assistant Professor
+Hengst, Julie A
+,
+Associate Professor
+Husain, Fatima T
+,
+Associate Professor
+Kirk, Karen
+,
+Professor
+Kuehn, David P
+,
+Professor Emeritus
+Lansing, Charissa
+Mendes, Clarion C
+,
+DIR CLINICAL ED
+Mertes, Ian Benjamin
+,
+Assistant Professor
+Mudar, Raksha
+,
+Associate Professor
+Olson, Jaime L
+Parsons, Cynthia Johnson
+,
+Associate Professor
+Perlman, Adrienne Lynn
+Proctor, Frances Adele
+Rispoli, Matthew
+,
+Associate Professor
+Ritten, Kathi
+,
+ACAD Advisor
+Wachtel, Jayne M
+Yairi, Ehud
+,
+Emeriti Faculty
+Business, Gies College of
+Accountancy, Department of
+Abdel-Khalik, Ahmed Rashad
+,
+Professor of Accountancy
+Augusto Sampaio Franco de Lima, Gerlando
+,
+TCH ASST PROF
+Beck, Paul J
+,
+Professor of Accountancy
+Brown, Clifton E
+,
+Emeriti Faculty
+Brown, Timothy J
+,
+Assistant Professor
+Chandler, John S
+,
+Associate Professor Emeritus
+Chen, Xiaoling
+,
+Professor
+Curtis, Susan Mertzlufft
+,
+Lecturer
+Davis, Jon S
+,
+Professor of Accountancy
+Donohoe, Michael P
+,
+Associate Professor
+Elliott, W Brooke
+,
+Professor
+Fanning, Kirsten Beth
+,
+Assistant Professor
+Hobson, Jessen
+,
+Associate Professor
+Holder, Daniel Eugene
+,
+Lecturer
+Ibrahim, Adel Nematallah Naguib
+,
+Lecturer
+Jackson, Kevin
+,
+Associate Professor
+Lawler, Michael Robert
+Li, Yue
+,
+Associate Professor
+Nekrasz, Frank
+,
+Clinical Assistant Professor
+Neumann, Frederick L
+,
+Emeriti Faculty
+Peecher, Mark Everett
+,
+Deloitte Professor of Accountancy
+Schwartz, Rachel
+,
+Senior Lecturer
+Shapland, Julia Phillips
+,
+Senior Lecturer
+Silhan, Peter A
+,
+Associate Professor
+Solomon, Ira
+,
+Emeriti Faculty
+Sougiannis, Theodore
+,
+Professor of Accountancy
+Sternburg, Thomas
+,
+TCH ASST PROF
+Thomas, Susan Mary
+,
+Director of Administration
+Thompson, Anne Margaret
+,
+Associate Professor
+Venugopalan, Raghunathan
+Willis, Eugene
+,
+Emeriti Faculty
+Wright, William F
+Wu, Martin G
+,
+Associate Professor
+Wyatt, Arthur R
+,
+Emeriti Faculty
+Zhang, Li
+,
+Visiting Assistant Professor
+Ziegler, Richard E
+,
+Associate Professor Emeritus
+Business Administration, Department of
+Albarracin, Dolores
+,
+Professor
+Anand, Gopesh Jankinath
+,
+Associate Professor
+Bednar, Michael Kay
+,
+Associate Professor
+Bucheli, Marcelo
+,
+Associate Professor
+Chattopadhyay, Shinjinee
+,
+Assistant Professor
+Clougherty, Joseph A
+,
+Associate Professor
+Esfahani, Hadi S
+,
+Professor
+Fang, Er
+,
+Professor
+Fricke, Michael Ryan
+,
+ADJ TCH ASSOC PROF
+Ghosh, Avijit
+,
+Vice President, Chief Financial Officer &amp; Comptroller
+Gill, Shahbaz
+,
+Clinical Assistant Professor
+Girndt-Clougherty, Tina
+Goncalo, Jack
+,
+Professor
+Han, Wencui
+,
+Assistant Professor
+Hartman, Kevin Earl
+,
+ADJ INSTRUCTOR, Business Online Programs
+Jayes, Janice Lee
+,
+ACADEMIC HOURLY - OLLI
+Khessina, Olga
+,
+Associate Professor
+Kim, June-Young
+,
+Clinical Assistant Professor
+Kindt, John W
+,
+Emeriti Faculty
+Koo, Minkyung
+,
+Assistant Professor
+Kraatz, Matthew S
+,
+Professor
+Kurtz, Jeffrey M
+,
+Instructor
+Kwan, Mei-Po
+Kwon, Hyok-Jon Dharma
+,
+Associate Professor of Business Administration
+Lansing, Paul
+Larson, Eric
+,
+TCH ASSOC PROF
+Lim, Michael Kim
+Liu, Yunchuan
+,
+Associate Professor
+Loewenstein, Jeffrey
+,
+Professor
+Love, E Geoffrey
+,
+Associate Professor
+Loyd, Denise Lewin
+,
+Associate Professor
+Mahoney, Joseph T
+,
+Professor of Business Administration
+Martinez, Candace Agrella
+,
+Clinical Associate Professor
+Mehta, Ravi Prakash
+,
+Associate Professor
+Michael, Steven C
+,
+Professor
+Monroe, Kent Bourdon
+,
+Professor Emeritus
+Mukherjee, Ujjal Kumar
+,
+Assistant Professor
+Nelson, Matthew L
+,
+Adjunct Assistant Professor
+Noel, Hayden Neville
+,
+Clinical Associate Professor
+Northcraft, Gregory B
+,
+Associate Dean of Faculty, College of Business
+Otnes, Cornelia C
+,
+Professor of Business Administration
+Palekar, Udatta S
+Qualls, William J
+Raquel, Steve A
+,
+INSTRUCTOR, Advertising
+Rindfleisch, Aric P
+,
+Professor
+Sachdev, Vishal
+,
+Director- Illinois MakerLab
+Schijven, Mario Petrus Gerardus
+,
+Assistant Professor
+Scott, Nehemiah
+,
+TCH ASST PROF
+Shah, Sonali K
+,
+Associate Professor
+Shavitt, Sharon
+,
+Professor of Business Administration and Psychology
+Shaw, Michael Jeng-Ping
+,
+Professor of Business Administration
+Somaya, Deepak
+,
+Professor
+Subramanyam, Ramanath
+,
+Associate Professor
+Taghaboni-Dutta, Fataneh
+,
+Clinical Professor
+Torelli, Carlos Javier
+,
+Professor
+Viswanathan, Madhubalan
+,
+Research Professor
+White, Tiffany
+,
+Associate Professor
+Wolters, Mark Edward
+,
+TCH ASSOC PROF
+Wright, Margaret
+,
+Clinical Assistant Professor
+Yao, Kun
+,
+Assistant Professor
+Ye, Han
+,
+Assistant Professor
+Education, College of
+Curriculum and Instruction, Department of
+Baroody, Arthur J
+,
+Professor Emeritus
+Boettcher, Erika L
+,
+CLIN INSTR
+Brandenburg, Deborah Lee
+,
+Adjunct Clinical Instructor
+Bresler, Liora
+,
+Professor Emerita
+Clift, Renee T
+,
+Emeriti Faculty
+Davidson, Frederick G
+Dean, Sheila Rae
+,
+Senior Lecturer
+Dressman, Mark Allen
+,
+Professor Emeritus
+Garcia, Georgia E
+Gonzalez Rivera, Gloriana
+,
+Associate Professor
+Gschwend, Karen L
+,
+CLIN INSTR
+Gutierrez, Rochelle
+,
+Professor
+Hanke, Richard E
+,
+Adjunct Lecturer
+Hari, Jan
+Harris, Violet J
+,
+Professor Emerita
+Hixson, Jennifer Quednau
+,
+Adjunct Lecturer
+Hood, Stafford
+,
+Professor
+Hug, Barbara
+,
+TEACHING ASSOC PROF
+Jurgens, Patricia M
+,
+Adjunct Lecturer
+Kalantzis, Mary
+,
+Professor
+Katz, Lilian G
+,
+PROF EMERITA, Curriculum and Instruction
+Lazzaretto, Amy
+,
+Adjunct Clinical Instructor
+Lewis, Alisha Lauren
+,
+DIR UPS
+MacGregor, Nancy A
+,
+Senior Lecturer
+McCarthey, Sarah Jane
+,
+Professor
+McCarthy, Cameron R
+,
+Professor
+Moller, Karla Jean
+,
+Associate Professor
+Morrisette, Sharon
+,
+Adjunct Clinical Instructor
+Osborne, Margery
+Parsons, Marilyn Anita
+,
+Professor Emerita
+Poetzel, Adam Roman
+,
+SR INSTR
+Reese, George Clifford
+,
+DIR, MSTE
+Tettegah, Sharon Y
+,
+ASSOC PROF EMERITA
+Thorstensson Davila, Liv Solveig
+,
+Assistant Professor
+Travers, Kenneth J
+,
+Professor Emeritus
+Van ES, Bette P
+,
+Adjunct Clinical Instructor
+Vriner, Lucinda Benson
+Westbury, Ian D
+,
+Professor Emeritus
+Willis, Arlette I
+,
+Professor
+Wurtzel, Lynn
+,
+Adjunct Clinical Instructor
+Education Policy, Organization and Leadership
+Alexander, Samuel Kern
+,
+Professor
+Anderson, James D
+,
+Dean
+Barnett, Bernice McNair
+,
+Associate Professor
+Bragg, Debra
+,
+Professor Emeritus
+Brown, Ruth Nicole
+,
+ASSOC PROF, Educ Policy, Orgzn &amp; Leadrshp
+Burbules, Nicholas C
+,
+Professor
+Cope, William
+,
+Professor
+Darder, Antonia
+Delaney, Jennifer A
+,
+Associate Professor
+Dhillon, Pradeep A
+,
+Associate Professor
+Dixson, Adrienne Denise
+,
+Professor
+Dyer-Barr, Raina Marshel
+,
+VST ASST DIR CONSLT &amp; PUB ENGA
+Dyson, Anne Haas
+,
+Professor
+Feinberg, Walter
+,
+Professor Emeritus
+Fink, Lisa S
+,
+Adjunct Instructor
+Flesher, Jeffrey
+,
+Adjunct Assistant Professor
+Ginsburg, Rebecca
+,
+Associate Professor
+Hackmann, Donald
+Herman, Richard H
+Herrera, Linda
+,
+Professor
+Herrmann, Mary Beth
+,
+Clinical Associate Professor
+Hood, Denice Ward
+,
+TEACHING ASSOC PROF
+Huang, Wen-Hao
+,
+Associate Professor
+Hunter, Richard C
+,
+Professor Emeritus
+Ikenberry, Stanley O
+,
+Professor Emeritus
+Jacobs, Ronald Lynn
+,
+Professor
+Kuchinke, K Peter
+,
+Professor
+Lamers, Nicole Alane
+,
+DIR STDY ABROAD PRGM
+Lauk, Raymond Anthony
+,
+Adjunct Instructor
+Lesht, Faye L
+,
+Adjunct Instructor
+Li, Jie
+,
+Associate Professor
+Loui, Michael C
+,
+PROF EMERITUS, ITI
+Makela, Julia Panke
+,
+Associate Director
+McCarthy, Cameron R
+,
+Professor
+Pak, Yoon Kyung
+,
+Professor
+Peters, Michael Adrian
+,
+Professor Emeritus
+Price, Raymond Lewis
+,
+Professor
+Rivers, Ishwanzya
+,
+Adjunct Instructor
+Rizvi, Fazal
+,
+Professor Emeritus
+Smart, Jill B
+Span, Christopher
+,
+Professor
+Taylor, Laura Jill
+,
+Adjunct Instructor
+Thurston, Paul W
+,
+Emeriti Faculty
+Treat, Tod E
+,
+Adjunct Instructor
+Welton, Anjale Devawn
+,
+Associate Professor
+Wentling, Rose Mary
+,
+Professor Emerita
+Yonke, Linda L
+Educational Psychology, Department of
+Anderson, Carolyn Jane
+,
+Professor
+Anderson, Richard C
+,
+Professor Emeritus
+Anderson, Thomas H
+,
+Emeriti Faculty
+Andresen, Graciela Vazquez
+,
+Adjunct Assistant Professor
+Beitel, Ashley Howard
+,
+Clinical Assistant Professor
+Benson, Theresa Marie
+,
+ASSOC DIR TRNG
+Blodgett, Mark L
+,
+CLIN INSTR
+Bowles, Melissa A
+,
+Associate Professor
+Bullock, Cheryl Davis
+,
+Adjunct Associate Professor
+Chang, Hua-hua
+,
+Professor Emeritus
+Christianson, Kiel
+,
+Professor
+Collins, Kimberly D
+,
+Clinical Psychologist
+Crook, Tressa Helen
+,
+Adjunct Clinical Associate Professor
+Cziko, Gary A
+Davidson, Frederick G
+Davis, Lori E
+,
+Academic Affairs Coordinator
+Diaz, Lisa Bouillion
+,
+ASST DEAN, 4-H YOUTH DEV
+Douglas, Jeffrey A
+,
+Professor
+Greene, Jennifer Caroline
+,
+Professor Emerita
+Griffin-Pierson, Sharon S
+,
+CLIN PSYCH
+Hannum, James W
+,
+CLIN PROF EMERITUS
+Hays, Kimberly A
+Hood, Stafford
+,
+Professor
+Huang, Wen-Hao
+,
+Associate Professor
+Hubert, Lawrence J
+Hund-Wantland, Anita Rose
+,
+Adjunct Clinical Assistant Professor
+Kinderman, Lisa
+,
+CLINICAL ASST PROF
+Landrum-Brown, Joycelyn
+,
+Program Coordinator
+Larson, Reed W
+,
+Professor Emeritus, Family Ecology
+Loeb, Jane W
+,
+Emeriti Faculty
+McCowan, Carla J
+,
+Director
+Morrow, Daniel G
+,
+Professor
+Nettles, Saundra Rice Murray
+,
+ADJ TEACHING PROF
+Neville, Helen A
+,
+Professor
+Oswald, Ramona Faith
+,
+Professor of Family Studies, Department of Human and Community Development
+Packard, Jerome L
+,
+Professor
+Perry, Michelle
+,
+Professor
+Rounds, James
+,
+Professor
+Ryan, Katherine E
+Schwandt, Thomas A
+,
+Professor Emeritus
+Stake, Robert E
+,
+Professor Emeritus
+Stine-Morrow, Elizabeth A L
+,
+Professor
+Tettegah, Sharon Y
+,
+ASSOC PROF EMERITA
+Vigdor, Linda
+,
+Adjunct Assistant Professor
+Weathersby, Deidre Ann
+,
+Clinical Counselor
+West, Charles K
+White, Keith Bryan
+,
+CLIN ASST PROF, CI MED
+Zhang, Jinming
+,
+Professor
+Special Education, Department of
+Andrews, Laurie Grams
+,
+CLIN INSTR
+Bentz, Johnell L
+,
+TEACHING ASSOC PROF
+Carey, Yvonne A
+,
+Project Coordinator
+Chadsey, Janis
+,
+Professor Emerita
+Dymond, Stacy K
+,
+Professor
+Fowler, Susan A
+,
+Professor Emerita
+Gaffney, Janet S
+,
+Professor Emerita
+Halle, James W
+,
+Professor Emeritus
+Henderson, Robert A
+,
+Professor Emeritus
+Hughes, Mary-Alayne
+,
+CLIN PROF EMERITA
+Israel, Maya
+Katz, Lilian G
+,
+PROF EMERITA, Curriculum and Instruction
+Light Shriner, Cheryl L
+,
+TCH ASST PROF
+Lopez, Leonard A
+,
+Emeriti Faculty
+McCollum, Jeanette A
+,
+Professor Emerita
+Meadan-Kaplansky, Hedda
+,
+Professor
+Monda-Amaya, Lisa Ellen
+,
+Professor
+Ostrosky, Michaelene
+,
+Professor
+Renzaglia, Adelle M
+,
+Professor Emerita
+Santos Gilbertz, Rosa Milagros
+,
+ASSOC PROV FOR FAC AFFAIRS
+Shriner, James G
+,
+Associate Professor
+Strauser, David Ross
+,
+Professor
+Talbott, Susan J
+,
+CLIN INSTRUCTOR
+Trach, John S
+Wheeler, Rachel E
+,
+ADJ CLINICAL INSTRUCTOR
+Yates, Tweety Jan
+,
+Adjunct Lecturer
+Engineering, Grainger College of
+Aerospace Engineering, Department of
+Allison, James
+,
+Associate Professor
+Ansell, Phillip J
+,
+Assistant Professor
+Bentsman, Joseph
+,
+Professor
+Bergman, Lawrence A
+,
+Research Professor
+Bodony, Daniel J
+,
+Associate Professor
+Bragg, Michael B
+,
+Professor Emeritus
+Bretl, Timothy Wolfe
+,
+Associate Professor
+Buckmaster, John D
+,
+Emeriti Faculty
+Burton, Rodney L
+,
+Professor Emeritus
+Caccamo, Marco
+,
+PROF, CSL, Coordinated Science Lab
+Chamorro Chavez, Leonardo Patricio
+,
+Associate Professor
+Chasiotis, Ioannis
+,
+Professor
+Chew, Huck Beng
+,
+Associate Professor
+Chilan, Christian Miguel
+,
+Research Assistant Professor
+Chowdhary, Girish
+,
+Assistant Professor
+Conway, Bruce A
+,
+Research Professor
+Dutton, J Craig
+,
+Professor
+Elliott, Gregory S
+,
+Professor
+Freund, Jonathan
+,
+Professor
+Gao, Grace Xingxin
+,
+Adjunct Assistant Professor
+Geubelle, Philippe H
+,
+EXEC ASSOC DEAN, Engineering Administration
+Ghosh, Alexander Robin Mercantini
+Goza, Andres Jared
+,
+Assistant Professor
+Hilton, Harry H
+,
+PROF EMERITUS, Aerospace Engineering
+Ho, Koki
+,
+Adjunct Assistant Professor
+Hovakimyan, Naira
+,
+Professor
+James, Kai
+,
+Assistant Professor
+Jasiuk, Iwona M
+,
+Professor
+Lambros, John
+,
+Professor
+Langbort, Cedric
+,
+Associate Professor
+Laystrom-Woodard, Julia Katherine
+,
+Adjunct Lecturer
+Le Chenadec, Vincent
+,
+Adjunct Assistant Professor
+Lee, Ki D
+,
+Research Professor
+Lee, Tonghun
+,
+Professor
+Lembeck, Michael F
+,
+Visiting Associate Professor
+Levin Fliflet, Deborah
+,
+Professor
+Loth, Eric
+,
+Adjunct Professor
+Masud, Arif
+,
+Professor
+McFarland, Donald Michael
+,
+ADJ RES PROF, Civil &amp; Environmental Eng
+Merret, Jason M
+,
+Clinical Associate Professor
+Miley, George H
+,
+RES PROF, Aerospace Engineering
+Namachchivaya, N Sri
+,
+Research Professor
+Ornik, Melkior
+,
+Assistant Professor
+Panerai, Francesco
+,
+Assistant Professor
+Panesi, Marco
+,
+Associate Professor
+Phillips, James W
+,
+Professor Emeritus
+Prussing, John E
+,
+Professor Emeritus
+Putnam, Zachary R
+,
+Assistant Professor
+Rovey, Joshua Lucas
+,
+Associate Professor
+Safdari, Masoud
+,
+Adjunct Research Assistant Professor
+Salapaka, Srinivasa M
+,
+Professor
+Saxton-Fox, Theresa Ann
+,
+Assistant Professor
+Sayadi, Taraneh
+,
+Adjunct Research Assistant Professor
+Selig, Michael S
+,
+Professor Emeritus
+Solomon, Wayne C
+,
+Professor Emeritus
+Sottos, Nancy R
+,
+Professor
+Stephani, Kelly
+,
+Assistant Professor
+Tran, Huy Trong
+,
+Research Assistant Professor
+Vakakis, Alexander F
+,
+Professor
+Villafane Roca, Laura
+,
+Assistant Professor
+Voulgaris, Petros G
+,
+PROF, ITI, Information Trust Institute
+Vu, Loc Quoc
+,
+Adjunct Research Professor
+Wissa, Aimy
+,
+Assistant Professor
+Woodard, Brian S
+,
+Teaching Associate
+Bioengineering, Department of
+Aluru, Narayana R
+,
+Professor
+Amos, Jennifer
+,
+TCH ASSOC PROF
+Anastasio, Thomas J
+,
+Associate Professor Emeritus
+Bashir, Rashid
+,
+Dean
+Bhargava, Rohit
+,
+Professor
+Boppart, Stephen Allen
+,
+Professor, Bioengineering
+Bresler, Yoram
+,
+Professor
+Cheng, Jianjun
+,
+Professor
+Cunningham, Brian T
+,
+Professor
+Das, Aditi
+,
+Assistant Professor, Comparative Biosciences
+Do, Minh N
+,
+Professor
+Dobrucki, Wawrzyniec
+,
+Associate Professor
+Georgiadis, John G
+Gillette, Martha L
+,
+Professor
+Granick, Steve
+,
+Adjunct Professor
+Harley, Brendan A
+,
+Professor
+Hsia, K Jimmy
+,
+Adjunct Professor
+Hsiao-Wecksler, Elizabeth T
+,
+Professor
+Imoukhuede, Princess U II
+,
+Adjunct Associate Professor
+Insana, Michael
+,
+Professor
+Jasiuk, Iwona M
+,
+Professor
+Jin, Yong-Su
+,
+Assistant Professor
+Jongeneel, Cornelis Victor
+Kenis, Paul J A
+,
+Professor
+Kim, Kyekyoon
+,
+Professor
+Kong, Hyun Joon
+,
+Professor
+Kong, Wentao
+,
+Research Scientist
+Leckband, Deborah E
+,
+PROF, Chemistry
+Liang, Zhi-Pei
+,
+Professor
+Lu, Ting
+,
+Associate Professor
+Lu, Yi
+,
+Professor
+Nelson, Mark E
+,
+Professor Emeritus
+Oelze, Michael L
+,
+Professor
+Popescu, Gabriel
+,
+Professor
+Rogers, John A
+,
+ADJ PROF, Electrical &amp; Computer Eng
+Schook, Lawrence B
+,
+Gutgsell Professor of Animal Sciences
+Smith, Andrew M
+,
+Associate Professor
+Sutton, Brad
+,
+Professor
+Sweedler, Jonathan V
+,
+Professor
+Toussaint, Kimani C
+,
+Adjunct Professor
+Underhill, Gregory H
+,
+Associate Professor
+Wagoner Johnson, Amy Jaye
+,
+Professor
+Wang, Michelle Yongmei
+,
+Associate Professor
+Wang, Ning
+,
+Professor
+Wheeler, Bruce C
+Wheeler, Matthew B
+,
+Professor, Animal Sciences, Bioengineering
+Zhang, Yuanhui
+,
+Professor
+Zhao, Huimin
+,
+Professor
+Civil and Environmental Engineering, Department of
+Al-Qadi, Imad L
+,
+Professor
+Andrawes, Bassem O
+,
+Professor
+Barkan, Christopher Paul Lyman
+,
+Professor
+Baser, Tugce
+,
+Assistant Professor
+Benekohal, Rahim F
+,
+Professor
+Bond, Tami C
+,
+Adjunct Professor
+Cai, Ximing
+,
+Professor
+Cha, Eun Jeong
+,
+Assistant Professor
+Cusick, Roland
+,
+Assistant Professor
+Duarte, Carlos Armando
+,
+Professor
+Elbanna, Ahmed
+,
+Assistant Professor
+El-Gohary, Nora
+,
+Associate Professor
+El-Rayes, Khaled A
+,
+Professor
+Espinosa Marzal, Rosa Maria
+,
+Associate Professor
+Fahnestock, Larry Alan
+,
+Professor
+Garcia, Marcelo Horacio
+,
+Professor
+Gardoni, Paolo
+,
+Professor
+Garg, Nishant
+,
+Assistant Professor
+Golparvar Fard, Mani
+,
+Associate Professor
+Guest, Jeremy S
+,
+Associate Professor
+Hajj, Ramez Muhammad
+,
+Assistant Professor
+Hashash, Youssef M A
+,
+Professor
+Horowitz, Hannah Marie
+,
+Assistant Professor
+Konar, Megan
+,
+Assistant Professor
+Kontou, Eleftheria
+,
+Assistant Professor
+Kumar, Praveen
+,
+Professor
+LaFave, James Michael
+,
+Professor
+Lange, David A
+,
+Professor
+Larson, Susan M
+,
+ASST DEAN, Engineering Administration
+Lehe, Lewis James
+,
+Assistant Professor
+Liu, Liang Y
+,
+ADJ ASSOC PROF, Industrial&amp;Enterprise Sys Eng
+Liu, Wen-Tso
+,
+Professor
+Lombardo, Franklin T
+,
+Assistant Professor
+Lopez-Pamies, Oscar
+,
+Associate Professor
+Makhnenko, Roman
+,
+Assistant Professor
+Marinas, Benito Jose
+,
+Professor
+Masud, Arif
+,
+Professor
+Meidani, Hadi
+,
+Assistant Professor
+Men, Yujie
+,
+Adjunct Assistant Professor
+Mesri, Gholamreza
+,
+Professor
+Nguyen, Thanh Huong
+,
+Professor
+Olson, Scott Michael
+,
+Professor
+Ouyang, Yanfeng
+,
+Professor
+Parker, Gary
+,
+Professor
+Popovics, John S
+,
+Professor
+Roesler, Jeffery Raphael
+,
+Professor
+Rood, Mark J
+,
+Professor Emeritus
+Schmidt, Arthur R
+,
+Research Assistant Professor
+Sivapalan, Murugesu
+,
+Professor
+Spencer, B F
+,
+Professor
+Stark, Timothy D
+,
+Professor
+Stillwell, Ashlynn Suzanne
+,
+Associate Professor
+Sychterz, Ann Christine
+,
+Assistant Professor
+Talebpour, Alireza
+,
+Assistant Professor
+Tessum, Christopher M
+,
+Assistant Professor
+Tinoco Lopez, Rafael Omar
+,
+Assistant Professor
+Tom, Joe Gain
+,
+Assistant Professor
+Tutumluer, Erol
+,
+Professor
+Valocchi, Albert J
+,
+Professor
+Verma, Vishal
+,
+Assistant Professor
+Yan, Jinhui
+,
+Assistant Professor
+Zhang, Shelly
+,
+Assistant Professor
+Zhao, Lei
+,
+Assistant Professor
+Computer Science, Department of
+Abdelzaher, Tarek
+,
+Professor
+Adve, Sarita V
+,
+Professor
+Adve, Vikram Sadanand
+,
+Professor
+Agha, Gul A
+Amir, Eyal
+,
+ADJ RES ASSOC PROF
+Angrave, Lawrence
+,
+TCH PROF
+Bailey, Brian P
+,
+Professor
+Baker, Gordon J
+,
+Emeriti Faculty
+Barr, Lloyd
+,
+Emeriti Faculty
+Borisov, Nikita
+,
+Professor
+Bretl, Timothy Wolfe
+,
+Associate Professor
+Caccamo, Marco
+,
+PROF, CSL, Coordinated Science Lab
+Caesar, Matthew Chapman
+,
+Associate Professor
+Campbell, R H
+,
+ABBASI PROF EMERITUS
+Cappello, Franck
+,
+CENTER AFFILIATE
+Chang, Kevin Chen-Chuan
+,
+Professor
+Chekuri, Chandra Sekhar
+,
+Professor
+Chen, Deming
+,
+Professor
+Chew, Weng Cho
+,
+Professor Emeritus
+Cole, Jennifer S
+DeJong, Gerald F
+,
+Professor Emeritus
+Dig, Daniel
+,
+Adjunct Assistant Professor
+Erickson, Jeff G
+,
+Professor
+Fleck, Margaret M
+,
+Research Associate Professor
+Forsyth, David Alexander
+,
+Professor
+Friedman, H George
+Garzaran, Maria Jesus
+,
+ADJ RES ASSOC PROF
+Gear, Charles
+,
+Professor Emeritus
+Girju, Corina R
+,
+Professor
+Godfrey, Philip B
+,
+Associate Professor
+Gropp, William D
+,
+Professor
+Gunter, Carl
+,
+Professor
+Gunter, Elsa
+,
+Senior Lecturer
+Gupta, Indranil
+,
+Professor
+Han, Jiawei
+,
+Professor
+Harandi, Mehdi T
+,
+Associate Professor Emeritus
+Har-Peled, Sariel
+,
+Professor
+Hart, John C
+,
+Professor
+Hasegawa-Johnson, Mark Allan
+,
+Professor
+Heath, Michael T
+,
+FULTON WATSON COPP CHAIR EMER
+Heeren, Cinda
+,
+ADJ TEACHING PROF
+Hirani, Anil Nirmal
+,
+Associate Professor
+Hockenmaier, Julia Constanze
+,
+Associate Professor
+Hoiem, Derek W
+,
+Associate Professor
+Hu, Yih-Chun
+,
+Associate Professor
+Huang, Thomas S
+Hutchinson, Seth Andrew
+Hwu, Wen-Mei W
+,
+Professor
+Iyer, Ravishankar K
+,
+Professor
+Jacobson, Sheldon Howard
+,
+Professor
+Kale, Laxmikant V
+,
+SAYLOR PROF EMERITUS
+Kamin, Samuel N
+,
+Professor Emeritus
+Karahalios, Kyratso George
+,
+Professor
+Kirlik, Alex
+,
+Professor
+Kiyavash, Negar
+Kolla, Alexandra
+,
+Adjunct Associate Professor
+Kravets, Robin Hillary
+,
+Professor
+Lavalle, Steven M
+,
+PROF, ITI, Information Trust Institute
+Lawrie, Duncan H
+,
+Professor Emeritus
+Lazebnik, Svetlana
+,
+Associate Professor
+Lumetta, Steven Sam
+,
+Associate Professor
+Marinov, Darko
+,
+Professor
+McHenry, Kenton Guadron
+,
+Associate Director
+Mechitov, Kirill Alexandrovich
+Meseguer, Jose
+,
+Professor
+Mickunas, M Dennis
+,
+Associate Professor Emeritus
+Nahrstedt, Klara
+,
+Professor
+Nicol, David Malcolm
+,
+Professor
+Olson, Luke
+,
+Professor
+Padua, David A
+,
+Professor
+Parthasarathy, Madhusudan
+,
+Professor
+Pitt, Leonard B
+,
+Professor Emeritus
+Polychronopoulos, Constantine
+Prabhakaran, Manoj M
+,
+Adjunct Professor
+Reingold, Edward M
+,
+Professor Emeritus
+Rosu, Grigore
+,
+Professor
+Roth, Dan
+,
+Adjunct Professor
+Rutenbar, Robin A
+,
+ADJ PROF, Electrical &amp; Computer Eng
+Sanders, William H
+Saylor, Paul E
+Schatz, Bruce R
+,
+PROF UNIV LIBRARY
+Schran, Peter
+,
+Emeriti Faculty
+Sha, Lui Raymond
+,
+Professor
+Shaffer, Eric Gene
+,
+TCH ASST PROF
+Sinha, Saurabh
+,
+Professor
+Skeel, Robert D
+,
+Professor Emeritus
+Smaragdis, Paris
+,
+Associate Professor
+Taylor, Gale D
+,
+Emeriti Faculty
+Thakkar, Umesh
+,
+Senior Research Scientist
+Torrellas, Josep
+,
+Professor
+Twidale, Michael Bernard
+,
+Professor
+Vaidya, Nitin H
+,
+Adjunct Professor
+Vasudevan, Shobha
+,
+Associate Professor
+Violas, Paul C
+,
+Emeriti Faculty
+Viswanathan, Mahesh
+,
+Professor
+Winslett, Marianne S
+,
+PROF EMERITA, Computer Science
+Wong, Martin D F
+,
+JORDAN PROF, Electrical &amp; Computer Eng
+Woodley, Michael Joseph
+,
+Clinical Assistant Professor
+Zhai, Chengxiang
+,
+Professor
+Zilles, Craig
+,
+Associate Professor
+Electrical and Computer Engineering, Department of
+Al-Hassanieh, Haitham
+,
+Assistant Professor
+Allen, Jont
+,
+Professor
+Alvarez, Juan
+,
+TEACHING ASST PROF
+Bailey, Michael Donald
+,
+Associate Professor
+Banerjee, Arijit
+,
+Assistant Professor
+Baryshnikov, Yuliy
+,
+PROF, Electrical &amp; Computer Eng
+Basar, M Tamer
+,
+Professor
+Bayram, Can
+,
+Assistant Professor
+Belabbas, Mohamed Ali
+,
+Associate Professor
+Bernhard, Jennifer Truman
+,
+Professor
+Boppart, Stephen Allen
+,
+Professor, Bioengineering
+Borisov, Nikita
+,
+Professor
+Bose, Subhonmesh
+,
+Assistant Professor
+Bresler, Yoram
+,
+Professor
+Cangellaris, Andreas C
+,
+Vice Chancellor for Academic Affairs and Provost
+Carney, Paul Scott
+,
+Adjunct Professor
+Chen, Deming
+,
+Professor
+Chen, Yuting Wu
+,
+TCH ASST PROF
+Cheng, Zuofu
+,
+TEACHING ASST PROF
+Chew, Weng Cho
+,
+Professor Emeritus
+Choi, Hyungsoo
+,
+Lecturer
+Choquette, Kent D
+,
+Professor
+Cunningham, Brian T
+,
+Professor
+Dallesasse, John Michael
+,
+Professor
+Do, Minh N
+,
+Professor
+Dokmanic, Ivan
+,
+Adjunct Associate Professor
+Dominguez-Garcia, Alejandro
+,
+Professor
+Dragic, Peter D
+,
+Assistant Professor
+Eden, James Gary
+,
+INTEL ALUM ENDW CHAIR EMERITUS
+Fliflet, Arne Woolsey
+,
+Lecturer
+Franke, Steven J
+Gao, Liang
+,
+Adjunct Assistant Professor
+Gilbert, Matthew
+,
+Associate Professor
+Goddard, Lynford L
+,
+Professor
+Gong, Songbin
+,
+Associate Professor
+Gross, George
+,
+Professor
+Gruev, Viktor
+,
+Professor
+Hajek, Bruce
+,
+Professor
+Haken, Lippold
+,
+TEACHING PROF
+Hanumolu, Pavan Kumar
+,
+Professor
+Haran, Kiruba Sivasubramaniam
+,
+Associate Professor
+Hasegawa-Johnson, Mark Allan
+,
+Professor
+He, Wei
+,
+TEACHING ASST PROF
+Hillmer, Philip M
+,
+Lecturer
+Hu, Yih-Chun
+,
+Associate Professor
+Hutchinson, Seth Andrew
+Hwu, Wen-Mei W
+,
+Professor
+Iyer, Ravishankar K
+,
+Professor
+Jin, Jianming
+,
+Professor
+Jones, Douglas L
+,
+Professor
+Kamalabadi, Farzad
+,
+Professor
+Killeen, Timothy L
+,
+PRESIDENT, President\'s Office -- University Administration
+Kim, Kyekyoon
+,
+Professor
+Kim, Nam Sung
+,
+PROF, NCSA, Supercomputing Applications
+Kiyavash, Negar
+Kudeki, Erhan
+,
+Professor
+Kumar, Rakesh
+,
+Associate Professor
+Leburton, Jean-Pierre
+,
+Professor
+Lee, Minjoo Lawrence
+,
+Associate Professor
+Levinson, Stephen E
+Li, Xiuling
+,
+Professor
+Liang, Zhi-Pei
+,
+Professor
+Liberzon, Daniel M
+,
+Professor
+Lu, Yi
+,
+Associate Professor
+Lumetta, Steven Sam
+,
+Associate Professor
+Lyding, Joseph W
+,
+Professor
+Makela, Jonathan J
+,
+Professor
+Milenkovic, Olgica
+,
+Professor
+Miller, Andrew Edmund
+,
+Assistant Professor
+Mitra, Sayan
+,
+Professor
+Moulin, Pierre
+,
+Professor
+Nicol, David Malcolm
+,
+Professor
+Ochoa-Alvarez, Idoia
+,
+AFFILIATE, IGB, Institute for Genomic Biology
+Oelze, Michael L
+,
+Professor
+Overbye, Thomas J
+Patel, Sanjay
+,
+Professor
+Pilawa Podgurski, Robert Carl Nikolai
+,
+Adjunct Associate Professor
+Popescu, Gabriel
+,
+Professor
+Radhakrishnan, Chandrasekhar
+,
+TCH ASST PROF
+Raginsky, Maxim
+,
+Associate Professor
+Ravaioli, Umberto
+,
+Professor
+Rosenbaum, Elyse
+,
+Professor
+Roy Choudhury, Romit
+,
+Professor
+Sanders, William H
+Sauer, Peter
+,
+Research Professor
+Schmitz, Christopher
+,
+TEACHING ASSOC PROF
+Schutt-Aine, Jose E
+,
+Professor
+Schwing, Alexander Gerhard
+,
+Assistant Professor
+Shanbhag, Naresh R
+,
+Professor
+Singer, Andrew Carl
+,
+Professor
+Smaragdis, Paris
+,
+Associate Professor
+Srikant, Rayadurgam
+,
+Professor
+Vaidya, Nitin H
+,
+Adjunct Professor
+Varshney, Lav R
+,
+ASST PROF, CSL, Coordinated Science Lab
+Vasudevan, Shobha
+,
+Associate Professor
+Veeravalli, Venugopal Varadachari
+,
+Professor
+Viswanath, Pramod
+,
+Professor
+Vlasov, Yurii A
+,
+Professor
+Waldrop, Lara
+,
+Assistant Professor
+Wong, Martin D F
+,
+JORDAN PROF, Electrical &amp; Computer Eng
+Zhao, Zhizhen
+,
+Assistant Professor
+Zhou, Jin
+,
+Assistant Professor
+Zhu, Wenjuan
+,
+Assistant Professor
+Industrial and Enterprise Systems Engineering, Department of
+Allison, James
+,
+Associate Professor
+Beck, Carolyn L
+,
+Professor
+Chen, Xin
+,
+Professor
+Feng, Liming
+,
+Associate Professor
+Kim, Harrison Hyung Min
+,
+Professor
+Kiyavash, Negar
+Krishnan, Girish
+,
+Assistant Professor
+Marla, Lavanya
+,
+Assistant Professor
+Nagi, Rakesh
+,
+Professor
+Oh, Sewoong
+Olshevsky, Alexander
+Price, Raymond Lewis
+,
+Professor
+Reis, Henrique M
+,
+Professor
+Sowers, Richard B
+,
+Professor
+Sreenivas, Ramavarapu S
+,
+Professor
+Stipanovic, Dusan M
+,
+Professor
+Thurston, Deborah L
+,
+Professor
+Wang, Qiong
+,
+Associate Professor
+Materials Science and Engineering, Department of
+Bellon, Pascal
+,
+Professor
+Braun, Paul V
+,
+Professor
+Cahill, David G
+,
+Professor
+Cao, Qing
+,
+Associate Professor
+Chen, Qian
+,
+Assistant Professor
+Cheng, Jianjun
+,
+Professor
+Dillon, Shen J
+,
+Associate Professor
+Evans, Christopher
+,
+Assistant Professor
+Hoffmann, Axel Friedrich
+,
+Professor
+Huang, Pinshane
+,
+Assistant Professor
+Kriven, Waltraud M
+,
+Professor
+Krogstad, Jessica Anne
+,
+Assistant Professor
+Leal, Cecilia
+,
+Associate Professor
+Maass, C. Robert E.
+,
+Assistant Professor
+Perry, Nicola Helen
+,
+Assistant Professor
+Rogers, John A
+,
+ADJ PROF, Electrical &amp; Computer Eng
+Schleife, Andre
+,
+Assistant Professor
+Schweizer, Kenneth S
+,
+Professor
+Shim, Moonsub
+,
+Professor
+Shoemaker, Daniel Philip
+,
+Assistant Professor
+Sottos, Nancy R
+,
+Professor
+Statt, Antonia
+,
+Assistant Professor
+Trinkle, Dallas
+,
+Professor
+Zhang, Yingjie
+,
+Assistant Professor
+Zuo, Jian-Min
+,
+Professor
+Mechanical Science and Engineering, Department of
+Admal, Nikhil Chandra
+,
+Assistant Professor
+Alleyne, Andrew G
+,
+Professor
+Almeida de Souza Ramos, Joao Luiz
+,
+Assistant Professor
+Aluru, Narayana R
+,
+Professor
+Bahl, Gaurav
+,
+Associate Professor
+Beaudoin, Armand Joseph
+,
+Professor Emeritus
+Bentsman, Joseph
+,
+Professor
+Brewster, M Quinn
+,
+Professor of Mechanical Engineering
+Bullard, Clark W
+,
+Professor Emeritus
+Cai, Lili
+,
+Assistant Professor
+Chamorro Chavez, Leonardo Patricio
+,
+Associate Professor
+Dankowicz, Harry
+,
+Professor
+Dullerud, Geir E
+,
+Professor
+Dunn, Alison Campbell
+,
+Assistant Professor
+Elbel, Stefan
+,
+Research Assistant Professor
+Ertekin, Elif
+,
+Associate Professor
+Ewoldt, Randy H
+,
+Associate Professor
+Feng, Jie
+,
+Assistant Professor
+Ferreira, Placid Mathew
+,
+Professor
+Fischer, Paul
+,
+Professor
+Flachsbart, Bruce R
+,
+TCH ASST PROF
+Freund, Jonathan
+,
+Professor
+Gazzola, Mattia
+,
+Assistant Professor
+Glumac, Nick G
+,
+Professor
+Haber, Robert B
+,
+Professor Emeritus
+He, Jiajun
+,
+TEACHING ASST PROF
+Hilgenfeldt, Sascha
+,
+Professor
+Hovakimyan, Naira
+,
+Professor
+Hrnjak, Predrag Stojan
+,
+Research Professor
+Hsiao-Wecksler, Elizabeth T
+,
+Professor
+Hutchens, Shelby
+,
+Assistant Professor
+Jacobi, Anthony M
+,
+Professor
+Jasiuk, Iwona M
+,
+Professor
+Johnson, Blake Everett
+,
+TEACHING ASST PROF
+Johnson, Harley T
+,
+Professor
+Juarez, Gabriel
+,
+Assistant Professor
+Kapoor, Shiv Gopal
+,
+Professor
+Kersh, Mariana Elizabeth
+,
+Assistant Professor
+Kim, Seok
+,
+Associate Professor
+King, William Paul
+,
+Professor
+Krier, Herman
+,
+PROF EMERITUS, Electrical &amp; Computer Eng
+Kurath, Peter
+,
+SR RES ENGR, Engineering Administration
+LaViers Minnick, Amy Elizabeth
+,
+Assistant Professor
+Lee, Chia-Fon
+,
+Professor
+Lee, Tonghun
+,
+Professor
+Liebenberg, Leon
+,
+TEACHING ASSOC PROF
+Matalon, Moshe
+,
+Professor
+Matlack, Kathryn
+,
+Assistant Professor
+Mehta, Prashant Girdharilal
+,
+Associate Professor
+Miljkovic, Nenad
+,
+Associate Professor
+Nam, SungWoo
+,
+Associate Professor
+Pearlstein, Arne J
+,
+Professor of Mechanical Engineering
+Philpott, Michael L
+,
+Associate Professor Emeritus
+Saif, M Taher A
+,
+Professor
+Salapaka, Srinivasa M
+,
+Professor
+Sehitoglu, Huseyin
+,
+Professor
+Shao, Chenhui
+,
+Assistant Professor
+Sinha, Sanjiv
+,
+Associate Professor
+Smith, Kyle C
+,
+Assistant Professor
+Socie, Darrell F
+,
+Professor Emeritus
+Sofronis, Petros
+,
+Professor
+Starzewski, Martin Ostoja
+,
+Professor
+Stephani, Kelly
+,
+Assistant Professor
+Stewart, Donald Scott
+,
+PROF EMERITUS, Electrical &amp; Computer Eng
+Tawfick, Sameh H
+,
+Assistant Professor
+Thomas, Brian G
+,
+CJ GAUTHIER PROF EMERITUS
+Toussaint, Kimani C
+,
+Adjunct Professor
+Tucker, Charles L
+,
+Research Professor
+Vakakis, Alexander F
+,
+Professor
+van der Zande, Arend
+,
+Assistant Professor
+Vanka, Surya Pratap
+,
+Professor Emeritus
+Wagoner Johnson, Amy Jaye
+,
+Professor
+Wang, Ning
+,
+Professor
+Wang, Xiaofei
+,
+Research Assistant Professor
+West, Matthew
+,
+Associate Professor
+Wissa, Aimy
+,
+Assistant Professor
+Nuclear, Plasma and Radiological Engineering, Department of
+Abbaszadeh, Shiva
+,
+Adjunct Assistant Professor
+Abelson, John R
+,
+Professor Emeritus
+Allain, Jean Paul
+,
+Adjunct Professor
+Allen, Jont
+,
+Professor
+Andruczyk, Daniel
+,
+Research Assistant Professor
+Aref, Michael
+,
+Adjunct Assistant Professor, Department of Nuclear, Plasma, and Radiological Engineering
+Axford, Roy A
+,
+Professor
+Binder, Jeffrey Louis
+,
+Adjunct Professor
+Boppart, Stephen Allen
+,
+Professor, Bioengineering
+Brooks, Caleb
+,
+Assistant Professor
+Curreli, Davide
+,
+Associate Professor
+Debevec, Paul T
+,
+Professor Emeritus
+Di Fulvio, Angela
+,
+Assistant Professor
+Dolan, Thomas J
+,
+Adjunct Professor
+Garada, Masab H
+,
+Adjunct Assistant Professor
+Heuser, Brent J
+,
+Professor
+Huff, Kathryn D
+,
+Assistant Professor
+Jurczyk, Brian Edward
+,
+Adjunct Research Assistant Professor
+Kaminski, Michael David
+,
+Adjunct Associate Professor
+Kim, Kyekyoon
+,
+Professor
+Kim, Kyu Jung
+Kozlowski, Tomasz
+,
+Associate Professor
+Larson, Susan M
+,
+ASST DEAN, Engineering Administration
+Marsh, Charles P
+,
+Adjunct Professor
+Meng, Ling Jian
+,
+Professor
+Miley, George H
+,
+RES PROF, Aerospace Engineering
+Miller, David W
+,
+Adjunct Assistant Professor, Internal Medicine
+Mohaghegh, Zahra
+,
+Assistant Professor
+Nelson, Richard F
+,
+Adjunct Assistant Professor
+Neumann, Martin John
+,
+Adjunct Assistant Professor
+Ragheb, Magdi
+,
+Associate Professor
+Reihani, Seyed
+,
+Research Scientist
+Roy, William R
+Ruzic, David N
+,
+Professor
+Sakurahara, Tatsuya
+,
+Research Assistant Professor
+Sankaran, Ramanathan Mohan
+,
+Adjunct Professor
+Singer, Clifford E
+,
+Professor Emeritus
+Sollima, Calogero
+,
+Visiting Scholar
+Stowell, Michael W
+,
+ADJ RES ASSOC PROF
+Stubbers, Robert
+,
+Adjunct Research Assistant Professor
+Stubbins, James F
+,
+Professor
+Sullivan, Clair Julia
+,
+Adjunct Research Assistant Professor
+Toshkov, Stoyan A
+,
+SR RES SCI, Nuclear, Plasma, &amp; Rad Engr
+Trinkle, Dallas
+,
+Professor
+Uddin, Rizwan
+,
+Professor
+Zhang, Yang
+,
+Associate Professor
+Physics, Department of
+Abbamonte, Peter
+,
+Professor
+Adshead, Peter John
+,
+Associate Professor
+Aksimentiev, Aleksei
+,
+Professor
+Beck, Douglas H
+,
+Professor
+Bezryadin, Alexey
+,
+Professor
+Bradlyn, Barry Jason
+,
+Assistant Professor
+Ceperley, David M
+,
+Professor
+Chemla, Yann Robert
+,
+Professor
+Clark, Bryan K
+,
+Assistant Professor
+Cooper, S Lance
+,
+Professor
+Dahmen, Karin A
+,
+Professor
+DeMarco, Brian Leeds
+,
+Professor
+Draper, Patrick I
+,
+Assistant Professor
+Eckstein, James N
+,
+Professor
+El-Khadra, Aida X
+,
+Professor
+Faulkner, Thomas
+,
+Assistant Professor
+Filippini, Jeffrey P
+,
+Assistant Professor
+Fradkin, Eduardo H
+,
+Professor
+Gadway, Bryce
+,
+Assistant Professor
+Gammie, Charles Forbes
+,
+PROF, Physics
+Giannetta, Russell W
+,
+Professor
+Goldenfeld, Nigel D
+,
+Professor
+Golding, Ido
+,
+Professor
+Goldschmidt, Elizabeth Anne
+,
+Assistant Professor
+Gollin, George D
+,
+Professor
+Grosse Perdekamp, Matthias
+,
+Professor
+Holder, Gilbert
+,
+Professor
+Hooberman, Benjamin
+,
+Assistant Professor
+Hughes, Taylor L
+,
+Professor
+Kahn, Yonatan Frederick
+,
+Assistant Professor
+Kim, Sangjin
+,
+Assistant Professor
+Kuehn, Seppe
+,
+Assistant Professor
+Kuo, Eric Po-Chen
+,
+Assistant Professor
+Kwiat, Paul G
+,
+Professor
+Leigh, Robert G
+,
+Professor
+Leite Noronha, Jorge Jose
+,
+Associate Professor
+Lorenz, Virginia
+,
+Associate Professor
+MacDougall, Gregory
+,
+Research Assistant Professor
+Madhavan, Vidya
+,
+Professor
+Mahmood, Fahad
+,
+Assistant Professor
+Makins, Naomi C R
+,
+Professor
+Mason, Nadya
+,
+Professor
+Mouschovias, Telemachos Ch
+,
+PROF, Physics
+Nayfeh, Munir H
+,
+Professor
+Neubauer, Mark
+,
+Professor
+Noronha-Hostler, Jacquelyn Michelle
+,
+Assistant Professor
+Peng, Jen-Chieh
+,
+Professor
+Phillips, Philip W
+,
+Professor
+Pitts, Kevin T
+,
+V PROVOST FOR UGRAD ED
+Seidel, Harry Edward
+,
+V PRES ECON DEVLP INNOV, Vice Pres Econ Dev and Innov -- University Administration
+Selen, Mats A
+,
+Professor
+Selvin, Paul R
+,
+Professor
+Shapiro, Stuart Louis
+,
+Research Professor
+Shelton, Julia F
+,
+Assistant Professor
+Sickles, Anne M
+,
+Associate Professor
+Song, Jun
+,
+Professor
+Stelzer, Timothy J
+,
+Professor
+Stone, Michael
+,
+Professor
+Van Harlingen, Dale J
+,
+Professor
+Vieira, Joaquin Daniel
+,
+ASSOC PROF, Physics
+Vishveshwara, Smitha
+,
+Professor
+Wagner, Lucas Kyle
+,
+Assistant Professor
+Willenbrock, Scott S
+,
+Professor
+Witek, Helvi
+,
+Assistant Professor
+Yunes, Nicolas
+,
+Professor
+Fine and Applied Arts, College of
+Architecture, School of
+Albrecht, Johann
+,
+Emeriti Faculty
+Ali, Mir M
+,
+Professor Emeritus, Architecture
+Aminmansour, Abbas
+,
+Associate Professor
+Anderson, James R
+,
+Associate Dean
+Andrejasich, Michael J
+,
+Associate Professor Emeritus, Architecture
+Anthony, Kathryn H
+,
+ACSA Distinguished Professor, School of Architecture
+Armstrong, Paul J
+,
+Associate Professor Emeritus
+Bartumeus Ferre, Sara
+,
+Associate Professor
+Betts, Richard J
+,
+Emeriti Faculty
+Bognar, Botond
+,
+Professor and Edgar A. Tafel Chair in Architecture
+Boubekri, Mohamed
+,
+Professor
+Chasco, David
+,
+Professor
+Deal, Brian M
+,
+Professor
+Dearborn, Lynne Marie
+,
+Associate Professor, Associate Director, School of Architecture
+Deutsch, Randall
+,
+Clinical Associate Professor
+Erickson, Kevin N
+,
+Associate Professor
+Gamble, William L
+,
+Emeriti Faculty
+Garner, John S
+,
+Emeriti Faculty
+Geil, Wilma Jean
+,
+Emeriti Faculty
+Ginsburg, Rebecca
+,
+Associate Professor
+Haken, Wolfgang
+,
+Emeriti Faculty
+Hall, Gaines B
+,
+Associate Dean, College of Fine and Applied Arts
+Hammann, Ralph Eugen
+,
+Associate Professor
+Hemingway, Erik
+,
+Associate Professor
+Hinders, Kevin J
+,
+Associate Professor
+Irish, Sharon Lee
+,
+Project Coordinator
+Kansler, Jeffrey Charles
+,
+Lecturer
+Kapp, Paul Hardin
+,
+Associate Professor
+Kim, Michael Kyong-il
+,
+Professor
+Kruty, Paul S
+,
+Emeriti Faculty
+Kuznetsov, Helen
+,
+Emeriti Faculty
+Lapunzina, Alejandro
+,
+Professor
+Lerum, Vidar
+,
+Associate Professor
+Malnar, Joy Monice
+McCulley, Michael T
+Murray, Scott Charles
+,
+Associate Professor, Architecture
+Palumbo, Paul A
+,
+Emeriti Faculty
+Plummer, Henry S
+,
+Emeriti Faculty
+Poss, Jeffery S
+Ruggles, D Fairchild
+,
+Professor, Department of Landscape Architecture
+Schmitt, Ronald E
+,
+Emeriti Faculty
+Selby, Robert I
+,
+Emeriti Faculty
+Stallmeyer, John Charles
+,
+Associate Professor
+Strand, Richard Karl
+,
+Associate Professor
+Taylor, Mark
+,
+Associate Professor
+Tierney, Therese Frances
+Uihlein, Marci
+,
+Associate Professor
+Warfield, James P
+,
+Emeriti Faculty
+Wenzel, Joseph W
+,
+Emeriti Faculty
+Wickersheimer, David
+,
+Emeriti Faculty
+Worn, William W
+Art and Design, School of
+Bailey, Andrew D
+,
+Emeriti Faculty
+Bakker, Conrad Quentin
+,
+Professor
+Batten, Luke
+,
+Associate Professor
+Becker, Susan E
+,
+CLIN ASST PROF, Art &amp; Design
+Benson, Eric
+,
+Chair of Graphic Design
+Block, Jane
+Bresler, Liora
+,
+Professor Emerita
+Bullock, William C
+,
+Professor
+Burkus-Chasson, Anne
+,
+Associate Professor
+Carls, Kenneth Raymond
+,
+Emeriti Faculty
+Cox, Donna J
+,
+First Michael Aiken Chair
+Delacruz, Elizabeth M
+,
+Professor
+Duncum, Paul Angus
+Fineberg, Jonathan D
+,
+Emeriti Faculty
+Finnegan, Cara Anne
+,
+Professor
+Ginsburg, Rebecca
+,
+Associate Professor
+Goggin, Nan Elizabeth
+,
+Professor
+Griffis, Ryan
+,
+Associate Professor
+Gunji, Kimiko
+,
+Emeriti Faculty
+Gunji-Ballsrud, Jennifer Misuzu
+,
+Director, Japan House
+Guthrie, Gerald W
+,
+Professor
+Hamilton, Kevin
+,
+Dean
+Hammie, Patrick E
+,
+Assistant Professor of Painting
+Harleman, Kathleen
+Hays, David Lyle
+,
+Associate Professor of Landscape Architecture
+Hedeman, Anne D
+,
+Emerita Professor of Art History
+Hetrick, Laura
+,
+Assistant Professor, Art Education
+Hogin, Lauretta J
+,
+Professor
+Hostetter, Eric R
+,
+Emeriti Faculty
+Hudson, Bradley
+,
+Lecturer
+Kellman, Julia
+,
+Emeriti Faculty
+Kendrick, Barbara F
+,
+Emeriti Faculty
+Kovatch, Ronald R
+Krepp, Sarah L
+,
+Emeriti Faculty
+Lucero, Jorge
+,
+Assistant Professor of Art Education.
+McDonagh, Deana C
+,
+Professor of Industrial Design
+Mette, Alan T
+,
+Professor
+O\'Brien, David J
+,
+Professor, Art History
+Parsons, Michael J
+,
+Adjunct Research Professor
+Pokorny, Melissa
+,
+Associate Professor, Painting, Sculpture, Foundations, School of Art and Design
+Reeder, Kevin
+Rosenthal, Lisa
+,
+Associate Professor of Art History
+Ross, Joel
+,
+Associate Professor
+Ruggles, D Fairchild
+,
+Professor, Department of Landscape Architecture
+Sautman, Anne Helen
+,
+Education Director
+Scott, Ernest D
+,
+Associate Professor
+Shin, Sung Soo
+,
+Associate Professor
+Socha, Daniel F
+,
+Emeriti Faculty
+Spicuzza, Aurelia M
+Squier, Joseph C
+,
+Inaugural Anthony Petullo Professor of Art
+Theide, Billie J
+,
+Professor
+Twardock, A Robert
+,
+Emeriti Faculty
+Van Laar, Timothy J
+Vazquez, Oscar
+,
+Professor, Art History
+Wang, Andrew H-J
+,
+Emeriti Faculty
+Weaver, David Deke
+,
+Associate Professor
+Weightman, David Ian
+,
+Professor
+Weissman, Terri
+,
+Associate Professor
+Wiesener, Catherine A
+,
+TCH ASST PROF
+Wood, Jeryldene M
+,
+Emeriti Faculty
+Dance, Department of
+Beck, Kenneth D
+,
+Specialist in Music
+Chiaramonte, Laura Jean
+,
+VST MEDIA COORDINATOR
+Erkert, Jan K
+,
+Professor, Dance
+Hardin, Kimberly Dee
+,
+Adjunct Lecturer
+Hook, Sara
+,
+Professor
+Johnston, Philip T
+,
+Lecturer
+Knowles, Patricia K
+Lehovec, Linda M
+,
+Associate Professor
+Monson, Jennifer
+,
+Professor
+Murray, Alexander D
+,
+Emeriti Faculty
+Nettl-Fiol, Rebecca C
+,
+Professor, Dance
+O\'Connor, Terrance R
+,
+Professor
+Oliver, Cynthia
+,
+Professor
+Simson, Kirstie
+,
+Associate Professor
+Toenjes, John M
+,
+Associate Professor
+Wadleigh, Renee
+,
+Professor Emerita
+Landscape Architecture, Department of
+Aljassar, Mohammad
+,
+VST SCHOLAR, Landscape Architecture
+Anthony, Kathryn H
+,
+ACSA Distinguished Professor, School of Architecture
+Deal, Brian M
+,
+Professor
+Dharwadker, Aneesha
+,
+Assistant Professor
+Ding, Chenyang
+,
+Visiting Scholar
+Esmaeilzadeh, Ahmad
+,
+Visiting Scholar
+Fan, Rong
+,
+Visiting Scholar
+Fennell, Christopher
+,
+Professor
+Ginsburg, Rebecca
+,
+Associate Professor
+Hays, David Lyle
+,
+Associate Professor of Landscape Architecture
+Lee, Yonghwan
+,
+VST SCHOLAR, Landscape Architecture
+Li, Fangying
+,
+Visiting Scholar
+Li, Liang
+,
+Visiting Scholar
+McGuire, Mary Patricia
+,
+Assistant Professor
+O\'Shea, Conor E
+,
+Assistant Professor
+Qiu, Changyu
+,
+VST SCHOLAR, Landscape Architecture
+Reschke, Craig Michael
+,
+TEACHING ASST PROF
+Ruggles, D Fairchild
+,
+Professor, Department of Landscape Architecture
+Sears, Stephen Michael
+,
+Assistant Professor
+Silverman, Helaine I
+,
+Professor
+Stewart, William P
+,
+Professor
+Sullivan, William C
+,
+Director, ROKWIRE, Illinois\' Smart, Healthy Community Initiative
+Sun, Xuxue
+,
+Visiting Scholar
+Thomas, Jennifer Lynn
+,
+Instructor
+Wang, Bo
+,
+VST SCHOLAR, Landscape Architecture
+Wang, Shanshan
+,
+VST SCHOLAR, Landscape Architecture
+Yu, Guanyi
+,
+Visiting Scholar
+Zhang, Hao
+,
+VST SCHOLAR, Landscape Architecture
+Music, School of
+Allen, David J
+,
+Director of Advancement
+Alwes, Chester L
+,
+Emeriti Faculty
+Asnawa, I Ketut Gede
+,
+Instructor
+Barrett, Janet R
+,
+Professor
+Bashford, Christina
+,
+Associate Professor
+Blume, Philipp
+,
+RES SCHOLAR
+Bridgewater, Ronald S
+,
+Associate Professor
+Brooks, William F
+,
+Associate Professor Emeritus
+Buchanan, Donna A
+,
+Professor
+Cameron, Michael J
+,
+Professor
+Carrillo, Carlos R
+,
+Assistant Professor
+Carrillo, Teofilo L
+,
+Associate Professor
+Chasanov, Elliot L
+,
+Professor
+Coleman, Barrington L
+,
+Associate Professor
+Daval, Charles JC
+,
+Professor
+Davis, Ollie Watts
+,
+Professor
+Dee, John
+,
+Professor
+Duncan, Graham A
+,
+Adjunct Instructor
+Eagen, Megan Kelly
+,
+Lecturer
+Ehlen, Timothy J
+,
+Professor
+Fairbanks, Stephen Thomas
+,
+Assistant Professor
+Fieldsteel, Eli Mulvey
+,
+Assistant Professor
+Flores, Ricardo
+,
+Associate Professor
+Freivogel, Elizabeth D
+,
+Clinical Associate Professor
+Freivogel, Megan Ruth
+,
+Clinical Associate Professor
+Gallo, Donna
+,
+Assistant Professor
+Gray, Lawrence W
+,
+Associate Professor
+Gunn, Julie Jordan
+,
+Professor
+Gunn, Nathan
+,
+Professor
+Haken, Rudolf
+,
+Professor
+Harris, Dawn M
+,
+Instructor
+Harris, James David
+,
+Associate Professor
+Heiles, William H
+,
+Professor
+Herl, Joseph
+,
+Research Professor
+Herrera, Luis Ricardo
+,
+Associate Professor
+Hickey, Joan B
+,
+Lecturer
+Holden, Alexis Lamont
+,
+Adjunct Instructor
+Houser, Barry L
+,
+Clinical Assistant Professor
+Kaper, Hans G
+,
+Adjunct Professor
+Keeble, Jonathan
+,
+Professor of Flute
+Kouzov, Dmitry
+,
+Associate Professor
+Kruse, Adam John
+,
+Assistant Professor
+Lam, Ieng Ieng
+,
+Lecturer
+Lee, Nelson
+,
+Clinical Associate Professor
+Lee, Wayne Karwei
+,
+Lecturer
+Li, Yichen
+,
+Adjunct Lecturer
+Livengood, Kerrith
+,
+TEACHING ASST PROF
+Lund, Erik R
+,
+Professor Emeritus
+Magee, Gayle Sherwood
+,
+Professor
+Magee, Jeffrey S
+,
+Professor
+McCall, Joyce Marie
+,
+Assistant Professor
+McDonough, Daniel J
+,
+Clinical Associate Professor
+McGovern, Timothy S
+,
+Associate Professor
+McNeill, Charles L
+,
+Professor
+Megill, Andrew Donald
+,
+Professor
+Messina, Anthony
+,
+Clinical Assistant Professor
+Milenkovich, Stefan
+,
+Associate Professor
+Minor, Janice Louise
+,
+Lecturer
+Moersch, Charlotte Mattax
+,
+Professor
+Moersch, William
+,
+Professor
+Moore, Mark E
+,
+Associate Professor
+Moorhouse, Linda
+,
+Associate Director | School of Music
+Nichols, Jeananne Blythe
+,
+Associate Professor
+Parisi, Susan H
+,
+RES SCHOLAR
+Patterson, William
+,
+Clinical Associate Professor
+Peterson, Elizabeth B
+,
+Clinical Professor
+Peterson, Stephen
+,
+Professor
+Pugh, James E
+,
+Professor
+Ramirez, Carlos Roberto
+,
+Assistant Professor
+Reagan, Maureen V
+,
+ASSOC DIR FOR MARKETING
+Redman, Yvonne Gonzales
+,
+Associate Professor
+Richtmeyer, Debra A
+,
+Professor
+Robards, Casey
+,
+Clinical Assistant Professor
+Robinson, Dana M
+,
+Associate Professor
+Romm, Ronald
+,
+Professor
+Ross, Michael D
+,
+Director
+Sanchez Portuguez, Guido Alejandro
+,
+Lecturer
+Schleicher, Donald J
+,
+Professor
+Scully, Bernhard David
+,
+Associate Professor
+Sennet, Rochelle
+,
+Associate Professor
+Siena, Jerold
+,
+Professor
+Siletti, Michael James
+,
+Lecturer
+Silvers, Michael B
+,
+Associate Professor
+Solis, Gabriel
+,
+Professor
+Solya, Andrea
+,
+TCH ASSOC PROF
+Spencer, Joel William
+,
+Assistant Professor
+Sposato, Jeffrey Stuart
+,
+Professor
+Stephens, John C
+,
+Professor
+Stoltzfus, Fred A
+,
+Professor Emeritus
+Stone, Sylvia
+,
+Professor
+Sweet, Bridget Mary
+,
+Associate Professor
+Takao, Makoto Harris
+,
+Assistant Professor
+Taube, Heinrich K
+,
+Professor
+Taylor, Stephen A
+,
+Professor
+Tharp, Reynold
+,
+Associate Professor
+Tilley, Michael Porter
+,
+Clinical Assistant Professor
+Tipei, Sever
+,
+Professor
+Tsekouras, Ioannis
+,
+Lecturer
+Tsitsaros, Christos
+,
+Professor
+Wigley, Sarah Francys
+,
+Clinical Assistant Professor
+Yampolsky, Philip
+,
+RES SCHOLAR
+Yeung, Ann
+,
+Professor
+Theatre, Department of
+Anderson, Robert G
+,
+Associate Professor
+Bernstein, Tonya Anna
+,
+COSTUMER
+Boesche, John Anthony
+Bright, Latrelle Sharmaine
+,
+Specialist in Education
+Ciofalo, Terry Anne
+,
+ASSOC DIR FOR PRODUCTION
+Conlin, Kathleen F
+Curtis, Kimberly D
+,
+Adjunct Lecturer
+Dixon, Lisa G
+,
+Associate Professor
+Donley, Adriane Binky
+,
+Properties Director
+Elliott, Stacey J
+,
+Account Technician I
+Fay, Lisa Aleen
+,
+COORD, INNER VOICES PRGM
+Feely, Cathy
+,
+ASST TO THE HEAD
+Griggs, J Michael
+,
+Assistant Professor
+Jenkins, Jeffrey Eric
+,
+Professor
+Johnston, Philip T
+,
+Lecturer
+Kidd, Lisa J
+,
+Assistant to the Lighting Director
+Kocher, Cynthia
+,
+ASST STAGE MGMT DIR
+LaBau, Alec James
+,
+ASST DIR AUDIO &amp; VIDEO SERV
+Maslova, Olga Markovna
+,
+Assistant Professor
+McFarquhar, Robin
+Miller, Thomas J
+,
+Lecturer
+Mitchell, Thomas Owen
+,
+Associate Professor
+Morrissette, J.W.
+,
+TEACHING PROF
+Perry, Robert
+,
+Associate Professor
+Rainwater, Christina M
+,
+TCH ASST PROF
+Robinson, Valleri J
+,
+Associate Professor
+Rundell, Julie A H
+,
+ASST DIR-CAREER SVC
+Scholwin, Richard Michael
+,
+DIR OF AUDIO SERVS
+Schultz, Amber
+,
+CLINICAL ASST PROF, Theatre
+Schultz, Ryan
+,
+Technical Director
+Stewart, Andrea
+,
+ASSOC TECH DIR
+Swinford, David P
+,
+Office Administrator
+Williams, Michael W
+,
+Lighting Director
+Urban and Regional Planning, Department of
+Chakraborty, Arnab
+,
+Professor
+Deal, Brian M
+,
+Professor
+Dearborn, Lynne Marie
+,
+Associate Professor, Associate Director, School of Architecture
+Doussard, Marc J
+,
+Associate Professor
+Edwards, Mary Margaret
+,
+Associate Professor
+Greenlee, Andrew Jordan
+,
+Associate Professor
+Hewings, Geoffrey J D
+,
+Professor Emeritus
+Hooker, Joseph Edward
+Hopkins, Lewis D
+,
+Emeriti Faculty
+Kim, Tschangho John
+,
+Emeritus Endowed Professor of Urban and Regional Systems
+Kowalski, Robert Gerrett
+Lee, Bumsoo
+,
+Associate Professor
+McMillen, Daniel P
+,
+Professor, Economics
+Mendenhall, Ruby
+,
+ASSOC PROF, African American Studies
+Miraftab, Faranak
+,
+Professor, Urban &amp; Regional Planning
+Novak, Alice E
+,
+Assistant Head, Academic Programs
+Olshansky, Robert B
+,
+Professor Emeritus
+Rost, Craig
+Salo, Ken Edgar
+,
+Clinical Assistant Professor
+Schneider, Daniel W
+,
+Professor
+Silvis, Anne H
+,
+ASST DEAN, CMTY ECON DEVLP
+Tarum, Kai
+Walden, Bruce K
+,
+SR DIR REAL ESTATE PLNG &amp; SVCS, Cap Prgm/Real Est Svc -- University Administration
+Illinois International
+Intensive English Institute
+Bouton, Kristin Laurie
+,
+SR INSTRUCTOR
+Chiligiris, Peter Justin
+,
+Sr. Lecturer
+Howard, Joy C
+,
+Senior Lecturer
+Huether, Norbert F
+Kasten, Anna M
+,
+Senior Lecturer
+Information Sciences, School of
+Information Sciences, School of
+Althaus, Scott
+,
+Director, Cline Center for Advanced Social Research
+Bashir, Masooda N
+,
+Associate Professor
+Bishop, Ann P
+,
+Professor Emerita
+Black, Alistair Matthew
+,
+Professor Emeritus
+Blake, Catherine Lesley
+,
+Associate Professor
+Bonn, Maria Stella
+,
+Associate Professor
+Bosch, Nigel
+,
+Assistant Professor, Information Sciences
+Bruce, Bertram C
+,
+Professor Emeritus
+Chan, Anita
+,
+Associate Professor, Information Sciences
+Choi, Inkyung
+,
+Lecturer
+Chu, Clara M
+,
+Professor
+Cochrane, Pauline A
+,
+Professor Emerita
+Cole, Timothy W
+,
+Mathematics Librarian
+Comstock, Sharon L
+,
+Senior Lecturer
+Darch, Peter Thomas
+,
+Assistant Professor
+Davis, Charles H
+,
+Professor Emeritus
+Davis, Susan Gray
+Diesner, Jana
+,
+Associate Professor
+Downie, J Stephen
+,
+Professor and Associate Dean for Research
+Dubin, David Scott
+,
+Teaching Associate Professor
+Estabrook, Leigh S
+,
+Professor and Dean Emerita
+Frankenberg, Susan R
+,
+MUSEUM STUDIES PROGRAM COORD
+Haythornthwaite, Caroline Alison
+He, Jing Rui
+,
+Associate Professor
+Hearne Claffey, Elizabeth G
+,
+Professor Emerita
+Hinchliffe, Lisa W
+,
+Professor/Coordinator for Information Literacy Services &amp; Instruction, University Library
+Hoiem, Elizabeth Fabry Massa
+,
+Assistant Professor
+Hopping, David Earle
+,
+Visiting Lecturer
+Houston, Joseph Brantley
+,
+Knight Chair Professor in Investigative and Enterprise Reporting
+Huang, Yun
+,
+Assistant Professor
+Jenkins, Christine A
+,
+Associate Professor
+Karahalios, Kyratso George
+,
+Professor
+Katz, Daniel S
+,
+ASST DIR FOR SCI SFTWR &amp; APPS
+Kendall, Lori Sue
+,
+Associate Professor
+Kilicoglu, Halil
+,
+Associate Professor
+Knox, Emily Joyce Magdelyn
+,
+Associate Professor
+Koh, Kyungwon
+,
+Associate Professor
+Kyrillidou, Martha
+,
+Research Associate
+LaBarre, Kathryn Anne
+,
+Associate Professor
+Ludaescher, Bertram
+,
+Professor
+Magee, Rachel Michelle
+,
+Assistant Professor
+Mak, Bonnie
+,
+Associate Professor, Information Sciences
+McDonough, Jerome Patrick
+,
+Associate Professor
+McDowell, Kathleen
+,
+Associate Professor
+McWorter, Gerald Arthur
+Mohaghegh, Zahra
+,
+Assistant Professor
+Ocepek, Melissa G
+,
+Assistant Professor
+Palmer, Carole
+,
+Professor Emerita
+Pintar, Judith A
+,
+Teaching Associate Professor
+Rayward, Warden B
+,
+Professor Emeritus
+Renear, Allen H
+,
+Professor
+Richardson, Selma
+Santos, Eunice E
+,
+Dean
+Schatz, Bruce R
+,
+PROF UNIV LIBRARY
+Schneider, Jodi A
+,
+Assistant Professor
+Schwebel, Sara Lynn
+,
+Professor
+Smith, Linda C.
+,
+Professor and Executive Associate Dean
+Song, Yoo-Seong
+,
+ASSOC PROF UNIV LIBRARY
+Stodden, Victoria
+,
+Associate Professor
+Tilley, Carol L
+,
+Associate Professor
+Torvik, Vetle Ingvald
+,
+Associate Professor
+Turk, Matthew J
+,
+Assistant Professor
+Twidale, Michael Bernard
+,
+Professor
+Underwood, William E
+,
+Professor of Information Sciences
+Wang, Shaowen
+,
+Professor and Department Head, Geography &amp; GIS
+Wang, Yang
+,
+Associate Professor
+Weech, Terry
+,
+Associate Professor
+Weible, John D
+,
+Senior Lecturer
+Wentling, Tim L
+Wickes, Elizabeth Danielle
+,
+Lecturer
+Wickett, Karen Michelle
+,
+Assistant Professor
+Wilkin, John P
+,
+UNIV LIBRN &amp; DEAN OF LIBRS
+Williams, Kathleen H
+,
+Associate Professor
+Wolske, Martin B
+,
+Teaching Assistant Professor
+Zhai, Chengxiang
+,
+Professor
+Labor and Employment Relations, School of
+Labor and Employment Relations, School of
+Ames, Christopher M
+,
+Account Technician II
+Ashby, Steven
+,
+Clinical Professor
+Avgar, Ariel Chanan
+,
+Assistant Professor
+Barker, Elizabeth A
+,
+Assistant Dean
+Benton, Richard
+,
+Assistant Professor
+Bruno, Robert Anthony
+,
+Professor
+Cardador, Maria Teresa
+,
+Assistant Professor
+Dickson, Alison
+,
+Instructor
+Drasgow, Fritz
+,
+Dean and Professor, School of Labor and Employment Relations
+Finkin, Matthew W
+,
+Professor
+Forsythe, Elizabeth Carla
+,
+Assistant Professor
+Gilbert, Daniel
+,
+Associate Professor
+Glotzhober, Martha Elizabeth
+,
+Office Manager
+Gooch, Wendy E
+,
+Office Manager, Student Affairs
+Hartke, Pam
+,
+Office Support Specialist
+Hoveln, Lynne A
+,
+Administrative Assistant
+Kramer, Amit
+,
+Associate Dean for Online Graduate Education
+Labarbera-Twarog, Emily
+,
+Associate Professor
+Lamare, James Ryan
+,
+Associate Professor
+Lawler, John J
+,
+Professor
+Madigan, Nell Catherine
+,
+Associate Dean
+Martocchio, Joseph J
+,
+Professor
+Park, YoungAh
+,
+Associate Professor
+Quinlan, Matthew T
+,
+Academic Hourly
+Smith, Emily Elizabeth
+,
+Executive Director
+Song, Yoo-Seong
+,
+ASSOC PROF UNIV LIBRARY
+Weaver, Andrew
+,
+Assistant Professor
+Liberal Arts &amp; Sciences, College of
+African American Studies, Department of
+Bailey, Ronald William
+,
+Professor
+Bowen, Merle L
+,
+Associate Professor
+Cha-Jua, Sundiata
+,
+ASSOC PROF, History
+Conwill, William Louis
+,
+Clinical Associate Professor
+Flynn, Karen
+,
+Associate Professor
+Harrison, Faye V
+,
+Professor
+Hunt, Irvin Joseph
+,
+Assistant Professor
+Jenkins, Candice M
+,
+ASSOC PROF, African American Studies
+McDuffie, Erik S
+,
+Associate Professor
+McKee, Malaika W
+,
+Visiting Assistant Professor
+Mendenhall, Ruby
+,
+ASSOC PROF, African American Studies
+Meyers, John P
+,
+Assistant Professor
+Nance, Curtis Kemal
+,
+Assistant Professor
+Neville, Helen A
+,
+Professor
+Ngumbi, Esther Ndumi
+,
+Assistant Professor
+Smith, Bobby Joe
+,
+Assistant Professor
+American Indian Studies Program
+Rymhs, Deena
+,
+Associate Professor
+Soto, Silvia
+,
+Visiting Assistant Professor
+Tahmahkera, D
+,
+Associate Professor
+Anthropology, Department of
+Ambrose, Stanley H
+,
+Professor
+Brinkworth, Jessica F
+,
+Assistant Professor
+Clancy, Kathryn B H
+,
+Associate Professor
+Davis, Jennifer L
+,
+Assistant Professor
+Desmond, Jane
+,
+Professor
+Dominguez, Virginia Rosa
+,
+Professor
+Erten, Hatice
+,
+Visiting Assistant Professor
+Farnell, Brenda M
+,
+Professor
+Fennell, Christopher
+,
+Professor
+Greenberg, Jessica R
+,
+Associate Professor
+Harrison, Faye V
+,
+Professor
+Hughes, Cris Erin
+,
+Clinical Assistant Professor
+Jelinek, Petra
+,
+Lecturer
+Konigsberg, Lyle W
+,
+Professor
+Kramer, Elise Ann
+,
+Visiting Assistant Professor
+Lucero, Lisa J
+,
+Professor
+Maldonado, Korinta
+,
+Clinical Assistant Professor
+Malhi, Ripan S
+,
+Professor
+Martin, Jeffrey T
+,
+Assistant Professor
+Moodie, Ellen
+,
+Associate Professor
+Orta, Andrew
+,
+Professor
+Polk, John David
+,
+Professor
+Ritchison, Brandon T
+,
+Visiting Assistant Professor
+Rosas, Gilberto
+,
+ASSOC PROF, Latina/Latino Studies
+Saul, Mahir
+,
+Professor
+Shackelford, Laura Lynn
+,
+Associate Professor, Anthropology
+Silverman, Helaine I
+,
+Professor
+Smalls, Krystal Ashlee
+,
+Assistant Professor
+Stumpf, Rebecca
+,
+Professor
+Asian American Studies, Department of
+Fuenty, Kat
+,
+Office Support Associate
+Lyke, Christine
+,
+Administrative Aide
+Astronomy, Department of
+Dunne, Bryan C
+,
+Teaching Assistant Professor
+Fields, Brian David
+,
+Professor and Chair, Astronomy
+Gammie, Charles Forbes
+,
+PROF, Physics
+Kemball, Athol J
+,
+Professor
+Liu, Xin
+,
+Assistant Professor
+Looney, Leslie W
+,
+Professor and Chair, Astronomy
+Mouschovias, Telemachos Ch
+,
+PROF, Physics
+Narayan, Gautham
+,
+Assistant Professor
+Ricker, Paul Milton
+,
+Professor
+Shen, Yue
+,
+Associate Professor
+Vieira, Joaquin Daniel
+,
+ASSOC PROF, Physics
+Winans, Amanda
+,
+Instructor
+Wong, Tony
+,
+Professor
+Atmospheric Sciences, Department of
+Choate, Jessica J
+,
+Instructor
+Di Girolamo, Larry
+,
+Professor
+Dominguez, Francina
+,
+Associate Professor
+Frame, Jeffrey
+,
+TCH ASSOC PROF
+Hence, Deanna
+,
+Assistant Professor
+Jain, Atul
+,
+Professor
+Lasher-Trapp, Sonia
+,
+Professor
+Nesbitt, Anna
+,
+Teaching Assistant Professor
+Nesbitt, Stephen
+,
+Professor
+Proistosescu, Cristian
+,
+Assistant Professor
+Rauber, Robert M
+,
+Professor
+Riemer, Nicole
+,
+Professor
+Sriver, Ryan
+,
+Associate Professor
+Trapp, Robert
+,
+Professor
+Wang, Zhuo
+,
+Professor
+Wuebbles, Donald J
+,
+Professor
+Biochemistry, Department of
+Chen, Lin-Feng
+,
+Professor
+Fratti, Rutilio
+,
+Associate Professor
+Gerlt, John Alan
+,
+Professor
+Huang, Raven H
+,
+Professor
+Jin, Hong
+,
+Associate Professor
+Kalsotra, Auinash
+,
+Associate Professor
+Nair, Satish K
+,
+Professor
+Procko, Erik
+,
+Assistant Professor of Biochemistry
+Shapiro, David J
+,
+Professor
+Stadtmueller, Beth Marie
+,
+Assistant Professor
+Tajkhorshid, Emad
+,
+Professor
+Zhang, Kai
+,
+Assistant Professor
+Cell and Developmental Biology, Department of
+Belmont, Andrew S
+,
+Professor
+Brieher, William M
+,
+Associate Professor
+Ceman, Stephanie S
+,
+Associate Professor
+Chen, Jie
+,
+Professor
+Freeman, Brian C
+,
+Professor
+Gillette, Martha L
+,
+Professor
+Henry, Jonathan Joseph
+,
+PROF OF CELL &amp; STRUCT BIO
+Kannanganattu, Prasanth Kumar
+,
+Associate Professor
+Li, Xin
+,
+Assistant Professor
+Prasanth, Supriya Gangadharan
+,
+Professor
+Rivier, David H
+,
+Associate Professor
+Schuler, Mary A
+,
+Professor
+Smith-Bolton, Rachel
+,
+Associate Professor
+Sokac, Anna Marie
+,
+Associate Professor
+Stubbs, Lisa J
+,
+Professor
+Tang, Vivian
+,
+Research Assistant Professor
+Chemical Sciences, School of
+Boone, Anita Lynn
+,
+GRANTS &amp; CONTRACTS COORD
+Brownfield, Shane Ryan
+,
+SAFETY/ENVRL COMPL SPEC
+Cagle, Karri E
+,
+Accountant I
+Chenoweth, Leslie A
+,
+HR COORD
+Craig, Jeffrey D
+,
+FACILITY OPERATIONS SPECIALIST
+Davis, Michelle Ann
+,
+Office Administrator
+Dedo, Wolali A
+,
+Academic Advisor
+Dong, Feng
+,
+SR SOFTWARE ENGR
+Eggett, William R
+,
+FACILITY OPERATIONS COOR
+Eves, Elizabeth Diane
+,
+RES SPEC
+Freiman, Jonathan Conrad
+,
+HR Business Partner
+Fulton, Brian Robert
+,
+COORD OF CHEM TRACK &amp; STOCK, School of Chemical Sciences
+Gibbs, Andrew M
+,
+GLASS BLOWER
+Gray, Danielle L
+,
+ASSOC MGR OF CORES FACILTS
+Gregory, Beth A
+,
+STOREKEEPER III
+Haley, Kara
+,
+GRANTS &amp; CONTRACTS COORD
+Hallock, Michael J
+,
+XH TECH SUPRT ASST (LU)
+Hewitt, Mark A
+,
+LINUX ADMNR
+Johnstone, Brad
+,
+SOFTWARE ENGR
+Kappes, Cheryl L
+,
+OFFICE MANAGER
+Karki, Urbashi
+Kenis, Paul J A
+,
+Professor
+Kroha, Kyle
+,
+EQUIPMENT SPECIALIST II
+Lamb, Nancy Lynn
+,
+CLERK, DISTRIBUTION
+Leckband, Deborah E
+,
+PROF, Chemistry
+Loudermilk, Dorothy R
+,
+MEDIA/COMNC SPEC
+Majers, Christine L
+,
+ASSOC DIR FOR ADMN &amp; BUS AFF
+Maze, Julie Ann
+,
+Account Technician II
+McCall, Birgit Dahlberg
+,
+SYMPOSIUM COORD
+McMasters, Sandra Kay
+,
+RES SPEC IN LIFE SCI
+Mynatt, Susan Lynn
+,
+Sponsored Research Business Analyst
+Nelsen, Gayle Lynn
+,
+Administrative Aide
+Nilges, Mark Joseph
+Northen, Kenton James
+,
+SENIOR LABORATORY MECHANIC
+Olson, Dean
+,
+DIR, NMR LAB
+Pogorelov, Taras V
+,
+Research Assistant Professor, Chemistry, Biophysics and Quantitative Biology, Beckman Institute for Advanced Science and Technology
+Rhoton, James M
+,
+Office Administrator
+Rosheck, John Burton
+,
+Research Engineer
+Russell, Jennifer Rae
+,
+Assistant Director of Human Resources
+Sage-Karlson, Lori L
+,
+ASSISTANT, PROGRAM ADMIN
+Simpson, Patricia Lynn Blum
+,
+Director, Academic Advising &amp; Career Services
+Smith, Mary Lynnae
+,
+ASSOC DIR BUS &amp; FIN OPER
+Smith, Roger W
+,
+MAKER, INSTRUMENT
+Southern, Karla Ann
+,
+BUS SPEC
+Spinner, David Todd
+,
+Academic Advisor
+Spinner, Holly Christine
+,
+Senior Business Analyst
+Stevens, Donald Chad
+,
+DIR FACPS
+Sun, Furong
+,
+SPECTROSCOPIST
+Sutrisno, Andre
+Sweedler, Jonathan V
+,
+Professor
+Webb, Kyle Leon
+,
+ASSISTANT, PHYSICAL SCIENCE TE
+Widup, Zachary R
+,
+ELECTRONICS ENGINEER ASSISTANT
+Wooldridge, Charles Kenneth
+,
+OPERATIONS MANAGER
+Yao, Haijun
+,
+SPECTROMETRIST
+Zhang, Chen
+,
+SR RES SPEC
+Zhu, Lingyang
+,
+SPECTROSCOPIST
+Chemical and Biomolecular Engineering, Department of
+Diao, Ying
+,
+Assistant Professor
+Flaherty, David William
+,
+Associate Professor
+Guironnet, Damien S
+,
+Assistant Professor
+Hammack, William S
+,
+Professor
+Harley, Brendan A
+,
+Professor
+Higdon, Jonathan J L
+,
+Professor
+Kenis, Paul J A
+,
+Professor
+Kong, Hyun Joon
+,
+Professor
+Kraft, Mary L
+,
+Associate Professor
+Leckband, Deborah E
+,
+PROF, Chemistry
+Mitrovski, Svetlana
+,
+TEACHING ASSOC PROF
+Pedron Haba, Sara
+,
+Research Assistant Professor
+Peters, Baron G
+,
+Professor
+Rao, Christopher V
+,
+Professor
+Rogers, Simon
+,
+Assistant Professor
+Schroeder, Charles M
+,
+Professor
+Shukla, Diwakar
+,
+Blue Waters Assistant Professor, Chemical &amp; Biomolecular Engineering
+Sing, Charles E
+,
+Assistant Professor
+Su, Xiao
+,
+Assistant Professor
+Yang, Hong
+,
+Professor
+Zhao, Huimin
+,
+Professor
+Chemistry, Department of
+Andino Martinez, Jose Guillermo
+,
+Lecturer
+Axelson, Jordan Cole
+,
+Lecturer
+Burke, Martin
+,
+Professor
+Chan, Jefferson Kar Fai
+,
+Assistant Professor
+Decoste, Donald Joseph
+,
+TCH ASSOC PROF
+Denmark, Scott E
+,
+Professor
+Fout, Alison R.
+,
+Associate Professor
+Gewirth, Andrew A
+,
+Professor
+Girolami, Gregory S
+,
+Professor
+Gruebele, Martin H W
+,
+Professor
+Gunasekera, Mutha Merenna Nuwan Bhagya
+,
+Lecturer
+Han, Hee Sun
+,
+Assistant Professor
+Hergenrother, Paul
+,
+Professor
+Hirata, So
+,
+Professor
+Huang, Tina Hai-Ti
+,
+Senior Lecturer
+Jain, Prashant
+,
+Associate Professor
+Kell, David A
+,
+Lecturer
+Koerner, Michael
+,
+Senior Lecturer
+Leckband, Deborah E
+,
+PROF, Chemistry
+Leveritt, John M
+,
+Lecturer
+Lu, Yi
+,
+Professor
+Luthey-Schulten, Zaida Ann
+,
+Professor
+Makri, Nancy
+,
+Professor
+Marville, Kelly
+,
+Senior Lecturer
+McCall, Benjamin
+,
+Adjunct Research Professor
+Mehta, Angad Pankaj
+,
+Assistant Professor
+Mirica, Liviu M
+,
+Professor
+Mitchell, Douglas Alan
+,
+Professor
+Moore, Jeffrey S
+,
+Director, Beckman Institute
+Murphy, Catherine Jones
+,
+Professor
+Nicely, Amy Lynn
+,
+Visiting Lecturer
+Nuzzo, Ralph G
+,
+Professor
+Oldfield, Eric
+,
+Professor
+Olshansky, Lisa
+,
+Assistant Professor
+Ray, Christian R
+,
+TCH ASST PROF
+Rodriguez Lopez, Joaquin
+,
+Associate Professor
+Romanova, Elena Vikentievna
+,
+Research Assistant Professor
+Rubakhin, Stanislav
+,
+Research Associate Professor
+Sarlah, David
+,
+Assistant Professor
+Shen, Mei
+,
+Assistant Professor
+Silverman, Scott K
+,
+Professor
+Sweedler, Jonathan V
+,
+Professor
+van der Donk, Wilfred Adrianus
+,
+Professor, Institute for Genomic Biology
+van der Veen, Renske
+,
+Assistant Professor
+Vura-Weis, Joshua
+,
+Assistant Professor
+White, M Christina
+,
+Professor
+Woon, David E
+,
+Research Associate Professor
+Zimmerman, Steven C
+,
+Professor
+Classics, Department of the
+Augoustakis, Antonios
+,
+Professor
+Partin, Richard
+,
+COORD OUTREACH EXTERNAL AFFAIR
+Webb, Nicole S
+,
+XH OFFIC ASST 2 (LU)
+Communication, Department of
+Althaus, Scott
+,
+Director, Cline Center for Advanced Social Research
+Barley, William
+,
+Assistant Professor
+Bigman-Galimore, Cabral Aziza
+,
+Associate Professor
+Bigsby, Elisabeth
+,
+Assistant Professor
+Bishop, Mardia J
+,
+TEACHING ASSOC PROF
+Bunch, Caroline M
+,
+Lecturer
+Caughlin, John Patrick
+,
+Professor
+Cisneros, Josue David
+,
+Associate Professor
+Ditewig-Morris, Kathleen A
+,
+Internship Program Director
+Dixon, Travis L
+,
+Professor
+Finnegan, Cara Anne
+,
+Professor
+Gailey, Benjamin Joseph
+,
+Senior Lecturer
+Giorgio, Grace A
+,
+TEACHING ASSOC PROF
+Guntzviller, Lisa
+,
+Associate Professor
+Hannan, Shawn
+,
+Instructor
+Huff, Billy
+,
+Lecturer
+Jackson, Sally A
+,
+Professor
+Jacobs, Curtis Scott
+,
+Professor
+Knobloch, Leanne
+,
+Professor
+Koven, Michele E J
+,
+Professor
+Lammers, John Charles
+,
+Professor
+Marino, Michael Patrick
+,
+Instructor
+McChesney, Robert W
+,
+Professor
+Michael, Melanie
+,
+SR INSTRUCTOR
+Molina, Isabel
+,
+PROF, Latina/Latino Studies
+Murphy, John M
+,
+Professor
+O\'Gorman, Thomas E
+,
+Professor
+Poole, Marshall Scott
+,
+Professor
+Quick, Brian L
+,
+Professor
+Ramey, Mary Ellen
+,
+Senior Lecturer
+Stole, Inger Lisbeth
+,
+Professor
+Tewksbury, David H
+,
+Professor
+Thompson, Charee Mooney
+,
+Assistant Professor
+Wright-Dixon, Trina J
+,
+TEACHING ASST PROF
+Yang, JungHwan
+,
+Assistant Professor
+Comparative and World Literature
+Barnard, John Levi
+,
+Assistant Professor
+Calderwood, Eric Stickley
+,
+Associate Professor
+Gasyna, George Zbigniew
+,
+Associate Professor
+Harris, Rachel Sylvia
+,
+Associate Professor
+Hassan, Wail Seddiq
+,
+Professor
+Hilger, Stephanie M
+,
+Professor
+Kaganovsky, Lilya
+,
+PROF, Slavic Languages &amp; Literature
+Kaplan, Brett Ashley
+,
+Professor
+Mathy, Jean-Philippe R
+,
+Professor
+Mehta, Rini Bhattacharya
+,
+Assistant Professor of Comparative Literature
+Murav, Harriet Lisa
+,
+PROF, Slavic Languages &amp; Literature
+Rushing, Robert A
+,
+PROF, Comparative &amp; World Literature
+Tierney, Robert
+,
+Professor
+Earth, Society and Environment, School of
+Kanter, Robert E
+,
+CLINICAL ASSOC PROF
+Pettijohn, Justin Cory
+,
+TEACHING ASST PROF, Sch Earth, Soc, Environ Admin
+East Asian Languages and Cultures, Department of
+Cai, Zong-Qi
+,
+PROF, Comparative &amp; World Literature
+Callahan, Christopher Thane
+,
+TCH ASST PROF
+Chen, Jingling
+,
+Assistant Professor
+Chow, Kai-Wing
+,
+PROF, History
+Martin, Jeffrey T
+,
+Assistant Professor
+Matsushita, Hiromi
+,
+Instructor
+Mayer, Alexander Leonhard
+,
+ASSOC PROF, Religion
+Muramoto, Kokoro
+,
+Instructor
+Packard, Jerome L
+,
+Professor
+Persiani, Gian Piero
+,
+Assistant Professor
+Sadler, Misumi
+,
+Associate Professor
+Shao, Dan
+,
+Associate Professor
+Shih, Chilin
+,
+Associate Professor
+Tierney, Robert
+,
+Professor
+Wilson, Roderick Ike
+,
+Assistant Professor
+Economics, Department of
+Agiakloglou, Christos
+,
+Visiting Professor
+Akresh, Richard S
+,
+Associate Professor
+Albouy, David Yves
+,
+Professor
+Amir Ahmadi, Pooyan
+,
+Assistant Professor
+Armendariz Buaun, Ramses Yusseff
+,
+TCH ASST PROF
+Arvin-Rad, Hassan
+,
+Lecturer
+Bartik, Alexander Wickman
+,
+Assistant Professor
+Bera, Anil K
+,
+Professor
+Bernhardt, Mark Daniel
+,
+Professor
+Borgschulte, Mark
+,
+Assistant Professor
+Buckley, Bryan Douglas
+,
+TEACHING ASST PROF
+Chung, Eun Yi
+,
+Assistant Professor
+Deltas, George
+,
+Professor
+DiIanni, Isaac
+,
+Senior Lecturer
+Esfahani, Hadi S
+,
+Professor
+Forsythe, Elizabeth Carla
+,
+Assistant Professor
+Gahvari, Firouz
+,
+Professor
+Garin, Andrew Lewis
+,
+Assistant Professor
+Hong, Seung-Hyun
+,
+Associate Professor
+Howard, Gregory Liang
+,
+Assistant Professor
+Kleemans, Maria
+,
+Assistant Professor
+Krasa, Stefan
+,
+Professor
+Lee, JiHyung
+,
+Assistant Professor
+Lemus Encalada, Jorge Agustin
+,
+Assistant Professor
+Marx, Benjamin Michael
+,
+Assistant Professor
+McDermott, Eric Mark
+,
+TEACHING ASST PROF
+Micheletto, Luca
+,
+Visiting Associate Professor
+Osman, Adam Mohamed
+,
+Assistant Professor
+Paiva, Claudio A
+,
+Visiting Professor
+Parente, Stephen Lawrence
+,
+Associate Professor
+Perry, Martin
+,
+Professor
+Powers, Elizabeth T
+,
+Associate Professor
+Schultz, Colleen
+,
+Clinical Professor
+Sun, Yuanyuan
+,
+TEACHING ASST PROF
+Thornton, Rebecca Lynn
+,
+Associate Professor
+Toossi, Ali
+,
+Clinical Professor
+Vazquez, Jose J
+,
+Clinical Professor
+Weinstein, Russell Michael
+,
+Assistant Professor
+Zhao, Rui
+,
+TEACHING ASST PROF
+English, Department of
+Bales, Amanda Michelle
+,
+Lecturer
+Baron, Iryce W
+,
+SR INSTRUCTOR
+Barrett, Robert W
+,
+Associate Professor
+Basu, Anustup
+,
+Associate Professor
+Basu, Manisha
+,
+Associate Professor
+Byrd, Jodi
+,
+Associate Professor
+Camargo, Martin
+,
+Professor, English
+Camargo, Sandra
+,
+Senior Lecturer
+Capino, Jose Bernard
+,
+Associate Professor
+Claborn, John P
+,
+Senior Lecturer
+Cole, Lucinda
+,
+Visiting Associate Professor
+Cottingham, Mary Rose
+,
+Senior Instructor
+Courtemanche, Eleanor
+,
+Associate Professor
+Dean, Timothy James
+,
+Professor
+Dudek, John
+,
+Lecturer
+Dullea, Dennis Everett
+,
+SR INSTRUCTOR
+Emmert, Kay
+,
+Senior Lecturer
+Fadely, Patrick
+,
+Lecturer
+Flanagan, Ryan P
+,
+Lecturer
+Freeburg, Christopher Charles
+,
+Professor
+Gaedtke, Andrew
+,
+Associate Professor
+Gallagher, John
+,
+Assistant Professor
+Gilmore, Shawn Patrick
+,
+Senior Lecturer
+Gray, Catharine E
+,
+Associate Professor
+Grohens, Joseph
+,
+Senior Instructor of English
+Gupta, Pallabi
+,
+Lecturer
+Hansen, James A
+,
+Associate Professor
+Hapke, Gail L
+,
+Senior Instructor
+Harrington, Janice
+,
+Professor
+Hassan, Wail Seddiq
+,
+Professor
+Hassinger, Amy
+,
+Assistant Professor
+Hays, Mary L
+,
+Senior Lecturer
+Hechler, William D
+,
+Senior Lecturer
+Holguin, Marilyn M
+,
+Senior Lecturer
+Hudek, Barry Allan
+,
+Lecturer
+Hunt, Irvin Joseph
+,
+Assistant Professor
+Hurley, Michael J
+,
+Lecturer
+Hutner, Gordon
+,
+Professor
+Jenkins, Candice M
+,
+ASSOC PROF, African American Studies
+Jones, Jamie L
+,
+Assistant Professor
+Kelly, Daniel
+,
+Senior Instructor
+Kinzy, Dana M
+,
+Interim Associate Director of Rhetoric
+Koshy, Susan
+,
+Associate Professor
+Lindsey, Mary
+,
+SR INSTRUCTOR
+Littlefield, Melissa Monique
+,
+Associate professor, English
+Loughran, Patricia
+,
+Associate Professor
+MacLean, John P
+,
+Lecturer
+Madonick, Michael D
+,
+Associate Professor
+Mahaffey, Vicki
+,
+Professor
+Markley, Robert
+,
+Professor
+McGuire, Lee
+,
+Lecturer
+McLeer, Heather A
+,
+Lecturer
+McVicker, Zachariah P
+,
+Lecturer
+Morris, David
+,
+Senior Lecturer
+Mortensen, Peter Leslie
+Moss, Andrew Patrick
+,
+Senior Lecturer
+Murison, Justine Summerhayes
+,
+Associate Professor
+Nazar, Hina
+,
+Associate Professor
+Newcomb, John Timberman
+,
+Professor
+Newcomb, Lori Humphrey
+,
+Associate Professor
+Norcross, Katherine R
+,
+Lecturer
+Odom, Michael J
+,
+Senior Instructor
+Oh, Rebecca
+,
+Visiting Assistant Professor
+Parker, Robert Dale
+,
+James M. Benson Professor in English
+Perry, Curtis
+,
+Professor
+Pollock, Anthony
+,
+Associate Professor
+Prendergast, Catherine Jean
+,
+Professor
+Price, Julie P
+,
+Senior Lecturer
+Prior, Paul A
+,
+Professor
+Quaney, Kent J
+,
+Lecturer
+Raley, Jessica L
+,
+Instructor
+Ricketts, Scott
+,
+Senior Lecturer
+Ritter, Kelly Allison
+,
+Professor
+Roche, Daniel
+,
+Lecturer
+Rubins, John
+,
+Senior Lecturer
+Ruiz, Sandra
+,
+Assistant Professor
+Runkle, Stephen A
+,
+Senior Lecturer
+Russell, Lindsay Rose
+,
+Associate Professor
+Sanders, Ted
+,
+Assistant Professor
+Sellers, Jordan
+,
+Instructor
+Shakar, Alexander M
+,
+Associate Professor
+Slobodnik, Sydney James
+,
+SR INSTRUCTOR
+Somerville, Siobhan B
+,
+Associate Professor, English
+Soto Crespo, Ramon E
+,
+Associate Professor
+Stevens, Andrea
+,
+Associate Professor
+Trilling, Renee
+,
+Associate Professor
+Underwood, William E
+,
+Professor of Information Sciences
+Van Landingham, Corey
+,
+Visiting Assistant Professor
+Villanueva, Corina Avelita
+,
+Lecturer
+Weber, Rebecca
+,
+Senior Lecturer
+Wood, Gillen D\'Arcy
+,
+Professor
+Wright, David
+,
+Professor
+Entomology, Department of
+Allan, Brian F
+,
+Associate Professor
+Alleyne, Marianne
+,
+Assistant Professor
+Berenbaum, May R
+,
+Professor
+Cameron, Sydney Anne
+,
+Professor
+Dolezal, Adam Gregory
+,
+Assistant Professor
+Hanks, Lawrence M
+,
+Professor
+Harmon-Threatt, Alexandra Nicole
+,
+Assistant Professor
+Ngumbi, Esther Ndumi
+,
+Assistant Professor
+Robinson, Gene E
+,
+Professor
+Suarez, Andrew
+,
+Professor
+Whitfield, James Bryan
+,
+Professor
+Evolution, Ecology, and Behavior, Department of
+Anderson, Philip S L
+,
+Assistant Professor
+Bell, Alison Marie
+,
+Professor
+Caceres, Carla E
+,
+Professor
+Catchen, Julian Michael
+,
+Assistant Professor
+Cheng-De Vries, Chi-Hing C
+,
+Professor
+Fuller, Becky Claire
+,
+Professor
+Hauber, Mark Erno
+,
+Professor
+Paige, Ken N
+,
+Professor
+Roseman, Charles C
+,
+Associate Professor
+Suarez, Andrew
+,
+Professor
+French &amp; Italian, Department of
+Clay, Amy Lynette
+,
+TEACH ASST PROF
+Derhemi, Eda
+,
+TCH ASST PROF
+Fagyal, Zsuzsanna
+,
+Associate Professor
+Gaillard, Julie
+,
+Assistant Professor
+Hill, Laura C
+,
+Senior Lecturer
+Keller, Marcus
+,
+Associate Professor
+Mall, Laurence S
+,
+Associate Professor
+Mathy, Jean-Philippe R
+,
+Professor
+Mroz, Aurore Patricia
+,
+Assistant Professor
+Proulx, Francois
+,
+Associate Professor
+Reynolds, Felisa Vergara
+,
+Assistant Professor
+Rota, Emanuel
+,
+Associate Professor
+Rushing, Robert A
+,
+PROF, Comparative &amp; World Literature
+Stoppino, Eleonora
+,
+Associate Professor
+Gender and Women\'s Studies, Department of
+Barnes, Teresa Ann
+,
+Associate Professor
+Beauchamp, Toby Cason
+,
+Associate Professor
+Brown, Ruth Nicole
+,
+ASSOC PROF, Educ Policy, Orgzn &amp; Leadrshp
+Byrd, Jodi
+,
+Associate Professor
+Cole, Cheryl L
+,
+Professor and Head, Media &amp; Cinema Studies
+Flynn, Karen
+,
+Associate Professor
+Kashani, Maryam
+,
+Assistant Professor
+Mahaffey, Vicki
+,
+Professor
+Moussawi, Ghassan
+,
+Assistant Professor
+Nadeau, Chantal
+,
+Professor
+Ngo, Fiona
+,
+Associate Professor
+Nguyen, Mimi Thi
+,
+Associate Professor
+Somerville, Siobhan B
+,
+Associate Professor, English
+Geography &amp; Geographic Information Science, Department of
+Adovor Tsikudo, Alexander Kwame
+,
+Visiting Assistant Professor
+Best, James Leonard
+,
+Professor, Geology
+Cidell, Julie L
+,
+Professor
+Cienciala, Piotr
+,
+Assistant Professor
+Diao, Chunyuan
+,
+Assistant Professor
+Jefferson, Brian J
+,
+Associate Professor
+Kashem, Md Shakil Bin
+,
+Teaching Assistant Professor
+Kwan, Mei-Po
+Lara, Mark Jason
+,
+Assistant Professor
+McLafferty, Sara L
+,
+Professor
+Rhoads, Bruce L
+,
+Professor
+Sivapalan, Murugesu
+,
+Professor
+Wang, Shaowen
+,
+Professor and Department Head, Geography &amp; GIS
+Wilson, David
+,
+Professor
+Geology, Department of
+Altaner, Stephen P
+,
+Associate Professor
+Anders, Alison M
+,
+Associate Professor
+Best, James Leonard
+,
+Professor, Geology
+Christie, Max Lawrence
+,
+Lecturer
+Conroy, Jessica
+,
+Assistant Professor
+Druhan, Jennifer
+,
+Assistant Professor
+Fouke, Bruce W
+,
+Professor
+Gregg, Patricia
+,
+Assistant Professor
+Guenthner, William
+,
+Assistant Professor
+Johnson, Thomas Martin
+,
+Professor
+Liu, Lijun
+,
+Assistant Professor
+Lundstrom, Craig Campbell
+,
+Professor
+Parker, Gary
+,
+Professor
+Proistosescu, Cristian
+,
+Assistant Professor
+Sanford, Robert A
+,
+Research Associate Professor
+Stewart, Michael A
+,
+Clinical Associate Professor
+Wood, Gillen D\'Arcy
+,
+Professor
+Yang, Wendy
+,
+Associate Professor
+Germanic Languages and Literatures, Department of
+Hilger, Stephanie M
+,
+Professor
+Hoefig, Verena Jessica
+,
+Assistant Professor
+Hunt, Anna Elizabeth
+,
+Visiting Assistant Professor
+Johnson, Laurie R
+,
+Professor
+Malekin, Bjorn
+,
+Lecturer
+Niekerk, Carl Hendrik
+,
+Professor
+Pinkert, Anke
+,
+Associate Professor of Germanic Languages
+Wade, Mara R
+,
+Professor
+Webster, Charles Robert
+,
+Instructor
+History, Department of
+Asaka, Ikuko
+,
+Associate Professor
+Avrutin, Eugene Michael
+,
+Professor
+Barnes, Teresa Ann
+,
+Associate Professor
+Barrett, Marsha E
+,
+Assistant Professor
+Brennan, James Robert
+,
+Associate Professor
+Brosseder, Claudia Ruth
+,
+Associate Professor
+Burgos, Adrian
+,
+Professor
+Burton, Antoinette M
+,
+Professor
+Cha-Jua, Sundiata
+,
+ASSOC PROF, History
+Chaplin, Tamara Eileen
+,
+Associate Professor
+Chettiar, Teri Anne
+,
+Assistant Professor
+Chow, Kai-Wing
+,
+PROF, History
+Crowston, Clare H
+,
+Professor
+Cuno, Kenneth M
+,
+Professor
+Davila, Walter Jerome
+,
+Professor
+Espiritu, Augusto F
+,
+Associate Professor
+Fritzsche, Peter A
+,
+Professor
+Fu, Poshek
+,
+Professor
+Gilbert, Daniel
+,
+Associate Professor
+Hertzman, Marc Adam
+,
+Associate Professor
+Hoganson, Kristin Lee
+,
+Professor
+Hogarth, Rana
+,
+Assistant Professor
+Koslofsky, Craig M
+,
+Professor
+Mathisen, Ralph W
+,
+Professor
+McDuffie, Erik S
+,
+Associate Professor
+Morrissey, Robert Michael
+,
+Associate Professor
+Mumford, Kevin
+,
+Professor
+Nobili, Mauro
+,
+Assistant Professor
+Oberdeck, Kathryn J
+,
+Associate Professor
+Rabin, Dana
+,
+Professor
+Randolph, John W
+,
+Associate Professor
+Reagan, Leslie Jean
+,
+Professor
+Sepkoski, David C
+,
+Professor
+Steinberg, Mark D
+,
+Professor
+Symes, Carol Lynne
+,
+Associate Professor
+Todorova, Maria N
+,
+Professor
+Wilson, Roderick Ike
+,
+Assistant Professor
+Integrative Biology, School of
+Arias, Lily
+,
+Lecturer
+Clegg, Benjamin Frank
+,
+TCH ASST PROF
+Manaster, Joanne L
+,
+SR INSTR
+O\'Dwyer, Allison Alden
+,
+Instructor
+Latina/Latino Studies, Department of
+Cacho, Lisa Marie
+,
+Associate Professor
+Coyoca, David
+,
+Lecturer
+Dowling, Julie
+,
+Associate Professor
+Inda, Jonathan Xavier
+,
+Professor and Chair
+Lira, Natalie
+,
+Assistant Professor
+Molina, Isabel
+,
+PROF, Latina/Latino Studies
+Romero, Rolando J
+,
+Associate Professor
+Rosas, Gilberto
+,
+ASSOC PROF, Latina/Latino Studies
+Ruiz, Sandra
+,
+Assistant Professor
+Viruell-Fuentes, Edna A
+,
+Associate Professor
+Linguistics, Department of
+Ahyad, Honaida Yousuf
+,
+Lecturer
+Bhatt, Rakesh Mohan
+,
+Professor
+Bishop, Hugh
+,
+Lecturer
+Bowen, Michael Glen
+,
+Lecturer
+Carroll Curry, Elizabeth Ramsay
+,
+Lecturer
+Cooper, Leyla R
+,
+Lecturer
+Del Pinal, Guillermo
+,
+Assistant Professor
+Dold, Charles Norman
+,
+Lecturer
+Dunse, Amber M
+,
+Lecturer
+El Karkafi, Josephine
+,
+Instructor
+Faivre, Susan Kay
+,
+Senior Lecturer
+Franks, Suzanne Carla
+,
+TEACHING ASST PROF
+Gathogo, Mary Kagure
+,
+Lecturer
+Girju, Corina R
+,
+Professor
+Green, Jeffrey J
+,
+Visiting Assistant Professor
+Hualde, Jose Ignacio
+,
+Professor
+Huang, Jill Anne
+,
+Lecturer
+Ionin, Tania
+,
+Professor
+Kotnarowski, John E
+,
+Lecturer
+Lasersohn, Peter Nathan
+,
+Professor of Linguistics
+MacDonald, Jonathan Eric
+,
+Associate Professor
+Mishra, Mithilesh
+,
+Senior Lecturer
+Miszoglad, Eva Isabella
+,
+Lecturer
+Montrul, Silvina Andrea
+,
+PROF OF SPANISH, Linguistics
+Ozcan, Ayse
+,
+Lecturer
+Pennell, Jin Kim
+,
+Senior Lecturer
+Prentice, Julie Ann
+,
+Lecturer
+Rosado, Cassandra A
+,
+Lecturer
+Saadah, Eman
+,
+TCH ASSOC PROF
+Sadler, Randall W
+,
+Associate Professor
+Schwartz, Lane Oscar
+,
+Assistant Professor
+Shih, Chilin
+,
+Associate Professor
+Shosted, Ryan Keith
+,
+Associate Professor
+Sims, Linda
+,
+Lecturer
+Smalls, Krystal Ashlee
+,
+Assistant Professor
+Talic, Aida
+,
+Assistant Professor
+Tang, Yan
+,
+Assistant Professor
+Walters, Francis Scott
+,
+Lecturer
+Yan, Xun
+,
+Assistant Professor
+Yoon, James
+,
+Professor
+Young, John Austin
+,
+Lecturer
+Zalesov, Sergei Sergeevich
+,
+Lecturer
+Literatures, Cultures and Linguistics, School of
+Ahyad, Honaida Yousuf
+,
+Lecturer
+Pagura, Reynaldo J
+,
+Lecturer
+Phillips, Patricia Marie
+,
+Senior Lecturer
+Warburton, Kara Cordelia
+,
+Lecturer
+Mathematics, Department of
+Ahlgren, Scott David
+,
+Professor
+Ahmed, Iftikhar
+,
+Instructor
+Albin, Pierre
+,
+Associate Professor
+Allen, Patrick Brodie
+,
+Assistant Professor
+Ando, Matthew A
+,
+Professor
+Balog, Jozsef
+,
+Professor
+Baryshnikov, Yuliy
+,
+PROF, Electrical &amp; Computer Eng
+Berwick Evans, Daniel
+,
+Assistant Professor
+Boca, Florin
+,
+Professor
+Borman, Matthew Strom
+,
+Assistant Professor
+Bradlow, Steven B
+,
+Professor
+Bronski, Jared C
+,
+Professor
+Buysse, Klara Thea C
+,
+Instructor
+Chen, Xiaowei
+,
+Visiting Associate Professor
+Chong, Wing Fung
+,
+Assistant Professor
+Chuang, Jer-Chin
+,
+Instructor
+Cole, Paa Kow
+,
+Instructor
+DeVille, Lee Xavier
+,
+Professor
+Dey, Partha Sarathi
+,
+Assistant Professor
+Di Francesco, Philippe
+,
+Professor
+Dodd, Christopher Stephen
+,
+Assistant Professor
+Dunfield, Nathan M
+,
+Professor
+Dutta, Sankar P
+,
+Professor
+Duursma, Iwan M
+,
+Professor
+Elliot, Jason Walter
+,
+Lecturer
+Erdogan, Mehmet Burak
+,
+Professor
+Feng, Runhuan
+,
+Associate Professor
+Folwaczny, Lena Christine
+,
+Instructor
+Ford, Kevin
+,
+Professor
+Guzman, Rosemary Kay
+,
+TEACHING ASST PROF
+Haboush, William J
+,
+Professor
+Heller, Jeremiah Ben
+,
+Assistant Professor
+Hieronymi, Philipp Christan Karl
+,
+Associate Professor
+Hinkkanen, Aimo H J
+,
+Professor
+Hirani, Anil Nirmal
+,
+Associate Professor
+Hoffmeister, April Michelle
+,
+Senior Lecturer
+Hur, Mi Kyoung
+,
+Professor
+Ivanov, Sergei V
+,
+Professor
+Ji, Ran
+,
+Instructor
+Junge, Marius
+,
+Professor
+Katz, Sheldon
+,
+Professor
+Kedem, Rinat
+,
+Professor
+Kerman, Ely
+,
+Professor
+Kirkpatrick, Kay L
+,
+Associate Professor
+Kirr, Eduard-Wilhelm
+,
+Associate Professor
+Kostochka, Alexandr V
+,
+Professor
+Kutzarova-Ford, Denka Nikolova
+,
+Professor
+La Nave, Gabriele
+,
+Research Assistant Professor
+Laugesen, Richard S
+,
+Professor
+Leininger, Christopher Jay
+,
+Professor
+Lerman, Eugene M
+,
+Professor
+Li, Xiaochun
+,
+Professor
+Linders, Daniel Hemant
+,
+Assistant Professor
+Loja Fernandes, Rui Antonio
+,
+Professor
+Manfroi, Aldo J
+,
+Senior Lecturer
+McCarthy, Randy
+,
+Professor
+Mineyev, Igor
+,
+Professor
+Murphy, Robert Francis
+,
+Instructor
+Nawaz, Tayyab
+,
+Lecturer
+Nikolaev, Igor G
+,
+Professor
+Oikhberg, Timur
+,
+Research Associate Professor
+Pascaleff, James
+,
+Assistant Professor
+Petrickova, Sarka
+,
+Lecturer
+Placzek, Laura Elizabeth
+,
+Instructor
+Rapti, Zoi
+,
+Associate Professor
+Rezk, Charles W
+,
+Professor
+Reznick, Bruce A
+,
+Professor
+Song, Renming
+,
+Professor
+Sowers, Richard B
+,
+Professor
+Stojanoska, Vesna
+,
+Assistant Professor
+To, Jin Hyung
+,
+Lecturer
+Tolman, Susan
+,
+Professor
+Tserunyan, Anush
+,
+Assistant Professor
+Tumanov, Alexander E
+,
+Professor
+Tyson, Jeremy
+,
+Professor
+Tzirakis, Nikolaos
+,
+Professor
+van den Dries, Lou
+,
+Professor
+Walton, Chelsea M
+,
+Associate Professor
+Whittlesey, Kim
+,
+Lecturer
+Yong, Alexander Ng Tengfat
+,
+Professor
+Zaharescu, Alexandru
+,
+Professor
+Zharnitsky, Vadim
+,
+Professor
+Microbiology, Department of
+Blanke, Steven Robert
+,
+Professor
+Brooke, Christopher Byron
+,
+Assistant Professor
+Cronan, John E
+,
+Professor
+Imlay, James A
+,
+Professor
+Kehl-Fie, Thomas
+,
+Assistant Professor
+Kieffer, Collin David
+,
+Assistant Professor
+Kuzminov, Andrei
+,
+Professor
+Metcalf, William W
+,
+Professor
+Olsen, Gary J
+,
+Professor
+Shisler, Joanna L
+,
+AFFILIATE, IGB, Institute for Genomic Biology
+Slauch, James McClurg
+,
+Professor
+Vanderpool, Carin
+,
+Professor
+Whitaker, Rachel
+,
+Professor
+Wilson, Brenda Anne
+,
+Professor
+Molecular and Cellular Biology, School of
+Adams, Stephanie Melissa
+,
+COMNC &amp; MKTG COORD
+Campbell, Lance
+,
+Software Architect
+Carter, Delynn M
+,
+HUMAN RESOURCE ASSOCIATE
+Debevec, Andrew H
+,
+IT Specialist, School of Integrative Biology &amp; School of Molecular and Cellular Biology
+Haas, Jeffrey S
+,
+DIR OF NETWORKED INFO
+Mansfield, Holly Ann
+,
+Administrative Aide
+Schlipf, Karl Frederick
+,
+RES PRGMR
+Uebele, Thom
+,
+Senior Research Programmer
+Molecular and Integrative Physiology, Department of
+Anakk, Sayeepriyadarshini
+,
+Associate Professor
+Bagchi, Milan K
+,
+Professor
+Bolton, Eric C
+,
+Associate Professor
+Christian, Catherine
+,
+Assistant Professor
+Chung, Hee Jung
+,
+Associate Professor
+Grosman, Claudio F
+,
+Professor
+Kemper, Kim Jongsook
+,
+Professor
+Llano, Daniel Adolfo
+,
+Associate Professor
+Nelson, Erik
+,
+Assistant Professor
+Raetzman, Lori T
+,
+Associate Professor
+Tsai, Nien-Pei
+,
+Assistant Professor
+Philosophy, Department of
+Ben Moshe, Nir
+,
+Assistant Professor
+Bojanowski, Jochen
+,
+Teaching Assistant Professor
+Del Pinal, Guillermo
+,
+Assistant Professor
+Hensley, Ian Maurer
+,
+Lecturer
+Kishida, Kohei
+,
+Assistant Professor
+Levinstein, Benjamin A
+,
+Assistant Professor
+Livengood, Jonathan M
+,
+Associate Professor
+Saenz, Noel Blas
+,
+Assistant Professor
+Sanders, Kirk
+,
+Associate Professor &amp; Head, Department of Philosophy
+Savonius-Wroth, Sami-Juhani
+,
+TEACHING ASST PROF
+Sussman, David George
+,
+Associate Professor
+Varden, Helga
+,
+Associate Professor
+Weaver, Christopher Gregory
+,
+Assistant Professor
+Weinberg, Shelley E
+,
+Associate Professor
+Plant Biology, Department of
+Chen, Liqing
+,
+Assistant Professor
+Conroy, Jessica
+,
+Assistant Professor
+Dalling, James W
+,
+Professor
+Delucia, Evan H
+,
+Professor
+Downie, Stephen R
+,
+Professor
+Heath, Katy Denise
+,
+Associate Professor
+Lara, Mark Jason
+,
+Assistant Professor
+Leakey, Andrew
+,
+Professor
+Long, Stephen P
+,
+DEPUTY DIRECTOR, EBI, Institute for Genomic Biology
+Marshall-Colon, Amy
+,
+Assistant Professor
+Ming, Ray R
+,
+Professor
+O\'Dwyer, James Patrick
+,
+Associate Professor
+Ort, Donald Richard
+,
+Professor
+Punyasena, Surangi W
+,
+Associate Professor
+Yang, Wendy
+,
+Associate Professor
+Political Science, Department of
+Althaus, Scott
+,
+Director, Cline Center for Advanced Social Research
+Ashley, Jeffrey Stephens
+,
+Adjunct Professor
+Bowers, Jacob W
+,
+Associate Professor
+Canache, Damarys Josefina
+,
+Professor
+Carroll, Robert J
+,
+Assistant Professor
+Cho, Wendy K Tam
+,
+Professor
+Dai, Xinyuan
+,
+Associate Professor
+Frost, Samantha L
+,
+Professor
+Gaines, Brian J
+,
+Professor
+Grossman, Nicholas
+,
+TEACHING ASST PROF
+Guo, Xiaoli
+,
+Lecturer
+Henehan, Marie Theresa
+,
+Lecturer
+Kourtikakis, Konstantinos
+,
+TEACHING ASSOC PROF
+Ksiazkiewicz, Aleksander Jan
+,
+Assistant Professor
+Leff, Carol Skalnik
+,
+Associate Professor
+Livny, Avital
+,
+Assistant Professor
+Miller, Benjamin Michael
+,
+Assistant Professor
+Mondak, Jeffery J
+,
+Professor
+Nagashima, Daniel
+,
+Visiting Assistant Professor
+Pahre, Robert David
+,
+Professor
+Prorok, Alyssa Kathleen
+,
+Assistant Professor
+Rudolph, Thomas J
+,
+Professor
+Seitz, Steven T
+,
+Associate Professor
+Sin, Gisela
+,
+Associate Professor
+Uribe-McGuire, Alicia Bernice
+,
+Assistant Professor
+Vasquez, John A
+,
+Professor
+Winters, Matthew Stephen
+,
+Associate Professor
+Wong, Cara J
+,
+Associate Professor
+Psychology, Department of
+Aber, Mark S
+,
+Associate Professor
+Albarracin, Dolores
+,
+Professor
+Allen, Nicole E
+,
+Professor
+Baillargeon, Renee L
+,
+Professor
+Barbey, Aron Keith
+,
+Professor
+Beck, Diane M
+,
+Professor
+Benjamin, Aaron S
+,
+Professor
+Berenbaum, Howard
+,
+Professor
+Briley, Daniel Andrew
+,
+Assistant Professor
+Chan, Man Pui Sally
+,
+Research Assistant Professor
+Cohen, Amy Paige
+,
+Clinical Assistant Professor
+Cohen, Dov
+,
+Professor
+Cohen, Joseph Rich
+,
+Assistant Professor
+Cohen, Neal J
+,
+Director, Interdisciplinary Health Sciences Institute (IHSI)
+Dell, Gary S
+,
+Professor
+Derringer, Jaime Lane
+,
+Assistant Professor
+Dolcos, Florin
+,
+Associate Professor
+Dolcos, Sanda Monica
+,
+Research Assistant Professor
+Fabiani, Monica
+,
+Professor
+Fairbairn, Catharine Edith Ann
+,
+Assistant Professor
+Federmeier, Kara D
+,
+Professor
+Fisher, Cynthia L
+,
+Professor
+Fraley, Robert Christopher
+,
+Professor
+Gratton, Gabriele
+,
+Professor
+Gulley, Joshua M
+,
+Associate Professor
+Hankin, Benjamin L
+,
+Professor
+Heller, Wendy
+,
+Professor
+Hinman, James R
+,
+Assistant Professor
+Hummel, John E
+,
+Professor
+Hunter, Carla Desi-Ann
+,
+Associate Professor
+Hyde, Daniel
+,
+Associate Professor
+Juraska, Janice M
+,
+Professor
+Koehn, Hans Friedrich
+,
+Associate Professor
+Kwapil, Thomas Richard
+,
+Professor
+Laurent, Heidemarie Kaiser
+,
+Associate Professor
+Laurent, Sean Michael
+,
+Assistant Professor
+Leskis, Kathryn Kurlakowsky
+,
+Clinical Assistant Professor, Psychology
+Liang, Nu-Chu
+,
+Assistant Professor
+Liu, Yihao
+,
+Assistant Professor
+Lleras, Alejandro
+,
+Professor
+Lleras Buetti, Simona
+,
+Research Assistant Professor
+Lyubansky, Mikhail
+,
+TEACHING ASSOC PROF
+Menard, Christopher
+,
+Licensed Clinical Psychologist
+Miller, Andrea L
+,
+Visiting Assistant Professor
+Montag, Jessica Lena
+,
+Assistant Professor
+Newman, Daniel A
+,
+Professor
+Pomerantz, Eva Marie
+,
+Professor
+Regenwetter, Michel
+,
+Professor
+Rhodes, Justin S
+,
+Professor
+Roberts, Brent W
+,
+Professor
+Rounds, James
+,
+Professor
+Rudolph, Karen D
+,
+Professor
+Sadaghiani, Sepideh
+,
+Assistant Professor
+Sahakyan, Lili
+,
+Associate Professor
+Shenouda, Christine Kamel-George
+,
+TEACH ASST PROF
+Simons, Daniel J
+,
+Professor
+Srull, Thomas Kevin
+,
+Professor
+Stern, Chadly Daniel
+,
+Assistant Professor
+Tancredy, Caroline M
+,
+TEACHING ASST PROF
+Todd, Nathan R
+,
+Associate Professor
+Travis, Lisa L
+,
+Senior Lecturer
+Wang, Michelle Yongmei
+,
+Associate Professor
+Wang, Ranxiao
+,
+Professor
+Willits, Jon Anthony
+,
+Assistant Professor
+Religion, Department of
+Dann, Michael H
+,
+Assistant Professor
+Ebel, Jonathan H
+,
+Professor
+Hoffman, Valerie J
+,
+Professor
+Layton, Richard A
+,
+Associate Professor
+Mayer, Alexander Leonhard
+,
+ASSOC PROF, Religion
+Mehta, Rini Bhattacharya
+,
+Assistant Professor of Comparative Literature
+Newman, Adam L
+,
+Lecturer
+Rosenstock, Bruce
+,
+Professor
+Weiss, Dov Yehuda
+,
+Associate Professor
+Slavic Languages and Literatures, Department of
+Cooper, David
+,
+Associate Professor
+Davies Brenier, Laura
+,
+Lecturer
+Gasyna, George Zbigniew
+,
+Associate Professor
+Hutchens, Jack James
+,
+Lecturer
+Ivashkiv, Roman Zinoviyovych
+,
+Lecturer
+Kaganovsky, Lilya
+,
+PROF, Slavic Languages &amp; Literature
+Murav, Harriet Lisa
+,
+PROF, Slavic Languages &amp; Literature
+Sobol, Valeria
+,
+Associate Professor
+Tempest, Richard V
+,
+Associate Professor, Department of Slavic Languages &amp; Literatures
+Sociology, Department of
+Akresh, Ilana Redstone
+,
+Associate Professor
+Atiles Osoria, Jose
+,
+Visiting Assistant Professor
+Bayat, Asef
+,
+Professor
+Buckley, Cynthia
+,
+Professor
+Clarke, Caitlin Leeann
+,
+Visiting Assistant Professor
+Dill, Brian
+,
+Associate Professor
+Gille, Zsuzsa
+,
+Professor
+Leicht, Kevin
+,
+Professor
+Liao, Tim Futing
+,
+Professor
+Marshall, Anna-Maria
+,
+Associate Professor
+Mendenhall, Ruby
+,
+ASSOC PROF, African American Studies
+Moussawi, Ghassan
+,
+Assistant Professor
+Steward, Dan
+,
+TEACHING ASST PROF
+Spanish and Portuguese, Department of
+Bowles, Melissa A
+,
+Associate Professor
+Cervantes, Vincent Dereck
+,
+Assistant Professor
+Delgado, Luisa-Elena
+,
+Professor
+Escobar, Anna Maria
+,
+Professor
+Fornoff, Carolyn H
+,
+Assistant Professor
+Goebel, Raquel Castro
+,
+Instructor
+Goldman, Dara Ellen
+,
+Associate Professor
+Hualde, Jose Ignacio
+,
+Professor
+Irigoyen Garcia, Javier
+,
+Associate Professor
+Jegerski, Jill
+,
+Associate Professor
+Karam, John Tofik
+,
+Associate Professor
+Ledesma, Eduardo
+,
+Associate Professor
+MacDonald, Jonathan Eric
+,
+Associate Professor
+Martinez-Quiroga, Pilar
+,
+TCH ASST PROF
+Melendez, Mariselle
+,
+PROF OF SPANISH
+Montrul, Silvina Andrea
+,
+PROF OF SPANISH, Linguistics
+Tolliver, Joyce L
+,
+DIRECTOR, Ctr Translation Studies
+Statistics, Department of
+Bravo De Guenni, Lelys
+,
+Visiting Associate Professor
+Chatterjee, Sabyasachi
+,
+Assistant Professor
+Chen, Xiaohui
+,
+Associate Professor
+Chen, Yuguo
+,
+Professor
+Chong, Wing Fung
+,
+Assistant Professor
+Culpepper, Steven Andrew
+,
+Associate Professor
+Dalpiaz, David M
+,
+Lecturer
+Douglas, Jeffrey A
+,
+Professor
+Eck, Daniel J
+,
+Assistant Professor
+Eddelbuettel, Dirk
+,
+ADJ CLIN PROF
+Fellouris, Georgios
+,
+Assistant Professor
+Findley, Kelly Patrick
+,
+TEACHING ASST PROF
+Fireman, Ellen Sue
+,
+Senior Lecturer
+Flanagan, Karle Ann
+,
+SR INSTRUCTOR
+Glosemeyer, Darren
+,
+SR INSTR
+Kinson, Christopher LeRon
+,
+TEACHING ASST PROF
+Lee, Hyoeun
+,
+Visiting Assistant Professor
+Li, Bo
+,
+Professor
+Li, Xinran
+,
+Assistant Professor
+Liang, Feng
+,
+Associate Professor
+Linville, Charles D
+,
+Visiting Associate Professor
+Narisetty, Naveennaidu
+,
+Assistant Professor
+Park, Trevor H
+,
+Clinical Associate Professor
+Ravat, Uma Virendra
+,
+Lecturer
+Shao, Xiaofeng
+,
+Professor
+Simpson, Douglas G
+,
+Professor
+Stepanov, Alexey G
+,
+Senior Lecturer
+Unger, David
+,
+SR INSTR
+Wang, Michelle Yongmei
+,
+Associate Professor
+Yang, Yun
+,
+Assistant Professor
+Yu, Albert
+,
+Instructor
+Zhao, Sihai Dave
+,
+Assistant Professor
+Zhu, Ruoqing
+,
+Assistant Professor
+Library Administration, University of Illinois
+Library Administration, University of Illinois
+Christensen, Sarah M
+,
+Visual Resources and Outreach Specialist
+Han, Myung-Ja
+,
+Professor
+Hinchliffe, Lisa W
+,
+Professor/Coordinator for Information Literacy Services &amp; Instruction, University Library
+Kaufman, Paula T
+,
+Professor Emerita, University Library
+Kruger, Mary E
+,
+(Betsy Kruger)
+Namachchivaya, Beth Sandore
+,
+ASSOC UNIV LIBRN RESEARCH
+Rudasill, Lynne M
+,
+Global Studies Librarian, Library Admin
+Schmidt, Karen A
+,
+Emeriti Faculty
+Searing, Susan Ellis
+,
+Professor Emerita, Library
+Swain, Ellen D
+,
+PROF LIB ADMN &amp; ARCHIVIST
+Teper, Jennifer Hain
+,
+PROF LIB/PRES/CONS LIB
+Teper, Thomas H
+,
+Associate Professor, University Library
+Woodard, Beth S
+Wright, Joyce C
+Media, College of
+Media, College of
+Chambers, Jason Paul
+,
+Associate Professor
+Chan, Anita
+,
+Associate Professor, Information Sciences
+Ciafone, Amanda M
+,
+Assistant Professor, Media &amp; Cinema Studies
+Clifton, Dionne J
+,
+Lecturer
+Cole, Cheryl L
+,
+Professor and Head, Media &amp; Cinema Studies
+Collins, Janice Marie
+,
+Assistant Professor
+Craft, Stephanie Lynne
+,
+Department Head, Journalism
+Dash, Leon Decosta
+,
+Swanlund Chair Professor of Journalism
+Duff, Brittany
+,
+Associate Professor
+Follis, Jennifer E
+,
+Lecturer
+Font Bas, Victor
+,
+Lecturer
+Hall, Steven Ray
+,
+Lecturer
+Ham, Chang Dae
+,
+Assistant Professor
+Hay, James W
+,
+Professor of Media &amp; Cinema Studies
+Heuman, Joshua M
+,
+TEACHING ASST PROF
+Hitchon, Jacqueline Claire
+,
+Professor
+Holden, Benjamin A
+,
+TEACHING ASSOC PROF
+Houston, Joseph Brantley
+,
+Knight Chair Professor in Investigative and Enterprise Reporting
+Johnson, Brian K
+,
+Professor, Journalism
+Ledford, Charles
+,
+Assistant Professor
+Long, Derek R
+,
+Assistant Professor
+Mabry-Flynn, Amanda Dell
+,
+Assistant Professor
+McDonald, Jean A
+,
+Lecturer
+Meron, Shachar
+,
+Senior Lecturer
+Meyer, Eric K
+,
+Associate Professor of Journalism
+Nelson, Michelle Renee
+,
+Associate Professor, Acting Department Head
+Ng, Yee Man Margaret
+,
+Assistant Professor
+Oh, Sanghwa
+,
+Assistant Professor
+Oyallon-Koloski, Jenny
+,
+Assistant Professor
+Reisner, Ann E
+,
+Associate Professor
+Rosenstein, Jay Mark
+,
+Professor
+Sar, Sela
+,
+Associate Professor
+Sheldon, Peter S
+,
+Lecturer, Department of Advertising
+Slater, Janet S
+,
+Chief Marketing Officer
+Sotirovic, Mirjana
+,
+Associate Professor
+Su, Leona Yi-Fan
+,
+Assistant Professor
+Sulkin, Tracy E
+,
+Dean
+Taneja, Harsh
+,
+Assistant Professor
+Turnock, Julie
+,
+Associate Professor
+Usher, Nikki
+,
+Associate Professor
+Valdivia, Angharad N
+,
+Research Professor of Communications
+Vargas, Patrick T
+,
+Associate Professor
+Wirtz, John
+,
+Associate Professor
+Wise, Kevin R
+,
+Professor
+Yao, Mike Zheng Yu
+,
+Professor
+Military Science (Army ROTC), Department of
+Military Science (Army ROTC), Department of
+Brown, Emily M
+,
+Office Support Associate (lu)
+Gannon, Todd Erik
+,
+ADJ MILITARY INSTRUCTOR
+Neang, Dorian
+,
+ADJ MILITARY INSTRUCTOR
+Social Work, School of
+Social Work, School of
+Ackerson, Barry James
+,
+Emeritus Professor
+Anderson, Steven G
+,
+Dean
+Andrade, Flavia Cristina Drumond
+,
+Associate Professor
+Balgopal, Pallassana R
+,
+Professor Emeritus
+Billiot, Shanondora
+,
+Assistant Professor
+Carter-Black, Janet D
+,
+TEACHING PROF
+Cintron, Valerie
+,
+CLINICAL ASST PROF
+Cole, Susan Ann
+,
+Associate Professor
+Earls Larrison, Tara
+,
+TEACHING ASSOC PROF
+Escobar-Sawicki, Christine
+,
+Clinical Associate Professor
+Faulkner, Sherrie Marie
+,
+Clinical Associate Professor
+Fuller, Tamara L
+,
+Director of Children and Family Research Center (CFRC)
+Garthe, Rachel Cheree
+,
+Assistant Professor
+Harris, Wendy G
+,
+Assistant Director for Administrative Services
+Havlicek, Judith Regina
+,
+Associate Professor
+Hernandez, Rosalba
+,
+Assistant Professor
+Isserman, Noah J
+,
+Faculty Director, Origin Ventures Academy for Entrepreneurial Leadership
+Kim, Hyunil
+,
+Assistant Professor
+Kopels, Sandra Lee
+,
+Professor
+Korr, Wynne Sandra
+,
+Professor
+Larrison, Christopher Rollo
+,
+Associate Professor
+Leytham Powell, Tara
+,
+Assistant Professor
+Li, Hong
+,
+Associate Professor
+Liechty, Janet M
+,
+Associate Professor
+Lindsey, Brenda Coble
+,
+Clinical Associate Professor
+Lough, Benjamin James
+,
+Associate Professor
+Mauck, Carol W
+,
+CLINICAL ASST PROF
+Maurer, Mary Frances
+,
+Clinical Associate Professor
+McDonald, Hellen Gerolymatos
+,
+Clinical Associate Professor
+Munoz-Najar, Julie Lynn
+,
+Clinical Assistant Professor
+Ostler, Teresa Ann
+,
+Professor
+Piedra, Lissette
+,
+Associate Professor
+Smith, Douglas Cary
+,
+Associate Professor
+Tabb, Karen M.
+,
+Assistant Professor
+Tan, Kevin Poh Hiong
+,
+Assistant Professor
+Wade, Ryan
+,
+Assistant Professor
+Wegmann, Kate Melissa
+,
+Assistant Professor
+White-Gibson, Nancy Louise
+Wilson Smith, Carol Jane
+,
+Academic Hourly
+Windsor, Liliane
+,
+Associate Professor
+Wu, Chi-Fang
+,
+Associate Professor
+Zhan, Min
+,
+Professor
+Veterinary Medicine, College of
+Veterinary Medicine, College of
+Agapis, Dikaia-Loukia
+,
+COORD INTL PROGRAMS, Vet Medicine Administration
+Aguiar, Andrea
+,
+Research Assistant Professor, Comparative Biosciences
+Alam, Md Tauqeer
+,
+Research Assistant Professor
+Aldridge, Brian Michael
+,
+Clinical Professor, Veterinary Clinical Medicine
+Aldridge, Russhawn Jackson
+,
+Visiting Clinical Instructor, Veterinary Clinical Medicine
+Allender, Matthew C
+,
+Assistant Professor, Veterinary Clinical Medicine
+Allison, Sarah O
+,
+Associate Director, Division of Animal Resources
+Ambrisko, Tamas Dezso
+,
+Assistant Professor of Anesthesiology and Pain Management
+Austin, Scott Matthew
+,
+Clinical Associate Professor, Veterinary Clinical Medicine
+Bagchi, Indrani C
+,
+Professor and Assistant Head, Comparative Biosciences
+Barger, Anne M
+,
+Clinical Professor, Pathobiology
+Biehl, Michael LeRoy
+,
+Clinical Professor, Comparative Biosciences
+Cappa, Tony
+,
+Clinical Instructor
+Colegrove-Calvey, Kathleen Mary
+,
+Clinical Associate Professor, Veterinary Diagnostic Laboratory
+Connolly, Sara L
+,
+Clinical Assistant Professor
+Constable, Peter D
+,
+Dean
+Das, Aditi
+,
+Assistant Professor, Comparative Biosciences
+Davila, Juanmahel
+,
+Teaching Assistant Professor
+De Almeida, Diego Linhares
+,
+Instructor
+Delaney, Martha Ann
+,
+Clinical Assistant Professor, Zoological Pathology Program
+Dikanov, Sergei
+,
+Research Associate Professor
+Fadl-Alla, Bahaa A
+,
+Instructor
+Fan, Timothy M
+,
+Professor, Veterinary Clinical Medicine
+Firkins, Lawrence D
+,
+Professor, Pathobiology
+Flaws, Jodi A
+,
+Professor, Comparative Biosciences
+Fleming, Kathryn Marie
+,
+Assistant Professor of Ophthalmology, Veterinary Clinical Medicine
+Foreman, Jonathan H
+,
+Associate Dean For Academic &amp; Student Affairs
+Foss, Kari Denise
+,
+Assistant Professor of Neurology, Veterinary Clinical Medicine
+Frederico Canisso, Igor
+,
+Assistant Professor, Theriogenology (Equine Reproduction)
+Fredrickson, Richard Lincoln
+,
+Director, Veterinary Diagnostic Laboratory
+French, Dennis D
+,
+Head, Veterinary Clinical Medicine
+Fries, Ryan C
+,
+Assistant Professor, Cardiology
+Gal, Arnon
+,
+Assistant Professor, Small Animal Internal Medicine
+Garrett, Edgar F
+,
+Clinical Instructor, Veterinary Clinical Medicine
+Garrett, Laura Diane
+,
+Clinical Professor, Veterinary Clinical Medicine
+Goodly, Lyndon J
+,
+EXEC ASSOC VCHANC RES/INST VET
+Grossman, Brett Andrew
+,
+Instructor
+Gutierrez Nibeyro, Santiago Daniel
+,
+Clinical Associate Professor, Veterinary Clinical Medicine
+Hafez, Shireen
+,
+Clinical Associate Professor of Anatomy
+Hague, Devon Wallis
+,
+DVM, DACVIM (Neurology)
+Haraschak, Jenica Lynn
+,
+Clinical Assistant Professor
+Harper, Tisha Adele Maria
+,
+Clinical Assistant Professor, Veterinary Teaching Hospital
+Herrmann, John Arthur
+,
+Clinical Associate Professor, Veterinary Clinical Medicine
+Hoien-Dalen, Patricia Sue
+,
+Lecturer
+Hoyer, Lois L
+,
+Professor, Pathobiology
+Hsiao, Shih-Hsuan
+,
+Clinical Assistant Professor, Veterinary Diagnostic Laboratory
+Inoue, Makoto
+,
+Assistant Professor, Comparative Biosciences
+Jarosinski, Keith William
+,
+Assistant Professor
+Johnson-Walker, Yvette Joyce
+,
+Clinical Instructor, Veterinary Clinical Medicine
+Keating, Stephanie
+,
+CLIN ASST PROF, Veterinary Teaching Hospital
+Keller, Krista A
+,
+Assistant Professor
+Kemper, Ann Marie
+,
+Instructor
+Kinsel, Michael J
+,
+Clinical Associate Professor, Veterinary Diagnostic Laboratory, Zoological Pathology
+Kling, Katherine E
+,
+Clinical Assistant Professor
+Ko, CheMyong
+,
+Professor, Comparative Biosciences
+Landolfi, Jennifer
+,
+Clinical Assistant Professor
+Langan, Jennifer N
+,
+Clinical Professor, Veterinary Clinical Medicine
+Lau, Gee
+,
+Associate Professor, Pathobiology
+Lowe, James F
+,
+Director, College of Veterinary Medicine i-Learning Center
+Lowery, Thomas Guy
+,
+Instructor
+Lundberg, Alycen Paige
+,
+Assistant Professor, Medical Oncology
+Maddox, Carol W
+,
+Professor and Interim Head, Pathobiology
+Madsen, Lori
+,
+Instructor
+Mahoney, Megan M
+,
+Associate Professor
+Marshall, Tessa S
+,
+Lecturer
+McCoy, Annette Marie
+,
+Assistant Professor, Equine Surgery
+McMichael, Maureen
+,
+Professor, Veterinary Clinical Medicine
+McNeil, Leslie Klis
+,
+Assistant Director, Clinical Skills Learning Center
+Mei, Wenyan
+,
+Research Assistant Professor, Department of Comparative Biosciences
+Miller, Gay Y
+,
+Professor, Epidemiology and Preventive Medicine
+Mitek, Ashley Elaine
+,
+Diplomate, American College of Veterinary Anesthesia &amp; Analgesia
+Moran, Clara
+,
+Lecturer
+Nanjappa, Som G.
+,
+Assistant Professor of Immunology
+Phillips, Heidi
+,
+Associate Professor, Veterinary Clinical Medicine
+Pieper, Jason Bradley
+,
+Clinical Assistant Professor of Dermatology
+Qiao, Huanyu
+,
+Assistant Professor
+Reddi, Prabhakara Poothi
+,
+Associate Professor
+Reich, Sarah K
+,
+Instructor
+Reinhart Dungar, Jennifer Marie
+,
+Assistant Professor, Veterinary Clinical Medicine
+Ribeiro de Oliveira, Cintia
+,
+INSTR OF TELERADIOLOGY, Veterinary Teaching Hospital
+Ridgway, Marcella D
+,
+Clinical Professor, Veterinary Clinical Medicine
+Roady, Patrick Joseph
+,
+Clinical Assistant Professor
+Rock, Daniel L
+,
+Professor, Pathobiology
+Rosser, Michael F
+,
+Instructor, Veterinary Diagnostic Laboratory
+Rudolph, Uwe
+,
+Professor and Head
+Samuelson, Jonathan Peter
+,
+Clinical Assistant Professor
+Sander, Sam
+,
+Clinical Assistant Professor, Zoo and Wildlife Medicine
+Sander, William E
+,
+Assistant Professor, Preventive Medicine and Public Health
+Schantz, Susan L
+,
+Professor, Comparative Biosciences
+Schnelle, Amy N
+,
+Clinical Assistant Professor
+Seals, Christopher D
+,
+Assistant Professor, Veterinary Clinical Medicine
+Selting, Kimberly Anne
+,
+Associate Professor
+Sermersheim, Steven Michael
+,
+Instructor
+Slaughter, Amber Nicole
+,
+Instructor
+Smith, Rebecca Lee
+,
+Assistant Professor of Epidemiology
+Somrak, Amy Joan
+,
+Clinical Assistant Professor
+Souza, Clarissa Pimentel De
+,
+Assistant Professor, Dermatology and Otology Clinic
+Spinella, Michael J
+,
+Professor, Comparative Biosciences
+Spinella, Sarah Joy
+,
+Assistant Professor, Comparative Biosciences
+Sprandel, Ian Tyson
+,
+Lecturer
+Stewart, Matthew C
+,
+Professor, Veterinary Clinical Medicine
+Sullivan, Drew Roley
+,
+Instructor
+Terio, Karen
+,
+Chief, Zoological Pathology Program
+Tonozzi, Caroline C
+,
+Clinical Assistant Professor, Veterinary Clinical Medicine
+Urbasic, Ashlee Sonya
+,
+Instructor
+Vieson, Miranda
+,
+Clinical Assistant Professor
+Vinayak, Sumiti
+,
+Assistant Professor
+Vitt, Jordan Prarinya
+,
+Clinical Assistant Professor of Cardiology, Veterinary Clinical Medicine
+Wagner, Sharon S
+,
+Instructor, Veterinary Clinical Medicine
+Wang, Bo
+,
+Assistant Professor
+Wang, Leyi
+,
+Clinical Assistant Professor, Veterinary Diagnostic Laboratory
+Welle, Kenneth R
+,
+Clinical Assistant Professor, Veterinary Clinical Medicine
+Whittington, Julia K
+,
+Clinical Professor, Veterinary Clinical Medicine
+Wilkins, Pamela A
+,
+Professor, Veterinary Clinical Medicine
+Williams, David A
+,
+Professor, Veterinary Clinical Medicine
+Witola, William Harold
+,
+Assistant Professor of Veterinary Parasitology.
+Yang, Jing
+,
+Professor, Department of Comparative Biosciences
+Yoo, Dongwan
+,
+Professor of Virology, Pathobiology
+Zhang, Weiping
+,
+Professor
+Zhou, Sherry Qi
+,
+Visiting Research Associate Professor, Comparative Biosciences
+Ziv-Gal, Ayelet
+,
+Research Assistant Professor
+Zuckermann, Federico A
+,
+Professor, Pathobiology
+\r\n
+\r\n\r\n
+\r\n
+\r\n\r\n
+\r\n
+\r\n
+\r\n
+\r\n
+Quicklinks
+\r\n
+\r\n
+Calendars
+\r\n
+Directory
+\r\n
+Campus Map
+\r\n
+Email
+\r\n
+Weather
+\r\n
+Giving
+\r\n
+Identity Standards
+\r\n
+Contact
+\r\n
+\r\n
+\r\n\r\n
+\r\n
+Resources for
+\r\n
+\r\n
+Students
+\r\n
+Faculty &amp; Staff
+\r\n
+Alumni
+\r\n
+Parents
+\r\n
+\r\n
+\r\n\r\n
+\r\n
+Campus Resources
+\r\n
+\r\n
+The Next 150 Strategic Plan
+\r\n
+Inclusive Illinois
+\r\n
+Emergency Info
+\r\n
+Land Acknowledgement Statement
+\r\n
+Ready to Respond Campus
+\r\n
+Organizational Chart
+\r\n
+University Policies
+\r\n
+Employment
+\r\n
+\r\n
+\r\n\r\n
+\r\n
+UI System
+\r\n
+\r\n
+System Offices
+\r\n
+UIC
+\r\n
+UIS
+\r\n
+U of I Online
+\r\n
+\r\n
+\r\n
+\r\n
+\r\n
+\r\n
+Illinois Homepage
+\r\n
+\r\n
+\r\n\r\n
+\r\n
+\r\n\r\n
+\r\n
+\r\n
+\r\n
+Website Info
+\r\n
+\r\n
+Copyright
+\r\n
+Accessibility
+\r\n
+Privacy
+\r\n
+Feedback
+\r\n
+\r\n
+\r\n
+\r\n\r\n \r\n
+\r\n
+\r\n
+\r\n
+Illinois Social Media
+\r\n
+\r\n
+\r\n
+Twitter
+\r\n
+\r\n
+Facebook
+\r\n
+\r\n
+LinkedIn
+\r\n
+\r\n
+Instagram
+\r\n
+\r\n
+YouTube
+\r\n
+\r\n
+Pinterest
+\r\n
+\r\n
+RSS
+\r\n
+\r\n
+Sina Weibo
+\r\n
+\r\n
+\r\n
+\r\n \r\n
+\r\n
+\r\n
+\r\n
+Scroll To Top
+\r\n
+\r\n
+\r\n\r\n
+\r\n
+\r\n\r\n
+\r\n
+\r\n (function(i,s,o,g,r,a,m){i[\'GoogleAnalyticsObject\']=r;i[r]=i[r]||function(){\r\n (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),\r\n m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)\r\n })(window,document,\'script\',\'//www.google-analytics.com/analytics.js\',\'ga\');\r\n ga(\'create\', \'UA-781522-1\', \'auto\');\r\n ga(\'send\', \'pageview\');\r\n
+\r\n
+--\r\n\r\n\r\n
+\r\n
+\r\n\r\n
+\r\n
+\n'

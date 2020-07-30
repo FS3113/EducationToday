@@ -1,0 +1,76 @@
+Name: Alex Byrne  
+Position: Department Head, Professor  
+Research Interest: philosophy of mind, epistemology, metaphysics  
+
+Name: Cosmo Grant  
+Position: Instructor in Philosophy and Digital Learning Lab Fellow  
+Research Interest: epistemology, decision and game theory, philosophy of science  
+
+Name: E.J. Green  
+Position: Assistant Professor,Class of 1948 Career Development Chair  
+Research Interest: philosophy of mind, philosophy of cognitive science, philosophy of perception  
+
+Name: Caspar Hare  
+Position: Professor  
+Research Interest: ethics, metaphysics, epistemology  
+
+Name: Sally Haslanger  
+Position: Ford Professor of Philosophy and Women’s and Gender Studies  
+Research Interest: critical race theory, epistemology, feminist theory, metaphysics, philosophy of language, philosophy of social science, social/political philosophy  
+
+Name: Jackson Kernion  
+Position: Postdoctoral Associate  
+Research Interest: philosophy of mind, epistemology, and philosophy of science  
+
+Name: Justin Khoo  
+Position: Associate Professor  
+Research Interest: philosophy of language, metaphysics, philosophical logic  
+
+Name: Vann McGee  
+Position: Professor  
+Research Interest: philosophical logic, philosophy of mathematics, philosophy of language  
+
+Name: Milo Phillips-Brown  
+Position: Postdoctoral Associate in the Ethics of Technology  
+Research Interest: ethics of technology  
+
+Name: Agustín Rayo  
+Position: Professor  
+Research Interest: philosophical logic, metaphysics  
+
+Name: Tamar Schapiro  
+Position: Associate Professor,Undergraduate Officer and Advisor  
+Research Interest: ethics, Kant, moral psychology, philosophy of action  
+
+Name: Kieran Setiya  
+Position: Professor  
+Research Interest: ethics, epistemology, philosophy of mind  
+
+Name: Brad Skow  
+Position: Laurance S. Rockefeller Professor  
+Research Interest: metaphysics, philosophy of science, philosophy of physics  
+
+Name: Jack Spencer  
+Position: Associate Professor  
+Research Interest: metaphysics, philosophy of language, metaethics  
+
+Name: Robert Stalnaker  
+Position: Professor Emeritus  
+Research Interest: philosophy of mind, philosophy of language, metaphysics  
+
+Name: Judith Thomson  
+Position: Professor Emerita  
+Research Interest: moral philosophy, metaphysics  
+
+Name: P. Quinn White  
+Position: Postdoctoral Associate  
+Research Interest: ethics, metaethics  
+
+Name: Roger White  
+Position: Professor  
+Research Interest: philosophy of science, epistemology, metaphysics  
+
+Name: Stephen Yablo  
+Position: David W. Skinner Professor of Philosophy  
+Research Interest: metaphysics, philosophy of mind, philosophical logic, philosophy of language  
+

@@ -1,0 +1,1167 @@
+Course Explorer
+University of Illinois at Urbana-Champaign
+Hello Guest
+Contact Us
+Login
+University of Illinois at Urbana-Champaign
+Hello Guest
+Contact Us
+Login
+Course Explorer
+Enter and go to subject for the enrolling term
+Go!
+Course Explorer
+Toggle navigation
+Schedule
+GenEd&#160;REQs
+Search
+Resources
+Course Explorer
+Did You Know?
+Course Explorer has a FREE option for students\n to receive emails about section availability.\n
+When logged into Course Explorer, you can create "Favorites" and opt to receive notifications\n when the status changes to have an opening. Section availability is checked every 10 minutes.\n
+The Course Explorer provides the schedule of classes by term and a browsable database of\n general education requirements in addition to other resources.\n
+Course Catalog
+Programs of Study
+, please visit the \n
+University of Illinois at Urbana-Champaign Academic Catalog
+,\n which maintains the official listing of courses, program, and degree requirements for undergraduate and \n graduate students.\n
+Class Schedule
+Browse the schedule of classes for course information, times, locations, and instructors listed by semester.
+General Education Requirements
+Browse core requirements students must satisfy in order to graduate.
+Search Course Explorer
+Search the Class Schedule and General Education Requirements.
+Registration Resources
+Various links to helpful informational resources concerning registration.
+Popular Course Resources
+Academic Catalog
+The University of Illinois at Urbana-Champaign Academic Catalog. Browse the official\n listing of courses, programs, and degree requirements.
+Courses of Instruction
+A list of all available courses in the Academic Catalog.
+Changing Majors
+Detailed information regarding major requirements, application timelines, \n and contact information organized by college.
+Self-Service
+Registration, financial aid, account and contact information for students. \n Class rosters, teaching schedules and contact information for faculty.
+Course Resources\n
+Academic Calendars
+Academic Deadlines
+Changing Majors (Undergraduate)
+Final Exam Information
+How to Declare a Minor
+Language Requirements
+Registration Time Ticket Schedule
+Registration Procedures
+Refund and Withdrawal Deadlines
+Reverse Transfer of Credit
+Textbook Listings
+University Resources\n
+Records and Registration Info
+Campus Services
+Campus Maps
+Campus Units A-Z
+Financial Aid
+Student Health Insurance
+Student Code
+Graduate College-Admissions
+Undergraduate Admissions
+Academic Catalog\n
+Registrar\n
+Register for Classes\n
+OFFICE OF THE REGISTRAR
+| 901 W. Illinois Street, Suite 140, Urbana, Illinois 61801
+Site developed by:
+Technology Services at Illinois
+UNIVERSITY OF ILLINOIS AT URBANA-CHAMPAIGN
+1102 Digital Computer Laboratory | MC-256 | Urbana, IL 61801 \n | phone
+217-244-7000
+ | email
+Course Explorer Feedback
+Web Privacy Notice
+Cookie Settings
+Course Explorer works best with JavaScript enabled
+b'
+(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({\'gtm.start\': new Date().getTime(),event:\'gtm.js\'});var f=d.getElementsByTagName(s)[0], j=d.createElement(s),dl=l!=\'dataLayer\'?\'&l=\'+l:\'\';j.async=true;j.src= \'https://www.googletagmanager.com/gtm.js?id=\'+i+dl;f.parentNode.insertBefore(j,f); })(window,document,\'script\',\'dataLayer\',\'GTM-TK7H6Z\');
+(window.NREUM||(NREUM={})).loader_config={licenseKey:"b4d6d73517",applicationID:"236355350"};window.NREUM||(NREUM={}),__nr_require=function(e,n,t){function r(t){if(!n[t]){var i=n[t]={exports:{}};e[t][0].call(i.exports,function(n){var i=e[t][1][n];return r(i||n)},i,i.exports)}return n[t].exports}if("function"==typeof __nr_require)return __nr_require;for(var i=0;i
+0&&c("lcp",[t[t.length-1]])}function o(e){if(e instanceof s&&!l){var n,t=Math.round(e.timeStamp);n=t1e12?Date.now()-t:u.now()-t,l=!0,c("timing",["fi",t,{type:e.type,fid:n}])}}if(!("init"in NREUM&&"page_view_timing"in NREUM.init&&"enabled"in NREUM.init.page_view_timing&&NREUM.init.page_view_timing.enabled===!1)){var a,f,c=e("handle"),u=e("loader"),s=NREUM.o.EV;if("PerformanceObserver"in window&&"function"==typeof window.PerformanceObserver){a=new PerformanceObserver(r),f=new PerformanceObserver(i);try{a.observe({entryTypes:["paint"]}),f.observe({entryTypes:["largest-contentful-paint"]})}catch(p){}}if("addEventListener"in document){var l=!1,d=["click","keydown","mousedown","pointerdown","touchstart"];d.forEach(function(e){document.addEventListener(e,o,!1)})}}},{}],3:[function(e,n,t){function r(e,n){if(!i)return!1;if(e!==i)return!1;if(!n)return!0;if(!o)return!1;for(var t=o.split("."),r=n.split("."),a=0;a
+--
+Harvard University
+var fontCSS = \'/sites/all/themes/hedu2015/assets/css/fonts.min.css\'; (function() { var wf = document.createElement(\'link\'); wf.href = fontCSS; wf.rel = \'stylesheet\'; var s = document.getElementsByTagName(\'link\')[0]; s.parentNode.insertBefore(wf, s); })();
+{ "@context": "http://schema.org", "@type": "CollegeOrUniversity", "name": "Harvard", "alternateName": "Harvard University", "url": "http://www.harvard.edu", "logo": "http://www.harvard.edu/sites/default/files/content/harvard-university-logo-151.png", "sameAs": ["https://www.facebook.com/Harvard","https://twitter.com/harvard","https://www.instagram.com/harvard/","https://www.youtube.com/harvard","https://soundcloud.com/harvard","https://www.linkedin.com/edu/school?id=18483" ]}
+{ "@context": "http://schema.org", "@type": "WebSite", "url": "http://www.harvard.edu", "potentialAction": { "@type": "SearchAction", "target": "http://www.harvard.edu/searches?searchtext={search_term_string}", "query-input": "required name=search_term_string" }}
+Jump to main content
+Jump to search
+Jump to the footer
+link text combo --
+Harvard University
+Menu
+About
+Harvard
+Harvard at a Glance
+Harvard\'s President
+Harvard\'s Leadership
+Academic Experience
+Administrative Offices
+Directories
+Harvard in the Community
+News
+Admissions
+&amp; Aid
+Graduate & Professional Schools
+Continuing Education
+Summer Programs
+Continuing Education
+Dental
+Divinity
+Faculty of Arts & Sciences
+Graduate School
+Public Health
+Radcliffe Institute
+On Campus
+Arts and Humanities
+Athletics
+Commencement
+Employment
+Events
+HarvardX
+Museums
+Visit Harvard
+Gazette News
+Events
+Give
+Parents
+Visitors
+Search:
+Open Search
+
+Coronavirus resources
+Information aims to give students, professors, and staff a hand with moving, remote learning, meetings, travel, financial aid, and other issues
+Read story
+Online learning Q&amp;A
+Harvard leaders discuss the planning and rationale behind the decision to adopt virtual instruction across Harvard
+Read story
+Social distancing
+Harvard epidemiologist Marc Lipsitch urges the public to ramp up social distancing and increase coronavirus tests
+Read story
+A virus that targets the elderly
+Doctors are trying to safeguard nursing home patients from COVID-19&nbsp;
+Read story
+Coronavirus update
+Harvard University is closely monitoring the ongoing coronavirus outbreak
+Learn more
+Due to the campus restrictions put in place in response to the coronavirus outbreak, Harvard discourages any non-essential meetings or events of 25 people or more.
+Updates and information
+Due to the campus restrictions put in place in response to the coronavirus outbreak, Harvard discourages any non-essential meetings or events of 25 people or more.
+To Serve Better: Harvard across the country
+Serving Illinois
+Alum Eve L. Ewing is focused on community-based arts and culture projects in her city of Chicago
+Meet Eve
+Serving Alaska
+Alaskan Inupiaq poet Joan Naviyuk Kane keeps her language and culture alive through her art and her family
+Meet Joan
+Serving Virginia
+PhD student Andy Cohen says being stranded during a blizzard in Virginia has made him a better engineer
+Meet Andy
+Explore the project
+The Coronavirus Outbreak: Takeaways
+Explore Harvard&#039;s online courses and learning content
+View Courses
+Explore Harvard&#039;s online courses and learning content
+Get the latest Harvard Gazette news delivered to your inbox.
+Your Email:
+Subscribe
+Jump to Top
+Website
+Digital Accessibility
+Sitemap
+Get in Touch
+Contact Harvard
+Maps &amp; Directions
+Jobs
+Security &amp; Brand
+Privacy Statement
+Report Copyright Infringement
+Report Security Issue
+Trademark Notice
+Social Media &amp; other Application Links
+Facebook
+Twitter
+Instagram
+YouTube
+SoundCloud
+LinkedIn
+iTunes
+Harvard Apps
+&copy; 2020 The President and Fellows of Harvard College
+$(\'.grid--3a.carousel\').slick( { dots: false, infinite: false, arrows: true, speed: 300, slidesToShow: 3, slidesToScroll: 3, responsive: [ { breakpoint: 900, settings: { slidesToShow: 2, slidesToScroll: 2 } }, { breakpoint: 600, settings: { slidesToShow: 1, slidesToScroll: 1 } } ] });$(\'.grid--full.carousel\').slick( { dots: false, infinite: false, arrows: true, speed: 300, slidesToShow: 1, slidesToScroll: 1,autoplay: true, autoplaySpeed: 4000, });$(\'.grid--full-w-view.carousel .view .view-content\').slick( { dots: false, infinite: false, arrows: true, speed: 300, slidesToShow: 1, slidesToScroll: 1,autoplay: true, autoplaySpeed: 4000, });
+(function(w) { w._sv = w._sv || {}; w._sv.trackingCode = \'FfgooJjBjzhBdGbpsXIHyvlzrdrimWab\';  var s = document.createElement(\'script\'); s.src = \'//api.survicate.com/assets/survicate.js\'; s.async = true; var e = document.getElementsByTagName(\'script\')[0]; e.parentNode.insertBefore(s, e); })(window);
+window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"b4d6d73517","applicationID":"236355350","transactionName":"NAFUZEAHV0NYVkYIWA1LY0JbSRZZV1FXGRkTDEY=","queueTime":0,"applicationTime":9,"atts":"GEZXEggdRE0=","errorBeacon":"bam.nr-data.net","agent":""}
+b'
+Purdue University - Indiana\'s Land Grant University
+ .feature-right { /*float: none;*/}/*.social_banner{background-color:#bbb;background-image:url(\'/purdue/images/home/degree3-back.jpg\');background-size:cover;background-position:center center;}.feature_description { font-size: 1.1rem;}.feature_description-name { font-size: 0.8rem;}@media (min-width: 1200px){.feature_description { font-size: 1.3rem;}.feature_description-name { font-size: 1rem;}}@media (min-width: 768px) and (max-width: 991px){.feature_description { font-size: 1.25rem;}.feature_description-name { font-size: 0.95rem;}.banner_image.banner_image-bg+.container{position:relative;}.banner_caption.banner_caption-bg{ position:absolute; right:0; top:30px;}}*//*@media (max-width: 767px){.feature_description { font-size: 1.2rem;}}*/.feature_button .button { color: white;}.feature_button .button:hover { color: black;}.black .nav .onlineDegrees a{position:relative;padding-left:50px;}.black .nav .onlineDegrees a:hover, .black .onlineDegrees a:active, .black .onlineDegrees a:focus{text-decoration:underline;}.black .nav .onlineDegrees a:hover svg *, .black .onlineDegrees a:active svg *, .black .onlineDegrees a:focus svg *{fill:#c28e0e;}.black .nav .onlineDegrees a svg{position:absolute;left:15px;top:-0.15em;display:block;width:1.5em;}@media (min-width:992px){.black .nav .onlineDegrees a{padding-left:50px;}.black .nav .onlineDegrees a:hover svg *, .black .onlineDegrees a:active svg *, .black .onlineDegrees a:focus svg *{fill:#fff;}.black .nav .onlineDegrees a svg{top:0.7em;}}@media all and (min-width:992px) and (-ms-high-contrast:none){.black .nav .onlineDegrees a svg{top:50%;margin-top:-1.5em;}}@media (min-width:1200px){.black .nav .onlineDegrees{float:right;margin-right:-30px;}}@media (min-width: 768px){ .campuses { width: 75%; }}@media (min-width: 1200px){ .campuses { width: 85%; }}
+var gaRedirected = false; window.dataLayer = window.dataLayer || []; var trackOutboundLink = function(label,url,tags,newTab,download) { gaRedirected = false; var tags = (typeof tags === \'string\' ? tags : \'\'); var newTab = newTab && newTab === \'true\' ? true : false; var download = download && download === \'true\' ? true : false; newTab && !download ? windowReference = window.open() : windowReference = null; setTimeout(function(){redirect(url,newTab,windowReference)},1000); window.dataLayer.push({ \'event\':\'click\', \'event_category\':\'Purdue Home Page\', \'event_label\':label, \'event_tags\':tags, \'eventCallback\':function(containerId){ if(containerId == \'GTM-M8W8Z7B\') { gaRedirected = true; if(download){ var a = $("
+").attr("href",url).attr("download","myBgrPhoto").appendTo("body"); a[0].click(); a.remove(); } else{ newTab ? windowReference.location = url : document.location = url; } } } }); }  function redirect(url,newTab,windowReference) { if(!gaRedirected) { newTab ? windowReference.location = url : document.location = url; } }
+(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({\'gtm.start\': new Date().getTime(),event:\'gtm.js\'});var f=d.getElementsByTagName(s)[0], j=d.createElement(s),dl=l!=\'dataLayer\'?\'&l=\'+l:\'\';j.async=true;j.src= \'https://www.googletagmanager.com/gtm.js?id=\'+i+dl;f.parentNode.insertBefore(j,f); })(window,document,\'script\',\'dataLayer\',\'GTM-WWGMN6Z\');
+Skip to main content
+Quick Links
+Search
+(function() { var cx = \'017690826183710227054:mjxnqnpskjk\'; var gcse = document.createElement(\'script\'); gcse.type = \'text/javascript\'; gcse.async = true; gcse.src = \'https://cse.google.com/cse.js?cx=\' + cx; var s = document.getElementsByTagName(\'script\')[0]; s.parentNode.insertBefore(gcse, s); })();
+Loading
+Find Info For
+Find Info For
+
+Academics
+
+Admissions
+
+Current Students
+
+Athletics
+
+About
+
+Careers
+
+Prospective Students
+
+Research and Partnerships
+
+Entrepreneurship and Commercialization
+Quick Links
+
+Apply
+
+News
+
+
+Shop
+
+
+Give
+
+Purdue University
+Menu
+Admissions
+Academics
+Inclusion
+Arts and Ideas
+Athletics
+About
+Campuses
+Purdue Northwest
+Purdue Fort Wayne
+Purdue Global
+Purdue Online
+
+.banner_image{ opacity:0; } @media (max-width:767px){  .banner_image{ opacity:1; } }
+@media all and (-ms-high-contrast: none), (-ms-high-contrast: active) {  .banner_image{ opacity:0; } } @media all and (max-width:767px) and (-ms-high-contrast: none), (-ms-high-contrast: active){ .banner_image{ opacity:1; } }
+
+.banner{ background-image:url(""); } @media (min-width:1200px){  .banner{ background-image:url(""); } } @media (min-width:768px) and (max-width:991px){ .banner{ background-image:none; } .banner_figure{ background-image:url(""); } } @media (max-width:767px){ .banner{ background-image:none; } .banner_figure{ background-image:none; } }
+@media all and (-ms-high-contrast: none), (-ms-high-contrast: active){  .banner{ background-image:url(""); } } @media all and (min-width:1200px) and (-ms-high-contrast: none), (-ms-high-contrast: active){  .banner{ background-image:url("https://www.purdue.edu/purdue/images/home/banner/_JUA8171_Homepage.jpg"); } } @media all and (min-width:768px) and (max-width:991px) and (-ms-high-contrast: none), (-ms-high-contrast: active){  .banner{ background-image:none; } .banner_figure{ background-image:url(""); } } @media all and (max-width:767px) and (-ms-high-contrast: none), (-ms-high-contrast: active){ .banner{ background-image:none; } .banner_figure{ background-image:none; } }
+
+
+
+Accept Your Offer
+.a4b3729c-d77f-4197-9a53-1b86173f3850{fill:none;stroke:#cfb991;stroke-miterlimit:10;stroke-width:1.65136px;}.a6d2bb96-dd33-44e3-817f-a15876ca18ea{font-size:26.91202px;font-family:"United Sans",Impact, "Arial Black", "sans serif";font-weight:700;letter-spacing:0.04501em;}.a6d2bb96-dd33-44e3-817f-a15876ca18ea,.ab89682d-51da-42cc-8797-f0be679441d9{fill:#fff;}.f9af7dbb-f1b6-42d9-b1b9-d4a1161a1e5d{letter-spacing:0.05em;}.ea2753d3-7b8d-454a-a086-d5c9f848e51d{letter-spacing:0.05998em;}.ac1eb9bd-cb4a-48fc-8fe7-9893c296e358{letter-spacing:0.03001em;}.ab89682d-51da-42cc-8797-f0be679441d9{font-size:108.90414px;font-family:acumin-pro-condensed, "Franklin Gothic",sans-serif;font-weight:500;font-style:italic;}.a63fa2e4-5f70-4df3-9392-5e3784d6a3f0{letter-spacing:-0.006em;}.ae1b1ad9-fda0-4d6d-9ed4-16a6c1146271{letter-spacing:-0.004em;}.ba881ac5-4464-49c1-a7c9-5c6b86923011{letter-spacing:-0.00299em;}
+ProofPoints
+CCE
+OUR
+FF
+
+Featured Links
+
+Blackboard
+
+myPurdue
+
+Campus Map
+
+Featured Events
+
+Academic Calendar
+
+
+Accept Your Offer
+.b260766c-b91a-478a-b5a0-18c9abae541d{fill:none;stroke:#cfb991;stroke-miterlimit:10;stroke-width:1.5px;}.e667a2d0-e10c-4105-a0f8-63d4b4bb8cf4{font-size:40px;font-family:"United Sans",Impact, "Arial Black", "sans serif";font-weight:700;letter-spacing:0.04501em;}.a8be944b-2246-4603-a6e7-859c859c6d72,.e667a2d0-e10c-4105-a0f8-63d4b4bb8cf4{fill:#fff;}.a6751110-4709-4b03-aadb-c15bb11f5aa8{letter-spacing:0.05em;}.ab85580e-1e0d-4875-8e0b-50f6083e5c13{letter-spacing:0.06em;}.bb765244-f1f0-4754-881b-10b5c6ea0c39{letter-spacing:0.03em;}.a8be944b-2246-4603-a6e7-859c859c6d72{font-size:174px;font-family:acumin-pro-condensed, "Franklin Gothic",sans-serif;font-style:italic;letter-spacing:-0.015em;}.e7ca1268-77a8-4fc9-8415-085086564b53{letter-spacing:-0.011em;}.e82f505a-c297-4641-b577-712c5a842eb9{letter-spacing:-0.01399em;}
+ProofPoints
+CCE
+OUR O
+FFE
+What\'s Trending
+Purdue on Instagram
+Follow @LifeAtPurdue to see what is happening around campus.
+
+Follow
+News/Events
+Purdue Newsroom
+
+Things you need to know about COVID-19
+Novel coronavirus is a newly identified coronavirus that is causing an outbreak of lower respiratory illness, COVID-19. It was first identified in December 2019 in the city of Wuhan, Hubei Province, China. Since then, the virus has been identified in multiple other countries, including cases in the United States.
+Read More
+
+Purdue forms Purdue For Life foundation to coordinate alumni engagement
+Purdue President Mitch Daniels announced the creation of the Purdue For Life foundation, an organization designed to deepen ties to alumni and to drive and coordinate all alumni-facing activities for the university.
+Read More
+
+OneCampus Portal
+
+Blackboard
+
+BoilerConnect
+
+Office 365
+
+Outlook
+
+myPurdue
+Campus
+
+Faculty and Staff
+
+Human Resources
+
+Careers
+
+Colleges and Schools
+
+Directory
+
+Campus Map
+
+
+Purdue Today
+Calendar
+Libraries
+Construction
+Tuition Calculator
+Center for Healthy Living
+
+People
+
+Speak Up
+Diversity and Inclusion
+Ethics and Compliance
+Information Technology
+Annual Security Report
+Timely Warnings
+.st0{fill:#FFFFFF;} .st1{fill:#CFB991;} .st2{fill:#9D9795;}
+Purdue University Logo
+.v-st0{fill:#CFB991;} .v-st1{fill:#9D9795;} .v-st2{fill:#FFFFFF;}
+Purdue University Logo
+
+Facebook
+Twitter
+YouTube
+Instagram
+Pinterest
+Snapchat
+LinkedIn
+Interest
+Purdue University, 610 Purdue Mall, West Lafayette, IN, 47907, 765-494-4600
+&copy; 2020 Purdue University
+An equal access/equal opportunity university
+Integrity Statement
+Copyright Complaints
+Brand Toolkit
+Maintained by Office of Marketing and Media
+Ph.D. Political Science and International Affairs
+Contact Office of Marketing and Media at
+digital-marketing@groups.purdue.edu
+for accessibility issues with this page |
+Accessibility Resources
+Contact Us
+Search
+Faculty and Teaching Staff List
+View By Name
+View by Lab
+Faculty and Teaching Staff List
+Breadcrumb
+Home
+Faculty & Research
+View by Name
+View by Lab
+Menu
+sbarrett@mit.edu
+hamsa@mit.edu
+rpb@mit.edu
+kcahoy@mit.edu
+b'
+Purdue University - Indiana\'s Land Grant University
+ .feature-right { /*float: none;*/}/*.social_banner{background-color:#bbb;background-image:url(\'/purdue/images/home/degree3-back.jpg\');background-size:cover;background-position:center center;}.feature_description { font-size: 1.1rem;}.feature_description-name { font-size: 0.8rem;}@media (min-width: 1200px){.feature_description { font-size: 1.3rem;}.feature_description-name { font-size: 1rem;}}@media (min-width: 768px) and (max-width: 991px){.feature_description { font-size: 1.25rem;}.feature_description-name { font-size: 0.95rem;}.banner_image.banner_image-bg+.container{position:relative;}.banner_caption.banner_caption-bg{ position:absolute; right:0; top:30px;}}*//*@media (max-width: 767px){.feature_description { font-size: 1.2rem;}}*/.feature_button .button { color: white;}.feature_button .button:hover { color: black;}.black .nav .onlineDegrees a{position:relative;padding-left:50px;}.black .nav .onlineDegrees a:hover, .black .onlineDegrees a:active, .black .onlineDegrees a:focus{text-decoration:underline;}.black .nav .onlineDegrees a:hover svg *, .black .onlineDegrees a:active svg *, .black .onlineDegrees a:focus svg *{fill:#c28e0e;}.black .nav .onlineDegrees a svg{position:absolute;left:15px;top:-0.15em;display:block;width:1.5em;}@media (min-width:992px){.black .nav .onlineDegrees a{padding-left:50px;}.black .nav .onlineDegrees a:hover svg *, .black .onlineDegrees a:active svg *, .black .onlineDegrees a:focus svg *{fill:#fff;}.black .nav .onlineDegrees a svg{top:0.7em;}}@media all and (min-width:992px) and (-ms-high-contrast:none){.black .nav .onlineDegrees a svg{top:50%;margin-top:-1.5em;}}@media (min-width:1200px){.black .nav .onlineDegrees{float:right;margin-right:-30px;}}@media (min-width: 768px){ .campuses { width: 75%; }}@media (min-width: 1200px){ .campuses { width: 85%; }}
+var gaRedirected = false; window.dataLayer = window.dataLayer || []; var trackOutboundLink = function(label,url,tags,newTab,download) { gaRedirected = false; var tags = (typeof tags === \'string\' ? tags : \'\'); var newTab = newTab && newTab === \'true\' ? true : false; var download = download && download === \'true\' ? true : false; newTab && !download ? windowReference = window.open() : windowReference = null; setTimeout(function(){redirect(url,newTab,windowReference)},1000); window.dataLayer.push({ \'event\':\'click\', \'event_category\':\'Purdue Home Page\', \'event_label\':label, \'event_tags\':tags, \'eventCallback\':function(containerId){ if(containerId == \'GTM-M8W8Z7B\') { gaRedirected = true; if(download){ var a = $("
+").attr("href",url).attr("download","myBgrPhoto").appendTo("body"); a[0].click(); a.remove(); } else{ newTab ? windowReference.location = url : document.location = url; } } } }); }  function redirect(url,newTab,windowReference) { if(!gaRedirected) { newTab ? windowReference.location = url : document.location = url; } }
+(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({\'gtm.start\': new Date().getTime(),event:\'gtm.js\'});var f=d.getElementsByTagName(s)[0], j=d.createElement(s),dl=l!=\'dataLayer\'?\'&l=\'+l:\'\';j.async=true;j.src= \'https://www.googletagmanager.com/gtm.js?id=\'+i+dl;f.parentNode.insertBefore(j,f); })(window,document,\'script\',\'dataLayer\',\'GTM-WWGMN6Z\');
+Skip to main content
+Quick Links
+Search
+(function() { var cx = \'017690826183710227054:mjxnqnpskjk\'; var gcse = document.createElement(\'script\'); gcse.type = \'text/javascript\'; gcse.async = true; gcse.src = \'https://cse.google.com/cse.js?cx=\' + cx; var s = document.getElementsByTagName(\'script\')[0]; s.parentNode.insertBefore(gcse, s); })();
+Loading
+Find Info For
+Find Info For
+Master of Advanced Studies in International Affairs
+Academics
+Master of Advanced Studies in International Affairs
+Admissions
+Master of Advanced Studies in International Affairs
+Current Students
+Master of Advanced Studies in International Affairs
+Athletics
+Ph.D. Political Science and International Affairs
+About
+Ph.D. Political Science and International Affairs
+Careers
+Ph.D. Political Science and International Affairs
+Prospective Students
+'b
+Research and Partnerships
+//
+Entrepreneurship and Commercialization
+Quick Links
+//
+Apply
+//
+News
+//
+//
+Shop
+//
+//
+Give
+//
+Purdue University
+Menu
+Admissions
+Academics
+Inclusion
+Arts and Ideas
+Athletics
+About
+Campuses
+Purdue Northwest
+Purdue Fort Wayne
+Purdue Global
+Purdue Online
+
+.banner_image{ opacity:0; } @media (max-width:767px){  .banner_image{ opacity:1; } }
+@media all and (-ms-high-contrast: none), (-ms-high-contrast: active) {  .banner_image{ opacity:0; } } @media all and (max-width:767px) and (-ms-high-contrast: none), (-ms-high-contrast: active){ .banner_image{ opacity:1; } }
+
+.banner{ background-image:url(""); } @media (min-width:1200px){  .banner{ background-image:url(""); } } @media (min-width:768px) and (max-width:991px){ .banner{ background-image:none; } .banner_figure{ background-image:url(""); } } @media (max-width:767px){ .banner{ background-image:none; } .banner_figure{ background-image:none; } }
+@media all and (-ms-high-contrast: none), (-ms-high-contrast: active){  .banner{ background-image:url(""); } } @media all and (min-width:1200px) and (-ms-high-contrast: none), (-ms-high-contrast: active){  .banner{ background-image:url("https://www.purdue.edu/purdue/images/home/banner/_JUA8171_Homepage.jpg"); } } @media all and (min-width:768px) and (max-width:991px) and (-ms-high-contrast: none), (-ms-high-contrast: active){  .banner{ background-image:none; } .banner_figure{ background-image:url(""); } } @media all and (max-width:767px) and (-ms-high-contrast: none), (-ms-high-contrast: active){ .banner{ background-image:none; } .banner_figure{ background-image:none; } }
+
+
+
+Accept Your Offer
+.a4b3729c-d77f-4197-9a53-1b86173f3850{fill:none;stroke:#cfb991;stroke-miterlimit:10;stroke-width:1.65136px;}.a6d2bb96-dd33-44e3-817f-a15876ca18ea{font-size:26.91202px;font-family:"United Sans",Impact, "Arial Black", "sans serif";font-weight:700;letter-spacing:0.04501em;}.a6d2bb96-dd33-44e3-817f-a15876ca18ea,.ab89682d-51da-42cc-8797-f0be679441d9{fill:#fff;}.f9af7dbb-f1b6-42d9-b1b9-d4a1161a1e5d{letter-spacing:0.05em;}.ea2753d3-7b8d-454a-a086-d5c9f848e51d{letter-spacing:0.05998em;}.ac1eb9bd-cb4a-48fc-8fe7-9893c296e358{letter-spacing:0.03001em;}.ab89682d-51da-42cc-8797-f0be679441d9{font-size:108.90414px;font-family:acumin-pro-condensed, "Franklin Gothic",sans-serif;font-weight:500;font-style:italic;}.a63fa2e4-5f70-4df3-9392-5e3784d6a3f0{letter-spacing:-0.006em;}.ae1b1ad9-fda0-4d6d-9ed4-16a6c1146271{letter-spacing:-0.004em;}.ba881ac5-4464-49c1-a7c9-5c6b86923011{letter-spacing:-0.00299em;}
+ProofPoints
+CCE
+OUR
+FF
+
+Featured Links
+
+Blackboard
+
+myPurdue
+
+Campus Map
+
+Featured Events
+
+Academic Calendar
+
+
+Accept Your Offer
+.b260766c-b91a-478a-b5a0-18c9abae541d{fill:none;stroke:#cfb991;stroke-miterlimit:10;stroke-width:1.5px;}.e667a2d0-e10c-4105-a0f8-63d4b4bb8cf4{font-size:40px;font-family:"United Sans",Impact, "Arial Black", "sans serif";font-weight:700;letter-spacing:0.04501em;}.a8be944b-2246-4603-a6e7-859c859c6d72,.e667a2d0-e10c-4105-a0f8-63d4b4bb8cf4{fill:#fff;}.a6751110-4709-4b03-aadb-c15bb11f5aa8{letter-spacing:0.05em;}.ab85580e-1e0d-4875-8e0b-50f6083e5c13{letter-spacing:0.06em;}.bb765244-f1f0-4754-881b-10b5c6ea0c39{letter-spacing:0.03em;}.a8be944b-2246-4603-a6e7-859c859c6d72{font-size:174px;font-family:acumin-pro-condensed, "Franklin Gothic",sans-serif;font-style:italic;letter-spacing:-0.015em;}.e7ca1268-77a8-4fc9-8415-085086564b53{letter-spacing:-0.011em;}.e82f505a-c297-4641-b577-712c5a842eb9{letter-spacing:-0.01399em;}
+ProofPoints
+CCE
+OUR O
+FFE
+What\'s Trending
+Purdue on Instagram
+Follow @LifeAtPurdue to see what is happening around campus.
+
+Follow
+News/Events
+Purdue Newsroom
+
+Things you need to know about COVID-19
+Novel coronavirus is a newly identified coronavirus that is causing an outbreak of lower respiratory illness, COVID-19. It was first identified in December 2019 in the city of Wuhan, Hubei Province, China. Since then, the virus has been identified in multiple other countries, including cases in the United States.
+Read More
+
+Purdue forms Purdue For Life foundation to coordinate alumni engagement
+Purdue President Mitch Daniels announced the creation of the Purdue For Life foundation, an organization designed to deepen ties to alumni and to drive and coordinate all alumni-facing activities for the university.
+Read More
+
+OneCampus Portal
+
+Blackboard
+
+BoilerConnect
+
+Office 365
+
+Outlook
+
+myPurdue
+Campus
+
+Faculty and Staff
+
+Human Resources
+
+Careers
+
+Colleges and Schools
+
+Directory
+
+Campus Map
+
+
+Purdue Today
+Calendar
+Libraries
+Construction
+Tuition Calculator
+Center for Healthy Living
+
+People
+
+Speak Up
+Diversity and Inclusion
+Ethics and Compliance
+Information Technology
+Annual Security Report
+Timely Warnings
+.st0{fill:#FFFFFF;} .st1{fill:#CFB991;} .st2{fill:#9D9795;}
+Purdue University Logo
+.v-st0{fill:#CFB991;} .v-st1{fill:#9D9795;} .v-st2{fill:#FFFFFF;}
+Purdue University Logo
+
+Facebook
+Twitter
+YouTube
+Instagram
+Pinterest
+Snapchat
+LinkedIn
+
+Purdue University, 610 Purdue Mall, West Lafayette, IN, 47907, 765-494-4600
+&copy; 2020 Purdue University
+An equal access/equal opportunity university
+Integrity Statement
+Copyright Complaints
+Brand Toolkit
+Maintained by Office of Marketing and Media
+
+Contact Office of Marketing and Media at
+digital-marketing@groups.purdue.edu
+for accessibility issues with this page |
+Accessibility Resources
+Contact Us
+(585) 275-8734
+(585) 275-8734
+444&#160;Lattimore Hall
+444&#160;Lattimore Hall
+Applying
+Applying
+Applying
+Applying
+Applying
+FAQs
+FAQs
+FAQs
+FAQs
+Faculty
+Faculty
+Faculty
+Faculty
+Faculty
+Faculty
+Faculty
+Faculty
+Faculty
+Faculty
+Research Focus:
+SC 321g
+SC 321g
+SC 321g
+SC 321g
+SC 321g
+SC 321g
+SC 321g
+SC 321g
+SC 321g
+SC 321g
+SC 321g
+Person  
+Person  
+Person  
+Person  
+Person  
+Person  
+Person  
+Person  
+Person  
+Person  
+Person  
+Person  
+Person  
+Person  
+Person  
+Person  
+Person  
+Person  
+Person  
+Person  
+Person  
+Person  
+Person  
+Person  
+Person  
+Person  
+Person  
+Person  
+Person  
+Person  
+.arrow-right{fill:none;stroke:#fff;stroke-miterlimit:10;stroke-width:4px;}  
+.arrow-right{fill:none;stroke:#fff;stroke-miterlimit:10;stroke-width:4px;}  
+.arrow-right{fill:none;stroke:#fff;stroke-miterlimit:10;stroke-width:4px;}  
+.arrow-right{fill:none;stroke:#fff;stroke-miterlimit:10;stroke-width:4px;}  
+.arrow-right{fill:none;stroke:#fff;stroke-miterlimit:10;stroke-width:4px;}  
+.arrow-right{fill:none;stroke:#fff;stroke-miterlimit:10;stroke-width:4px;}  
+.arrow-right{fill:none;stroke:#fff;stroke-miterlimit:10;stroke-width:4px;}  
+.arrow-right{fill:none;stroke:#fff;stroke-miterlimit:10;stroke-width:4px;}  
+.arrow-right{fill:none;stroke:#fff;stroke-miterlimit:10;stroke-width:4px;}  
+.arrow-right{fill:none;stroke:#fff;stroke-miterlimit:10;stroke-width:4px;}  
+.arrow-right{fill:none;stroke:#fff;stroke-miterlimit:10;stroke-width:4px;}  
+.arrow-right{fill:none;stroke:#fff;stroke-miterlimit:10;stroke-width:4px;}  
+.arrow-right{fill:none;stroke:#fff;stroke-miterlimit:10;stroke-width:4px;}  
+.arrow-right{fill:none;stroke:#fff;stroke-miterlimit:10;stroke-width:4px;}  
+.arrow-right{fill:none;stroke:#fff;stroke-miterlimit:10;stroke-width:4px;}  
+.arrow-right{fill:none;stroke:#fff;stroke-miterlimit:10;stroke-width:4px;}  
+.arrow-right{fill:none;stroke:#fff;stroke-miterlimit:10;stroke-width:4px;}  
+.arrow-right{fill:none;stroke:#fff;stroke-miterlimit:10;stroke-width:4px;}  
+.arrow-right{fill:none;stroke:#fff;stroke-miterlimit:10;stroke-width:4px;}  
+.arrow-right{fill:none;stroke:#fff;stroke-miterlimit:10;stroke-width:4px;}  
+.arrow-right{fill:none;stroke:#fff;stroke-miterlimit:10;stroke-width:4px;}  
+.arrow-right{fill:none;stroke:#fff;stroke-miterlimit:10;stroke-width:4px;}  
+.arrow-right{fill:none;stroke:#fff;stroke-miterlimit:10;stroke-width:4px;}  
+.arrow-right{fill:none;stroke:#fff;stroke-miterlimit:10;stroke-width:4px;}  
+.arrow-right{fill:none;stroke:#fff;stroke-miterlimit:10;stroke-width:4px;}  
+.arrow-right{fill:none;stroke:#fff;stroke-miterlimit:10;stroke-width:4px;}  
+.arrow-right{fill:none;stroke:#fff;stroke-miterlimit:10;stroke-width:4px;}  
+.arrow-right{fill:none;stroke:#fff;stroke-miterlimit:10;stroke-width:4px;}  
+.arrow-right{fill:none;stroke:#fff;stroke-miterlimit:10;stroke-width:4px;}  
+.arrow-right{fill:none;stroke:#fff;stroke-miterlimit:10;stroke-width:4px;}  
+.arrow-right{fill:none;stroke:#fff;stroke-miterlimit:10;stroke-width:4px;}  
+.arrow-right{fill:none;stroke:#fff;stroke-miterlimit:10;stroke-width:4px;}  
+.arrow-right{fill:none;stroke:#fff;stroke-miterlimit:10;stroke-width:4px;}  
+.arrow-right{fill:none;stroke:#fff;stroke-miterlimit:10;stroke-width:4px;}  
+.arrow-right{fill:none;stroke:#fff;stroke-miterlimit:10;stroke-width:4px;}  
+.arrow-right{fill:none;stroke:#fff;stroke-miterlimit:10;stroke-width:4px;}  
+.arrow-right{fill:none;stroke:#fff;stroke-miterlimit:10;stroke-width:4px;}  
+.arrow-right{fill:none;stroke:#fff;stroke-miterlimit:10;stroke-width:4px;}  
+.arrow-right{fill:none;stroke:#fff;stroke-miterlimit:10;stroke-width:4px;}  
+.arrow-right{fill:none;stroke:#fff;stroke-miterlimit:10;stroke-width:4px;}  
+.arrow-right{fill:none;stroke:#fff;stroke-miterlimit:10;stroke-width:4px;}  
+.arrow-right{fill:none;stroke:#fff;stroke-miterlimit:10;stroke-width:4px;}  
+.arrow-right{fill:none;stroke:#fff;stroke-miterlimit:10;stroke-width:4px;}  
+.arrow-right{fill:none;stroke:#fff;stroke-miterlimit:10;stroke-width:4px;}  
+.arrow-right{fill:none;stroke:#fff;stroke-miterlimit:10;stroke-width:4px;}  
+.arrow-right{fill:none;stroke:#fff;stroke-miterlimit:10;stroke-width:4px;}  
+.arrow-right{fill:none;stroke:#fff;stroke-miterlimit:10;stroke-width:4px;}  
+.arrow-right{fill:none;stroke:#fff;stroke-miterlimit:10;stroke-width:4px;}  
+mituser  
+mituser  
+mituser  
+mituser  
+mituser  
+mituser  
+Taylor De Leon  
+Allison Dougherty  
+mituser  
+mituser  
+mituser  
+Allison Dougherty  
+mituser  
+mituser  
+mituser  
+mituser  
+mituser  
+mituser  
+mituser  
+mituser  
+mituser  
+mituser  
+mituser  
+Allison Dougherty  
+mituser  
+mituser  
+mituser  
+mituser  
+mituser  
+mituser  
+mituser  
+Allison Dougherty  
+mituser  
+mituser  
+mituser  
+mituser  
+mituser  
+mituser  
+mituser  
+Allison Dougherty  
+mituser  
+CSAIL  
+RLE  
+Systems  
+CSAIL  
+CSAIL  
+MTL  
+CSAIL  
+CSAIL  
+CSAIL  
+MTL  
+CSAIL  
+CSAIL  
+MTL  
+CSAIL  
+CSAIL  
+MTL  
+CSAIL  
+LIDS  
+LIDS  
+MTL  
+MTL  
+RLE  
+LIDS  
+CSAIL  
+CSAIL  
+MTL  
+CSAIL  
+RLE  
+MTL  
+RLE  
+CSAIL  
+RLE  
+LIDS  
+RLE  
+CSAIL  
+CSAIL  
+MTL  
+CSAIL  
+CSAIL  
+CSAIL  
+CSAIL  
+CSAIL  
+CSAIL  
+RLE  
+MTL  
+LIDS  
+RLE  
+CSAIL  
+
+RLE  
+RLE  
+CSAIL  
+CSAIL  
+CSAIL  
+CSAIL  
+Circuits  
+CSAIL  
+ApplPhysDev  
+CSAIL  
+RLE  
+MTL  
+MTL  
+RLE  
+RLE  
+
+CSAIL  
+RLE  
+
+CSAIL  
+RLE  
+CSAIL  
+CSAIL  
+CSAIL  
+LIDS  
+CSAIL  
+CSAIL  
+CSAIL  
+CSAIL  
+CSAIL  
+RLE  
+CSAIL  
+CSAIL  
+RLE  
+RLE  
+MTL  
+CSAIL  
+CSAIL  
+MTL  
+MTL  
+RLE  
+CSAIL  
+RLE  
+CSAIL  
+MTL  
+CSAIL  
+RLE  
+CSAIL  
+CSAIL  
+CSAIL  
+CSAIL  
+CSAIL  
+RLE  
+LIDS  
+CSAIL  
+CSAIL  
+CSAIL  
+LIDS  
+CSAIL  
+CSAIL  
+CSAIL  
+MTL  
+RLE  
+RLE  
+RLE  
+RLE  
+LIDS  
+MTL  
+
+LIDS  
+MTL  
+MTL  
+LIDS  
+CSAIL  
+RLE  
+MTL  
+MTL  
+CSAIL  
+CSAIL  
+CSAIL  
+
+CSAIL  
+CSAIL  
+CSAIL  
+CSAIL  
+RLE  
+MTL  
+MTL  
+LIDS  
+RLE  
+CSAIL  
+MTL  
+CSAIL  
+RLE  
+MTL  
+CSAIL  
+CSAIL  
+CSAIL  
+
+CSAIL  
+RLE  
+CSAIL  
+MTL  
+CSAIL  
+CSAIL  
+CSAIL  
+CSAIL  
+LIDS  
+LIDS  
+CSAIL  
+RLE  
+RLE  
+CSAIL  
+MTL  
+RLE  
+CSAIL  
+CSAIL  
+CSAIL  
+
+RLE  
+CSAIL  
+RLE  
+CSAIL  
+RLE  
+CSAIL  
+32-386  
+36-766  
+E14-474G  
+NE55-900  
+32-386D  
+39-553  
+32-G920  
+38-427  
+32-386H  
+39-427  
+32-G866  
+32-G940  
+36-419  
+32-G468  
+32-G996  
+36-219  
+32-G524  
+32-D660  
+32-D728  
+76-453  
+39-415A  
+36-709  
+32-D672  
+32-G498  
+32   
+13-3138  
+32-G782  
+36-545  
+1-206  
+10-140H  
+32-G842  
+26-251  
+32-D734  
+36-834  
+32-G694  
+32-237  
+39-567A  
+32-G680  
+32-G868  
+32-G844  
+32-G428  
+32-D426  
+32-868  
+36-351  
+13-3062  
+32-D634  
+36-889  
+32-D476  
+36-597  
+36-361  
+36-525  
+32-G940  
+32-G542  
+32-G682  
+32-D470  
+25-519  
+3-221  
+47-377  
+32-G966  
+36-570  
+38-344  
+39-527A  
+36-841  
+E25-545  
+38-497  
+32-D434  
+36-465  
+4-212  
+32-G642  
+36-319  
+32-386F  
+32-G498  
+32-G704  
+32-D624  
+32-G472  
+32-G992  
+32-G486  
+32-G594  
+32-G592  
+10-172  
+32-G936  
+32-G564  
+10-098  
+36-287  
+13-3065  
+32-G914  
+32-G924  
+10-176  
+39-553A  
+10-069  
+32-G768  
+36-653  
+32-G942  
+39-553A  
+32-G492  
+17-438  
+32-G938  
+32-G938  
+32-G666  
+32-G604  
+32-D426  
+36-512  
+32-D730  
+32-G624  
+32-G644  
+32-G718  
+32-D562  
+32-G972  
+32-249  
+32-211  
+13-3005B   
+36-387  
+13-3050   
+36-615D  
+13-3006  
+38-403  
+39-567B  
+NW17-103  
+32-D726  
+38-344  
+10-039  
+32-D668  
+32-D462  
+36-491  
+3-208  
+39-427A  
+32-G744  
+32-G692  
+38-587  
+8-242  
+32-374  
+32  
+32-G838  
+32-G706  
+35-433L  
+3-240  
+38-344C  
+32-D670  
+36-517  
+32-G622  
+39-567B  
+32G-736  
+36-225  
+39-527B  
+32-G840  
+32-D460  
+32-G464  
+32-D580  
+32-G916  
+36-796  
+32-385  
+38-260  
+32-254  
+32-380B  
+32-212  
+32D-462  
+32-D662  
+32-D634  
+32-G696  
+10-140K  
+38-435  
+32-G786  
+13-3102  
+36-817  
+32-G640  
+ 32-G638  
+32-D582  
+4-205  
+36-677  
+32G-840  
+10-174  
+32-G994  
+36-660  
+32-G470  
+EDUCATION  
+RESEARCH  
+PEOPLE  
+NEWS  
+ABOUT  
+GIVE TO NSE  
+NSE Policies  
+Jobs  
+Contact  
+HOME  
+Room E53-335-S  
+Room 14N-423  
+E53-333  
+Room E51-296B  
+Room E53-335Q  
+Room E53-335C  
+Room E53-335F  
+Room 9-527  
+Room E53-335P  
+Room E53-335B  
+Room E53-335R  
+Room E53-335  
+   
+E53-329  
+Room E35-335U  
+
+ var email = "artin" + "@" + "math.mit.edu"; document.write(\'  
+ var email = "bazant" + "@" + "mit.edu"; document.write(\'  
+ var email = "bab" + "@" + "math.mit.edu"; document.write(\'  
+ var email = "bezrukav" + "@" + "math.mit.edu"; document.write(\'  
+ var email = "borodin" + "@" + "math.mit.edu"; document.write(\'  
+ var email = "bush" + "@" + "math.mit.edu"; document.write(\'  
+ var email = "huncheng" + "@" + "math.mit.edu"; document.write(\'  
+ off-campus   
+ var email = "cohn" + "@" + "math.mit.edu"; document.write(\'  
+ var email = "colding" + "@" + "math.mit.edu"; document.write(\'  
+ var email = "tristanc" + "@" + "mit.edu"; document.write(\'  
+ 2-247 x4-2614   
+ var email = "dunkel" + "@" + "math.mit.edu"; document.write(\'  
+ var email = "dyatlov" + "@" + "math.mit.edu"; document.write(\'  
+ var email = "edelman" + "@" + "math.mit.edu"; document.write(\'  
+ var email = "etingof" + "@" + "math.mit.edu"; document.write(\'  
+ var email = "dzf" + "@" + "math.mit.edu"; document.write(\'  
+ var email = "goemans" + "@" + "math.mit.edu"; document.write(\'  
+ var email = "vadicgor" + "@" + "math.mit.edu"; document.write(\'  
+ var email = "hpg" + "@" + "math.mit.edu"; document.write(\'  
+ var email = "vwg" + "@" + "math.mit.edu"; document.write(\'  
+ var email = "lguth" + "@" + "math.mit.edu"; document.write(\'  
+ var email = "helgason" + "@" + "mit.edu"; document.write(\'  
+ var email = "phintz" + "@" + "mit.edu"; document.write(\'  
+ var email = "peko" + "@" + "mit.edu"; document.write(\'  
+ var email = "jerison" + "@" + "math.mit.edu"; document.write(\'  
+ var email = "stevenj" + "@" + "math.mit.edu"; document.write(\'  
+ var email = "kac" + "@" + "math.mit.edu"; document.write(\'  
+ var email = "kelner" + "@" + "math.mit.edu"; document.write(\'  
+ var email = "juleekim" + "@" + "mit.edu"; document.write(\'  
+ var email = "kleiman" + "@" + "math.mit.edu"; document.write(\'  
+ var email = "djk" + "@" + "math.mit.edu"; document.write(\'  
+ var email = "alawrie" + "@" + "mit.edu"; document.write(\'  
+ var email = "ftl" + "@" + "math.mit.edu"; document.write(\'  
+ var email = "gyuri" + "@" + "math.mit.edu"; document.write(\'  
+ var email = "apm" + "@" + "math.mit.edu"; document.write(\'  
+ var email = "maulik" + "@" + "mit.edu"; document.write(\'  
+ var email = "rbm" + "@" + "math.mit.edu"; document.write(\'  
+ var email = "hrm" + "@" + "math.mit.edu"; document.write(\'  
+ var email = "minicozz" + "@" + "math.mit.edu"; document.write(\'  
+ var email = "moitra" + "@" + "mit.edu"; document.write(\'  
+ var email = "elmos" + "@" + "mit.edu"; document.write(\'  
+ var email = "mrowka" + "@" + "math.mit.edu"; document.write(\'  
+ var email = "barbjim.munkres" + "@" + "gmail.com"; document.write(\'  
+ var email = "anegut" + "@" + "mit.edu"; document.write(\'  
+ var email = "parrilo" + "@" + "mit.edu"; document.write(\'  
+ var email = "poonen" + "@" + "math.mit.edu"; document.write(\'  
+ var email = "apost" + "@" + "math.mit.edu"; document.write(\'  
+ var email = "rigollet" + "@" + "math.mit.edu"; document.write(\'  
+ var email = "rrr" + "@" + "math.mit.edu"; document.write(\'  
+ var email = "gsacca" + "@" + "mit.edu"; document.write(\'  
+ var email = "pseidel" + "@" + "mit.edu"; document.write(\'  
+ var email = "sheffield" + "@" + "math.mit.edu"; document.write(\'  
+ var email = "shor" + "@" + "math.mit.edu"; document.write(\'  
+ x3-5601   
+ var email = "sipser" + "@" + "math.mit.edu"; document.write(\'  
+ var email = "gigliola" + "@" + "math.mit.edu"; document.write(\'  
+ var email = "rstan" + "@" + "math.mit.edu"; document.write(\'  
+ off-campus   
+ var email = "gs" + "@" + "math.mit.edu"; document.write(\'  
+ var email = "dws" + "@" + "math.mit.edu"; document.write(\'  
+ var email = "nsun" + "@" + "mit.edu"; document.write(\'  
+ var email = "toomre" + "@" + "math.mit.edu"; document.write(\'  
+ var email = "dav" + "@" + "math.mit.edu"; document.write(\'  
+ var email = "cyxu" + "@" + "math.mit.edu"; document.write(\'  
+ var email = "zyun" + "@" + "mit.edu"; document.write(\'  
+ var email = "weizhang" + "@" + "mit.edu"; document.write(\'  
+ var email = "yufeiz" + "@" + "mit.edu"; document.write(\'
+ AKW 102
+ LOM 209
+ DL 418
+ LOM 222C
+ LOM 211A
+ LOM 211A
+ AKW 109
+ AKW 105
+ AKW 110
+ LOM 211C
