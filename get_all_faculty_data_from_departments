@@ -1,0 +1,33 @@
+import json
+from find_url import find
+
+
+# json
+# def run(university):
+#     with open('Data/departments/' + university + '.json') as f:
+#         departments = json.load(f)
+#         for i in departments:
+#             print(i['name'])
+#             try:
+#                 r1, r2 = find(university, i['name'])
+#                 with open('Data/faculty_data/' + university + '/' + i['name'] + '.json', 'w') as f1:
+#                     json.dump(r2, f1, indent=4)
+#             except:
+#                 print(i, '???????????????????????')
+
+
+# txt
+def run(university):
+    f = open('Data/departments/' + university + '.txt', 'r')
+    for i in f.readlines():
+        i = i.replace('\n', '')
+        print(i)
+        try:
+            r1, r2 = find(university, i)
+            with open('Data/faculty_data/' + university + '/' + i + '.json', 'w') as f1:
+                json.dump(r2, f1, indent=4)
+        except:
+            print(i, '???????????????????????')
+
+
+run('Massachusetts Institute of Technology')

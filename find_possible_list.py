@@ -179,6 +179,29 @@ def handle_extreme_edge_case(subtree_dict_pre, subtree_path_pre, raw_html):
                     d[j] = 'Missing'
                     missing += 1
 
+        cell_range = [0, 0]
+        for j in path_to_result[i].keys():
+            if j.count('<') == 1:
+                cell_range = path_to_result[i][j].copy()
+        expected_name = ''
+        for j in range(cell_range[0], cell_range[1]):
+            if raw_html[j][0] != '<' and len(raw_html[j]) > 2:
+                if 1 < len(raw_html[j].split()) < 4:
+                    expected_name = raw_html[j]
+                    break
+                elif len(raw_html[j].split()) == 1:
+                    expected_name = raw_html[j] + ' '
+                    for k in range(j + 1, cell_range[1]):
+                        if raw_html[k][0] != '<' and len(raw_html[k]) > 2:
+                            if len(raw_html[k].split()) < 2:
+                                expected_name += raw_html[k]
+                            else:
+                                expected_name = ''
+                            break
+                    break
+        if expected_name != '' and 'Name' in d.keys() and d['Name'] != 'Missing':
+            d['Name'] = expected_name
+
         # print()
         if missing < 3:
             result.append(d.copy())

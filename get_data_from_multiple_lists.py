@@ -25,23 +25,24 @@ random_forest_model = pickle.load(open('random_forest_model.sav', 'rb'))
 
 
 # given an url, get whole html in a good format (a list)
-def get_html(url):
-    flag = False
+def get_html(url, scrape_option):
+    # flag = False
     faculty_image = []
-    try:
-        req = urllib.request.Request(url)
-        with urllib.request.urlopen(req) as response:
-            the_page = response.read()
-        the_page = (str(the_page))
-    except:
-        # print("cannot crawl")
-        flag = True
-
-    flag = True
-    if flag:
+    the_page = ''
+    if scrape_option == 'urllib':
+        try:
+            req = urllib.request.Request(url)
+            with urllib.request.urlopen(req) as response:
+                the_page = response.read()
+            the_page = (str(the_page))
+        except:
+            # print("cannot crawl")
+            # flag = True
+            return []
+    else:
         try:
             chrome_option = Options()
-            driver1 = webdriver.Chrome(executable_path='/Users/juefei/Desktop/Research/chromedriver',
+            driver1 = webdriver.Chrome(executable_path='/Users/juefei/Desktop/EducationToday/chromedriver',
                                        chrome_options=chrome_option)
             driver1.get(url)
             the_page = str(driver1.page_source)
@@ -50,7 +51,7 @@ def get_html(url):
             #     faculty_image.append(image.get_attribute('src'))
             time.sleep(5)
         except:
-            return ""
+            return []
 
     # urllib.request.urlretrieve('https://gps.ucsd.edu/_images/people/faculty/faculty_feinberg.jpg', "filename.png")
     # for i in range(len(faculty_image)):
@@ -74,13 +75,15 @@ def get_html(url):
     return result
 
 
-def view_html_structure(url, known_html=[], wrong_words=[]):
+def view_html_structure(url, scrape_option, known_html=[], wrong_words=[]):
     # print(wrong_words)
     html = []
     if len(known_html) == 0:
-        html = get_html(url)
+        html = get_html(url, scrape_option)
     else:
         html = known_html
+    if not html:
+        return {}
     f = open('html_structure.txt', 'w')
     f1 = open('whole_html.txt', 'w')
     f2 = open('raw_html.txt', 'w')
@@ -138,8 +141,7 @@ def view_html_structure(url, known_html=[], wrong_words=[]):
     html_tree = [[root]]
     level = 0
     for i in html_structure[1: -1]:
-        if '<!--' in i[0] or 'br' in i[0] or '\\' in i[0] or '<img' in i[0] or '<input' in i[0] or '<meta' in i[
-            0] or '<hr>' in i[0]:
+        if '<!--' in i[0] or 'br' in i[0] or '\\' in i[0] or '<img' in i[0] or '<input' in i[0] or '<meta' in i[0] or '<hr>' in i[0]:
             continue
         if '/' != i[0][1]:
             level += 1
@@ -190,6 +192,12 @@ def view_html_structure(url, known_html=[], wrong_words=[]):
                             aa = raw_html[html_tree[level][i][2] + 1].split(' ')
                             if len(aa) <= 3:
                                 flag = False
+                    invalid_names = ['Admission', 'About', 'FAQs', 'Building', 'Summer', 'HOME', 'Academics', 'Position', 'News', 'Events', 'Advising']
+                    if r == 'Name':
+                        for j in invalid_names:
+                            if j in raw_html[html_tree[level][i][2] + 1]:
+                                flag = False
+                                break
                     if r == 'Name' or r == 'Position' or r == 'Research Interest':
                         for j in ['0', '1', '2', '3', '4', '5', '6', '7', '8', '9', 'Email', 'Phone', 'Homepage', '@', 'E-mail', 'Full Profile', 'PhD', '.edu']:
                             if j in raw_html[html_tree[level][i][2] + 1]:
@@ -350,7 +358,8 @@ def view_html_structure(url, known_html=[], wrong_words=[]):
                                 a = a[:p] + a[p + 1:]
                             else:
                                 p += 1
-                        tag = tag[: -1] + ' ' + a + '>'
+                        # tag = tag[: -1] + ' ' + a + '>'
+                        tag = tag[:-1] + ' ' + a[:a.find(' ')] + '>'
                     while tag in tag_class_names:
                         tag = tag[:-1] + '@' + '>'
                     tag_class_names.append(tag)
@@ -611,8 +620,31 @@ def view_html_structure(url, known_html=[], wrong_words=[]):
                         d[j] = 'Missing'
                         missing += 1
 
+            cell_range = [0, 0]
+            for j in path_to_result[i].keys():
+                if j.count('<') == 1:
+                    cell_range = path_to_result[i][j].copy()
+            expected_name = ''
+            for j in range(cell_range[0], cell_range[1]):
+                if raw_html[j][0] != '<' and len(raw_html[j]) > 2:
+                    if 1 < len(raw_html[j].split()) < 5:
+                        expected_name = raw_html[j]
+                        break
+                    elif len(raw_html[j].split()) == 1:
+                        expected_name = raw_html[j] + ' '
+                        for k in range(j + 1, cell_range[1]):
+                            if raw_html[k][0] != '<' and len(raw_html[k]) > 2:
+                                if len(raw_html[k].split()) < 2:
+                                    expected_name += raw_html[k]
+                                else:
+                                    expected_name = ''
+                                break
+                        break
+            if expected_name != '' and 'Name' in d.keys() and d['Name'] != 'Missing':
+                d['Name'] = expected_name
+
             # print()
-            if missing < 3:
+            if missing < 5:
                 result.append(d.copy())
             total_miss += missing
             total_num += 5
@@ -641,7 +673,8 @@ def view_html_structure(url, known_html=[], wrong_words=[]):
             return {}
 
         for r in result:
-            final_result.append(r.copy())
+            if 'Name' in r.keys() and r['Name'] != 'Missing':
+                final_result.append(r.copy())
         return subtree_path
 
     common_structures = find_possible_list(path_dict)
@@ -669,7 +702,7 @@ def view_html_structure(url, known_html=[], wrong_words=[]):
     if len(noise) > 0:
         for i in wrong_words:
             noise.append(i)
-        return view_html_structure(url, html, noise)
+        return view_html_structure(url, scrape_option, html, noise)
 
     return final_result
 
@@ -699,6 +732,7 @@ def view_html_structure(url, known_html=[], wrong_words=[]):
 # view_html_structure('https://www.math.northwestern.edu/people/faculty/')
 # faculty_list = view_html_structure('https://www.cs.uci.edu/faculty/')
 
-a = view_html_structure('https://www.eecs.mit.edu/people/faculty-advisors')
+a = view_html_structure('https://music.columbia.edu/people/faculty', 'urllib')
+print(len(a))
 for i in a:
     print(i)

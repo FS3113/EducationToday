@@ -1,0 +1,233 @@
+[
+    {
+        "Name": "Joseph K. Blitzstein",
+        "Research Interest": "  Research Interests: Inference for network data Foundational issues in Statistics and Data Science Statistics Education",
+        "Position": "Professor of the Practice in Statistics, Director of Undergraduate Studies",
+        "Email": "blitzstein@stat.harvard.edu",
+        "Phone number": "p: (617) 496-2985"
+    },
+    {
+        "Name": "Stephen Blyth",
+        "Research Interest": "Missing",
+        "Position": "Professor of the Practice in Statistics",
+        "Email": "blyth@stat.harvard.edu",
+        "Phone number": "p: 617-495-5617"
+    },
+    {
+        "Name": "Mark E. Glickman",
+        "Research Interest": "Missing",
+        "Position": "Senior Lecturer in Statistics,  Director of Masters Study",
+        "Email": "glickman@stat.harvard.edu",
+        "Phone number": "p: (617) 496-1505"
+    },
+    {
+        "Name": "Kosuke Imai",
+        "Research Interest": "  Research Interests: Causal Inference Program Evaluation Survey Research Applied Bayesian Statistics Applications of Statistics in Social Sciences",
+        "Position": "Professor of Government and Statistics",
+        "Email": "Missing",
+        "Phone number": "Missing"
+    },
+    {
+        "Name": "Pierre E. Jacob",
+        "Research Interest": "Missing",
+        "Position": "Associate Professor of Statistics",
+        "Email": "pjacob@fas.harvard.edu",
+        "Phone number": "p: (617) 496-9259"
+    },
+    {
+        "Name": "Lucas Janson",
+        "Research Interest": "Missing",
+        "Position": "Assistant Professor of Statistics",
+        "Email": "ljanson@fas.harvard.edu",
+        "Phone number": "p: 617-998-5658"
+    },
+    {
+        "Name": "Tracy Ke",
+        "Research Interest": "  Research Interests High-dimensional statistics Machine learning Social network analysis Text mining Bioinformatics and statistical genetics",
+        "Position": "Assistant Professor of Statistics",
+        "Email": "zke@fas.harvard.edu",
+        "Phone number": "p: (617) 496-8318"
+    },
+    {
+        "Name": "S.C. Samuel Kou",
+        "Research Interest": "Missing",
+        "Position": "Professor of Statistics, Professor of Biostatistics: Harvard T.H. Chan School of Public Health",
+        "Email": "kou@stat.harvard.edu",
+        "Phone number": "p: (617) 496-8423"
+    },
+    {
+        "Name": "Xihong Lin",
+        "Research Interest": "Missing",
+        "Position": "Professor of Statistics, Professor of Biostatistics: Harvard T.H. Chan School of Public Health ",
+        "Email": "p: (617) 432-2914",
+        "Phone number": "Missing"
+    },
+    {
+        "Name": "Jun S. Liu",
+        "Research Interest": "  Research Interests Statistical missing data problems Imputation methodology Gibbs sampling Markov structure Image...",
+        "Position": "Professor of Statistics",
+        "Email": "jliu@stat.harvard.edu",
+        "Phone number": "p: (617) 495-1600"
+    },
+    {
+        "Name": "Xiaole Shirley Liu",
+        "Research Interest": "  Research Interests Genomics data integration and algorithm development Modeling gene regulation Precision cancer medicine Cancer immunity and immunotherapy",
+        "Position": "Professor of Statistics , Professor of Biostatistics and Computational Biology: Harvard T.H. Chan School of Public Health",
+        "Email": "p: (617) 632-2472",
+        "Phone number": "Missing"
+    },
+    {
+        "Name": "Xiao-Li Meng",
+        "Research Interest": "Missing",
+        "Position": "Whipple V. N. Jones Professor of Statistics,  Joint Director of Graduate Studies",
+        "Email": "meng@stat.harvard.edu",
+        "Phone number": "p: (617) 495-1603"
+    },
+    {
+        "Name": "Susan Murphy",
+        "Research Interest": "Missing",
+        "Position": "Professor of Statistics, Joint Director of Graduate Studies, Radcliffe Alumnae Professor at the Radcliffe Institute, Professor of Computer Science: Harvard John A. Paulson School of Engineering and Applied Sciences",
+        "Email": "Missing",
+        "Phone number": "Missing"
+    },
+    {
+        "Name": "Natesh S. Pillai",
+        "Research Interest": "  Research Interests Interface of applied probability and statistics Markov Chain Monte Carlo algorithms ...",
+        "Position": "Professor of Statistics",
+        "Email": "pillai@fas.harvard.edu",
+        "Phone number": "p: (617) 496-1085"
+    },
+    {
+        "Name": "Kevin Rader",
+        "Research Interest": "  Research Interests Sports Analytics Biomedical Applications Statistical Pedagogy Survival Analysis Complex Surveys ...",
+        "Position": "Senior Preceptor in Statistics, Associate Director of Undergraduate Studies",
+        "Email": "rader@stat.harvard.edu",
+        "Phone number": "Missing"
+    },
+    {
+        "Name": "Subhabrata Sen",
+        "Research Interest": "Missing",
+        "Position": "Assistant Professor of Statistics",
+        "Email": "subhabratasen@fas.harvard.edu",
+        "Phone number": "p: 617.998.2402"
+    },
+    {
+        "Name": "Neil Shephard",
+        "Research Interest": "... ",
+        "Position": "Chair of Department of Statistics,  Frank B. Baird, Jr. Professor of Science",
+        "Email": "shephard@fas.harvard.edu",
+        "Phone number": "Missing"
+    },
+    {
+        "Name": "Pragya Sur",
+        "Research Interest": "Missing",
+        "Position": "Assistant Professor of Statistics",
+        "Email": "Missing",
+        "Phone number": "Missing"
+    },
+    {
+        "Name": "Yves Atchade ",
+        "Research Interest": "Missing",
+        "Position": "Professor of Statistics, Boston University",
+        "Email": "Missing",
+        "Phone number": "Missing"
+    },
+    {
+        "Name": "Iavor Bojinov",
+        "Research Interest": "  Research Interests: Experimentation and Causality",
+        "Position": "Assistant Professor of Business Administration, Harvard Business School",
+        "Email": "Missing",
+        "Phone number": "Missing"
+    },
+    {
+        "Name": "Cynthia Dwork",
+        "Research Interest": "Missing",
+        "Position": "Radcliffe Alumnae Professor Professor, Harvard John A. Paulson School of Engineering and Applied Sciences Professor by Affiliation, Harvard Law School",
+        "Email": "Missing",
+        "Phone number": "Missing"
+    },
+    {
+        "Name": "Luke W. Miratrix",
+        "Research Interest": "Missing",
+        "Position": "Department Affiliate,  Assistant Professor of Education, Harvard Graduate School of Education",
+        "Email": "lmiratrix@stat.harvard.edu",
+        "Phone number": "p: (617) 496-2939"
+    },
+    {
+        "Name": "Alan M. Zaslavsky",
+        "Research Interest": "Missing",
+        "Position": "Professor of Health Care Policy, Harvard Medical School",
+        "Email": "p: (617) 432-2441",
+        "Phone number": "Missing"
+    },
+    {
+        "Name": "Jose Zubizarreta",
+        "Research Interest": "Missing",
+        "Position": "Department Affiliate, Associate Professor of Health Care Policy, Harvard Medical School",
+        "Email": "zubizarreta@hcp.med.harvard.edu",
+        "Phone number": "Missing"
+    },
+    {
+        "Name": "Herman Chernoff",
+        "Research Interest": "Missing",
+        "Position": "Emeritus Professor of Statistics",
+        "Email": "chernoff@stat.harvard.edu",
+        "Phone number": "p: (617) 495-5462"
+    },
+    {
+        "Name": "Arthur P. Dempster",
+        "Research Interest": "Missing",
+        "Position": "Emeritus Professor of Theoretical Statistics",
+        "Email": "dempster@stat.harvard.edu",
+        "Phone number": "p: (617) 495-5601"
+    },
+    {
+        "Name": "David P. Harrington",
+        "Research Interest": "Missing",
+        "Position": "Emeritus Professor of Statistics Professor of Biostatistics, Harvard T.H. Chan School of Public Health",
+        "Email": "Missing",
+        "Phone number": "Missing"
+    },
+    {
+        "Name": "Carl N. Morris",
+        "Research Interest": "Missing",
+        "Position": "Emeritus Professor of Statistics",
+        "Email": "morris@stat.harvard.edu",
+        "Phone number": "p: (617) 495-1602"
+    },
+    {
+        "Name": "Donald B. Rubin",
+        "Research Interest": "Missing",
+        "Position": "Emeritus Professor of Statistics",
+        "Email": "Missing",
+        "Phone number": "Missing"
+    },
+    {
+        "Name": "Katy McKeough",
+        "Research Interest": "\\xc2\\xa0",
+        "Position": "Harvard College Fellow",
+        "Email": "Missing",
+        "Phone number": "Missing"
+    },
+    {
+        "Name": "Laurie Shaw",
+        "Research Interest": "Missing",
+        "Position": "Research Scientist Lecturer",
+        "Email": "Missing",
+        "Phone number": "Missing"
+    },
+    {
+        "Name": "Julie Vu",
+        "Research Interest": "\\xc2\\xa0",
+        "Position": "Preceptor in Statistics",
+        "Email": "Missing",
+        "Phone number": "Missing"
+    },
+    {
+        "Name": "Alexander Young",
+        "Research Interest": "  Research Interests Entropy and Mutual Information estimation and applications Mathematical and statistical...",
+        "Position": "Undergraduate Advisor and Lecturer ",
+        "Email": "Missing",
+        "Phone number": "Missing"
+    }
+]
