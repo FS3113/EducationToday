@@ -119,7 +119,7 @@ def view_html_structure(url):
     html_tree = [[root]]
     level = 0
     for i in html_structure[1: -1]:
-        if '<!--' in i[0] or 'br' in i[0] or '\\' in i[0]:
+        if '<!--' in i[0] or 'br' in i[0] or '\\' in i[0] or '<img' in i[0] or '<input' in i[0] or '<meta' in i[0] or '<hr>' in i[0]:
             continue
         if '/' != i[0][1]:
             level += 1
@@ -131,13 +131,14 @@ def view_html_structure(url):
             try:
                 while html_tree[level][-1][1] != '<' + i[0][2:]:
                     level -= 1
-                    print(html_tree[level][-1])
-                    print(i)
+                    assert (level >= 0)
             except:
                 level = l
                 continue
             html_tree[level][-1].append(i[1])
             level -= 1
+
+
     for i in html_tree:
         print(i)
 
@@ -181,82 +182,7 @@ def view_html_structure(url):
     return result
 
 
-def find_all_links(url):
-    html = get_html(url)
-    result = []
-    for i in html:
-        if '<a href=' in i:
-            new_url = i[9: -2]
-            if 'http' not in new_url:
-                new_url = url + new_url
-            result.append(new_url)
-    print(result)
-    return result
-
-
-def expand_list(urls, input_list, depth):
-    start_from = 0
-    for i in range(len(urls)):
-        print(urls[i])
-        html = get_raw_html(urls[i])
-        for input in input_list:
-            if input in html:
-                start_from = 1
-
-    if start_from == 0:
-        print('...........')
-        if depth <= 1:
-            return ['nothing founded']
-        new_urls = []
-        for i in urls:
-            new_urls.extend(find_all_links(i))
-            print(new_urls)
-        return expand_list(new_urls, input_list, depth - 1)
-
-    result = []
-    for i in range(len(urls)):
-        result.extend(view_html_structure(urls[i]))
-    return result
-
-# https://be.mit.edu/directory
-# https://gps.ucsd.edu/faculty-research/faculty.html
-# http://www.bbe.caltech.edu/people?cat_one=Faculty&cat_two=all
-# http://cce.caltech.edu/people?cat_one=faculty&cat_two=all
-# http://www.hss.caltech.edu/people?cat_one=Professorial%20Faculty&cat_two=all
-# http://pma.divisions.caltech.edu/people?cat_one=Professorial%20Faculty&cat_two=all
-# https://geiselmed.dartmouth.edu/faculty/facultydb/search/?exact=0&search_fields=Name_Last%2CName_First%2CDepartment%2CPrograms%2CInterests%2CEducation%2CPosition_Title%2CCourses&search_op=AND&search_query=professor&sort_field=Name_Last&sort_order=ASC&search=Search#results
-# https://engineering.dartmouth.edu/people/faculty/core/
-# https://www.cs.cornell.edu/people/faculty
-# https://math.unc.edu/people/faculty/
-# https://sils.unc.edu/directory/faculty
-# https://as.tufts.edu/philosophy/people/fulltime
-# http://ase.tufts.edu/anthropology/people/
-# http://www.sas.rochester.edu/ant/people/
-# https://biology.ucdavis.edu/faculty
-# https://coe.northeastern.edu/faculty-staff-directory/
-a = view_html_structure('https://gps.ucsd.edu/faculty-research/faculty.html')
-
-# for i in a:
-#     print(len(i), i)
-#
-# f = open('tmp.txt', 'w')
-# for i in a:
-#     for j in i:
-#         if '.edu' in j:
-#             i.remove(j)
-#             break
-#     if len(i) < 2:
-#         continue
-#     # print(i[0])
-#     name = i[0]
-#     position = i[1]
-#     print(name)
-#     interest = i[-2]
-#     f.write('Name: ' + name + '\n')
-#     f.write('Position: ' + position + '\n')
-#     f.write('Research Interest: ' + interest + '\n\n')
-
-a = view_html_structure('https://www.amazon.com/s?k=tablet&ref=nb_sb_noss_1')
+a = view_html_structure('https://dblp.uni-trier.de/pers?pos=1')
 for i in a:
     print(i)
 

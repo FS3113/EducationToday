@@ -11,8 +11,6 @@ from sklearn.ensemble import RandomForestClassifier
 import nltk
 nltk.download('words')
 from nltk.corpus import words
-import os
-os.chdir('/home/vagrant/EducationToday')
 
 warnings.filterwarnings(action='ignore')
 # english_dictionary = enchant.Dict("en_US")

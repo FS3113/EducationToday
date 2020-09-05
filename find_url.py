@@ -23,7 +23,7 @@ def find(university, department):
     input_tab.send_keys(university + ' ' + department + ' faculty', Keys.ENTER)
     elems = driver.find_elements_by_xpath("//a[@href]")
     possibleURLs = []
-    words = ['google', 'wiki', 'news', 'instagram', 'twitter', 'linkedin', 'criminal', 'student', 'course']
+    words = ['google', 'wiki', 'news', 'instagram', 'twitter', 'linkedin', 'criminal', 'student', 'course', 'facebook']
     n = 0
     for elem in elems:
         t = elem.get_attribute("href")
@@ -56,12 +56,12 @@ def find(university, department):
                 for j in i.values():
                     if j != 'Missing':
                         valid_data += 1
-            if len(r) > 12 and valid_data / (5 * len(r)) > 0.56:
+            if len(r) >= 10 and valid_data / (5 * len(r)) > 0.56:
                 return url, r
             if len(r) > 20 and valid_data / (5 * len(r)) > 0.36 and r[0]['Name'] != 'Missing':
                 return url, r
-            # print(valid_data)
-            # print(len(r), r)
+            print(valid_data)
+            print(len(r), r)
             if valid_data > res_num:
                 res_url = url
                 res_data = r.copy()
@@ -69,13 +69,13 @@ def find(university, department):
     return res_url, res_data
 
 
-# u = 'Harvard University'
-# a = 'Stem Cell and Regenerative Biology'
-# r1, r2 = find(u, a)
-# for i in r2:
-#     print(i)
-# print(r1)
-#
-# with open('Data/faculty_data/' + u + '/' + a + '.json', 'w') as f1:
-#     json.dump(r2, f1, indent=4)
+u = 'Massachusetts Institute of Technology'
+a = 'Chemistry'
+r1, r2 = find(u, a)
+for i in r2:
+    print(i)
+print(r1)
+
+with open('Data/faculty_data/' + u + '/' + a + '.json', 'w') as f1:
+    json.dump(r2, f1, indent=4)
 

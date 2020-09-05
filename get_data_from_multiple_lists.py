@@ -20,8 +20,14 @@ from random_forest import vectorize
 import string
 from find_possible_list import find_possible_list
 from find_possible_list import handle_extreme_edge_case
+import os
 
 random_forest_model = pickle.load(open('random_forest_model.sav', 'rb'))
+
+f1 = open('dblp_authors/first_name.pkl', 'rb')
+dblp_first_name = pickle.load(f1)
+f2 = open('dblp_authors/last_name.pkl', 'rb')
+dblp_last_name = pickle.load(f2)
 
 
 # given an url, get whole html in a good format (a list)
@@ -42,21 +48,13 @@ def get_html(url, scrape_option):
     else:
         try:
             chrome_option = Options()
-            driver1 = webdriver.Chrome(executable_path='/Users/juefei/Desktop/EducationToday/chromedriver',
+            driver1 = webdriver.Chrome(executable_path=os.getcwd() + '/chromedriver',
                                        chrome_options=chrome_option)
             driver1.get(url)
             the_page = str(driver1.page_source)
-            # images = driver1.find_elements_by_tag_name('img')
-            # for image in images:
-            #     faculty_image.append(image.get_attribute('src'))
             time.sleep(5)
         except:
             return []
-
-    # urllib.request.urlretrieve('https://gps.ucsd.edu/_images/people/faculty/faculty_feinberg.jpg', "filename.png")
-    # for i in range(len(faculty_image)):
-    #     print(faculty_image[i])
-    #     urllib.request.urlretrieve(faculty_image[i], 'Faculty_Image/' + str(i) + '.png')
 
     result = []
     line = ""
@@ -173,7 +171,33 @@ def view_html_structure(url, scrape_option, known_html=[], wrong_words=[]):
                 if raw_html[html_tree[level][i][2] + 1][0] == '<' or raw_html[html_tree[level][i][2] + 1] == ' ':
                     continue
 
-                r = random_forest_model.predict([vectorize(raw_html[html_tree[level][i][2] + 1])])[0]
+                check_name = raw_html[html_tree[level][i][2] + 1]
+                check_name = check_name.replace(',', ' ')
+                check_name = check_name.split()
+                name_type = False
+                if 1 < len(check_name) < 6:
+                    name_c = 0
+                    for k in check_name:
+                        k = k.lower()
+                        if k in dblp_first_name.keys() or k in dblp_last_name.keys():
+                            name_c += 1
+                    if len(check_name) <= 2:
+                        if name_c == len(check_name):
+                            name_type = True
+                    elif 2 < len(check_name) <= 3:
+                        if len(check_name) - name_c <= 1:
+                            name_type = True
+                    elif len(check_name) > 3:
+                        if len(check_name) - name_c <= 2:
+                            name_type = True
+                r = ''
+                if name_type:
+                    r = 'Name'
+                else:
+                    r = random_forest_model.predict([vectorize(raw_html[html_tree[level][i][2] + 1])])[0]
+                    if r == 'Name':
+                        r = 'None'
+                # print(r, raw_html[html_tree[level][i][2] + 1])
                 if r != 'None':
                     p = []
                     t = level
@@ -192,7 +216,7 @@ def view_html_structure(url, scrape_option, known_html=[], wrong_words=[]):
                             aa = raw_html[html_tree[level][i][2] + 1].split(' ')
                             if len(aa) <= 3:
                                 flag = False
-                    invalid_names = ['Admission', 'About', 'FAQs', 'Building', 'Summer', 'HOME', 'Academics', 'Position', 'News', 'Events', 'Advising']
+                    invalid_names = ['Admission', 'About', 'FAQs', 'Building', 'Summer', 'HOME', 'Academics', 'Position', 'News', 'Events', 'Advising', 'Undergraduate']
                     if r == 'Name':
                         for j in invalid_names:
                             if j in raw_html[html_tree[level][i][2] + 1]:
@@ -442,7 +466,7 @@ def view_html_structure(url, scrape_option, known_html=[], wrong_words=[]):
                             else:
                                 t_max = max(t_max, subtree_path[i][j])
                                 t_sum += subtree_path[i][j]
-                    if flag1 and t_sum / t_max > 1.5:
+                    if flag1 and t_sum / t_max > 1.85:
                         subtree_path2[i] = a1
                     else:
                         subtree_path2[i] = subtree_path1[i]
@@ -548,6 +572,34 @@ def view_html_structure(url, scrape_option, known_html=[], wrong_words=[]):
                 # print()
                 subtree_path[i] = best_anchor_point.copy()
 
+        use_expected_name = True
+        expected_names = []
+        for i in path_to_result.keys():
+            cell_range = [0, 0]
+            for j in path_to_result[i].keys():
+                if j.count('<') == 1:
+                    cell_range = path_to_result[i][j].copy()
+            expected_name = ''
+            for j in range(cell_range[0], cell_range[1]):
+                if raw_html[j][0] != '<' and len(raw_html[j]) > 2:
+                    if 1 < len(raw_html[j].split()) < 5:
+                        expected_name = raw_html[j]
+                        break
+                    elif len(raw_html[j].split()) == 1:
+                        expected_name = raw_html[j] + ' '
+                        for k in range(j + 1, cell_range[1]):
+                            if raw_html[k][0] != '<' and len(raw_html[k]) > 2:
+                                if len(raw_html[k].split()) < 2:
+                                    expected_name += raw_html[k]
+                                else:
+                                    expected_name = ''
+                                break
+                        break
+            expected_names.append(expected_name)
+        if len(expected_names) > 3 and expected_names[0] == expected_names[1] == expected_names[2]:
+            use_expected_name = False
+
+        # print(subtree_path)
         result = []
         total_miss, total_num, total_match = 0, 1, 0
         for i in path_to_result.keys():
@@ -620,28 +672,37 @@ def view_html_structure(url, scrape_option, known_html=[], wrong_words=[]):
                         d[j] = 'Missing'
                         missing += 1
 
-            cell_range = [0, 0]
-            for j in path_to_result[i].keys():
-                if j.count('<') == 1:
-                    cell_range = path_to_result[i][j].copy()
-            expected_name = ''
-            for j in range(cell_range[0], cell_range[1]):
-                if raw_html[j][0] != '<' and len(raw_html[j]) > 2:
-                    if 1 < len(raw_html[j].split()) < 5:
-                        expected_name = raw_html[j]
-                        break
-                    elif len(raw_html[j].split()) == 1:
-                        expected_name = raw_html[j] + ' '
-                        for k in range(j + 1, cell_range[1]):
-                            if raw_html[k][0] != '<' and len(raw_html[k]) > 2:
-                                if len(raw_html[k].split()) < 2:
-                                    expected_name += raw_html[k]
-                                else:
-                                    expected_name = ''
-                                break
-                        break
-            if expected_name != '' and 'Name' in d.keys() and d['Name'] != 'Missing':
-                d['Name'] = expected_name
+            # cell_range = [0, 0]
+            # for j in path_to_result[i].keys():
+            #     if j.count('<') == 1:
+            #         cell_range = path_to_result[i][j].copy()
+            # expected_name = ''
+            # for j in range(cell_range[0], cell_range[1]):
+            #     if raw_html[j][0] != '<' and len(raw_html[j]) > 2:
+            #         if 1 < len(raw_html[j].split()) < 5:
+            #             expected_name = raw_html[j]
+            #             break
+            #         elif len(raw_html[j].split()) == 1:
+            #             expected_name = raw_html[j] + ' '
+            #             for k in range(j + 1, cell_range[1]):
+            #                 if raw_html[k][0] != '<' and len(raw_html[k]) > 2:
+            #                     if len(raw_html[k].split()) < 2:
+            #                         expected_name += raw_html[k]
+            #                     else:
+            #                         expected_name = ''
+            #                     break
+            #             break
+            # if expected_name != '' and 'Name' in d.keys() and d['Name'] != 'Missing':
+            #     d['Name'] = expected_name
+
+            if use_expected_name and expected_names[0] != '' and 'Name' in d.keys() and d['Name'] != 'Missing':
+                flag = True
+                for i in '0123456789':
+                    if i in expected_names[0]:
+                        flag = False
+                if flag:
+                    d['Name'] = expected_names[0]
+            del expected_names[0]
 
             # print()
             if missing < 5:
@@ -707,32 +768,7 @@ def view_html_structure(url, scrape_option, known_html=[], wrong_words=[]):
     return final_result
 
 
-# view_html_structure('https://www.cc.gatech.edu/people/faculty')
-# view_html_structure('https://engineering.dartmouth.edu/people/faculty/core/')
-# view_html_structure('https://sils.unc.edu/directory/faculty')
-# view_html_structure('https://www.cs.cornell.edu/people/faculty')
-
-# positions are misclassified as research interests:
-# view_html_structure('http://www.bbe.caltech.edu/people?cat_one=Faculty&cat_two=all')
-
-# research interests for each faculty are separated under different tags
-# view_html_structure('http://cce.caltech.edu/people?cat_one=faculty&cat_two=all')
-
-# variation in structures (to do)
-# view_html_structure('http://www.hss.caltech.edu/people?cat_one=Professorial%20Faculty&cat_two=all')
-# view_html_structure('http://www.hss.caltech.edu/people?cat_one=Professorial%20Faculty&cat_two=all')
-
-# view_html_structure('https://architecture.mit.edu/people')
-# print(random_forest_model.predict([vectorize(('Balibanu, Ana'))]))
-# print(random_forest_model.predict([vectorize(('SC 532g'))]))
-# print(random_forest_model.predict([vectorize(('Computer Science'))]))
-
-# view_html_structure('https://math.yale.edu/people/all-faculty')
-# view_html_structure('https://gps.ucsd.edu/faculty-research/faculty.html')
-# view_html_structure('https://www.math.northwestern.edu/people/faculty/')
-# faculty_list = view_html_structure('https://www.cs.uci.edu/faculty/')
-
-a = view_html_structure('https://music.columbia.edu/people/faculty', 'urllib')
+a = view_html_structure('https://mcb.illinois.edu/faculty/by_research')
 print(len(a))
 for i in a:
     print(i)

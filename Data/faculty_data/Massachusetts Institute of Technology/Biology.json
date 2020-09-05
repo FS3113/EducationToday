@@ -1,0 +1,397 @@
+[
+    {
+        "Position": "Amon",
+        "Name": "Angelika Amon",
+        "Research Interest": "Angelika Amon examines cell growth and division, and how errors in this process contribute to cancer and aging."
+    },
+    {
+        "Position": "Baker",
+        "Name": "Tania A.",
+        "Research Interest": "Tania Baker\\xe2\\x80\\x99s current research explores mechanisms and regulation of enzyme-catalyzed protein unfolding, ATP-dependent protein degradation, and remodeling of the proteome during cellular stress responses. "
+    },
+    {
+        "Position": "Bartel",
+        "Name": "David Bartel",
+        "Research Interest": "David Bartel studies molecular pathways that regulate eukaryotic gene expression by affecting the stability or translation of mRNAs."
+    },
+    {
+        "Position": "Bell",
+        "Name": "Stephen Bell",
+        "Research Interest": "Stephen Bell probes the cellular machinery that replicates and maintains animal cell chromosomes."
+    },
+    {
+        "Position": "Boyer",
+        "Name": "Laurie A.",
+        "Research Interest": "Laurie A. Boyer investigates the gene regulatory mechanisms that drive heart development and regeneration using embryonic stem cells and mouse models."
+    },
+    {
+        "Position": "Burge",
+        "Name": "Christopher Burge",
+        "Research Interest": "Christopher Burge applies a combination of experimental and computational approaches to understand the regulatory codes underlying pre-mRNA splicing and other types of post-transcriptional gene regulation."
+    },
+    {
+        "Position": "Calo",
+        "Name": "Eliezer Calo",
+        "Research Interest": "Eliezer Calo studies how cells build ribosomes and how dysfunction in ribosome biogenesis and function leads to tissue-specific developmental disorders and cancer."
+    },
+    {
+        "Position": "Case",
+        "Name": "Lindsay Case",
+        "Research Interest": "Lindsay Case studies how molecules are concentrated and organized at the plasma membrane to regulate transmembrane signaling."
+    },
+    {
+        "Position": "Cheeseman",
+        "Name": "Iain M.",
+        "Research Interest": "Iain Cheeseman analyzes the process by which cells duplicate, focusing on the molecular machinery that segregates the chromosomes."
+    },
+    {
+        "Position": "Chen",
+        "Name": "Jianzhu Chen",
+        "Research Interest": "Jianzhu Chen studies the immune system, harnessing the body\\xe2\\x80\\x99s defense force to explore treatment and prevention for cancer, as well as metabolic and infectious diseases."
+    },
+    {
+        "Position": "Chisholm",
+        "Name": "Sallie (Penny) W.",
+        "Research Interest": "Sallie (Penny) W. Chisholm studies the biology, ecology, and evolution of the single most abundant marine phytoplankton species in order to understand the forces that shape microbial ecosystems."
+    },
+    {
+        "Position": "Ciss\\xc3\\xa9",
+        "Name": "Ibrahim Ciss\\xc3\\xa9",
+        "Research Interest": "Ibrahim Ciss\\xc3\\xa9 develops single-molecule and super-resolution approaches to study protein clustering, biomolecular condensation in transcription, and other processes in living cells."
+    },
+    {
+        "Position": "Constantine-Paton",
+        "Name": "Martha Constantine-Paton",
+        "Research Interest": "Martha Constantine-Paton uses a combination of classical and modern genetic tools in mice to study the contributions of specific brain regions to normal behavior."
+    },
+    {
+        "Position": "Davis",
+        "Name": "Joseph (Joey)",
+        "Research Interest": "Joey Davis investigates how cells maintain a delicate internal balance of assembling and dismantling their own machinery \\xe2\\x80\\x94 in particular, assemblages of many molecules known as macromolecular complexes."
+    },
+    {
+        "Position": "Drennan",
+        "Name": "Catherine Drennan",
+        "Research Interest": "Catherine Drennan takes \\xe2\\x80\\x9csnapshots\\xe2\\x80\\x9d of metalloenzymes using crystallography and/or cryo-electron microscopy."
+    },
+    {
+        "Position": "Fink",
+        "Name": "Gerald R.",
+        "Research Interest": "Gerald R. Fink investigates how fungal pathogens invade the body, evade the immune system, and establish an infection."
+    },
+    {
+        "Position": "Gehring",
+        "Name": "Mary Gehring",
+        "Research Interest": "Mary Gehring researches epigenetic mechanisms of gene regulation in plants."
+    },
+    {
+        "Position": "Gertler",
+        "Name": "Frank Gertler",
+        "Research Interest": "Frank B. Gertler considers the role of cell shape and movement in developmental defects and diseases."
+    },
+    {
+        "Position": "Grossman",
+        "Name": "Alan D.",
+        "Research Interest": "Alan Grossman studies mechanisms and regulation of DNA replication, gene expression, and horizontal gene transfer in bacteria."
+    },
+    {
+        "Position": "Guarente",
+        "Name": "Leonard P.",
+        "Research Interest": "Leonard P. Guarente looks at mammal, mouse, and human brains to understand the genetic underpinning of aging and age-related diseases like Alzheimer\\xe2\\x80\\x99s."
+    },
+    {
+        "Position": "Hemann",
+        "Name": "Michael T.",
+        "Research Interest": "Michael T. Hemann uses mouse models to combat cancers resistant to chemotherapy."
+    },
+    {
+        "Position": "Hopkins",
+        "Name": "Nancy Hopkins",
+        "Research Interest": "Nancy Hopkins worked on the genetics of mouse RNA tumor viruses; on the genetics of early vertebrate development using zebrafish; and on the fish as a cancer model. "
+    },
+    {
+        "Position": "Horvitz",
+        "Name": "H. Robert",
+        "Research Interest": "H. Robert Horvitz analyzes the roles of genes in animal development and behavior, gaining insight into human disease."
+    },
+    {
+        "Position": "Housman",
+        "Name": "David Housman",
+        "Research Interest": "David Housman studies the biological underpinnings of diseases like Huntington\\xe2\\x80\\x99s, cancer, and cardiovascular disease."
+    },
+    {
+        "Position": "Hynes",
+        "Name": "Richard O.",
+        "Research Interest": "Richard O. Hynes investigates the network of proteins surrounding cells to understand its roles in the spread of cancer throughout the body."
+    },
+    {
+        "Position": "Imperiali",
+        "Name": "Barbara Imperiali",
+        "Research Interest": "Barbara Imperiali studies the biogenesis and myriad functions of glycoconjugates in human health and disease."
+    },
+    {
+        "Position": "Jacks",
+        "Name": "Tyler Jacks",
+        "Research Interest": "Tyler Jacks is interested in the genetic events contributing to the development of cancer, and his group has created a series of mouse strains engineered to carry mutations in genes known to be involved in human cancers."
+    },
+    {
+        "Position": "Jaenisch",
+        "Name": "Rudolf Jaenisch",
+        "Research Interest": "Rudolf Jaenisch uses pluripotent cells (ES and iPS cells) to study the genetic and epigenetic basis of human diseases such as Parkinson\\xe2\\x80\\x99s, Alzheimer\\xe2\\x80\\x99s, autism and cancer."
+    },
+    {
+        "Position": "Jain",
+        "Name": "Ankur Jain",
+        "Research Interest": "Ankur Jain investigates the role of RNA self-assembly in cellular organization and neurodegenerative disease. "
+    },
+    {
+        "Position": "Kaiser",
+        "Name": "Chris A.",
+        "Research Interest": "Chris A. Kaiser analyzes protein folding and trafficking in cells."
+    },
+    {
+        "Position": "Keating",
+        "Name": "Amy E.",
+        "Research Interest": "Amy E. Keating determines how proteins make specific interactions with one another and designs new, synthetic protein-protein interactions."
+    },
+    {
+        "Position": "King",
+        "Name": "Jonathan A. ",
+        "Research Interest": "Jonathan A. King studies what happens when proteins do not fold properly \\xe2\\x80\\x94 leading to conditions like cataracts \\xe2\\x80\\x94 and works to protect the conditions needed to support biomedical research."
+    },
+    {
+        "Position": "Krieger",
+        "Name": "Monty Krieger",
+        "Research Interest": "Monty Krieger studies cell surface receptors and cholesterol and their impact on normal physiology and diseases, such as heart disease and infertility."
+    },
+    {
+        "Position": "Lamason",
+        "Name": "Rebecca Lamason",
+        "Research Interest": "Rebecca Lamason investigates what happens when cellular functions are hijacked by unwanted interlopers: namely, the bacteria that engender diseases like spotted fever and meningitis."
+    },
+    {
+        "Position": "Lander",
+        "Name": "Eric S.",
+        "Research Interest": "Eric S. Lander is interested in every aspect of the human genome and its application to medicine."
+    },
+    {
+        "Position": "Laub",
+        "Name": "Michael T.",
+        "Research Interest": "Michael T. Laub explores how bacterial cells process information and regulate their own growth and proliferation, as well as how these information-processing capabilities have evolved."
+    },
+    {
+        "Position": "Lauffenburger",
+        "Name": "Douglas Lauffenburger",
+        "Research Interest": "Douglas Lauffenburger fosters the interface of bioengineering, quantitative cell biology, and systems biology to determine fundamental aspects of cell dysregulation \\xe2\\x80\\x94 identifying and testing new therapeutic ideas."
+    },
+    {
+        "Position": "Lees",
+        "Name": "Jacqueline Lees",
+        "Research Interest": "Jacqueline Lees develops mouse and zebrafish models, identifying the molecular pathways leading to tumor formation."
+    },
+    {
+        "Position": "Lehmann",
+        "Name": "Ruth Lehmann",
+        "Research Interest": "Ruth Lehmann studies the biological origins of germ cells, and how they transmit the potential to build a completely new organism to their offspring."
+    },
+    {
+        "Position": "Li",
+        "Name": "Gene-Wei",
+        "Research Interest": "Gene-Wei Li investigates how quantitative information regarding precise proteome composition is encoded in and extracted from bacterial genomes."
+    },
+    {
+        "Position": "Li",
+        "Name": "Pulin",
+        "Research Interest": "Pulin Li is interested in quantitatively understanding how genetic circuits create multicellular behavior in both natural and synthetically engineered systems. "
+    },
+    {
+        "Position": "Littleton",
+        "Name": "Troy Littleton",
+        "Research Interest": "Troy Littleton is interested in how neuronal connections form and function, and how neurological disease disrupts synaptic communication."
+    },
+    {
+        "Position": "Lodish",
+        "Name": "Harvey F.",
+        "Research Interest": "Harvey F. Lodish studies the development of red blood cells and the use of modified red cells for the introduction of novel therapeutics into the human body, as well as the development of brown and white fat cells."
+    },
+    {
+        "Position": "Lourido",
+        "Name": "Sebastian Lourido",
+        "Research Interest": "Sebastian Lourido exposes parasite vulnerabilities and harnesses them to treat infectious disease."
+    },
+    {
+        "Position": "Martin",
+        "Name": "Adam C.",
+        "Research Interest": "Adam C. Martin studies molecular mechanisms that underlie tissue form and function."
+    },
+    {
+        "Position": "Nedivi",
+        "Name": "Elly Nedivi",
+        "Research Interest": "Elly Nedivi studies the mechanisms underlying brain circuit plasticity \\xe2\\x80\\x94 characterizing the genes and proteins involved, as well as visualizing synaptic and neuronal remodeling in the living mouse brain."
+    },
+    {
+        "Position": "Orr-Weaver",
+        "Name": "Terry Orr-Weaver",
+        "Research Interest": "Terry Orr-Weaver probed the incredibly complex and coordinated process of development from egg to fertilized embryo and ultimately adult."
+    },
+    {
+        "Position": "Page",
+        "Name": "David C.",
+        "Research Interest": "David C. Page examines the genetic differences between males and females \\xe2\\x80\\x94 and how these play out in disease, development, and evolution."
+    },
+    {
+        "Position": "Pardue",
+        "Name": "Mary-Lou Pardue",
+        "Research Interest": "Mary-Lou Pardue studied fruit fly chromosomes to better understand chromosome replication, cell division, and related cellular structures. "
+    },
+    {
+        "Position": "Quinn",
+        "Name": "William (Chip)",
+        "Research Interest": "William Quinn analyzed the molecular and genetic underpinnings of learning and memory in fruit flies before retiring. "
+    },
+    {
+        "Position": "RajBhandary",
+        "Name": "Uttam  RajBhandary",
+        "Research Interest": "Uttam RajBhandary\\'s interests include interactions between RNAs and proteins, focusing on gene expression and gene regulation."
+    },
+    {
+        "Position": "Reddien",
+        "Name": "Peter Reddien",
+        "Research Interest": "Peter Reddien works to unravel one of the greatest mysteries in biology \\xe2\\x80\\x94 how organisms regenerate missing body parts."
+    },
+    {
+        "Position": "Regev",
+        "Name": "Aviv Regev",
+        "Research Interest": "Aviv Regev pioneers the use of single-cell genomics and other techniques to dissect the molecular networks that regulate genes, define cells and tissues, and influence health and disease."
+    },
+    {
+        "Position": "Sabatini",
+        "Name": "David Sabatini",
+        "Research Interest": "David Sabatini studies the pathways that regulate growth and metabolism and how they are deregulated in diseases like cancer and diabetes."
+    },
+    {
+        "Position": "Samson",
+        "Name": "Leona Samson",
+        "Research Interest": "Leona Samson analyzes toxic chemicals frequently used in cancer chemotherapy to prevent further DNA damage."
+    },
+    {
+        "Position": "Sauer",
+        "Name": "Robert T.",
+        "Research Interest": "Bob Sauer studies intracellular proteolytic machines responsible for protein-quality control and homeostasis."
+    },
+    {
+        "Position": "Schimmel",
+        "Name": "Paul Schimmel",
+        "Research Interest": "Paul Schimmel has worked throughout his career to translate bench-side research into tangible products that improve human health \\xe2\\x80\\x94 including those related to alcoholism, schizophrenia, autism, AIDS, heart disease, and cancer."
+    },
+    {
+        "Position": "Schwartz",
+        "Name": "Thomas U.",
+        "Research Interest": "Thomas U. Schwartz investigates communication across biological membranes, using structural, biochemical, and genetic tools."
+    },
+    {
+        "Position": "Scolnick",
+        "Name": "Edward Scolnick",
+        "Research Interest": "Edward Scolnick has provided critical insights into the genetic underpinnings of a variety of psychiatric disorders, including bipolar disorder, schizophrenia, and autism."
+    },
+    {
+        "Position": "Sharp",
+        "Name": "Phillip A.",
+        "Research Interest": "Phillip A. Sharp studies many aspects of gene expression in mammalian cells, including transcription, the roles of non-coding RNAs, and RNA splicing.\\xc2\\xa0"
+    },
+    {
+        "Position": "Sinskey",
+        "Name": "Anthony J.",
+        "Research Interest": "Anthony J. Sinskey explores the principles of metabolic engineering in both bacteria and plants."
+    },
+    {
+        "Position": "Sive",
+        "Name": "Hazel Sive",
+        "Research Interest": "Hazel Sive studies fundamental mechanisms underlying vertebrate face and brain formation, as well as the molecular underpinnings for neurodevelopmental disorders."
+    },
+    {
+        "Position": "Solomon",
+        "Name": "Frank Solomon",
+        "Research Interest": "Frank Solomon teaches undergraduates, graduate students, postdoctoral scholars, and MSRP participants in the areas of cell biology, experimental design, and responsible conduct of research."
+    },
+    {
+        "Position": "Spranger",
+        "Name": "Stefani Spranger",
+        "Research Interest": "Stefani Spranger studies how the body\\xe2\\x80\\x99s immune system interacts with growing tumors to harness the immune response to fight cancer."
+    },
+    {
+        "Position": "Steiner",
+        "Name": "Lisa A.",
+        "Research Interest": "Before closing her lab, Lisa A. Steiner analyzed the zebrafish genome to understand white blood cells and their role in the immune system."
+    },
+    {
+        "Position": "Stubbe",
+        "Name": "JoAnne Stubbe",
+        "Research Interest": "JoAnne Stubbe studies ribonucleotide reductases \\xe2\\x80\\x94 essential enzymes that provide the building blocks for DNA replication, repair and successful targets of multiple clinical drugs."
+    },
+    {
+        "Position": "Tonegawa",
+        "Name": "Susumu Tonegawa",
+        "Research Interest": "Susumu Tonegawa investigates the biological underpinnings of learning and memory in rodents."
+    },
+    {
+        "Position": "Vander Heiden",
+        "Name": "Matthew",
+        "Research Interest": "Matthew Vander Heiden is interested in the role that cell metabolism plays in mammalian physiology, with a focus on cancer."
+    },
+    {
+        "Position": "Vos",
+        "Name": "Seychelle M.",
+        "Research Interest": "Seychelle M. Vos investigates how genome organization and gene expression are physically coupled across molecular scales."
+    },
+    {
+        "Position": "Walker",
+        "Name": "Graham C.",
+        "Research Interest": "Graham C. Walker studies DNA repair, mutagenesis, and cellular responses to DNA damage, as well as the symbiotic relationship between legumes and nitrogen-fixing bacteria."
+    },
+    {
+        "Position": "Walker",
+        "Name": "Bruce Walker",
+        "Research Interest": "Bruce Walker investigates cellular immune responses in chronic human viral infections, with a particular focus on HIV immunology and vaccine development. "
+    },
+    {
+        "Position": "Weinberg",
+        "Name": "Robert A.",
+        "Research Interest": "Robert A. Weinberg studies how cancer spreads, what gives cancer stem-cells their unique qualities, and the molecular players involved in the formation of cancer stem cells and metastases."
+    },
+    {
+        "Position": "Weissman",
+        "Name": "Jonathan Weissman",
+        "Research Interest": "Jonathan Weissman investigates how proteins fold into their correct shape and how misfolding impacts disease and normal physiology, while building innovative tools for exploring the organizational principles of biological systems."
+    },
+    {
+        "Position": "Weng",
+        "Name": "Jing-Ke  Weng",
+        "Research Interest": "Jing-Ke Weng studies metabolic evolution in plants and explores the remarkable plant chemodiversity for new commodity chemicals and medicines."
+    },
+    {
+        "Position": "Wilson",
+        "Name": "Matthew A.",
+        "Research Interest": "Matthew Wilson studies rodent learning and memory by recording and manipulating the activity of neurons during behavior and sleep."
+    },
+    {
+        "Position": "Yaffe",
+        "Name": "Michael B.",
+        "Research Interest": "Michael B. Yaffe studies the chain of reactions that controls a cell\\xe2\\x80\\x99s response to stress, cell injury, and DNA damage."
+    },
+    {
+        "Position": "Yamashita",
+        "Name": "Yukiko Yamashita",
+        "Research Interest": "Yukiko Yamashita studies two fundamental aspects of multicellular organisms: how cell fates are diversified via asymmetric cell division, and how genetic information is transmitted through generations via the germline."
+    },
+    {
+        "Position": "Yilmaz",
+        "Name": "Omer H.",
+        "Research Interest": "Omer H. Yilmaz explores the impact of dietary interventions on stem cells, the immune system, and cancer within the intestine."
+    },
+    {
+        "Position": "Young",
+        "Name": "Richard A.",
+        "Research Interest": "Richard A. Young explores how and why gene expression differs in healthy versus diseased cells. "
+    }
+]
