@@ -768,7 +768,7 @@ def view_html_structure(url, scrape_option, known_html=[], wrong_words=[]):
     return final_result
 
 
-a = view_html_structure('https://mcb.illinois.edu/faculty/by_research', 'urllib')
+a = view_html_structure('https://cs.illinois.edu/about/people/all-faculty', 'urllib')
 print(len(a))
 for i in a:
     print(i)
