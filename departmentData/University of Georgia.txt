@@ -1,227 +1,83 @@
-AAEC - Agricultural and Applied Economics
-ACCT - Accounting
-ADPR - Advertising and Public Relations
-ADSC - Animal and Dairy Sciences
-AENG - Agricultural Engineering
-AESC - Agricultural and Environmental Sciences
-AEXT - Agricultural Extension
-AFAM - African American Studies
-AFST - African Studies
-AGCM - Agricultural Communications
-AGED - Agricultural Education
-ALDR - Agricultural Leadership
-AMHA - Amharic Studies
-AMSL - American Sign Language
-ANNU - Animal Nutrition
-ANTH - Anthropology
-APTC - Applied Technology
-ARAB - Arabic
-ARED - Art Education
-ARGD - Art Graphic Design
-ARHI - Art History
-ARID - Art Interior Design
-ARST - Art Studio Art
-ARTI - Artificial Intelligence
-ARTS - Art
-ASTR - Astronomy
-ATSC - Atmospheric Sciences
-ATTR - Athletic Training
-BCHE - Biochemical Engineering
-BCMB - Biochemistry and Molecular Biology
-BENG - Bengali
-BHSI - Biomedical and Health Sciences Institute
-BINF - Bioinformatics
-BIOE - Biological Engineering
-BIOL - Biology
-BIOS - Biostatistics
-BTEC - Biotechnology
-BUSN - Business
-CBIO - Cellular Biology
-CHEM - Chemistry
-CHFD - Child and Family Development
-CHNS - Chinese
-CLAS - Classical Culture
-CLIS - Comparative Literature and Intercultural Studies
-CMLT - Comparative Literature
-CMSD - Communication Sciences and Disorders
-COFA - Community Forestry and Arboriculture
-COMM - Communication Studies
-CRSS - Crop and Soil Sciences
-CSCI - Computer Science
-CSEE - Computer Systems Engineering
-CURO - Center for Undergraduate Research Opportunities
-CVLE - Civil Engineering
-DANC - Dance
-DIGI - Digital Humanities Research and Innovation
-DMAN - Disaster Management
-EADU - Adult Education
-EBUS - Business Education
-ECHD - Counseling and Human Development Services
-ECOL - Ecology
-ECON - Economics
-EDAP - Educational Administration and Policy
-EDEC - Early Childhood Education
-EDEL - Elementary Education
-EDES - Environmental Design
-EDHI - Higher Education
-EDIT - Instructional Technology Education
-EDLP - Education Law and Policy
-EDMG - Middle Grades Education
-EDUC - Education
-EETH - Environmental Ethics
-EFND - Foundations of Education
-EHSC - Environmental Health Science
-ELEE - Electrical and Electronics Engineering
-EMAT - Mathematics Education
-EMBA - Executive MBA
-EMKT - Marketing Education
-EMST - Entertainment and Media Studies
-EMUS - Music Education
-ENED - Engineering Education
-ENGG - General Faculty of Engineering courses
-ENGL - English
-ENGR - Engineering
-ENTO - Entomology
-ENTR - Entrepreneurship
-ENVE - Environmental Engineering
-ENVM - Environmental Economics and Management
-EPID - Epidemiology
-EPSY - Educational Psychology
-ERSH - Educational Research and Measurement
-ESCI - Science Education
-ESOC - Social Studies Education
-ESSE - Elementary and Social Studies Education
-ETAP - Educational Theory and Practice
-ETES - Technological Studies
-FACS - Family and Consumer Sciences
-FANR - Forestry and Natural Resources
-FCID - Franklin College Interdisciplinary
-FDNS - Foods and Nutrition
-FDST - Food Science and Technology
-FILM - Film
-FINA - Finance
-FISH - Fisheries and Aquaculture
-FORS - Forestry and Natural Resources
-FREN - French
-FRES - Freshman Seminars
-FYOS - First-Year Odyssey Seminar
-GENE - Genetics
-GEOG - Geography
-GEOL - Geology
-GISC - Geospatial Information Science
-GLOB - Global Health
-GPST - Global Policy Studies
-GREK - Greek
-GRMN - German
-GRNT - Gerontology
-GRSC - Graduate School
-HACE - Housing and Consumer Economics
-HAUS - Hausa
-HDFS - Human Development and Family Science
-HEBR - Hebrew
-HFIM - Hospitality and Food Industry Management
-HIPR - Historic Preservation
-HIST - History
-HNDI - Hindi
-HONS - Honors
-HORT - Horticulture
-HPAM - Health Policy and Management
-HPRB - Health Promotion and Behavior
-ICON - Integrative Conservation
-IDIS - Infectious Diseases
-ILAD - Institute for Leadership Advancement
-INDO - Indonesian
-INFO - Informatics
-INTB - International Business
-INTL - International Affairs
-INTS - Interdisciplinary Studies
-ITAL - Italian
-JNMW - Journalism Narrative Media Writing
-JOUR - Journalism
-JPNS - Japanese
-JRLC - Journalism Core
-JRMC - Journalism and Mass Communication
-JURI - Jurisprudence
-KINS - Kinesiology
-KREN - Korean
-LACS - Latin American and Caribbean Studies
-LAMS - Large Animal Medicine and Surgery
-LAND - Landscape Architecture
-LATN - Latin
-LEAP - Lifelong Education, Administration, and Policy
-LEGL - Legal Studies
-LING - Linguistics
-LLED - Language and Literacy Education
-LLOD - Learning, Leadership and Organization Development
-MAND - Manding
-MARK - Marketing
-MARS - Marine Sciences
-MATH - Mathematics
-MBUS - Music Business
-MCHE - Mechanical Engineering
-MDVL - Medieval Studies
-MGMT - Management
-MIBO - Microbiology
-MILS - Army ROTC - Military Science
-MIST - Management Information Systems
-MNPO - Master of Nonprofit Organizations
-MSIT - Management Sciences and Information Technology
-MUSI - Music
-NAMS - Native American Studies
-NMIX - New Media Institute
-PADP - Public Administration and Policy
-PASH - Pashto
-PATH - Plant Pathology
-PBGG - Plant Breeding, Genetics, and Genomics
-PBHL - Public Health
-PBIO - Plant Biology
-PEDB - Physical Education Basic
-PERS - Persian
-PHAR - Pharmacy
-PHIL - Philosophy
-PHRM - Pharmacy
-PHYS - Physics
-PLAN - Environmental Planning
-PMCY - Pharmacy
-POLS - Political Science
-POPH - Population Health
-PORT - Portuguese
-POUL - Poultry Science
-PRTM - Parks, Recreation and Tourism Management
-PSYC - Psychology
-PTSP - Portuguese and Spanish
-QUAL - Qualitative Research
-QUEC - Quechua
-REAL - Real Estate
-RELI - Religion
-RLST - Recreation and Leisure Studies
-RMIN - Risk Management and Insurance
-ROML - Romance Languages
-RUSS - Russian
-SAMS - Small Animal Medicine and Surgery
-SCAN - Scandinavian
-SEMI - Semitic
-SLAV - Slavic Languages and Cultures
-SOCI - Sociology
-SOWK - Social Work
-SPAN - Spanish
-SPED - Special Education
-STAT - Statistics
-SWAH - Swahili
-THEA - Theatre
-TURK - Turkish
-TXMI - Textiles, Merchandising and Interiors
-UNIV - University Orientation
-URDU - Urdu
-VARB - Veterinary Anatomy and Radiology
-VBDI - Veterinary Biosciences and Diagnostic Imaging
-VETM - Veterinary Medicine
-VIET - Vietnamese
-VPAT - Veterinary Pathology
-VPHY - Physiology and Pharmacology
-WASH - Washington Semester Program
-WASR - Water and Soil Resources
-WILD - Wildlife
-WIPP - Writing Intensive Program Pedagogy
-WMST - Women&#39;s Studies
-YORB - Yoruba
+African American Studies - A.B.
+Anthropology - A.B.
+Arabic - A.B.
+Art, Area of Emphasis in Art X: Expanded Forms - B.F.A.
+Art, Area of Emphasis in Ceramics - B.F.A.
+Art, Area of Emphasis in Drawing & Painting - B.F.A.
+Art, Area of Emphasis in Fabric Design - B.F.A.
+Art, Area of Emphasis in Graphic Design - B.F.A.
+Art, Area of Emphasis in Interior Design - B.F.A.
+Art, Area of Emphasis in Jewelry & Metalwork - B.F.A.
+Art, Area of Emphasis in Painting - B.F.A.
+Art, Area of Emphasis in Photography - B.F.A.
+Art, Area of Emphasis in Printmaking - B.F.A.
+Art, Area of Emphasis in Scientific Illustration - B.F.A.
+Art, Area of Emphasis in Sculpture - B.F.A.
+Art/Art Education - B.F.A.
+Art/Art History - A.B.
+Asian Languages and Literature - A.B.
+Astrophysics - B.S.
+Atmospheric Sciences - B.S.
+Biochemistry and Molecular Biology - B.S.
+Biology - B.S.
+Biology/Science Education - B.S., B.S.Ed.
+Cellular Biology - B.S.
+Chemistry - B.S.
+Chemistry - B.S.Chem.
+Classics - A.B.
+Cognitive Science - A.B.
+Communication Studies - A.B.
+Comparative Literature and Intercultural Studies - A.B.
+Computer Science - B.S.
+Criminal Justice - A.B.
+Dance - A.B.
+Dance - B.F.A.
+Data Science - B.S.
+English - A.B.
+English/English Education - A.B., B.S.Ed.
+Film Studies - A.B.
+French - A.B.
+French/World Language Education - A.B., B.S.Ed.
+Genetics - B.S.
+Geography - A.B.
+Geography - B.S.
+Geology - A.B.
+Geology - B.S.
+German - A.B.
+German/World Language Education - A.B., B.S.Ed.
+History - A.B.
+History/Social Studies Education - A.B., B.S.Ed.
+Honors Interdisciplinary Studies - A.B.
+Honors Interdisciplinary Studies - B.S.
+Interdisciplinary Art & Design - A.B.
+Interdisciplinary Studies (Griffin Campus) - A.B.
+Interdisciplinary Studies - A.B.
+Interdisciplinary Studies - B.F.A.
+Interdisciplinary Studies - B.S.
+Latin American and Caribbean Studies - A.B.
+Latin/World Language Education - A.B., B.S.Ed.
+Linguistics - A.B.
+Mathematics - B.S.
+Mathematics/Mathematics Education - Dual Degree - B.S., B.S.Ed.
+Microbiology (also offered at Griffin) - B.S.
+Music - A.B.
+Music Composition - B.Mus.
+Music Education - B.Mus.
+Music Performance - B.Mus.
+Music Theory - B.Mus.
+Music Therapy - B.Mus.
+Ocean Science - B.S.
+Philosophy - A.B.
+Physics - B.S.
+Plant Biology - B.S.
+Pre-Health at UGA
+Psychology - B.S.
+Religion - A.B.
+Romance Languages - A.B.
+Russian - A.B.
+Sociology - A.B.
+Spanish - A.B.
+Spanish/World Language Education - A.B., B.S.Ed.
+Statistics - B.S.
+Theatre - A.B.
+Women's Studies - A.B.

@@ -28,6 +28,22 @@ f1 = open('dblp_authors/first_name.pkl', 'rb')
 dblp_first_name = pickle.load(f1)
 f2 = open('dblp_authors/last_name.pkl', 'rb')
 dblp_last_name = pickle.load(f2)
+invalid_dblp_names = {'only', 'every', 'faculty', 'research', 'international', 'study', 'group', 'department', 'policy', 'internet'
+                'the', 'of', 'people', 'peoples', 'found', 'lab', 'team', 'offer', 'doctor', 'task', 'school', 'new', 'old'
+                      'single', 'add', 'to', 'event', 'all', 'day', 'university', 'data', 'learn', 'internet', 'architecture'
+                      , 'urban', 'court', 'train', 'manage', 'child', 'family', 'this', 'site', 'search', 'main', 'close',
+                      'at', 'are', 'you', 'here', 'skip', 'content', 'english', 'and', 'latin', 'world', 'fellows', 'summer',
+                      'haven', 'about', 'jobs', 'meet', 'us', 'or', 'call', 'start', 'dates', 'from', 'crowd', 'state',
+                      'university', 'general', 'finance', 'as', 'few', 'far', 'supply', 'chain', 'planner', 'buyer',
+                      'market', 'works', 'major', 'minor', 'plus', 'max', 'by', 'in', 'we', 'have', 'name', 'personal',
+                      'link', 'for', 'general', 'information', 'room', 'street', 'wall', 'reading', 'list', 'with',
+                      'divine', 'comedy', 'times', 'more', 'please', 'visit', 'south', 'north', 'west', 'east',
+                      'africa', 'machine', 'learning', 'part', 'states', 'united', 'year', 'back', '3rd', 'durability',
+                      'life', 'students', 'must', 'student', 'monday', 'tuesday', 'wednesday', 'thursday', 'friday',
+                      'saturday', 'sunday', 'seminar', 'what', 'is', 'are', 'an', 'be', 'honors', 'gold', 'real',
+                      'analysis', 'algebra', 'software', 'design', 'designer', 'studio', 'media', 'scales', 'about',
+                      'college', 'column', 'footer', 'first', 'second', 'third', 'fourth', 'on', 'market'}
+max_name_length = 0
 
 
 # given an url, get whole html in a good format (a list)
@@ -74,7 +90,8 @@ def get_html(url, scrape_option):
 
 
 def view_html_structure(url, scrape_option, known_html=[], wrong_words=[]):
-    # print(wrong_words)
+    # print('wrong', wrong_words)
+    global max_name_length
     html = []
     if len(known_html) == 0:
         html = get_html(url, scrape_option)
@@ -179,20 +196,23 @@ def view_html_structure(url, scrape_option, known_html=[], wrong_words=[]):
                     name_c = 0
                     for k in check_name:
                         k = k.lower()
-                        if k in dblp_first_name.keys() or k in dblp_last_name.keys():
+                        if (k in dblp_first_name.keys() or k in dblp_last_name.keys()) and k not in invalid_dblp_names:
                             name_c += 1
                     if len(check_name) <= 2:
                         if name_c == len(check_name):
                             name_type = True
-                    elif 2 < len(check_name) <= 3:
+                    elif 2 < len(check_name) <= 4:
                         if len(check_name) - name_c <= 1:
                             name_type = True
-                    elif len(check_name) > 3:
+                    elif len(check_name) > 4:
                         if len(check_name) - name_c <= 2:
                             name_type = True
                 r = ''
                 if name_type:
+                    max_name_length = max(max_name_length, len(check_name))
                     r = 'Name'
+                elif raw_html[html_tree[level][i][2] + 1] in wrong_words:
+                    r = 'None'
                 else:
                     r = random_forest_model.predict([vectorize(raw_html[html_tree[level][i][2] + 1])])[0]
                     if r == 'Name':
@@ -230,6 +250,8 @@ def view_html_structure(url, scrape_option, known_html=[], wrong_words=[]):
                     if len(raw_html[html_tree[level][i][2] + 1]) < 3:
                         flag = False
                     if raw_html[html_tree[level][i][2] + 1].strip() in wrong_words:
+                        flag = False
+                    if raw_html[html_tree[level][i][2] + 1] in wrong_words:
                         flag = False
                     if flag:
                         path_dict[r].append(list(p).copy())
@@ -273,6 +295,7 @@ def view_html_structure(url, scrape_option, known_html=[], wrong_words=[]):
     final_result = []
 
     def find_all_target_data(common_structure, correct_subtree_path={}):
+        # print(common_structure)
         l = len(common_structure)
         path_dict_2 = {}
         for i in path_dict.keys():
@@ -433,7 +456,7 @@ def view_html_structure(url, scrape_option, known_html=[], wrong_words=[]):
                                     subtree_path[j][a] = 0
                                 else:
                                     subtree_path[i][a] = 0
-            # print(subtree_path)
+            print(subtree_path)
 
             subtree_path1 = {}
             for i in subtree_path.keys():
@@ -480,8 +503,6 @@ def view_html_structure(url, scrape_option, known_html=[], wrong_words=[]):
             for j in subtree_dict[i]:
                 for k in j:
                     path_to_result[i][k[1]] = [k[2], k[3]]
-
-        # print(subtree_path)
 
         if len(correct_subtree_path) == 0:
             for i in subtree_path.keys():
@@ -672,38 +693,6 @@ def view_html_structure(url, scrape_option, known_html=[], wrong_words=[]):
                         d[j] = 'Missing'
                         missing += 1
 
-            # cell_range = [0, 0]
-            # for j in path_to_result[i].keys():
-            #     if j.count('<') == 1:
-            #         cell_range = path_to_result[i][j].copy()
-            # expected_name = ''
-            # for j in range(cell_range[0], cell_range[1]):
-            #     if raw_html[j][0] != '<' and len(raw_html[j]) > 2:
-            #         if 1 < len(raw_html[j].split()) < 5:
-            #             expected_name = raw_html[j]
-            #             break
-            #         elif len(raw_html[j].split()) == 1:
-            #             expected_name = raw_html[j] + ' '
-            #             for k in range(j + 1, cell_range[1]):
-            #                 if raw_html[k][0] != '<' and len(raw_html[k]) > 2:
-            #                     if len(raw_html[k].split()) < 2:
-            #                         expected_name += raw_html[k]
-            #                     else:
-            #                         expected_name = ''
-            #                     break
-            #             break
-            # if expected_name != '' and 'Name' in d.keys() and d['Name'] != 'Missing':
-            #     d['Name'] = expected_name
-
-            if use_expected_name and expected_names[0] != '' and 'Name' in d.keys() and d['Name'] != 'Missing':
-                flag = True
-                for i in '0123456789':
-                    if i in expected_names[0]:
-                        flag = False
-                if flag:
-                    d['Name'] = expected_names[0]
-            del expected_names[0]
-
             # print()
             if missing < 5:
                 result.append(d.copy())
@@ -719,10 +708,14 @@ def view_html_structure(url, scrape_option, known_html=[], wrong_words=[]):
 
         try:
             a_num, a = handle_extreme_edge_case(subtree_dict, subtree_path, raw_html)
-            # print(a)
             if a_num > total_match:
                 for r in a:
-                    final_result.append(r.copy())
+                    if 'Name' in r.keys() and r['Name'] != 'Missing':
+                        tmp_name = r['Name']
+                        tmp_name = tmp_name.replace(',', ' ')
+                        tmp_name = tmp_name.split()
+                        if len(tmp_name) <= max_name_length:
+                            final_result.append(r.copy())
                 return subtree_path
         except:
             a31 = 0
@@ -735,17 +728,23 @@ def view_html_structure(url, scrape_option, known_html=[], wrong_words=[]):
 
         for r in result:
             if 'Name' in r.keys() and r['Name'] != 'Missing':
-                final_result.append(r.copy())
+                tmp_name = r['Name']
+                tmp_name = tmp_name.replace(',', ' ')
+                tmp_name = tmp_name.split()
+                if len(tmp_name) <= max_name_length:
+                    final_result.append(r.copy())
         return subtree_path
 
     common_structures = find_possible_list(path_dict)
     true_path = {}
     for i in common_structures:
+        # print(true_path)
         try:
             r = find_all_target_data(i, true_path)
             # print('r', r)
-            for j in r.keys():
-                true_path[j] = r[j]
+            if 'Name' in r.keys() and r['Name'] != 'None':
+                for j in r.keys():
+                    true_path[j] = r[j]
         except:
             continue
 
@@ -757,18 +756,25 @@ def view_html_structure(url, scrape_option, known_html=[], wrong_words=[]):
                 if j[i] not in m.keys():
                     m[j[i]] = 0
                 m[j[i]] += 1
-        if len(m) > 0 and max(m.values()) / (sum(m.values()) + 0.1) > 0.93:
-            noise.append(max(m, key=m.get).strip())
+        if len(m) > 0 and max(m.values()) / (len(final_result)) > 0.93:
+            noise.append(max(m, key=m.get))
     # print(wrong_words)
+    # print(final_result)
     if len(noise) > 0:
+
+        # avoid infinite loop
+        for i in noise:
+            if i in wrong_words:
+                return final_result
         for i in wrong_words:
             noise.append(i)
+        final_result = []
         return view_html_structure(url, scrape_option, html, noise)
 
     return final_result
 
 
-a = view_html_structure('https://cs.illinois.edu/about/people/all-faculty', 'urllib')
+a = view_html_structure('https://math.illinois.edu/research/faculty-research/actuarial-science', 'urllib')
 print(len(a))
 for i in a:
     print(i)

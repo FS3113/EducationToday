@@ -35,7 +35,7 @@ def find(university, department):
         if flag:
             possibleURLs.append(t)
             n += 1
-        if n == 8:
+        if n == 10:
             break
     time.sleep(2)
     driver.quit()
@@ -47,7 +47,10 @@ def find(university, department):
     for option in ['urllib']:
         for url in possibleURLs:
             print(option, url)
-            r = view_html_structure(url, option)
+            try:
+                r = view_html_structure(url, option)
+            except:
+                continue
 
             if len(r) < 8:
                 continue
@@ -69,13 +72,13 @@ def find(university, department):
     return res_url, res_data
 
 
-u = 'Massachusetts Institute of Technology'
-a = 'Chemistry'
-r1, r2 = find(u, a)
-for i in r2:
-    print(i)
-print(r1)
-
-with open('Data/faculty_data/' + u + '/' + a + '.json', 'w') as f1:
-    json.dump(r2, f1, indent=4)
+# u = 'uiuc'
+# a = 'Advertising, BS'
+# r1, r2 = find(u, a)
+# for i in r2:
+#     print(i)
+# print(r1)
+#
+# with open('Data/faculty_data/' + u + '/' + a + '.json', 'w') as f1:
+#     json.dump(r2, f1, indent=4)
 

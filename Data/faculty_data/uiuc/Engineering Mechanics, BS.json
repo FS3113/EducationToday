@@ -1,0 +1,472 @@
+[
+    {
+        "Research Interest": "Developed models to study grain boundary-mediated plasticity in phenomena such as recrystallization and superplasticity in metallurgy. Developed a unified framework to link atomistic and continuum models such as classical and gradient elasticity with potential applications in multiscale modeling of materials.",
+        "Name": "Nikhil Chandra Admal",
+        "Position": " Assistant Professor/ PhD, University of Minnesota, 2014. Current research: Solid mechanics; computational mechanics with focus on materials defects in crystalline systems, and interaction between atomistic and continuum domains in multiscale modeling of materials. "
+    },
+    {
+        "Research Interest": "Developed modeling, simulation, and control approaches for dynamic thermal systems and applied them for mobile and stationary applications.",
+        "Name": "Andrew Alleyne:",
+        "Position": " Ralph M. and Catherine V. Fisher Professor / PhD, University of California, Berkeley, 1994. Current research: Control of nonlinear mechanical systems; theory and application. "
+    },
+    {
+        "Research Interest": "Developed new theories for fluidic transport in nanosystems and developed physical theories and multiscale simulation tools for electrically actuated nanomechanical systems.",
+        "Name": "Narayana Aluru:",
+        "Position": " Richard W. Kritzer Distinguished Professor / PhD, Stanford University, 1995. Current research: Computational methods; multiscale modeling; MEMS, NEMS, nanofluidics. "
+    },
+    {
+        "Research Interest": "Demonstrated the first microfluidic device that is mechanically actuated by light, with vibrational frequencies in the GHz regime. Demonstrated that light can be used to eliminate scattering induced mechanical losses in microsystems.",
+        "Name": "Gaurav Bahl:",
+        "Position": " Associate Professor / PhD, Stanford University, 2010. Current research: Optical forces and optomechanics; micro-mechanical oscillators; sensors and actuators. "
+    },
+    {
+        "Research Interest": " Research Professor and Professor Emeritus / PhD, Cornell University, 1993. Current research: Metal plasticity; process modeling; simulation; and biomechanics.",
+        "Name": "Armand Beaudoin:",
+        "Position": " Research Professor and Professor Emeritus / PhD, Cornell University, 1993. Current research: Metal plasticity; process modeling; simulation; and biomechanics."
+    },
+    {
+        "Research Interest": " Introduced a new class of dynamical systems with active singularities that admit control actions during the singular phases of their motion.",
+        "Name": "Joseph Bentsman:",
+        "Position": " Professor / PhD, Illinois Institute of Technology, 1984. Current research: Control of nonlinear and distributed parameter systems; nonlinear oscillations; network control; stability; stochastic multiscale methods."
+    },
+    {
+        "Research Interest": "Developed, with students, diagnostics and theories for energetic materials combustion including laser-recoil technique and low gas activation energy (WSB) model. ",
+        "Name": "Quinn Brewster:",
+        "Position": " Hermia G. Soo Professor / PhD, University of California, Berkeley, 1981. Current research: Energy and environment; combustion; energetic materials; thermal radiation; optical properties; solid rocket propulsion. "
+    },
+    {
+        "Research Interest": " Research Professor and Professor Emeritus / PhD, University of Illinois at Urbana-Champaign, 1971. Thermal systems simulation and optimization.",
+        "Name": "Clark Bullard:",
+        "Position": " Research Professor and Professor Emeritus / PhD, University of Illinois at Urbana-Champaign, 1971. Thermal systems simulation and optimization."
+    },
+    {
+        "Research Interest": "Developed rapid and scalable flame synthesis methods of nanomaterials for renewable energy storage and conversion, catalysis and electronics. Developed nanophotonic textiles with tailored thermal radiation properties for localized thermal management of human body.",
+        "Name": "Lili Cai:",
+        "Position": " Assistant Professor/ PhD, Stanford University, 2016. Current research: Combustion synthesis; nanoscale materials; energy storage and conversion; smart wearables; personal thermal management; thermal radiation. "
+    },
+    {
+        "Research Interest": "Developed a framework to study the interaction between turbulence and wind farms in spectral domain, and a robust tracking algorithm for Lagrangian description of turbulence.",
+        "Name": "Leonardo P. Chamorro:",
+        "Position": " AssociateProfessor / PhD, University of Minnesota, 2010. Current research: Turbulence and fluid mechanics; particle dynamics; flow-structure interaction; renewable energy with emphasis on wind energy; new instrumentation; geophysical flows with focus on turbulent boundary layer processes. "
+    },
+    {
+        "Research Interest": "Released an award-winning upgrade of the COCO software package that includes general-purpose support for constrained design optimization along families of solutions to integro-differential boundary-value problems. Investigated spreading and consensus-formation dynamics in empirical time-dependent interaction networks, and published results on bursty interactions in honeybee social networks in the Proceedings of the National Academy of Sciences of the United States of America.",
+        "Name": "Harry Dankowicz:",
+        "Position": " Professor, Cannon Faculty Scholar, and Associate Dean for Graduate, Professional and Online Programs / PhD, Cornell University, 1995. Current research: Dynamical systems; complex networks; computational methods; biomechanics; robotics. "
+    },
+    {
+        "Research Interest": " Senior Lecturer / PhD, University of Illinois at Urbana-Champaign, 1983. Structural failure, fatigue, fracture, data acquisition technology.",
+        "Name": "Stephen Downing:",
+        "Position": " Senior Lecturer / PhD, University of Illinois at Urbana-Champaign, 1983. Structural failure, fatigue, fracture, data acquisition technology."
+    },
+    {
+        "Research Interest": "Made significant contributions to distributed control.",
+        "Name": "Geir Dullerud:",
+        "Position": " W. Grafton and Lillian B. Wilkins Professor and Willett Faculty Scholar / PhD, Cambridge University, 1994. Current research: Control of complex systems, including multirate and asynchronous systems; hybrid systems; and distributed robotics. "
+    },
+    {
+        "Research Interest": "Developed repeatable microtribological methods for very low friction soft and squishy materials.",
+        "Name": "Alison C. Dunn:",
+        "Position": " Assistant Professor / PhD, University of Florida, 2013. Current research: Tribology; contact mechanics; lubrication mechanisms of polymers; wear of steel. "
+    },
+    {
+        "Research Interest": " resulting in 20% higher energy efficiency.",
+        "Name": "Stefan Elbel:",
+        "Position": " Research Assistant Professor / PhD, University of Illinois at Urbana-Champaign, 2007. Current research: Experimental and numerical research in thermodynamics, fluid mechanics, and heat transfer; energy conversion systems; heating and cooling applications with focus on HVAC&amp;R; optimization of capacity and energy efficiency in applications using low-GWP refrigerants, including natural and synthetic working fluids; expansion work recovery, flow induced noise, heat transfer measurements, heat exchanger design and optimization, innovative cycle improvements. "
+    },
+    {
+        "Research Interest": "Developed models defect-mediated phase transitions, structure/property relations and vibrational energy transport at the nanoscale. Applied computer models to design and predict new materials for novel photovoltaic, thermoelectric, and other energy conversion materials.",
+        "Name": "Elif Ertekin:",
+        "Position": " Associate Professor / PhD, University of California, Berkeley, 2006. Current research: Computational modeling; mechanical properties at the nanoscale; energy storage and conversion; defect-property relationships; shape memory alloys. "
+    },
+    {
+        "Research Interest": "Proposed a new low-dimensional language for describing rheologically complex materials; demonstrated the first experimental measurement of these properties and their ability to infer molecular architecture.",
+        "Name": "Randy Ewoldt:",
+        "Position": " Associate Professor / PhD, Massachusetts Institute of Technology, 2009. Current research: Rheology; non-Newtonian fluid mechanics; biomaterial mechanics; design. "
+    },
+    {
+        "Research Interest": "Discovered a dispersal mechanism related to bubble dynamics and developed a scalable and energy-efficient platform for multi-functional nanomaterials. Developed a versatile nanoprecipitation platform for nanoparticle-oriented bioengineering and drug delivery, and a cost-effective approach for feasible nanotherapeutics targeting infectious diseases.",
+        "Name": "Jie Feng:",
+        "Position": " Assistant Professor"
+    },
+    {
+        "Research Interest": "Developed solid-state superionic stamping (S4), a process for stamping nanoscale metallic structures; high-resolution electrohydrodynamic writing for direct writing of sub-micron structures; fully functional parallel-kinematics two and three degree-of-freedom MEMS and Mesoscale nanopositioning stages.",
+        "Name": "Placid Ferreira:",
+        "Position": " Tungchao Julia Lu Professor / PhD, Purdue University, 1987. Current research: Nanomanufacturing; nanomechatronics; manufacturing automation and systems control; process planning; programmable machines. "
+    },
+    {
+        "Research Interest": "Developed the first commercial software for distributed memory parallel computers. ",
+        "Name": "Paul Fischer:",
+        "Position": " Professor / PhD, Massachusetts Institute of Technology, 1989. Current research: High-order methods and scalable algorithms for computational fluid dynamics and heat transfer. "
+    },
+    {
+        "Research Interest": " Teaching Assistant Professor / PhD, University of Illinois at Urbana-Champaign, 1999. Micro-Electro-Mechanical System (MEMS) device design and fabrication.",
+        "Name": "Bruce Flachsbart:",
+        "Position": " Teaching Assistant Professor / PhD, University of Illinois at Urbana-Champaign, 1999. Micro-Electro-Mechanical System (MEMS) device design and fabrication."
+    },
+    {
+        "Research Interest": "Investigating means to tailor combustion through the novel use of plasmas; studying the flow of blood cells in the tight confines of the microcirculation; seeking means of reducing the noise of jet aircraft.",
+        "Name": "Jonathan Freund:",
+        "Position": " Donald Biggar Willett Professor and Kritzer Faculty Scholar / PhD, Stanford University, 1998. Current research: Fluid mechanics; bioengineering, computational/predictive science. "
+    },
+    {
+        "Research Interest": "Developed inverse design approach for optimal biolocomotion strategies; discovered universal scaling laws of inertial swimming; designed first tissue-engineered cyborg ray.",
+        "Name": "Mattia Gazzola:",
+        "Position": " Assistant Professor / PhD, ETH Zurich, 2013. Current research: Biolocomotion; computational soft robotics; computational fluid dynamics; bio-inspired optimization. "
+    },
+    {
+        "Research Interest": "Produced definitive evidence that the transition away from diffusion-limited combustion in aluminum combustion occurs in the particle size range of 1 to 20 microns.",
+        "Name": "Nick Glumac:",
+        "Position": " Shao Lee Soo Professor and Cannon Faculty Scholar / PhD, California Institute of Technology, 1994. Current research: Spectroscopy of reacting flows and energetic materials; combustion diagnostics; metal combustion. "
+    },
+    {
+        "Research Interest": "Developed asynchronous spacetime discontinuous Galerkin finite element methods for high-resolution simulations involving shocks and wave-like response on high-performance computing platforms.",
+        "Name": "Robert Haber:",
+        "Position": " Research Professor and Professor Emeritus / PhD, Cornell University, 1980. Computational mechanics with applications to dynamic fracture in quasi-brittle materials, seismology, fluid dynamics, nano and multi-scale simulation, continuum\\xe2\\x80\\x93atomistic coupling, topology optimization; high-performance computing. "
+    },
+    {
+        "Research Interest": " Teaching Assistant Professor/ PhD, Stanford University, 2016. Current research: Porous materials for clean energy applications; carbon capture; fluid phase and interfacial behaviors associated with oil and gas production.",
+        "Name": "Jiajun He:",
+        "Position": " Teaching Assistant Professor/ PhD, Stanford University, 2016. Current research: Porous materials for clean energy applications; carbon capture; fluid phase and interfacial behaviors associated with oil and gas production."
+    },
+    {
+        "Research Interest": "Elucidated fundamental properties of interfacial systems, including sonoluminescence, domain coarsening, and size-topology correlations. Applied the results to develop a new, powerful method of microfluidic flow control.",
+        "Name": "Sascha Hilgenfeldt:",
+        "Position": " Professor and Willett Faculty Scholar / PhD, University of Marburg, 1997. Current research: Experimental and theoretical microfluidics; cell morphology and adhesion; biomechanics; structure and dynamics of tissues, foams, and other domain systems. "
+    },
+    {
+        "Research Interest": "Developed a new approach for design of robust adaptive control systems with guaranteed robustness/performance, explored safety of operation of aerial systems from the perspective of humans\\xe2\\x80\\x99 perceived safety, and contributed to the foundation for development of cyber-secure autopilots.",
+        "Name": "Naira Hovakimyan:",
+        "Position": " W. Grafton and Lillian B. Wilkins Professor, University Scholar, and Schaller Faculty Scholar / PhD, Institute of Applied Mathematics, Russian Academy of Sciences, 1992. Current research: Control theory and engineering, robotics, unmanned aerial systems, networked systems, machine learning, cyber-security, and applications of those across aerospace, mechanical, electrical, agricultural, petroleum, and biomedical engineering. "
+    },
+    {
+        "Research Interest": "Adiabatic two phase flow distribution in parallel flow heat exchangers including flash gas removal and articulation of pulsating flow; nonequilibrium condensation in presence of superheated vapor; periodic frosting in microchannel heat exchanges; visualization of oil-refrigerant flows in compressors and pipes; developing two phase flow, environmentally sound cycles and refrigerants including transcritical CO2; extremely low charged ammonia systems with microchannel heat exchangers; new synthetic refrigerants; novel heat exchanges.",
+        "Name": "Predrag (Pega) Hrnjak:",
+        "Position": " Research Professor and Director of ACRC / D.Sc., University of Belgrade, 1992. Current research: Heat transfer and fluid mechanics with end-use energy conversion applications as refrigeration, heat pumps, and air conditioning. "
+    },
+    {
+        "Research Interest": "Developed methods to better quantify gait and postural control; created portable powered ankle-foot-orthosis and automatic gear shifting manual wheelchair. ",
+        "Name": "Elizabeth T. Hsiao-Wecksler:",
+        "Position": " Professor, Willett Faculty Scholar, and Associate Head for Undergraduate Programs / PhD, University of California, Berkeley, 2000. Current research: Musculoskeletal biomechanics of locomotion; assistive device design; powered exoskeletons. "
+    },
+    {
+        "Research Interest": "Deduced mechanism and limits of the cavitation rheology characterization technique; numerically captured localized deformation of vertically aligned carbon nanotube pillars.",
+        "Name": "Shelby Hutchens:",
+        "Position": " Assistant Professor / PhD, California Institute of Technology, 2011. Current research: Soft solid dynamics; large, non-linear deformation mechanics; polymers and composites; microscale materials; cellular solids. "
+    },
+    {
+        "Research Interest": "Advanced vortex-enhanced and interrupted fin designs to improve heat transfer and reduce pressure drop; developed surface microstructures for condensate management. ",
+        "Name": "Anthony Jacobi:",
+        "Position": " Richard W. Kritzer Distinguished Professor and Department Head / PhD, Purdue University, 1989. Current research: Heat transfer and fluid mechanics with end-use energy applications. "
+    },
+    {
+        "Research Interest": "Characterized hierarchical structure, composition, and properties of bone and developed experimentally based multi-scale models of bone. Proposed new poroelastic model of bone adaptation based on energy dissipation.",
+        "Name": "Iwona Jasiuk:",
+        "Position": " Professor / PhD, Northwestern University, 1986. Current research: Mechanics of materials; micromechanics; biomechanics; composite, biological, and nano materials; interfaces; elasticity. "
+    },
+    {
+        "Research Interest": "Teaching Assistant Professor/ PhD, University of Illinois at Urbana-Champaign, 2012. Experimental fluid mechanics; optical diagnostics; pedagogy.",
+        "Name": "Blake Johnson:",
+        "Position": "Teaching Assistant Professor/ PhD, University of Illinois at Urbana-Champaign, 2012. Experimental fluid mechanics; optical diagnostics; pedagogy."
+    },
+    {
+        "Research Interest": "Developed an approach to predict strain effects on optical absorption of quantum dots. ",
+        "Name": "Harley Johnson:",
+        "Position": " Professor and Kritzer Faculty Scholar / PhD, Brown University, 1999. Current research: Nanomechanics of electronic and photonic materials; mechanics of nanostructures; mechanics and materials for photovoltaics. "
+    },
+    {
+        "Research Interest": "Developed microfluidic devices and imaging techniques to quantify microscale interactions in complex environments such as flexible polymers in flow and bacteria at liquid-liquid interfaces.",
+        "Name": "Gabriel Juarez:",
+        "Position": " Assistant Professor / PhD, Northwestern University, 2009. Current research: Dynamics of complex fluids; microfluidics and microscopy. "
+    },
+    {
+        "Research Interest": "Developed micro-machining technology based on the use of mMTs and integration of mMTs into microfactories for manufacturing precision parts.",
+        "Name": "Shiv Kapoor:",
+        "Position": " Professor and Grayce Wicall Gauthier Chair / PhD, University of Wisconsin-Madison, 1977. Current research: Micro-manufacturing; micromachining process modeling; micro-Machine Tools (mMTs) and microfactories for manufacturing of precision parts; micro-assembly and automation; sustainable manufacturing. "
+    },
+    {
+        "Research Interest": "Quantified bone strain in vivo, during locomotive tasks using coupled multi-scale musculoskeletal and finite element model.",
+        "Name": "Mariana Kersh:",
+        "Position": " Assistant Professor / PhD, University of Wisconsin-Madison, 2010. Current research: Structure-function in musculoskeletal tissues during growth and aging; imaging; finite element method. "
+    },
+    {
+        "Research Interest": "Developed shape memory polymer dry adhesives; established LEGO-like microassembly processes for heterogeneous materials integration; developed MEMS vibration energy harvesters.",
+        "Name": "Seok Kim:",
+        "Position": " Associate Professor / PhD, Carnegie Mellon University, 2009. Current research: Responsive surfaces with tunable functions; transfer printing-based microassembly; microelectromechanical systems (MEMS). "
+    },
+    {
+        "Research Interest": "Developed measurement technologies for materials characterization and manufacturing. ",
+        "Name": "William King:",
+        "Position": " Professor and Ralph A. Andersen Endowed Chair / PhD, Stanford University, 2002. Current research: Additive manufacturing, heat exchangers, thermal energy transport, scanning probe microscopy, micro- and nano-manufacturing. "
+    },
+    {
+        "Research Interest": "Developed, implemented, and tested several ground-breaking numerical methods for solving highly-nonlinear multiphysics and multiphase problems on NCSA\\xe2\\x80\\x99s peta-scale high-performance computing system of Blue Waters and created an effective approach towards accurate modeling of many manufacturing, materials processing, and biomechanics processes.",
+        "Name": "Seid Koric:",
+        "Position": " Research Associate Professor / PhD, University of Illinois at Urbana-Champaign, 2006. Current research: Large-scale multiphysics modeling; high-performance computing; materials processing; biomechanics; nano-manufacturing and sparse direct solver technologies. "
+    },
+    {
+        "Research Interest": " Research Professor and Professor Emeritus / PhD, Princeton University, 1968. Reactive gas dynamics; internal ballistics of rockets and guns; combustion physics; plasma dynamics.",
+        "Name": "Herman Krier:",
+        "Position": " Research Professor and Professor Emeritus / PhD, Princeton University, 1968. Reactive gas dynamics; internal ballistics of rockets and guns; combustion physics; plasma dynamics."
+    },
+    {
+        "Research Interest": " Research Professor and Professor Emeritus / PhD, University of Illinois at Urbana-Champaign, 1984. Fatigue, fracture, plasticity and nonlinear deformation modeling; veterinary biomechanics; structural design.",
+        "Name": "Peter Kurath:",
+        "Position": " Research Professor and Professor Emeritus / PhD, University of Illinois at Urbana-Champaign, 1984. Fatigue, fracture, plasticity and nonlinear deformation modeling; veterinary biomechanics; structural design."
+    },
+    {
+        "Research Interest": "Developed an algorithmic notion of style that is both generative, creating expressive motion on robotic platforms, and interpretive, classifying data of real human movement in order to inform control schemes.",
+        "Name": "Amy LaViers:",
+        "Position": " Assistant Professor / PhD, Georgia Institute of Technology, 2013. Current research: High-level control of robotic systems; human motion analysis; optimal control; formal methods and supervisory control; movement notation and embodied movement studies. "
+    },
+    {
+        "Research Interest": "Developed and demonstrated the first successful application of two-photon nitric oxide laser-induced fluorescence measurements in a diesel engine.",
+        "Name": "Chia-Fon Lee:",
+        "Position": " Professor / PhD, Princeton University, 1995. Current research: Modeling of two-phase turbulent reacting flows; internal combustion engines; liquid atomization; spray systems. "
+    },
+    {
+        "Research Interest": "Investigated novel chemical energy conversion phenomena in combustion systems using advanced laser diagnostics.",
+        "Name": "Tonghun Lee:",
+        "Position": " Professor / PhD, Stanford University, 2006. Current research: Combustion and propulsion; laser and optical diagnostics; oxidation of alternative and renewable fuels; alternative power generation. "
+    },
+    {
+        "Research Interest": "Co-patented a non-toxic cancer therapy based on energy restriction methods. Co-developed a novel engineering course based on the precepts of whole-brain thinking and inter-disciplinary teams. Co-founded the TechnoLab technology awareness facility in South Africa, which employs learning-through-play.",
+        "Name": "Leon Liebenberg:",
+        "Position": "Teaching Associate Professor/ PhD, University of Johannesburg, South Africa, 2003. Current research: Application of collaborative design and whole-brain thinking techniques to engineering curriculum revision processes. Cross-disciplinary research activities focusing on energy system optimization and heat transfer enhancement. "
+    },
+    {
+        "Research Interest": "Developed a hydrodynamic theory of flame propagation in premixed combustible gases that properly predicts their dynamics and stability under laminar and turbulent conditions, as well as a novel asymptotic theory for combustion of non-premixed reactants (diffusion flames) valid throughout the complete range\\xe2\\x80\\x94from complete burning to extinction.",
+        "Name": "Moshe Matalon:",
+        "Position": " College of Engineering Caterpillar Distinguished Professor / PhD, Cornell University, 1977. Current research: Combustion theory; modeling and simulation of chemically reacting flows; theoretical fluid mechanics; applied mathematics; stability and bifurcation theory; asymptotic and perturbation methods. "
+    },
+    {
+        "Research Interest": "Invented the feedback particle filter algorithm for nonlinear estimation.",
+        "Name": "Prashant Mehta:",
+        "Position": " Associate Professor / PhD, Cornell University, 2004. Current research: Dynamical systems; control theory; nonlinear estimation. "
+    },
+    {
+        "Research Interest": " MNMS Lab Coordinator and Lecturer / PhD, Vanderbilt University, 1999. Microfluidics and microfabrication.",
+        "Name": "Glennys Mensing:",
+        "Position": " MNMS Lab Coordinator and Lecturer / PhD, Vanderbilt University, 1999. Microfluidics and microfabrication."
+    },
+    {
+        "Research Interest": " Lecturer / PhD, University of California, Berkeley, 2016. Computational and theoretical solid mechanics; molecular dynamics methods; multiscale modeling.",
+        "Name": "Brian Mercer:",
+        "Position": " Lecturer / PhD, University of California, Berkeley, 2016. Computational and theoretical solid mechanics; molecular dynamics methods; multiscale modeling."
+    },
+    {
+        "Research Interest": "Developed guidelines for the design, optimization, and fabrication of micro/nanostructured surfaces to enhance phase change heat transfer.",
+        "Name": "Nenad Miljkovic:",
+        "Position": " AssociateProfessor / PhD, Massachusetts Institute of Technology, 2013. Current research: Phase change heat transfer (boiling, evaporation, condensation, and freezing); anti-fouling coatings, anti-corrosion coatings, anti-bacterial coatings, fluid mechanics of droplets and bubbles; micro/nanofabrication; interfacial phenomena; solar energy conversion. "
+    },
+    {
+        "Research Interest": "Established controlled deformation (i.e. \\xe2\\x80\\x9carchitecturing\\xe2\\x80\\x9d) of atomically thin, two-dimensional (2D) materials. Developed mechanical self-assembly of folded and crumpled graphene and two-dimensional materials for strain-tolerant and flexible/stretchable forms of sensors for biotic and abiotic investigations.",
+        "Name": "SungWoo Nam:",
+        "Position": " Associate Professor / PhD, Harvard University, 2011. Current research: Nanoscale materials; graphene and two-dimensional materials; flexible electronics; bioelectronic interfaces. "
+    },
+    {
+        "Research Interest": "Developed (i) models of impact waves in man-made and natural media, including human brains under concussion; (ii) micromechanically based scaling laws, random fields, and stochastic finite elements; (iii) universal elastic anisotropy index; (iv) modification of continuum mechanics accounting for nanoscale spontaneous violations of the second law of thermodynamics; (v) mechanics/dynamics of helically-wound cables; (vi) electromagnetic shielding of polycarbonate carbon nanocomposites. ",
+        "Name": "Martin Ostoja-Starzewski:",
+        "Position": " Professor / PhD, McGill University, 1983. Current research: Mechanics and transport in random and fractal media; helices and chiral media; non-classical thermomechanics; stochastic wave propagation; traumatic brain injury. "
+    },
+    {
+        "Research Interest": "Discovered the first, and most of the known, multi-valued stability boundaries in fluid mechanics. ",
+        "Name": "Arne Pearlstein:",
+        "Position": " Professor / PhD, University of California, Los Angeles, 1983.Current research: Computational studies of incompressible flow, with applications to stability; vortex shedding; contaminant removal, and chemically reacting systems; experimental development of transparent, immiscible, refractive index-matched systems for use as surrogates in multiphase flow. "
+    },
+    {
+        "Research Interest": "Developed a load cell for measuring simultaneously the axial force and twisting moment in wire ropes. ",
+        "Name": "James Phillips:",
+        "Position": " Lecturer and Professor Emeritus / PhD, Brown University, 1969. Current research: Structural testing. "
+    },
+    {
+        "Research Interest": " Lecturer and Associate Professor Emeritus / PhD, Certified Institute of Technology, 1987. Feature-based cost analysis; micro-miniature systems design for manufacture and assembly; rapid prototyping and layered manufacturing.",
+        "Name": "Michael Philpott:",
+        "Position": " Lecturer and Associate Professor Emeritus / PhD, Certified Institute of Technology, 1987. Feature-based cost analysis; micro-miniature systems design for manufacture and assembly; rapid prototyping and layered manufacturing."
+    },
+    {
+        "Research Interest": "Discovered a new phenomenon where plastically deformed nano crystalline metals recover up to 80 percent of the plastic strain under macroscopically stress-free conditions; neurons in embryonic fruit flies actively maintain a rest tension, which is essential for neurotransmission.",
+        "Name": "M. Taher Saif:",
+        "Position": " Edward William and Jane Gutgsell Professor and Associate Head for Graduate Programs / PhD, Cornell University, 1993. Current research: Mechanics of microelectromechanical systems (MEMS); nanoscale materials behavior; neuro-mechanics; mechanics of cancer cells and tumor microenvironment; biological machines; single cell mechanics. "
+    },
+    {
+        "Research Interest": "Developed a design scheme that achieves an optimal tip-sample force regulation with an ideal topography image reconstruction in atomic force microscopy.",
+        "Name": "Srinivasa Salapaka:",
+        "Position": " Professor / PhD, University of California, Santa Barbara, 2002. Current research: Analysis and design in atomic force microscopy; combinatorial optimization. "
+    },
+    {
+        "Research Interest": "Developed a model for determining the crystal orientation dependence of critical resolved shear stress for slip in shape memory alloys; developed an atomistic-continuum treatment to predict threshold stress intensity in fatigue in agreement with experiments.",
+        "Name": "Huseyin Sehitoglu:",
+        "Position": " Professor and John, Alice, and Sarah Nyquist Endowed Chair / PhD, University of Illinois at Urbana-Champaign, 1983. Current research: Thermo-mechanical behavior of materials; phase transformations and shape memory. "
+    },
+    {
+        "Research Interest": "Developed spatiotemporal modeling approaches for manufacturing process control. Developed and implemented an integrated monitoring and control system for ultrasonic metal welding.",
+        "Name": "Chenhui Shao:",
+        "Position": " Assistant Professor / PhD, University of Michigan, 2016. Current research: Smart manufacturing; big data analytics in manufacturing; machine learning; advanced statistics; joining of dissimilar materials; manufacturing system control and automation. "
+    },
+    {
+        "Research Interest": "Developing novel metal-polymer hybrid heat exchangers from materials to design for waste heat harvesting.",
+        "Name": "Sanjiv Sinha:",
+        "Position": " Associate Professor / PhD, Stanford University, 2005. Current research: Thermoelectric energy conversion physics, materials, and devices; thermochemical energy storage; advanced heat exchangers; additively manufactured thermal transport devices; electronics cooling technologies; fundamental heat conduction physics; picosecond acoustics; biological thermometry. "
+    },
+    {
+        "Research Interest": "Developed and predicted strategies to maximize the efficiency of flow batteries with respect to flow conditions and the rheology of non-Newtonian, electroactive suspensions.",
+        "Name": "Kyle C. Smith:",
+        "Position": " Assistant Professor / PhD, Purdue University, 2012. Current research: Computational modeling; energy storage devices and materials; mass, charge, heat, and fluid transport in electrochemical systems; microstructure, mechanics, and transport in granular/heterogeneous materials. "
+    },
+    {
+        "Research Interest": " Lecturer and Professor Emeritus / PhD, University of Illinois at Urbana-Champaign, 1977. Fatigue of metallic machine components and structures.",
+        "Name": "Darrell Socie:",
+        "Position": " Lecturer and Professor Emeritus / PhD, University of Illinois at Urbana-Champaign, 1977. Fatigue of metallic machine components and structures."
+    },
+    {
+        "Research Interest": "Rationalized and linked for the first time the effects of hydrogen at the microscale with evidence of hydrogen-induced flow localization at the macroscale.",
+        "Name": "Petros Sofronis:",
+        "Position": " James W. Bayne Professor and Associate Head for Mechanics Programs / PhD, University of Illinois at Urbana-Champaign, 1987. Current research: Solid mechanics; elastic-plastic fracture mechanics; materials compatibility with hydrogen; mechanics of next generation nuclear reactor materials; finite element methods. "
+    },
+    {
+        "Research Interest": "Formulated a rigorous hybrid framework and new non-equilibrium breakdown parameters from Generalized Chapman-Enskog Theory for combined continuum/rarefied flows.",
+        "Name": "Kelly Stephani:",
+        "Position": " Assistant Professor / PhD, University of Texas at Austin, 2012."
+    },
+    {
+        "Research Interest": " Research Professor and Shao Lee Soo Professor Emeritus / PhD, Cornell University, 1981. Current research: Muliphase, multimaterial, multicomponent theory and advanced simulation applied to complex high energy density materials.",
+        "Name": "D. Scott Stewart:",
+        "Position": " Research Professor and Shao Lee Soo Professor Emeritus / PhD, Cornell University, 1981. Current research: Muliphase, multimaterial, multicomponent theory and advanced simulation applied to complex high energy density materials."
+    },
+    {
+        "Research Interest": "Developed synthesis and self-assembly processes to manufacture multi-functional nanocomposites.",
+        "Name": "Sameh Tawfick:",
+        "Position": " Assistant Professor / PhD, University of Michigan, 2012. Current research: Material design, processing and manufacturing; mechanics of materials. "
+    },
+    {
+        "Research Interest": " Research Professor and C. J. Gauthier Professor Emeritus / PhD, University of British Columbia, 1985. Current research: Metals processing simulation; modeling of continuous casting; steel processing; numerical methods for solidification phenomena.",
+        "Name": "Brian Thomas:",
+        "Position": " Research Professor and C. J. Gauthier Professor Emeritus / PhD, University of British Columbia, 1985. Current research: Metals processing simulation; modeling of continuous casting; steel processing; numerical methods for solidification phenomena."
+    },
+    {
+        "Research Interest": "Applying these methodologies to design impact-resistant armor, design thermoelastic composite materials with novel properties, identify defects and crack initiation sites in solid bodies, generate representative river models for oil exploration, and design light-weight structures that are readily cast.",
+        "Name": "Daniel Tortorelli:",
+        "Position": " George B. Grim Professor Emeritus / PhD, University of Illinois at Urbana-Champaign, 1988. Solid and continuum mechanics; computational mechanics; design optimization. "
+    },
+    {
+        "Research Interest": "Developed a model for flow-induced fiber orientation that is used in all major injection-molding software packages.",
+        "Name": "Charles Tucker III:",
+        "Position": " Research Professor and Alexander L. Rankin Professor Emeritus / PhD, Massachusetts Institute of Technology, 1978. Current research: Polymers and composite materials; quantitative modeling of processing/microstructure/property relationships; numerical methods. "
+    },
+    {
+        "Research Interest": "Working on a new concept for intentional use of strong nonlinearity in design and nonlinear passive energy management; formulated novel nonparametric multi-scale system identification methodologies.",
+        "Name": "Alexander Vakakis:",
+        "Position": " Donald Biggar Willett Professor / PhD, California Institute ofTechnology, 1990. Current research: Nonlinear dynamics and vibrations; non-smooth dynamics; nonlinear modal analysis, reduced-order modeling and nonlinear model updating; granular acoustic metamaterials, nonreciprocal acoustics and stress wave tailoring; targeted energy transfer and vibration energy harvesting; nano- and micro-resonators; passive control of vortex-induced vibrations and aeroelastic instabilities; intentional nonlinearity in design. "
+    },
+    {
+        "Research Interest": "Developed graphene-based NEMS. First observed atomic grain boundary structure and properties in 2D molecular membranes. Developed techniques for building functional electronic and photonic devices from 2D material heterostructures.",
+        "Name": "Arend van der Zande:",
+        "Position": " Assistant Professor / PhD, Cornell University, 2011. Current research: Nanomechanics, and functional devices from nanoscale materials and heterostructures; nanoelectromechanical systems (NEMS); atomically precise nanomanufacturing techniques. "
+    },
+    {
+        "Research Interest": "Developed innovative multigrid algorithms for Navier-Stokes equations (Vanka Smoother); applied CFD for a large number of diverse applications in single and multiphase flows, using parallel computers and GPUs; earned Freeman Scholar Award from ASME, and VAJRA Professorship from India.",
+        "Name": "Pratap Vanka:",
+        "Position": " Research Professor and Professor Emeritus / PhD, Imperial College, London, 1975. Computational fluid dynamics; multigrid methods; large eddy simulations of turbulence. "
+    },
+    {
+        "Research Interest": "Demonstrated bone formation in micron-sized pores and that microporosity and an osteoinductive growth factor (BMP-s) have different, but complementary, roles in bone regeneration in CaP scaffolds with multi-scale porosity.",
+        "Name": "Amy Wagoner Johnson:",
+        "Position": " Professor / PhD, Brown University, 2002. Current research: Design, manufacture, characterization, and mechanical behavior of materials for bone replacement and repair; cell-material interactions; characterization of soft tissue for applications to preterm birth. "
+    },
+    {
+        "Research Interest": "Developed intracellular stress tomography technology and used it to address fundamental questions about stress distribution and mechanotransduction in living cells.",
+        "Name": "Ning Wang:",
+        "Position": " Leonard C. and Mary Lou Hoeft Professor / PhD, Harvard University, 1990. Current research: Cytoskeletal biomechanics; cellular mechanobiology; mechanotransduction; stem cell and cancer cell mechanics and biology; mechanomedicine; bio-imaging of cytoskeletal structures and stress distribution in living cells. "
+    },
+    {
+        "Research Interest": "Heat transfer enhancement, coefficient of performance (COP) improvement, optimization, and control for heating and cooling systems.",
+        "Name": "Sophie Wang:",
+        "Position": " Research Assistant Professor / PhD, Xi\\xe2\\x80\\x99an Jiaotong University, 2012. Current research: Thermodynamics, heat transfer, and fluid mechanics. Fundamentals of single-phase and two-phase convection, phase change and stability with applications in energy systems. "
+    },
+    {
+        "Research Interest": " Developed the theory of variational time integration methods; obtained fully asynchronous integrators for computational mechanics.",
+        "Name": "Matthew West:",
+        "Position": " Associate Professor / PhD, California Institute of Technology, 2004. Current research: Computational methods; multiscale time integration."
+    },
+    {
+        "Research Interest": "Developed passive and active wing morphing systems to improve the performance of flapping and fixed wing unmanned air vehicles.",
+        "Name": "Aimy Wissa:",
+        "Position": " Assistant Professor / PhD, University of Maryland, 2014. Current research: Structural dynamics and control, bio-inspired design of multi-functional structures and mechanisms for mechanical and aerospace systems, experimental evaluation and flight testing of unmanned air vehicles. "
+    },
+    {
+        "Research Interest": "Missing",
+        "Name": "People ",
+        "Position": "Missing"
+    },
+    {
+        "Research Interest": "Missing",
+        "Name": "Undergraduate ",
+        "Position": "Missing"
+    },
+    {
+        "Research Interest": "Missing",
+        "Name": "Graduate ",
+        "Position": "Missing"
+    },
+    {
+        "Research Interest": "Missing",
+        "Name": "Student Experience",
+        "Position": "Missing"
+    },
+    {
+        "Research Interest": "Missing",
+        "Name": "Alumni &amp; Corporate Partners",
+        "Position": "Missing"
+    },
+    {
+        "Research Interest": "Missing",
+        "Name": "News &amp; Events",
+        "Position": "Missing"
+    },
+    {
+        "Research Interest": "Missing",
+        "Name": "Services ",
+        "Position": "Missing"
+    },
+    {
+        "Research Interest": "Missing",
+        "Name": "About Us",
+        "Position": "Missing"
+    },
+    {
+        "Research Interest": "Missing",
+        "Name": "People ",
+        "Position": "Missing"
+    },
+    {
+        "Research Interest": "Missing",
+        "Name": "Undergraduate ",
+        "Position": "Missing"
+    },
+    {
+        "Research Interest": "Missing",
+        "Name": "Student Experience",
+        "Position": "Missing"
+    },
+    {
+        "Research Interest": "Missing",
+        "Name": "Alumni &amp; Corporate Partners",
+        "Position": "Missing"
+    },
+    {
+        "Research Interest": "Missing",
+        "Name": "News &amp; Events",
+        "Position": "Missing"
+    },
+    {
+        "Research Interest": "Missing",
+        "Name": "Services ",
+        "Position": "Missing"
+    },
+    {
+        "Research Interest": "Missing",
+        "Name": "About Us",
+        "Position": "Missing"
+    }
+]

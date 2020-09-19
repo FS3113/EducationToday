@@ -1,13 +1,3 @@
-Academic Advising
-Educational Resources and Counseling Center
-Center for International Students and Scholars
-Center for International Studies and Study Abroad
-Center for Public Service
-Registrar
-Research Centers and Institutes
-Language Learning Center (LLC)
-Honors Program
-TIDES
 Architecture
 Preservation Studies
 Sustainable Real Estate Development
@@ -43,7 +33,6 @@ Sociology
 Spanish and Portuguese
 Theatre and Dance
 Urban Studies
-US Public Policy
 Anesthesiology
 Biochemistry
 Biomedical Sciences Graduate Program
@@ -84,17 +73,3 @@ Mathematics
 Neuroscience
 Physics and Engineering Physics
 Psychology
-Air Force ROTC
-Army ROTC
-Naval ROTC
-News
-Give to Tulane
-Medical Center
-Contact Us
-Website Feedback
-Jobs at Tulane
-Email
-MyTulane
-Gibson Online
-Copyright
-Privacy

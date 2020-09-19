@@ -13,8 +13,6 @@ Chemistry
 Civil Engineering
 Communication Sciences and Disorders
 Communication Studies
-Computer &#038; Information Science
-Counseling &#038; Applied Educational Psychology
 Creative Industries
 Criminal Justice
 Economics
@@ -46,7 +44,6 @@ Media and Screen Studies
 Music
 Nursing
 Pharmacy
-Philosophy &#038; Religion
 Physical Therapy
 Physician Assistant
 Physics
@@ -56,7 +53,6 @@ PreLaw Program
 Professional Studies
 Psychology
 Public Administration
-Sociology &#038; Anthropology
 Telecommunication Systems Management
 Theatre
 Undeclared

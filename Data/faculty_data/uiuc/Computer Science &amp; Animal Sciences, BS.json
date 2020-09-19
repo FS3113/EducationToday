@@ -1,0 +1,590 @@
+[
+    {
+        "Research Interest": "Writing and Research and Public Speaking",
+        "Name": "Writing and Research",
+        "Position": "Missing",
+        "Email": "Missing"
+    },
+    {
+        "Research Interest": "Oral &amp; Written Comm I and Oral &amp; Written Comm II",
+        "Name": "Oral &amp; Written Comm I",
+        "Position": "Missing",
+        "Email": "Missing"
+    },
+    {
+        "Research Interest": "General Chemistry I and General Chemistry Lab I",
+        "Name": "General Chemistry I",
+        "Position": "Missing",
+        "Email": "Missing"
+    },
+    {
+        "Research Interest": "General Chemistry II and General Chemistry Lab II",
+        "Name": "General Chemistry II",
+        "Position": "Missing",
+        "Email": "Missing"
+    },
+    {
+        "Research Interest": "Microeconomic Principles",
+        "Name": "Microeconomic Principles",
+        "Position": "Microeconomic Principles",
+        "Email": "Missing"
+    },
+    {
+        "Research Interest": " Introduction to Applied Microeconomics",
+        "Name": " Introduction to Applied Microeconomics",
+        "Position": " Introduction to Applied Microeconomics",
+        "Email": "Missing"
+    },
+    {
+        "Research Interest": "Probability &amp; Statistics for Computer Science",
+        "Name": "Probability &amp; Statistics for Computer Science",
+        "Position": "Probability &amp; Statistics for Computer Science",
+        "Email": "Missing"
+    },
+    {
+        "Research Interest": "Calculus",
+        "Name": "Calculus",
+        "Position": "Calculus",
+        "Email": "Missing"
+    },
+    {
+        "Research Interest": " Calculus I",
+        "Name": " Calculus I",
+        "Position": " Calculus I",
+        "Email": "Missing"
+    },
+    {
+        "Research Interest": "Introductory Matrix Theory",
+        "Name": "Introductory Matrix Theory",
+        "Position": "Introductory Matrix Theory",
+        "Email": "Missing"
+    },
+    {
+        "Research Interest": "Calculus II",
+        "Name": "Calculus II",
+        "Position": "Calculus II",
+        "Email": "Missing"
+    },
+    {
+        "Research Interest": "Freshman Orientation",
+        "Name": "Freshman Orientation",
+        "Position": "Freshman Orientation",
+        "Email": "Missing"
+    },
+    {
+        "Research Interest": "Intro to Computer Science",
+        "Name": "Intro to Computer Science",
+        "Position": "Intro to Computer Science",
+        "Email": "Missing"
+    },
+    {
+        "Research Interest": "Software Design Studio",
+        "Name": "Software Design Studio",
+        "Position": "Software Design Studio",
+        "Email": "Missing"
+    },
+    {
+        "Research Interest": "Discrete Structures",
+        "Name": "Discrete Structures",
+        "Position": "Discrete Structures",
+        "Email": "Missing"
+    },
+    {
+        "Research Interest": "Data Structures",
+        "Name": "Data Structures",
+        "Position": "Data Structures",
+        "Email": "Missing"
+    },
+    {
+        "Research Interest": "Introduction to Algorithms &amp; Models of Computation",
+        "Name": "Introduction to Algorithms &amp; Models of Computation",
+        "Position": "Introduction to Algorithms &amp; Models of Computation",
+        "Email": "Missing"
+    },
+    {
+        "Research Interest": "Numerical Methods I",
+        "Name": "Numerical Methods I",
+        "Position": "Numerical Methods I",
+        "Email": "Missing"
+    },
+    {
+        "Research Interest": " Programming Languages &amp; Compilers",
+        "Name": " Programming Languages &amp; Compilers",
+        "Position": " Programming Languages &amp; Compilers",
+        "Email": "Missing"
+    },
+    {
+        "Research Interest": "Computer Architecture and System Programming",
+        "Name": "Computer Architecture",
+        "Position": "Missing",
+        "Email": "Missing"
+    },
+    {
+        "Research Interest": "Introduction to Computer Systems",
+        "Name": "Introduction to Computer Systems",
+        "Position": "Introduction to Computer Systems",
+        "Email": "Missing"
+    },
+    {
+        "Research Interest": "Intro to Animal Sciences",
+        "Name": "Intro to Animal Sciences",
+        "Position": "Intro to Animal Sciences",
+        "Email": "Missing"
+    },
+    {
+        "Research Interest": "Cells, Metabolism and Genetics",
+        "Name": "Cells, Metabolism and Genetics",
+        "Position": "Cells, Metabolism and Genetics",
+        "Email": "Missing"
+    },
+    {
+        "Research Interest": "Anatomy and Physiology",
+        "Name": "Anatomy and Physiology",
+        "Position": "Anatomy and Physiology",
+        "Email": "Missing"
+    },
+    {
+        "Research Interest": "Animal Nutrition",
+        "Name": "Animal Nutrition",
+        "Position": "Animal Nutrition",
+        "Email": "Missing"
+    },
+    {
+        "Research Interest": "Animal Reproduction and Growth",
+        "Name": "Animal Reproduction and Growth",
+        "Position": "Animal Reproduction and Growth",
+        "Email": "Missing"
+    },
+    {
+        "Research Interest": "UG Experiential Learning",
+        "Name": "UG Experiential Learning",
+        "Position": "UG Experiential Learning",
+        "Email": "Missing"
+    },
+    {
+        "Research Interest": "Integrating Animal Sciences",
+        "Name": "Integrating Animal Sciences",
+        "Position": "Integrating Animal Sciences",
+        "Email": "Missing"
+    },
+    {
+        "Research Interest": "Principles of Dairy Production",
+        "Name": "Principles of Dairy Production",
+        "Position": "Principles of Dairy Production",
+        "Email": "Missing"
+    },
+    {
+        "Research Interest": "Intro Dairy Cattle Evaluation",
+        "Name": "Intro Dairy Cattle Evaluation",
+        "Position": "Intro Dairy Cattle Evaluation",
+        "Email": "Missing"
+    },
+    {
+        "Research Interest": "World Animal Resources",
+        "Name": "World Animal Resources",
+        "Position": "World Animal Resources",
+        "Email": "Missing"
+    },
+    {
+        "Research Interest": "Horse Management",
+        "Name": "Horse Management",
+        "Position": "Horse Management",
+        "Email": "Missing"
+    },
+    {
+        "Research Interest": "Breeding Animal Evaluation",
+        "Name": "Breeding Animal Evaluation",
+        "Position": "Breeding Animal Evaluation",
+        "Email": "Missing"
+    },
+    {
+        "Research Interest": "Meat Technology",
+        "Name": "Meat Technology",
+        "Position": "Meat Technology",
+        "Email": "Missing"
+    },
+    {
+        "Research Interest": "Companion Animals in Society",
+        "Name": "Companion Animals in Society",
+        "Position": "Companion Animals in Society",
+        "Email": "Missing"
+    },
+    {
+        "Research Interest": "Food Animal Production, Management, and Evaluation",
+        "Name": "Food Animal Production, Management, and Evaluation",
+        "Position": "Food Animal Production, Management, and Evaluation",
+        "Email": "Missing"
+    },
+    {
+        "Research Interest": "Human Animal Interactions",
+        "Name": "Human Animal Interactions",
+        "Position": "Human Animal Interactions",
+        "Email": "Missing"
+    },
+    {
+        "Research Interest": "Companion Animal Management",
+        "Name": "Companion Animal Management",
+        "Position": "Companion Animal Management",
+        "Email": "Missing"
+    },
+    {
+        "Research Interest": "Meat Production and Marketing",
+        "Name": "Meat Production and Marketing",
+        "Position": "Meat Production and Marketing",
+        "Email": "Missing"
+    },
+    {
+        "Research Interest": "Meat Selection and Grading",
+        "Name": "Meat Selection and Grading",
+        "Position": "Meat Selection and Grading",
+        "Email": "Missing"
+    },
+    {
+        "Research Interest": "Advanced Livestock Evaluation",
+        "Name": "Advanced Livestock Evaluation",
+        "Position": "Advanced Livestock Evaluation",
+        "Email": "Missing"
+    },
+    {
+        "Research Interest": "Horse Appraisal",
+        "Name": "Horse Appraisal",
+        "Position": "Horse Appraisal",
+        "Email": "Missing"
+    },
+    {
+        "Research Interest": "Adv Dairy Cattle Evaluation",
+        "Name": "Adv Dairy Cattle Evaluation",
+        "Position": "Adv Dairy Cattle Evaluation",
+        "Email": "Missing"
+    },
+    {
+        "Research Interest": "Livestock Feeds and Feeding",
+        "Name": "Livestock Feeds and Feeding",
+        "Position": "Livestock Feeds and Feeding",
+        "Email": "Missing"
+    },
+    {
+        "Research Interest": "Companion Animal Policy",
+        "Name": "Companion Animal Policy",
+        "Position": "Companion Animal Policy",
+        "Email": "Missing"
+    },
+    {
+        "Research Interest": "Dairy Herd Management",
+        "Name": "Dairy Herd Management",
+        "Position": "Dairy Herd Management",
+        "Email": "Missing"
+    },
+    {
+        "Research Interest": "Beef Production",
+        "Name": "Beef Production",
+        "Position": "Beef Production",
+        "Email": "Missing"
+    },
+    {
+        "Research Interest": "Sheep Production",
+        "Name": "Sheep Production",
+        "Position": "Sheep Production",
+        "Email": "Missing"
+    },
+    {
+        "Research Interest": "Pork Production",
+        "Name": "Pork Production",
+        "Position": "Pork Production",
+        "Email": "Missing"
+    },
+    {
+        "Research Interest": "Poultry Science",
+        "Name": "Poultry Science",
+        "Position": "Poultry Science",
+        "Email": "Missing"
+    },
+    {
+        "Research Interest": "Advanced Dairy Management",
+        "Name": "Advanced Dairy Management",
+        "Position": "Advanced Dairy Management",
+        "Email": "Missing"
+    },
+    {
+        "Research Interest": "Animal Shelter Management",
+        "Name": "Animal Shelter Management",
+        "Position": "Animal Shelter Management",
+        "Email": "Missing"
+    },
+    {
+        "Research Interest": "Pet Food &amp; Feed Manufacturing",
+        "Name": "Pet Food &amp; Feed Manufacturing",
+        "Position": "Pet Food &amp; Feed Manufacturing",
+        "Email": "Missing"
+    },
+    {
+        "Research Interest": "Milk Quality and Udder Health",
+        "Name": "Milk Quality and Udder Health",
+        "Position": "Milk Quality and Udder Health",
+        "Email": "Missing"
+    },
+    {
+        "Research Interest": "Adv Reproductive Management",
+        "Name": "Adv Reproductive Management",
+        "Position": "Adv Reproductive Management",
+        "Email": "Missing"
+    },
+    {
+        "Research Interest": "ANSC Leaders &amp; Entrepreneurs",
+        "Name": "ANSC Leaders &amp; Entrepreneurs",
+        "Position": "ANSC Leaders &amp; Entrepreneurs",
+        "Email": "Missing"
+    },
+    {
+        "Research Interest": "Epidemics and Infectious Diseases",
+        "Name": "Epidemics and Infectious Diseases",
+        "Position": "Epidemics and Infectious Diseases",
+        "Email": "Missing"
+    },
+    {
+        "Research Interest": "Equine Science",
+        "Name": "Equine Science",
+        "Position": "Equine Science",
+        "Email": "Missing"
+    },
+    {
+        "Research Interest": "Biology of Reproduction",
+        "Name": "Biology of Reproduction",
+        "Position": "Biology of Reproduction",
+        "Email": "Missing"
+    },
+    {
+        "Research Interest": "Cellular Metabolism in Animals",
+        "Name": "Cellular Metabolism in Animals",
+        "Position": "Cellular Metabolism in Animals",
+        "Email": "Missing"
+    },
+    {
+        "Research Interest": "Behavior of Domestic Animals",
+        "Name": "Behavior of Domestic Animals",
+        "Position": "Behavior of Domestic Animals",
+        "Email": "Missing"
+    },
+    {
+        "Research Interest": "Animal Behavior",
+        "Name": "Animal Behavior",
+        "Position": "Animal Behavior",
+        "Email": "Missing"
+    },
+    {
+        "Research Interest": "Zoo Animal Conservation Sci",
+        "Name": "Zoo Animal Conservation Sci",
+        "Position": "Zoo Animal Conservation Sci",
+        "Email": "Missing"
+    },
+    {
+        "Research Interest": "Meat Science",
+        "Name": "Meat Science",
+        "Position": "Meat Science",
+        "Email": "Missing"
+    },
+    {
+        "Research Interest": "Ruminant Nutrition",
+        "Name": "Ruminant Nutrition",
+        "Position": "Ruminant Nutrition",
+        "Email": "Missing"
+    },
+    {
+        "Research Interest": "Minerals and Vitamins",
+        "Name": "Minerals and Vitamins",
+        "Position": "Minerals and Vitamins",
+        "Email": "Missing"
+    },
+    {
+        "Research Interest": "Companion Animal Nutrition",
+        "Name": "Companion Animal Nutrition",
+        "Position": "Companion Animal Nutrition",
+        "Email": "Missing"
+    },
+    {
+        "Research Interest": "Advanced Reproductive Biology",
+        "Name": "Advanced Reproductive Biology",
+        "Position": "Advanced Reproductive Biology",
+        "Email": "Missing"
+    },
+    {
+        "Research Interest": "Lactation Biology",
+        "Name": "Lactation Biology",
+        "Position": "Lactation Biology",
+        "Email": "Missing"
+    },
+    {
+        "Research Interest": "Applied Statistical Methods I",
+        "Name": "Applied Statistical Methods I",
+        "Position": "Applied Statistical Methods I",
+        "Email": "Missing"
+    },
+    {
+        "Research Interest": "Human Genetics",
+        "Name": "Human Genetics",
+        "Position": "Human Genetics",
+        "Email": "Missing"
+    },
+    {
+        "Research Interest": "Applied Animal Genetics",
+        "Name": "Applied Animal Genetics",
+        "Position": "Applied Animal Genetics",
+        "Email": "Missing"
+    },
+    {
+        "Research Interest": "Statistical Methods",
+        "Name": "Statistical Methods",
+        "Position": "Statistical Methods",
+        "Email": "Missing"
+    },
+    {
+        "Research Interest": "Population Genetics",
+        "Name": "Population Genetics",
+        "Position": "Population Genetics",
+        "Email": "Missing"
+    },
+    {
+        "Research Interest": "Advanced Genetics and Genomics",
+        "Name": "Advanced Genetics and Genomics",
+        "Position": "Advanced Genetics and Genomics",
+        "Email": "Missing"
+    },
+    {
+        "Research Interest": "Math Modeling in Life Sciences",
+        "Name": "Math Modeling in Life Sciences",
+        "Position": "Math Modeling in Life Sciences",
+        "Email": "Missing"
+    },
+    {
+        "Research Interest": "Biological Modeling",
+        "Name": "Biological Modeling",
+        "Position": "Biological Modeling",
+        "Email": "Missing"
+    },
+    {
+        "Research Interest": "Comparative Immunobiology",
+        "Name": "Comparative Immunobiology",
+        "Position": "Comparative Immunobiology",
+        "Email": "Missing"
+    },
+    {
+        "Research Interest": "Microbes and the Anim Indust",
+        "Name": "Microbes and the Anim Indust",
+        "Position": "Microbes and the Anim Indust",
+        "Email": "Missing"
+    },
+    {
+        "Research Interest": "Animal Growth and Development",
+        "Name": "Animal Growth and Development",
+        "Position": "Animal Growth and Development",
+        "Email": "Missing"
+    },
+    {
+        "Research Interest": "Stem Cell Biology",
+        "Name": "Stem Cell Biology",
+        "Position": "Stem Cell Biology",
+        "Email": "Missing"
+    },
+    {
+        "Research Interest": "Applied Animal Ecology",
+        "Name": "Applied Animal Ecology",
+        "Position": "Applied Animal Ecology",
+        "Email": "Missing"
+    },
+    {
+        "Research Interest": "Muscle Biology",
+        "Name": "Muscle Biology",
+        "Position": "Muscle Biology",
+        "Email": "Missing"
+    },
+    {
+        "Research Interest": "Science of Animal Well-Being",
+        "Name": "Science of Animal Well-Being",
+        "Position": "Science of Animal Well-Being",
+        "Email": "Missing"
+    },
+    {
+        "Research Interest": "Protein and Energy Nutrition",
+        "Name": "Protein and Energy Nutrition",
+        "Position": "Protein and Energy Nutrition",
+        "Email": "Missing"
+    },
+    {
+        "Research Interest": "Regulation of Metabolism",
+        "Name": "Regulation of Metabolism",
+        "Position": "Regulation of Metabolism",
+        "Email": "Missing"
+    },
+    {
+        "Research Interest": "Advanced Ruminant Nutrition",
+        "Name": "Advanced Ruminant Nutrition",
+        "Position": "Advanced Ruminant Nutrition",
+        "Email": "Missing"
+    },
+    {
+        "Research Interest": "Techniques in Animal Nutrition",
+        "Name": "Techniques in Animal Nutrition",
+        "Position": "Techniques in Animal Nutrition",
+        "Email": "Missing"
+    },
+    {
+        "Research Interest": "Nonruminant Nutrition Concepts",
+        "Name": "Nonruminant Nutrition Concepts",
+        "Position": "Nonruminant Nutrition Concepts",
+        "Email": "Missing"
+    },
+    {
+        "Research Interest": "Topics in Nutrition Research",
+        "Name": "Topics in Nutrition Research",
+        "Position": "Topics in Nutrition Research",
+        "Email": "Missing"
+    },
+    {
+        "Research Interest": "Adv Companion Animal Nutrition",
+        "Name": "Adv Companion Animal Nutrition",
+        "Position": "Adv Companion Animal Nutrition",
+        "Email": "Missing"
+    },
+    {
+        "Research Interest": "Repro Physiology Lab Methods",
+        "Name": "Repro Physiology Lab Methods",
+        "Position": "Repro Physiology Lab Methods",
+        "Email": "Missing"
+    },
+    {
+        "Research Interest": "Regression Analysis",
+        "Name": "Regression Analysis",
+        "Position": "Regression Analysis",
+        "Email": "Missing"
+    },
+    {
+        "Research Interest": "Applied Bioinformatics",
+        "Name": "Applied Bioinformatics",
+        "Position": "Applied Bioinformatics",
+        "Email": "Missing"
+    },
+    {
+        "Research Interest": "Bioinformatics",
+        "Name": "Bioinformatics",
+        "Position": "Bioinformatics",
+        "Email": "Missing"
+    },
+    {
+        "Research Interest": "Statistical Genomics",
+        "Name": "Statistical Genomics",
+        "Position": "Statistical Genomics",
+        "Email": "Missing"
+    },
+    {
+        "Research Interest": "Immunobiological Methods",
+        "Name": "Immunobiological Methods",
+        "Position": "Immunobiological Methods",
+        "Email": "Missing"
+    },
+    {
+        "Research Interest": "Animal Stress Physiology",
+        "Name": "Animal Stress Physiology",
+        "Position": "Animal Stress Physiology",
+        "Email": "Missing"
+    }
+]
