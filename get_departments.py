@@ -73,8 +73,7 @@ def get_html(url, scrape_option):
             option.add_argument('--window - size = 1420, 1080')
             option.add_argument('--headless')
             option.add_argument('--disable - gpu')
-            driver1 = webdriver.Chrome(executable_path=os.getcwd() + '/chromedriver',
-                                       chrome_options=option)
+            driver1 = webdriver.Chrome(executable_path=os.getcwd() + '/chromedriver', chrome_options=option)
             driver1.get(url)
             the_page = str(driver1.page_source)
             time.sleep(5)
@@ -653,8 +652,7 @@ def find(keywords):
     option.add_argument('--window - size = 1420, 1080')
     option.add_argument('--headless')
     option.add_argument('--disable - gpu')
-    driver = webdriver.Chrome(executable_path='/Users/juefei/Desktop/EducationToday/chromedriver',
-                              chrome_options=option)
+    driver = webdriver.Chrome(executable_path=os.getcwd() + '/chromedriver', chrome_options=option)
     driver.get(url)
     input_tab = driver.find_element_by_xpath('//*[@id="tsf"]/div[2]/div[1]/div[1]/div/div[2]/input')
     time.sleep(1)
