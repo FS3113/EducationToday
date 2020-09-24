@@ -3,6 +3,7 @@ path_dict2 = {'Research Interest': [[0, 4, 6, 5, 2, 3, 3, 4, 6, 5, 1, 1, 1, 2, 1
 
 
 def find_possible_list(path_dict):
+    # print(path_dict)
     candidate_num = sum([len(path_dict[i]) for i in path_dict.keys()])
     common_structure = []
     a = 0
@@ -21,7 +22,7 @@ def find_possible_list(path_dict):
         t = sorted(t, key=lambda x: x[1], reverse=True)
         # print(t)
         try:
-            if t[0][1] > 0.15 * candidate_num:
+            if t[0][1] > 0.1 * candidate_num:
                 common_structure.append(t[0][0])
             else:
                 break
@@ -42,6 +43,7 @@ def find_possible_list(path_dict):
     a = find_possible_list(t)
     if a:
         result.extend(a)
+    # print(result)
     return result
 
 

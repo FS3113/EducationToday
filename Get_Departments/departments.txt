@@ -141,7 +141,6 @@ europe
 holocaust
 experimental
 skirball
-interdepartmental
 petroleum
 programming
 peace
@@ -162,7 +161,6 @@ hispanic
 audio
 personality
 animation
-department
 metropolitan
 specialized
 sociocultural
@@ -220,9 +218,7 @@ reliability
 alternative
 creative
 ocean
-major
 nanoscience
-committee
 gay
 nuclear
 linguistics
@@ -255,9 +251,7 @@ literature
 geological
 bs
 and
-life
 horticulture
-research
 liberal
 collegium
 literatures
@@ -344,7 +338,6 @@ orthotics
 open
 pastoral
 xe2
-majors
 special
 fiction
 materials
@@ -482,7 +475,6 @@ hospitality
 high
 risk
 genealogy
-minor
 politics
 translation
 moderate
@@ -537,7 +529,6 @@ ancient
 mechanics
 family
 bsw
-institute
 neurobiology
 indian
 law
@@ -585,7 +576,6 @@ integration
 language
 dual
 medieval
-school
 medicinal
 women
 recording
@@ -712,7 +702,6 @@ virtual
 pan
 tourism
 democratic
-centers
 intellectual
 science
 mining
@@ -972,7 +961,6 @@ diversity
 asian
 equity
 metallurgical
-departments
 as
 biodiversity
 psychiatry
@@ -986,7 +974,6 @@ youth
 small
 sports
 endodontics
-center
 air
 joint
 paper

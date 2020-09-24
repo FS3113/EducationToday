@@ -13,7 +13,7 @@ from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 from selenium.webdriver.chrome.options import Options
 from selenium.webdriver.common.keys import Keys
-from google import google
+# from google import google
 
 
 f = open('Get_Departments/majors.txt', 'r')
@@ -218,37 +218,37 @@ def getDepartments(url):
 
 
 def find(keywords):
-    # url = 'https://www.google.com/'
-    # chrome_option = Options()
-    # driver = webdriver.Chrome(executable_path='/Users/juefei/Desktop/EducationToday/chromedriver',
-    #                           chrome_options=chrome_option)
-    # driver.get(url)
-    # input_tab = driver.find_element_by_xpath('//*[@id="tsf"]/div[2]/div[1]/div[1]/div/div[2]/input')
-    # time.sleep(1)
-    # input_tab.send_keys(keywords, Keys.ENTER)
-    # elems = driver.find_elements_by_xpath("//a[@href]")
-    # possibleURLs = []
-    # words = ['google', 'wiki', 'news', 'instagram', 'twitter', 'linkedin', 'criminal', 'student', 'course', 'facebook']
-    # n = 0
-    # for elem in elems:
-    #     t = elem.get_attribute("href")
-    #     flag = True
-    #     for i in words:
-    #         if i in t:
-    #             flag = False
-    #             break
-    #     if flag:
-    #         possibleURLs.append(t)
-    #         n += 1
-    #     if n == 10:
-    #         break
-    # time.sleep(2)
-    # driver.quit()
-
-    search_results = google.search(keywords, 1)
+    url = 'https://www.google.com/'
+    chrome_option = Options()
+    driver = webdriver.Chrome(executable_path='/Users/juefei/Desktop/EducationToday/chromedriver',
+                              chrome_options=chrome_option)
+    driver.get(url)
+    input_tab = driver.find_element_by_xpath('//*[@id="tsf"]/div[2]/div[1]/div[1]/div/div[2]/input')
+    time.sleep(1)
+    input_tab.send_keys(keywords, Keys.ENTER)
+    elems = driver.find_elements_by_xpath("//a[@href]")
     possibleURLs = []
-    for i in search_results:
-        possibleURLs.append(i.link)
+    words = ['google', 'wiki', 'news', 'instagram', 'twitter', 'linkedin', 'criminal', 'student', 'course', 'facebook']
+    n = 0
+    for elem in elems:
+        t = elem.get_attribute("href")
+        flag = True
+        for i in words:
+            if i in t:
+                flag = False
+                break
+        if flag:
+            possibleURLs.append(t)
+            n += 1
+        if n == 10:
+            break
+    time.sleep(2)
+    driver.quit()
+
+    # search_results = google.search(keywords, 1)
+    # possibleURLs = []
+    # for i in search_results:
+    #     possibleURLs.append(i.link)
     return possibleURLs
 
 
@@ -270,6 +270,6 @@ def get_department_by_university_name(university):
     return []
 
 
-r = get_department_by_university_name('princeton university')
+r = get_department_by_university_name('mit')
 for i in r:
     print(i)

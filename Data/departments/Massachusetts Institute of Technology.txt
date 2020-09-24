@@ -1,33 +1,75 @@
-Architecture
-Media Arts and Sciences
-Urban Studies and Planning
-Aeronautics and Astronautics
-Biological Engineering
-Chemical Engineering
-Civil and Environmental Engineering
-Data, Systems, and Society
-Electrical Engineering and Computer Science
-Materials Science and Engineering
-Mechanical Engineering
-Medical Engineering and Science
-Nuclear Science and Engineering
+African and African Diaspora Studies 
+American Studies 
+Ancient and Medieval Studies 
 Anthropology
-Comparative Media Studies/Writing
-Economics
-Global Studies and Languages
-History
-Humanities
-Humanities + Engineering/Science
-Linguistics
-Literature
-Music and Theater Arts
-Philosophy
-Political Science
-Science, Technology, and Society
-Management
+Applied Inter\xc2\xadnational Studies 
+Archaeology and Materials 
+Architecture
+Art and Design
+Art, Culture and Technology
+Asian and Asian Diaspora Studies 
+Astronomy
+Atmospheric Chemistry 
+Biological Engineering 
 Biology
-Brain and Cognitive Sciences
+Biomedical Engineering
+Brain and Cognitive Sciences 
+Business Analytics
+Chemical Engineering 
+Chemical-Biological Engineering
 Chemistry
-Earth, Atmospheric, and Planetary Sciences
-Mathematics
-Physics
+Chemistry and Biology
+Chinese 
+Civil and Environmental Engineering 
+Civil Engineering
+Comparative Media Studies
+Computer Science and Engineering
+Computer Science and Molecular Biology 
+Data Science
+Design
+Earth, Atmospheric, and Planetary Sciences 
+Economics 
+Electrical Engineering and Computer Science
+Electrical Science and Engineering
+Energy Studies
+Entrepreneurship &amp; Innovation
+Environmental Engineering Science
+Environment and Sustainability
+Finance
+French
+German
+History
+History of Architecture, Art and Design
+Humanities and Engineering
+Humanities and Science 
+International Development
+Japanese
+Latin American and Latino/a Studies
+Linguistics
+Literature 
+Management
+Materials Science and Engineering 
+Mathematical Economics 
+Mathematics 
+Mathematics with Computer Science 
+Mechanical Engineering 
+Mechanical and Ocean Engineering 
+Middle Eastern Studies 
+Music 
+Nuclear Science and Engineering 
+Philosophy 
+Physics 
+Planning 
+Political Science 
+Polymers and Soft Matter
+Public Policy
+Russian and Eurasian Studies
+Science, Technology and Society
+Spanish
+Statistics and Data Science
+Theater Arts
+Toxicology and Environmental Health 
+Urban Science and Planning with Computer Science
+Urban Studies and Planning 
+Women&#8217;s and Gender Studies
+Writing

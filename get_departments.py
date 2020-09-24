@@ -17,7 +17,7 @@ import re
 import pickle
 from collections import defaultdict
 import string
-from find_possible_list import find_possible_list
+from find_possible_list_department import find_possible_list
 from find_possible_list import handle_extreme_edge_case
 import os
 
@@ -26,7 +26,14 @@ f = open('Get_Departments/majors.txt', 'r')
 department_dict = set()
 for i in f.readlines():
     department_dict.add(i[:-1])
+wrong_words = ['school', 'department', 'center', 'major', 'college', 'life', 'education', 'requirement', 'university',
+               'curriculum', 'office', 'advising', 'about', 'student', 'program', 'division', 'project', 'learning',
+               'academics', 'family']
 def check(s):
+    s = s.lower()
+    for i in wrong_words:
+        if i in s:
+            return False
     a = s.replace('\\n', '').replace('\\t', '').replace('&amp;', '&').replace('&nbsp;', ' ')
     if '(' in a and ')' in a:
         a = a[:a.index('(')] + a[a.index(')') + 1:]
@@ -60,9 +67,14 @@ def get_html(url, scrape_option):
             return []
     else:
         try:
-            chrome_option = Options()
+            option = webdriver.ChromeOptions()
+            option.add_argument(' — incognito')
+            option.add_argument('--no - sandbox')
+            option.add_argument('--window - size = 1420, 1080')
+            option.add_argument('--headless')
+            option.add_argument('--disable - gpu')
             driver1 = webdriver.Chrome(executable_path=os.getcwd() + '/chromedriver',
-                                       chrome_options=chrome_option)
+                                       chrome_options=option)
             driver1.get(url)
             the_page = str(driver1.page_source)
             time.sleep(5)
@@ -239,7 +251,7 @@ def view_html_structure(url, scrape_option, known_html=[], wrong_words=[]):
         for i in count.keys():
             t.append([i, count[i]])
         t = sorted(t, key=lambda x: x[1], reverse=True)
-        if t[0][1] > 0.2 * candidate_num:
+        if len(t) > 0 and t[0][1] > 0.2 * candidate_num:
             common_structure.append(t[0][0])
         else:
             break
@@ -347,19 +359,6 @@ def view_html_structure(url, scrape_option, known_html=[], wrong_words=[]):
                             tag = k[1] + tag
                             node.append(k[-1] + str(node[-1]) + '-')
                     a = raw_html[node[2]]
-                    # print(tag, a)
-                    # if 'class="' in a:
-                    #     a = a[a.index('class="') + 7:]
-                    #     a = a[:a.index('"')]
-                    #     if ' ' in a and any(char.isdigit() for char in a[a.index(' '):]):
-                    #         a = a[:a.index(' ')]
-                    #     p = 0
-                    #     while p < len(a):
-                    #         if a[p] in "1234567890":
-                    #             a = a[:p] + a[p + 1:]
-                    #         else:
-                    #             p += 1
-                    #     tag = tag[:-1] + ' ' + a[:a.find(' ')] + '>'
                     while tag in tag_class_names:
                         tag = tag[:-1] + '@' + '>'
                     tag_class_names.append(tag)
@@ -568,28 +567,31 @@ def view_html_structure(url, scrape_option, known_html=[], wrong_words=[]):
                 result.append(d.copy())
             total_miss += missing
             total_num += 1
-        # print(subtree_path)
-        # print('--------------------------------------------------------------------')
-        # print('--------------------------------------------------------------------')
-        # print('--------------------------------------------------------------------')
-        # print('--------------------------------------------------------------------')
-        # print('--------------------------------------------------------------------')
-        # print('--------------------------------------------------------------------')
-        # print(result)
-        try:
-            a_num, a = handle_extreme_edge_case(subtree_dict, subtree_path, raw_html)
-            if a_num > total_match:
-                for r in a:
-                    if 'Department' in r.keys() and r['Department'] != 'Missing':
-                        final_result.append(r.copy())
-                return subtree_path
-        except:
-            a31 = 0
-            # print('nothing happens')
+        # try:
+        #     a_num, a = handle_extreme_edge_case(subtree_dict, subtree_path, raw_html)
+        #     print('???')
+        #     if a_num > total_match:
+        #         print(3113)
+        #         for r in a:
+        #             if 'Department' in r.keys() and r['Department'] != 'Missing':
+        #                 final_result.append(r.copy())
+        #         return subtree_path
+        # except:
+        #     a31 = 0
+        #     # print('nothing happens')
 
+        # print(result)
         if total_miss / total_num > 0.66:
             # print('Warning----------Total Miss:', total_miss, '  Num: ', total_num)
             # print()
+            return {}
+
+        review_match = 0
+        for i in result:
+            if i['Department'] and check(i['Department']):
+                review_match += 1
+
+        if review_match / (len(result) + 0.0001) < 0.5:
             return {}
 
         for r in result:
@@ -598,6 +600,7 @@ def view_html_structure(url, scrape_option, known_html=[], wrong_words=[]):
         return subtree_path
 
     common_structures = find_possible_list(path_dict)
+    # print(common_structures)
     true_path = {}
     for i in common_structures:
         # print(true_path)
@@ -636,12 +639,6 @@ def view_html_structure(url, scrape_option, known_html=[], wrong_words=[]):
     return final_result
 
 
-a = view_html_structure('https://mitadmissions.org/discover/the-mit-education/majors-minors/', 'urllib')
-print(len(a))
-for i in a:
-    print(i)
-
-
 universities = []
 f = open('Data/universities/US_Universities.txt', 'r')
 for i in f.readlines():
@@ -650,16 +647,21 @@ for i in f.readlines():
 
 def find(keywords):
     url = 'https://www.google.com/'
-    chrome_option = Options()
+    option = webdriver.ChromeOptions()
+    option.add_argument(' — incognito')
+    option.add_argument('--no - sandbox')
+    option.add_argument('--window - size = 1420, 1080')
+    option.add_argument('--headless')
+    option.add_argument('--disable - gpu')
     driver = webdriver.Chrome(executable_path='/Users/juefei/Desktop/EducationToday/chromedriver',
-                              chrome_options=chrome_option)
+                              chrome_options=option)
     driver.get(url)
     input_tab = driver.find_element_by_xpath('//*[@id="tsf"]/div[2]/div[1]/div[1]/div/div[2]/input')
     time.sleep(1)
     input_tab.send_keys(keywords, Keys.ENTER)
     elems = driver.find_elements_by_xpath("//a[@href]")
     possibleURLs = []
-    words = ['google', 'wiki', 'news', 'instagram', 'twitter', 'linkedin', 'criminal', 'student', 'course', 'facebook']
+    words = ['google', 'wiki', 'news', 'instagram', 'twitter', 'linkedin', 'criminal', 'student', 'course', 'facebook', 'usnews']
     n = 0
     for elem in elems:
         t = elem.get_attribute("href")
@@ -678,22 +680,45 @@ def find(keywords):
     return possibleURLs
 
 
-# university = 'https://myillini.illinois.edu/Programs'
-# urls = find(university + ' majors')
-# for url in urls:
-#     print(url)
+# a = view_html_structure('https://oru.edu/academics/explore-programs.php', 'urllib')
+# print(len(a))
+# for i in a:
+#     print(i)
+
+
+def get_departments_of_university(university):
+    urls = find(university + ' majors')
+    for url in urls:
+        print(url)
+        try:
+            r = view_html_structure(url, 'urllib')
+        except:
+            continue
+        res = []
+        count = 0
+        for j in r:
+            if 'Department' in j.keys():
+                if check(j['Department']):
+                    count += 1
+                res.append(j['Department'])
+        if count / (len(res) + 0.0001) > 0.6 and len(res) > 10:
+            # for j in res:
+            #     print(j)
+            return res
+
+
+# for i in range(61, 100):
+#     print(i, universities[i])
 #     try:
-#         r = view_html_structure(url, 'urllib')
+#         r = get_departments_of_university(universities[i])
 #     except:
 #         continue
-#     res = []
-#     count = 0
-#     for j in r:
-#         if 'Department' in j.keys():
-#             if check(j['Department']):
-#                 count += 1
-#             res.append(j['Department'])
-#     if count / (len(res) + 0.0001) > 0.7:
-#         for j in res:
-#             print(j)
-#         break
+#     print(r)
+#     if r:
+#         f = open(os.getcwd() + '/Data/departments/' + universities[i] + '.txt', 'w')
+#         for j in r:
+#             f.write(j + '\n')
+#     f.close()
+
+r = get_departments_of_university('Carroll College')
+print(r)

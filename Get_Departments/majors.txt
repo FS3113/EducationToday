@@ -40,7 +40,6 @@ renaissance
 plant
 financial
 pharmacogenomics
-undergraduate
 secondary
 french
 society
@@ -119,7 +118,6 @@ development
 cultures
 sports
 industrial
-college
 stem
 training
 social
@@ -221,7 +219,6 @@ chemical
 environment
 assistant
 arabic
-minor
 higher
 core
 designing
@@ -229,7 +226,6 @@ xe2
 teaching
 mechanical
 systems
-graduate
 german
 comparative
 sound
@@ -240,8 +236,6 @@ sustainable
 strings
 sciences
 eastern
-phd
-degree
 anesthesiology
 expository
 naval
@@ -419,7 +413,6 @@ jd
 product
 inquiry
 executive
-year
 conducting
 investigative
 drama
@@ -436,7 +429,6 @@ mediterranean
 taxation
 planetary
 romance
-interdisciplinary
 irish
 evolutionary
 consumer
@@ -457,7 +449,6 @@ kinesiology
 television
 biophysics
 intelligence
-certificate
 pacific
 native
 astronomy
@@ -504,7 +495,6 @@ enterprises
 analytics
 analysis
 studies
-city
 welfare
 administration
 environmental
@@ -592,7 +582,6 @@ indigenous
 negotiation
 supply
 chemistry
-institute
 nutritional
 residency
 security
