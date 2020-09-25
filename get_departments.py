@@ -718,5 +718,5 @@ def get_departments_of_university(university):
 #             f.write(j + '\n')
 #     f.close()
 
-r = get_departments_of_university('Carroll College')
+r = get_departments_of_university('columbia university')
 print(r)
