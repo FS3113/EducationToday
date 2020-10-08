@@ -1,0 +1,898 @@
+[
+    {
+        "Research Interest": "Research Area:  Computer-Supported Cooperative Work Human Computer Interaction Medical Informatics",
+        "Email": "eagapie@uci.edu",
+        "Phone number": "Missing",
+        "Name": "  Elena Agapie",
+        "Position": "Assistant Professor"
+    },
+    {
+        "Research Interest": "Research Area:  Software Engineering",
+        "Email": "iftekha@uci.edu",
+        "Phone number": "(949) 824-6444",
+        "Name": "  Iftekhar Ahmed",
+        "Position": "Assistant Professor"
+    },
+    {
+        "Research Interest": "Department:  Computer Science",
+        "Email": "Missing",
+        "Phone number": "DBH 4208",
+        "Name": "  Shannon Alfaro",
+        "Position": "Continuing Lecturer"
+    },
+    {
+        "Research Interest": "Research Area:  Embedded Systems Networks and Distributed Systems",
+        "Email": "ardalan@uci.edu",
+        "Phone number": "(949) 824-6753",
+        "Name": "  Ardalan Amiri Sani",
+        "Position": "Assistant Professor"
+    },
+    {
+        "Research Interest": "Research Area:   ",
+        "Email": "dsarmstr@uci.edu",
+        "Phone number": "Missing",
+        "Name": "  David Armstrong",
+        "Position": "Lecturer"
+    },
+    {
+        "Research Interest": "Research Area:  Artificial Intelligence and Machine Learning Biomedical Informatics and Computational Biology Databases and Data Mining Environmental Informatics Statistics and Statistical Theory",
+        "Email": "pfbaldi@ics.uci.edu",
+        "Phone number": "(949) 824-5809",
+        "Name": "  Pierre Baldi",
+        "Position": "Distinguished Professor, Director Institute for Genomics and Bioinformatics"
+    },
+    {
+        "Research Interest": "Research Area:  Statistics and Statistical Theory",
+        "Email": "baldib@uci.edu",
+        "Phone number": "(949) 824-1912",
+        "Name": "  Brigitte Baldi",
+        "Position": "Lecturer"
+    },
+    {
+        "Research Interest": "Research Area:  Human Computer Interaction Ubiquitous Computing",
+        "Email": "baldwinm@uci.edu",
+        "Phone number": "Missing",
+        "Name": "  Mark Baldwin",
+        "Position": "Lecturer"
+    },
+    {
+        "Research Interest": "Department:  Statistics",
+        "Email": "Missing",
+        "Phone number": "DBH 2026",
+        "Name": "  Veronica Berrocal",
+        "Position": "Associate Professor"
+    },
+    {
+        "Research Interest": "Research Area:  Networks and Distributed Systems",
+        "Email": "bic@ics.uci.edu",
+        "Phone number": "(949) 824-5248",
+        "Name": "  Lubomir Bic",
+        "Position": "Professor"
+    },
+    {
+        "Research Interest": "Department:  Informatics",
+        "Email": "Missing",
+        "Phone number": "DBH 5208",
+        "Name": "  Matt Bietz",
+        "Position": "Lecturer"
+    },
+    {
+        "Research Interest": "Department:  Informatics",
+        "Email": "Missing",
+        "Phone number": "DBH 5072",
+        "Name": "  Rebecca Black",
+        "Position": "Associate Professor"
+    },
+    {
+        "Research Interest": "Department:  Informatics",
+        "Email": "Missing",
+        "Phone number": "DBH 5091",
+        "Name": "  Geoffrey C Bowker",
+        "Position": " Donald Bren Professor in Information and Computer Sciences"
+    },
+    {
+        "Research Interest": "Research Area:  Computer Architecture and Design",
+        "Email": "eli@ics.uci.edu",
+        "Phone number": "(949) 824-8860",
+        "Name": "  Elaheh (Eli) Bozorgzadeh",
+        "Position": "Professor"
+    },
+    {
+        "Research Interest": "Research Area:  Human Computer Interaction",
+        "Email": "sbranham@uci.edu",
+        "Phone number": "(949) 824-1529",
+        "Name": "  Stacy Branham",
+        "Position": "Assistant Professor"
+    },
+    {
+        "Research Interest": "Research Area:  Operating Systems",
+        "Email": "aburtsev@uci.edu",
+        "Phone number": "(949) 824-6753",
+        "Name": "  Anton Burtsev",
+        "Position": "Assistant Adjunct Professor"
+    },
+    {
+        "Research Interest": "Research Area:  Databases and Data Mining",
+        "Email": "mjcarey@ics.uci.edu",
+        "Phone number": "(949) 824-2302",
+        "Name": "  Michael J Carey",
+        "Position": "Distinguished Professor / Bren Professor of ICS"
+    },
+    {
+        "Research Interest": "Research Area:  Human Computer Interaction Medical Informatics",
+        "Email": "yunanc@uci.edu",
+        "Phone number": "(949) 824-0959",
+        "Name": "  Yunan Chen",
+        "Position": "Associate Professor; Vice Chair for Undergraduate Affairs, Informatics"
+    },
+    {
+        "Research Interest": "Research Area:  Security and Privacy",
+        "Email": "alfchen@uci.edu",
+        "Phone number": "(949)-824-7865",
+        "Name": "  Qi Alfred Chen",
+        "Position": "Assistant Professor"
+    },
+    {
+        "Research Interest": "Research Area:   ",
+        "Email": "crooksr@uci.edu",
+        "Phone number": "(949) 824-8921",
+        "Name": "  Roderic Crooks",
+        "Position": "Assistant Professor"
+    },
+    {
+        "Research Interest": "Research Area:  Artificial Intelligence and Machine Learning",
+        "Email": "dechter@ics.uci.edu",
+        "Phone number": "(949) 824-6556",
+        "Name": "  Rina Dechter",
+        "Position": "Chancellor's Professor"
+    },
+    {
+        "Research Interest": "Department:  Computer Science",
+        "Email": "Missing",
+        "Phone number": "DBH 3068",
+        "Name": "  Brian Demsky",
+        "Position": "Professor"
+    },
+    {
+        "Research Interest": "Department:  Informatics",
+        "Email": "Missing",
+        "Phone number": "DBH 5044",
+        "Name": "  Darren Denenberg",
+        "Position": "Lecturer"
+    },
+    {
+        "Research Interest": "Research Area:  Algorithms and Complexity Networks and Distributed Systems",
+        "Email": "dillenco@ics.uci.edu",
+        "Phone number": "(949) 824-7556",
+        "Name": "  Michael Dillencourt",
+        "Position": "Professor"
+    },
+    {
+        "Research Interest": "Research Area:  Statistics and Statistical Theory",
+        "Email": "mdogucu@uci.edu",
+        "Phone number": "(949) 824-5679",
+        "Name": "  Mine Dogucu",
+        "Position": "Assistant Professor of Teaching"
+    },
+    {
+        "Research Interest": "Research Area:  Computer-Supported Cooperative Work Environmental Informatics Human Computer Interaction Medical Informatics Social Informatics Ubiquitous Computing",
+        "Email": "jpd@ics.uci.edu",
+        "Phone number": "(949) 824-8127",
+        "Name": "  Paul Dourish",
+        "Position": "Chancellor's Professor, Associate Dean for Research"
+    },
+    {
+        "Research Interest": "Research Area:  Computer Architecture and Design Embedded Systems",
+        "Email": "dutt@ics.uci.edu",
+        "Phone number": "(949) 824-7219",
+        "Name": "  Nikil Dutt",
+        "Position": "Distinguished Professor"
+    },
+    {
+        "Research Interest": "Research Area:  Multimedia Computing Networks and Distributed Systems",
+        "Email": "elzarki@uci.edu",
+        "Phone number": "(949) 228-8584",
+        "Name": "  Magda El Zarki",
+        "Position": "Professor"
+    },
+    {
+        "Research Interest": "Research Area:  Algorithms and Complexity Computer Graphics and Visualization",
+        "Email": "eppstein@ics.uci.edu",
+        "Phone number": "(949) 824-6384",
+        "Name": "  David Eppstein",
+        "Position": "Chancellor's Professor"
+    },
+    {
+        "Research Interest": "Research Area:  Human Computer Interaction",
+        "Email": "epstein@ics.uci.edu",
+        "Phone number": "(949) 824-4197",
+        "Name": "  Daniel Epstein",
+        "Position": "Assistant Professor"
+    },
+    {
+        "Research Interest": "Department:  Informatics",
+        "Email": "Missing",
+        "Phone number": "DBH 5029",
+        "Name": "  Julian Feldman",
+        "Position": "Professor Emeritus"
+    },
+    {
+        "Research Interest": "Research Area:  Artificial Intelligence and Machine Learning Biomedical Informatics and Computational Biology Computer Vision",
+        "Email": "fowlkes@ics.uci.edu",
+        "Phone number": "(949) 824-6945",
+        "Name": "  Charless Fowlkes",
+        "Position": "Professor &amp; UCI Chancellor's Fellow"
+    },
+    {
+        "Research Interest": "Research Area:  Artificial Intelligence and Machine Learning",
+        "Email": "royf@uci.edu",
+        "Phone number": "Missing",
+        "Name": "  Roy Fox",
+        "Position": "Assistant Professor"
+    },
+    {
+        "Research Interest": "Research Area:  Programming Languages and Systems Security and Privacy Software Engineering",
+        "Email": "franz@uci.edu",
+        "Phone number": "(949) 824-0016",
+        "Name": "  Michael Franz",
+        "Position": "Chancellor's Professor, Director: Secure Systems and Languages Laboratory"
+    },
+    {
+        "Research Interest": "Research Area:  Pervasive Computing User-centric Software Design Human Computer Interaction Serious Games ",
+        "Email": "sergio.gago@uci.edu",
+        "Phone number": "(949) 824-1925",
+        "Name": "  Sergio Gago-Masague",
+        "Position": "Assistant Professor of Teaching"
+    },
+    {
+        "Research Interest": "Research Area:  Software Engineering",
+        "Email": "joshug4@uci.edu",
+        "Phone number": "(949) 824-7003",
+        "Name": "  Joshua Garcia",
+        "Position": "Assistant Professor"
+    },
+    {
+        "Research Interest": "Department:  Computer Science",
+        "Email": "Missing",
+        "Phone number": "ICS 424",
+        "Name": "  Irene Gassko",
+        "Position": "Lecturer"
+    },
+    {
+        "Research Interest": "Research Area:  Statistics and Statistical Theory",
+        "Email": "dgillen@uci.edu",
+        "Phone number": "(949) 824-9862",
+        "Name": "  Daniel Gillen",
+        "Position": "Professor and Chair"
+    },
+    {
+        "Research Interest": "Research Area:  Computer Architecture and Design Embedded Systems",
+        "Email": "givargis@uci.edu",
+        "Phone number": "(949) 824-9357",
+        "Name": "  Tony Givargis",
+        "Position": "Professor; Vice Chair of Undergraduate Studies, Computer Science"
+    },
+    {
+        "Research Interest": "Research Area:  Algorithms and Complexity Computer Graphics and Visualization",
+        "Email": "goodrich@ics.uci.edu",
+        "Phone number": "(949) 824-9366",
+        "Name": "  Michael T. Goodrich",
+        "Position": "Chancellor's Professor"
+    },
+    {
+        "Research Interest": "Research Area:  Statistics and Statistical Theory",
+        "Email": "michele.guindani@uci.edu",
+        "Phone number": "(949) 824-5968",
+        "Name": "  Michele Guindani",
+        "Position": "Professor "
+    },
+    {
+        "Research Interest": "Research Area:   ",
+        "Email": "sgulesse@ics.uci.edu",
+        "Phone number": "Missing",
+        "Name": "  Sevan Gulesserian",
+        "Position": "Lecturer, UCI Department of Statistics"
+    },
+    {
+        "Research Interest": "Research Area:  Computer Architecture and Design Embedded Systems Security and Privacy",
+        "Email": "harris@ics.uci.edu",
+        "Phone number": "(949) 824-8842",
+        "Name": "  Ian G. Harris",
+        "Position": "Professor"
+    },
+    {
+        "Research Interest": "Research Area:  Biomedical Informatics and Computational Biology Computer Vision Scientific and Numerical Computing",
+        "Email": "whayes@uci.edu",
+        "Phone number": "9498241753",
+        "Name": "  Wayne B Hayes",
+        "Position": "Associate Professor"
+    },
+    {
+        "Research Interest": "Research Area:  Computer-Supported Cooperative Work Human Computer Interaction Medical Informatics Social Informatics Ubiquitous Computing",
+        "Email": ".",
+        "Phone number": "(949) 824-1483",
+        "Name": "  Gillian R Hayes",
+        "Position": "Robert A. and Barbara L. Kleist Professor of Informatics"
+    },
+    {
+        "Research Interest": "Research Area:  Algorithms and Complexity",
+        "Email": "dan@ics.uci.edu",
+        "Phone number": "(949) 824-6480",
+        "Name": "  Daniel S. Hirschberg",
+        "Position": "Professor"
+    },
+    {
+        "Research Interest": "Department:  Computer Science",
+        "Email": "Missing",
+        "Phone number": "ICS 424E",
+        "Name": "  Mustafa Ibrahim",
+        "Position": "Lecturer"
+    },
+    {
+        "Research Interest": "Research Area:  Artificial Intelligence and Machine Learning",
+        "Email": "ihler@ics.uci.edu",
+        "Phone number": "(949) 824-3645",
+        "Name": "  Alexander Ihler",
+        "Position": "Professor "
+    },
+    {
+        "Research Interest": "Research Area:   ",
+        "Email": "m.imani@uci.edu",
+        "Phone number": "Missing",
+        "Name": "  Mohsen Imani",
+        "Position": "Assistant Professor"
+    },
+    {
+        "Research Interest": "Research Area:  Algorithms and Complexity",
+        "Email": "irani@ics.uci.edu",
+        "Phone number": "(949) 824-6346",
+        "Name": "  Sandy Irani",
+        "Position": "Professor; Vice Chair Computing Division, Computer Science"
+    },
+    {
+        "Research Interest": "Department:  Informatics",
+        "Email": "Missing",
+        "Phone number": "DBH 5204",
+        "Name": "  Mimi Ito",
+        "Position": "Professor in Residence"
+    },
+    {
+        "Research Interest": "Research Area:  Computer Vision Multimedia Computing",
+        "Email": "jain@ics.uci.edu",
+        "Phone number": "(949) 824-0133",
+        "Name": "  Ramesh Jain",
+        "Position": "Distinguished Professor / Bren Professor of ICS"
+    },
+    {
+        "Research Interest": "Research Area:  Algorithms and Complexity",
+        "Email": "stasio@ics.uci.edu",
+        "Phone number": "(949) 824-8878",
+        "Name": "  Stanislaw Jarecki",
+        "Position": "Professor"
+    },
+    {
+        "Research Interest": "Research Area:  Statistics and Statistical Theory",
+        "Email": "wjohnson@ics.uci.edu",
+        "Phone number": "Missing",
+        "Name": "  Wesley O. Johnson",
+        "Position": "Professor Emeritus"
+    },
+    {
+        "Research Interest": "Research Area:  Software Engineering",
+        "Email": "jajones@uci.edu",
+        "Phone number": "(949) 824-0942",
+        "Name": "  James A. Jones",
+        "Position": "Associate Professor"
+    },
+    {
+        "Research Interest": "Research Area:  Networks and Distributed Systems",
+        "Email": "sjordan@uci.edu",
+        "Phone number": "(949) 824-2177",
+        "Name": "  Scott Jordan",
+        "Position": "Professor"
+    },
+    {
+        "Research Interest": "Research Area:  Computer Systems Architecture Hardware Acceleration and Non-Volatile Memory",
+        "Email": "swjun@uci.edu",
+        "Phone number": "Missing",
+        "Name": "  Sang-Woo Jun",
+        "Position": "Assistant Professor"
+    },
+    {
+        "Research Interest": "Department:  Computer Science",
+        "Email": "Missing",
+        "Phone number": "Missing",
+        "Name": "  Sangeetha A Jyothi",
+        "Position": "Assistant Professor"
+    },
+    {
+        "Research Interest": "Department:  Computer Science",
+        "Email": "Missing",
+        "Phone number": "ICS 424B",
+        "Name": "  Kalev Kask",
+        "Position": "Lecturer"
+    },
+    {
+        "Research Interest": "Department:  Informatics",
+        "Email": "Missing",
+        "Phone number": "Missing",
+        "Name": "  David G. Kay",
+        "Position": "Professor Emeritus of Teaching"
+    },
+    {
+        "Research Interest": "Department:  Computer Science",
+        "Email": "Missing",
+        "Phone number": "Missing",
+        "Name": "  Dennis Kibler",
+        "Position": "Professor Emeritus"
+    },
+    {
+        "Research Interest": "Research Area:  Embedded Systems Networks and Distributed Systems Programming Languages and Systems",
+        "Email": "klefstad@uci.edu",
+        "Phone number": "(949) 824-6753",
+        "Name": "  Ray Klefstad",
+        "Position": "Associate Professor of Teaching"
+    },
+    {
+        "Research Interest": "Research Area:  Computer-Supported Cooperative Work Human Computer Interaction Medical Informatics Ubiquitous Computing",
+        "Email": "kobsa@uci.edu",
+        "Phone number": "(949) 485-5020",
+        "Name": "  Alfred Kobsa",
+        "Position": "Professor Emeritus"
+    },
+    {
+        "Research Interest": "Research Area:  Software Engineering",
+        "Email": "algol@uci.edu",
+        "Phone number": "Missing",
+        "Name": "  Alberto Krone-Martins",
+        "Position": "Lecturer"
+    },
+    {
+        "Research Interest": "Research Area:  Artificial Intelligence and Machine Learning Biomedical Informatics and Computational Biology",
+        "Email": "rickl@ics.uci.edu",
+        "Phone number": "(949) 824-4021",
+        "Name": "  Richard Lathrop",
+        "Position": "Professor"
+    },
+    {
+        "Research Interest": "Research Area:  Artificial Intelligence and Machine Learning Networks and Distributed Systems Statistics and Statistical Theory",
+        "Email": "levorato@uci.edu",
+        "Phone number": "(949) 824-2175",
+        "Name": "  Marco Levorato",
+        "Position": "Associate Professor"
+    },
+    {
+        "Research Interest": "Research Area:  Databases and Text Processing",
+        "Email": "chenli@ics.uci.edu",
+        "Phone number": "(949) 824-9470",
+        "Name": "  Chen Li",
+        "Position": "Professor"
+    },
+    {
+        "Research Interest": "Research Area:  Programming Languages and Systems Software Engineering Ubiquitous Computing",
+        "Email": "lopes@ics.uci.edu",
+        "Phone number": "(949) 824-1525",
+        "Name": "  Cristina V. Lopes",
+        "Position": "Professor"
+    },
+    {
+        "Research Interest": "Research Area:  Algorithms and Complexity",
+        "Email": "lueker@ics.uci.edu",
+        "Phone number": "(949) 824-6753",
+        "Name": "  George S. Lueker",
+        "Position": "Professor Emeritus"
+    },
+    {
+        "Research Interest": "Research Area:   ",
+        "Email": "smahlke@uci.edu",
+        "Phone number": "Missing",
+        "Name": "  Scott Mahlke",
+        "Position": "Professor"
+    },
+    {
+        "Research Interest": "Research Area:  Computer Graphics and Visualization Computer Vision",
+        "Email": "majumder@ics.uci.edu",
+        "Phone number": "(949) 824-8877",
+        "Name": "  Aditi Majumder",
+        "Position": "Professor"
+    },
+    {
+        "Research Interest": "Research Area:  Software Engineering",
+        "Email": "malek@uci.edu",
+        "Phone number": "(949) 824-0639",
+        "Name": "  Sam Malek",
+        "Position": "Professor"
+    },
+    {
+        "Research Interest": "Research Area:  Artificial Intelligence and Machine Learning",
+        "Email": "mandt@uci.edu",
+        "Phone number": "(949) 824-6753",
+        "Name": "  Stephan Mandt",
+        "Position": "Assistant Professor"
+    },
+    {
+        "Research Interest": "Research Area:  Computer-Supported Cooperative Work Human Computer Interaction Social Informatics",
+        "Email": "gmark@ics.uci.edu",
+        "Phone number": "(949) 824-5955",
+        "Name": "  Gloria Mark",
+        "Position": "Professor"
+    },
+    {
+        "Research Interest": "Department:  Informatics",
+        "Email": "Missing",
+        "Phone number": "DBH 5092",
+        "Name": "  Melissa Mazmanian",
+        "Position": "Associate Professor &amp; Vice Chair of Graduate Affairs, Informatics"
+    },
+    {
+        "Research Interest": "Research Area:  Computer Graphics and Visualization Computer Vision",
+        "Email": "gopi@ics.uci.edu",
+        "Phone number": "(949) 824-9498",
+        "Name": "  Gopi Meenakshisundaram",
+        "Position": "Professor, Assoc. Dean for Student Affairs"
+    },
+    {
+        "Research Interest": "Research Area:  Databases and Data Mining Multimedia Computing Networks and Distributed Systems",
+        "Email": "sharad@ics.uci.edu",
+        "Phone number": "(949) 824-5975",
+        "Name": "  Sharad Mehrotra",
+        "Position": "Professor"
+    },
+    {
+        "Research Interest": "Department:  Computer Science",
+        "Email": "Missing",
+        "Phone number": "DBH 4074",
+        "Name": "  Milena Mihail",
+        "Position": "Associate Professor"
+    },
+    {
+        "Research Interest": "Research Area:  Statistics and Statistical Theory",
+        "Email": "vminin@uci.edu",
+        "Phone number": "(949) 824-2390",
+        "Name": "  Vladimir Minin",
+        "Position": "Professor; Vice Chair of Undergraduate Affairs, Statistics"
+    },
+    {
+        "Research Interest": "Research Area:  Artificial Intelligence and Machine Learning Biomedical Informatics and Computational Biology Computer Vision Scientific and Numerical Computing",
+        "Email": "emj@uci.edu",
+        "Phone number": "(949) 824-3533",
+        "Name": "  Eric Mjolsness",
+        "Position": "Professor"
+    },
+    {
+        "Research Interest": "Research Area:  Statistics and Statistical Theory",
+        "Email": "nanb@uci.edu",
+        "Phone number": "(949) 824-2954",
+        "Name": "  Bin Nan",
+        "Position": "Professor"
+    },
+    {
+        "Research Interest": "Research Area:  Computer-Supported Cooperative Work Social Informatics",
+        "Email": "nardi@ics.uci.edu",
+        "Phone number": "Missing",
+        "Name": "  Bonnie Nardi",
+        "Position": "Professor Emeritus"
+    },
+    {
+        "Research Interest": "Department:  Informatics",
+        "Email": "Missing",
+        "Phone number": "DBH 5221",
+        "Name": "  Emily Navarro",
+        "Position": "Continuing Lecturer"
+    },
+    {
+        "Research Interest": "Research Area:  Computer Architecture and Design Embedded Systems Programming Languages and Systems",
+        "Email": "nicolau@ics.uci.edu",
+        "Phone number": "(949) 824-4079",
+        "Name": "  Alexandru Nicolau",
+        "Position": "Distinguished Professor, Department Chair"
+    },
+    {
+        "Research Interest": "Research Area:  Computer-Supported Cooperative Work Human Computer Interaction",
+        "Email": "jsolson@uci.edu",
+        "Phone number": "(949) 824-0077",
+        "Name": "  Judy Olson",
+        "Position": "Bren Professor of Information &amp; Computer Sciences"
+    },
+    {
+        "Research Interest": "Research Area:  Computer-Supported Cooperative Work Human Computer Interaction Social Informatics",
+        "Email": "golson@uci.edu",
+        "Phone number": "(949) 824-0077",
+        "Name": "  Gary M. Olson",
+        "Position": "Bren Professor of Information &amp; Computer Sciences"
+    },
+    {
+        "Research Interest": "Research Area:  Computer Architecture and Design Networks and Distributed Systems",
+        "Email": "marios@uci.edu",
+        "Phone number": "(949) 824-7405",
+        "Name": "  Marios Papaefthymiou",
+        "Position": "Ted and Janice Smith Family Foundation Dean and Professor of Computer Science"
+    },
+    {
+        "Research Interest": "Department:  Computer Science",
+        "Email": "Missing",
+        "Phone number": "DBH 4062",
+        "Name": "  Richard E Pattis",
+        "Position": "Professor of Teaching"
+    },
+    {
+        "Research Interest": "Research Area:  Human Computer Interaction",
+        "Email": "kpeppler@uci.edu",
+        "Phone number": "(949) 824-4828",
+        "Name": "  Kylie Peppler",
+        "Position": "Associate Professor"
+    },
+    {
+        "Research Interest": "Research Area:  Computer-Supported Cooperative Work Human Computer Interaction",
+        "Email": "ampiper@uci.edu",
+        "Phone number": "Missing",
+        "Name": "  Anne Marie Piper",
+        "Position": "Associate Professor"
+    },
+    {
+        "Research Interest": "Research Area:  Statistics and Statistical Theory",
+        "Email": "tiancq1@uci.edu",
+        "Phone number": "Missing",
+        "Name": "  Tianchen Qian",
+        "Position": "Assistant Professor"
+    },
+    {
+        "Research Interest": "Department:  Statistics",
+        "Email": "Missing",
+        "Phone number": "DBH 2212",
+        "Name": "  Annie Qu",
+        "Position": "Chancellor's Professor"
+    },
+    {
+        "Research Interest": "Research Area:  Computer-Supported Cooperative Work Human Computer Interaction Software Engineering",
+        "Email": "redmiles@ics.uci.edu",
+        "Phone number": "(949) 824-3823",
+        "Name": "  David Redmiles",
+        "Position": "Professor, Associate Dean for Academic Affairs"
+    },
+    {
+        "Research Interest": "Research Area:  Algorithms and Complexity Networks and Distributed Systems",
+        "Email": "aregan@uci.edu",
+        "Phone number": "(949) 824-2611",
+        "Name": "  Amelia C. Regan",
+        "Position": "Professor"
+    },
+    {
+        "Research Interest": "Research Area:  Software Engineering",
+        "Email": "djr@ics.uci.edu",
+        "Phone number": "(949) 824-7353",
+        "Name": "  Debra J. Richardson",
+        "Position": "Professor Emeritus"
+    },
+    {
+        "Research Interest": "Department:  Informatics",
+        "Email": "Missing",
+        "Phone number": "DBH 5068",
+        "Name": "  Katie Salen Tekinbas",
+        "Position": "Professor"
+    },
+    {
+        "Research Interest": "Research Area:  Computer Architecture and Design Embedded Systems Networks and Distributed Systems",
+        "Email": "isaac@ics.uci.edu",
+        "Phone number": "(949) 824-8144",
+        "Name": "  Isaac D. Scherson",
+        "Position": "Professor"
+    },
+    {
+        "Research Interest": "Research Area:  Artificial Intelligence and Machine Learning Biomedical Informatics and Computational Biology Statistics and Statistical Theory",
+        "Email": "babaks@uci.edu",
+        "Phone number": "(949) 824-0623",
+        "Name": "  Babak Shahbaba",
+        "Position": "Professor &amp; UCI Chancellor's Fellow; Vice Chair of Graduate Studies, Statistics"
+    },
+    {
+        "Research Interest": "Research Area:  Statistics and biostatistics",
+        "Email": "weinings@uci.edu",
+        "Phone number": "(949) 824-9795",
+        "Name": "  Weining Shen",
+        "Position": "Assistant Professor "
+    },
+    {
+        "Research Interest": "Department:  Computer Science",
+        "Email": "Missing",
+        "Phone number": "DBH 4058",
+        "Name": "  Michael Shindler",
+        "Position": "Assistant Professor of Teaching"
+    },
+    {
+        "Research Interest": "Research Area:  Artificial Intelligence and Machine Learning Databases and Data Mining Scientific and Numerical Computing",
+        "Email": "sameer@uci.edu",
+        "Phone number": "(949) 824-6753",
+        "Name": "  Sameer Singh",
+        "Position": "Assistant Professor"
+    },
+    {
+        "Research Interest": "Research Area:  Artificial Intelligence and Machine Learning Databases and Data Mining Scientific and Numerical Computing Statistics and Statistical Theory",
+        "Email": "smyth@ics.uci.edu",
+        "Phone number": "(949) 824-2558",
+        "Name": "  Padhraic Smyth",
+        "Position": "Chancellor's Professor, Director, UCI's Data Science Initiative"
+    },
+    {
+        "Research Interest": "Research Area:  Social Informatics",
+        "Email": "ksquire@uci.edu",
+        "Phone number": "(949) 824-9045",
+        "Name": "  Kurt Squire",
+        "Position": "Professor"
+    },
+    {
+        "Research Interest": "Research Area:  Algorithms and Complexity",
+        "Email": "standish@uci.edu",
+        "Phone number": "(949) 497-3064",
+        "Name": "  Thomas A. Standish",
+        "Position": "Professor Emeritus"
+    },
+    {
+        "Research Interest": "Research Area:  Social Informatics",
+        "Email": "const@uci.edu",
+        "Phone number": "(949) 824-8716",
+        "Name": "  Constance Steinkuehler",
+        "Position": "Professor"
+    },
+    {
+        "Research Interest": "Research Area:  Artificial Intelligence and Machine Learning Statistics and Statistical Theory",
+        "Email": "sternh@uci.edu",
+        "Phone number": "(949) 824-1568",
+        "Name": "  Hal Stern",
+        "Position": "Chancellor's Professor"
+    },
+    {
+        "Research Interest": "Research Area:  Artificial Intelligence and Machine Learning Computer Vision Statistics and Statistical Theory",
+        "Email": "sudderth@uci.edu",
+        "Phone number": "(949) 824-8169",
+        "Name": "  Erik Sudderth",
+        "Position": "Associate Professor"
+    },
+    {
+        "Research Interest": "Department:  Informatics",
+        "Email": "Missing",
+        "Phone number": "DBH 5052",
+        "Name": "  Theresa Jean Tanenbaum",
+        "Position": "Assistant Professor"
+    },
+    {
+        "Research Interest": "Research Area:  Computer-Supported Cooperative Work Networks and Distributed Systems Software Engineering",
+        "Email": "taylor@ics.uci.edu",
+        "Phone number": "(949) 824-6429",
+        "Name": "  Richard Taylor",
+        "Position": "Chancellor's Professor Emeritus, Director, Institute for Software Research"
+    },
+    {
+        "Research Interest": "Department:  Computer Science",
+        "Email": "Missing",
+        "Phone number": "DBH 4048",
+        "Name": "  Alex Thornton",
+        "Position": "Continuing Lecturer"
+    },
+    {
+        "Research Interest": "Research Area:  Computer Graphics and Visualization Environmental Informatics Human Computer Interaction Ubiquitous Computing",
+        "Email": "wmt@uci.edu",
+        "Phone number": "(949) 423-6171",
+        "Name": "  Bill Tomlinson",
+        "Position": "Professor"
+    },
+    {
+        "Research Interest": "Research Area:  Social Informatics",
+        "Email": "trammell@uci.edu",
+        "Phone number": "(732) 673-3879",
+        "Name": "  Aaron Trammell",
+        "Position": "Assistant Professor"
+    },
+    {
+        "Research Interest": "Research Area:  Security  Privacy and Cryptography",
+        "Email": "gts@ics.uci.edu",
+        "Phone number": "(949) 824-3410",
+        "Name": "  Gene Tsudik",
+        "Position": "Chancellor's Professor; Vice Chair of Graduate Studies, Computer Science "
+    },
+    {
+        "Research Interest": "Research Area:  Statistics and Statistical Theory",
+        "Email": "jutts@uci.edu",
+        "Phone number": "Missing",
+        "Name": "  Jessica Utts",
+        "Position": "Professor Emeritus"
+    },
+    {
+        "Research Interest": "Research Area:  Software Engineering",
+        "Email": "ichair@ics.uci.edu",
+        "Phone number": "(949) 824-6326",
+        "Name": "  Andre van der Hoek",
+        "Position": "Professor and Chair, Department of Informatics"
+    },
+    {
+        "Research Interest": "Research Area:  Algorithms and Complexity Scientific and Numerical Computing",
+        "Email": "vazirani@uci.edu",
+        "Phone number": "Missing",
+        "Name": "  Vijay Vazirani",
+        "Position": "Distinguished Professor"
+    },
+    {
+        "Research Interest": "Research Area:  Computer Architecture and Design Databases and Data Mining Programming Languages and Systems",
+        "Email": "alexv AT ics.uci.edu",
+        "Phone number": "(949) 824-6188",
+        "Name": "  Alexander Veidenbaum",
+        "Position": "Professor"
+    },
+    {
+        "Research Interest": "Research Area:  Multimedia Computing Networks and Distributed Systems",
+        "Email": "nalini@ics.uci.edu",
+        "Phone number": "(949) 824-5898",
+        "Name": "  Nalini Venkatasubramanian",
+        "Position": "Professor"
+    },
+    {
+        "Research Interest": "Research Area:  Computer Architecture and Design Embedded Systems",
+        "Email": "jennifer.wongma@uci.edu",
+        "Phone number": "(949)824-3328",
+        "Name": "  Jennifer Wong-Ma",
+        "Position": "Associate Professor of Teaching"
+    },
+    {
+        "Research Interest": "Research Area:  Artificial Intelligence and Machine Learning Biomedical Informatics and Computational Biology Medical Informatics",
+        "Email": "xhx@ics.uci.edu",
+        "Phone number": "(949) 824-9289",
+        "Name": "  Xiaohui Xie",
+        "Position": "Professor"
+    },
+    {
+        "Research Interest": "Department:  Informatics",
+        "Email": "Missing",
+        "Phone number": "DBH 6091",
+        "Name": "  Sean Young",
+        "Position": "Associate Professor"
+    },
+    {
+        "Research Interest": "Research Area:   ",
+        "Email": "neily@uci.edu",
+        "Phone number": "Missing",
+        "Name": "  Neil Young",
+        "Position": "Lecturer"
+    },
+    {
+        "Research Interest": "Research Area:  Statistics and Statistical Theory",
+        "Email": "yamingy@uci.edu",
+        "Phone number": "(949) 824-7361",
+        "Name": "  Yaming Yu",
+        "Position": "Associate Professor"
+    },
+    {
+        "Research Interest": "Research Area:  Statistics and Statistical Theory",
+        "Email": "yu.zhaoxia@uci.edu",
+        "Phone number": "(949) 824-0491",
+        "Name": "  Zhaoxia Yu",
+        "Position": "Associate Professor"
+    },
+    {
+        "Research Interest": "Research Area:  Artificial Intelligence and Machine Learning Biomedical Informatics and Computational Biology",
+        "Email": "zhang.jing@uci.edu",
+        "Phone number": "Missing",
+        "Name": "  Jing Zhang",
+        "Position": "Assistant Professor"
+    },
+    {
+        "Research Interest": "Research Area:  Computer Graphics and Visualization",
+        "Email": "shz@ics.uci.edu",
+        "Phone number": "(949) 824-4942",
+        "Name": "  Shuang Zhao",
+        "Position": "Assistant Professor"
+    },
+    {
+        "Research Interest": "Research Area:  Human Computer Interaction Medical Informatics",
+        "Email": "kai.zheng@uci.edu",
+        "Phone number": "(949) 824-6920",
+        "Name": "  Kai Zheng",
+        "Position": "Professor "
+    },
+    {
+        "Research Interest": "Department:  Informatics",
+        "Email": "Missing",
+        "Phone number": "DBH 5062",
+        "Name": "  Hadar Ziv",
+        "Position": "Associate Professor of Teaching"
+    }
+]

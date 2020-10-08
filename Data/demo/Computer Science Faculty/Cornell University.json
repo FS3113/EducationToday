@@ -1,0 +1,562 @@
+[
+    {
+        "Position": "Assistant Professor",
+        "Name": "Jayadev Acharya",
+        "Research Interest": " Information theory, machine learning, and algorithmic statistics "
+    },
+    {
+        "Position": "Assistant Professor",
+        "Name": "Rachit Agarwal",
+        "Research Interest": " Distributed systems, systems for big data analytics, networking, design and analysis of algorithms "
+    },
+    {
+        "Position": "Professor",
+        "Name": "David Albonesi",
+        "Research Interest": " Adaptive and reconfigurable multi-core and processor architectures, power- and reliability-aware computing, and high performance interconnect architectures using silicon nanophotonics "
+    },
+    {
+        "Position": "Professor",
+        "Name": "Lorenzo Alvisi",
+        "Research Interest": " Theory and practice of dependable distributed computing "
+    },
+    {
+        "Position": "Assistant Professor",
+        "Name": "Yoav Artzi",
+        "Research Interest": " Natural language processing, situated language understanding, automated natural language interaction, machine learning "
+    },
+    {
+        "Position": "Assistant Professor",
+        "Name": "Shiri Azenkot",
+        "Research Interest": " Human-computer Interactions and Accessibility "
+    },
+    {
+        "Position": "Professor",
+        "Name": "Kavita Bala",
+        "Research Interest": " Computer graphics\\xe2\\x80\\x94scalable graphics; perceptually-based, realistic rendering; image-based texturing and modeling "
+    },
+    {
+        "Position": "Assistant Professor",
+        "Name": "Siddhartha Banerjee",
+        "Research Interest": " Stochastic Modeling, Design of Scalable Algorithms, Matching Markets and Social Computing, Control of Information-Flows, Learning and Recommendation "
+    },
+    {
+        "Position": "Associate Professor",
+        "Name": "Christopher Batten",
+        "Research Interest": " High performance and energy-efficient parallel computer architecture and VSLI design "
+    },
+    {
+        "Position": "Professor",
+        "Name": "Serge Belongie",
+        "Research Interest": " Computer Vision, Machine Learning, Crowdsourcing, Human-in-the-Loop Computing "
+    },
+    {
+        "Position": "Assistant Professor",
+        "Name": "Austin Benson",
+        "Research Interest": " Methods and algorithms for network science; tensor computations and numerical linear algebra; behavioral modeling in the information sciences. "
+    },
+    {
+        "Position": "Assistant Professor",
+        "Name": "Tapomayukh Bhattacharjee",
+        "Research Interest": " Human-Robot Interaction, Robot Manipulation, Haptic Perception, Assistive Robotics "
+    },
+    {
+        "Position": "Associate Professor",
+        "Name": "David Bindel",
+        "Research Interest": " Microelectromechanical systems (MEMS), numerical linear algebra, finite element analysis, floating point computation and network tomography "
+    },
+    {
+        "Position": "Professor",
+        "Name": "Ken Birman",
+        "Research Interest": " Reliability and security in modern networked environments "
+    },
+    {
+        "Position": "Director; Professor",
+        "Name": "Ronald Brachman",
+        "Research Interest": " Artificial intelligence, information retrieval, database management "
+    },
+    {
+        "Position": "Senior Lecturer",
+        "Name": "Anne Bracy",
+        "Research Interest": " Computer Architecture, Instruction Fusion, Hardware Support for Thread Synchronization "
+    },
+    {
+        "Position": "Professor",
+        "Name": "Mark Campbell",
+        "Research Interest": " Robotics, Sensor fusion, Machine learning and Perception "
+    },
+    {
+        "Position": "Professor",
+        "Name": "Claire Cardie",
+        "Research Interest": " Natural language processing "
+    },
+    {
+        "Position": "Assistant Professor",
+        "Name": "Eshan Chattopadhyay",
+        "Research Interest": " Use of Randomness in Computation, Computational Complexity Theory and Cryptography "
+    },
+    {
+        "Position": "Assistant Professor",
+        "Name": "Yudong Chen",
+        "Research Interest": " Machine Learning, high dimensional and robust statistics and convex optimazation "
+    },
+    {
+        "Position": "Roger and Joelle Burnell Professor in Integrated Health and Technology",
+        "Name": "Tanzeem Choudhury",
+        "Research Interest": " Machine learning techniques for systems that can reason about human activities, interactions, and social networks in everyday environments "
+    },
+    {
+        "Position": "Senior Lecturer",
+        "Name": "Michael Clarkson",
+        "Research Interest": " Security, programming languages, electronic voting "
+    },
+    {
+        "Position": "Professor",
+        "Name": "Robert Constable",
+        "Research Interest": " Type theory and automated reasoning "
+    },
+    {
+        "Position": "Assistant Professor",
+        "Name": "Anil Damle",
+        "Research Interest": " Development of algorithms in applied and computational mathematics (e.g. numerical linear algebra, computational quantum chemistry, and spectral clustering) "
+    },
+    {
+        "Position": "Assistant Professor",
+        "Name": "Cristian Danescu-Niculescu-Mizil",
+        "Research Interest": " Computational Social Science, Social Computing, Computational Linguistics, Natural Language Processing "
+    },
+    {
+        "Position": "Assistant Professor",
+        "Name": "Abe Davis",
+        "Research Interest": " Computer Graphics, Vision, HCI "
+    },
+    {
+        "Position": "Assistant Professor",
+        "Name": "Christopher De Sa",
+        "Research Interest": " Developing and understanding algorithmic, software, and hardware techniques for high-performance machine learning "
+    },
+    {
+        "Position": "Assistant Professor",
+        "Name": "Christina Delimitrou",
+        "Research Interest": " Computer Architecture, Computer Systems, Datacenter Systems, Cloud Computing, Applied Data Mining "
+    },
+    {
+        "Position": "Assistant Professor",
+        "Name": "Nicola Dell",
+        "Research Interest": " Human computer interaction (HCI) and Information and Communication Technologies for Development (ICTD) "
+    },
+    {
+        "Position": "Principal Research Scientist (Retired)",
+        "Name": "Alan Demers",
+        "Research Interest": " Database systems, database replication, and algorithms "
+    },
+    {
+        "Position": "Professor",
+        "Name": "Shimon Edelman",
+        "Research Interest": " Human and machine cognition (in particular, visual recognition and natural language processing) "
+    },
+    {
+        "Position": "Assistant Professor",
+        "Name": "Kevin Ellis",
+        "Research Interest": " AI, ML, Program Induction "
+    },
+    {
+        "Position": "Professor",
+        "Name": "Deborah Estrin",
+        "Research Interest": " Mobile systems and applications, participatory sensing, health applications, privacy "
+    },
+    {
+        "Position": "Senior Lecturer",
+        "Name": "K-Y. Fan",
+        "Research Interest": " The application of systems analysis techniques for water resources and environmental problems "
+    },
+    {
+        "Position": "Associate Professor",
+        "Name": "Nate Foster",
+        "Research Interest": " Programming languages, data management, and security "
+    },
+    {
+        "Position": "Assistant Professor",
+        "Name": "Ziv Goldfeld",
+        "Research Interest": " Optimal transport theory, Statistical machine learning, information theory, high-dimensional statistic, applied probability and interacting particle systems "
+    },
+    {
+        "Position": "Professor",
+        "Name": "Carla Gomes",
+        "Research Interest": " Solving hard combinatorial problems, with an emphasis on planning and scheduling problems "
+    },
+    {
+        "Position": "Professor",
+        "Name": "Donald Greenberg",
+        "Research Interest": " Computer graphics and its applications in a range of disciplines, from animation to architecture to biology "
+    },
+    {
+        "Position": "Professor Emeritus",
+        "Name": "David Gries",
+        "Research Interest": " Program methodology and related areas; logic; teaching in lower level courses "
+    },
+    {
+        "Position": "Professor",
+        "Name": "Francois Guimbretiere",
+        "Research Interest": " Computer Interfaces "
+    },
+    {
+        "Position": "Assistant Professor",
+        "Name": "Nika Haghtalab",
+        "Research Interest": " Social and Economic Aspects of Machine Learning, Theory of Machine Learning, Algorithmic Economics, Artificial Intelligence, Algorithms, and Optimization "
+    },
+    {
+        "Position": "Professor",
+        "Name": "Joseph Halpern",
+        "Research Interest": " Reasoning about knowledge and uncertainty, distributed computing, causality, security, game theory "
+    },
+    {
+        "Position": "Assistant Professor",
+        "Name": "Bharath Hariharan",
+        "Research Interest": " Rich visual understanding (object recognition, object detection, segmentation and beyond), machine learning (deep learning, convolutional networks) "
+    },
+    {
+        "Position": "Professor Emeritus",
+        "Name": "Juris Hartmanis",
+        "Research Interest": " Computational complexity theory "
+    },
+    {
+        "Position": "Professor",
+        "Name": "Haym Hirsh",
+        "Research Interest": " Artificial intelligence, collective intelligence, crowdsourcing, data mining, human computation, information retrieval, machine learning "
+    },
+    {
+        "Position": "Assistant Professor",
+        "Name": "Guy Hoffman",
+        "Research Interest": " Human-Robot Interaction; human-robot teamwork and collaboration; robotic personal companions; non-anthropomorphic robot design; embodied cognition in probots "
+    },
+    {
+        "Position": "Professor Emeritus",
+        "Name": "John Hopcroft",
+        "Research Interest": " Algorithms, information capture and access, random graphs and spectral methods "
+    },
+    {
+        "Position": "Professor",
+        "Name": "Thorsten Joachims",
+        "Research Interest": " Machine learning and learning theory, with a focus on problems arising in information retrieval and natural language understanding "
+    },
+    {
+        "Position": "Assistant Professor",
+        "Name": "Wendy Ju",
+        "Research Interest": " Interaction with Automation; Interaction Design Research; Human Robot Interaction; Automotive Interaction Design "
+    },
+    {
+        "Position": "Professor",
+        "Name": "Ari Juels",
+        "Research Interest": " Big Data, Security Analytics, Cybersecurity, Cloud security, User authentication, Privacy, Medical-device security, Biometric security, and RFID / NFC security "
+    },
+    {
+        "Position": "Assistant Professor",
+        "Name": "Malte Jung",
+        "Research Interest": " Computer-supported cooperative work, teamwork, emotion, human-robot interaction, design "
+    },
+    {
+        "Position": "Assistant Professor",
+        "Name": "Nathan Kallus",
+        "Research Interest": " Causal inference; Machine learning; Personalization; Optimization in statistics; Data-driven optimization under uncertainty; Online decision making; Decision making and operations in healthcare. "
+    },
+    {
+        "Position": "Assistant Professor",
+        "Name": "Alon Keinan",
+        "Research Interest": " Human genetic variation in evolutionary history; theoretical tools applied to genomic data sets; theoretical population genetics and empirical studies "
+    },
+    {
+        "Position": "Professor and Interim Dean of CIS",
+        "Name": "Jon Kleinberg",
+        "Research Interest": " Algorithm design, with an emphasis on the social and information networks that underpin the Web and other on-line media "
+    },
+    {
+        "Position": "Professor",
+        "Name": "Robert Kleinberg",
+        "Research Interest": " Design and analysis of algorithms, especially randomized and on-line algorithms for networked systems and electronic markets "
+    },
+    {
+        "Position": "Professor",
+        "Name": "Dexter Kozen",
+        "Research Interest": " Computational complexity, program logic and semantics, computational algebra "
+    },
+    {
+        "Position": "Associate Professor",
+        "Name": "Hadas Kress-Gazit",
+        "Research Interest": " Robotics, motion planning, task planning, language for robotics and human robot interaction "
+    },
+    {
+        "Position": "Assistant Professor",
+        "Name": "Volodymyr Kuleshov",
+        "Research Interest": " Artificial intelligence, machine learning, and computational genomics "
+    },
+    {
+        "Position": "Professor",
+        "Name": "Daniel Lee",
+        "Research Interest": " Machine Learning, Robotics, Computational Neuroscience "
+    },
+    {
+        "Position": "Professor",
+        "Name": "Lillian Lee",
+        "Research Interest": " Natural language processing "
+    },
+    {
+        "Position": "Assistant Professor",
+        "Name": "Owolabi Legunsen",
+        "Research Interest": " Software Engineering, Applied Formal Methods "
+    },
+    {
+        "Position": "Professor",
+        "Name": "Steve Marschner",
+        "Research Interest": " Computer graphics, realistic rendering and simulation, material models for surfaces, volumes, and deformable objects "
+    },
+    {
+        "Position": "Professor",
+        "Name": "Jose Martinez",
+        "Research Interest": " Reconfigurable and self-optimizing multicore architectures, architectural implications of disruptive technologies "
+    },
+    {
+        "Position": "Assistant Professor",
+        "Name": "David Mimno",
+        "Research Interest": " Machine learning, text mining, digital humanities "
+    },
+    {
+        "Position": "Professor and Dean and Vice Provost Cornell Tech",
+        "Name": "Greg Morrisett",
+        "Research Interest": " Programming languages, software security, formal methods "
+    },
+    {
+        "Position": "Lecturer",
+        "Name": "Curran Muhlberger",
+        "Research Interest": "Missing"
+    },
+    {
+        "Position": "Professor",
+        "Name": "Andrew Myers",
+        "Research Interest": " Security, programming language design and implementation, persistent and distributed object systems "
+    },
+    {
+        "Position": "Associate Professor",
+        "Name": "Mor Naaman",
+        "Research Interest": " Social media, data mining, human-computer interaction, computational social science, interactive systems "
+    },
+    {
+        "Position": "Professor",
+        "Name": "Anil Nerode",
+        "Research Interest": " Mathematical logic, computational theory, recursive mathematics, nonstandard logics, nonmontonic logics, AI, applied mathematics. "
+    },
+    {
+        "Position": "Associate Professor",
+        "Name": "Tapan Parikh",
+        "Research Interest": " Human-Computer Interaction (HCI), Information and Communication Technologies for Development (ICTD), Computer Science Education "
+    },
+    {
+        "Position": "Professor",
+        "Name": "Rafael Pass",
+        "Research Interest": " Cryptography and its interplay with computational complexity and game theory. "
+    },
+    {
+        "Position": "Assistant Professor",
+        "Name": "Kirstin Petersen",
+        "Research Interest": " Design and coordination of bio-inspired robot collectives and their natural counterparts "
+    },
+    {
+        "Position": "Assistant Professor",
+        "Name": "Emma Pierson",
+        "Research Interest": " Data Science and Machine Learning "
+    },
+    {
+        "Position": "Cornell University President; Professor",
+        "Name": "Martha E. Pollack",
+        "Research Interest": " Artificial intelligence "
+    },
+    {
+        "Position": "Associate Professor",
+        "Name": "Tom Ristenpart",
+        "Research Interest": " Software security, applied and theoretical cryptography "
+    },
+    {
+        "Position": "Associate Professor",
+        "Name": "Alexander \"Sasha\" Rush",
+        "Research Interest": " Natural Language Processing, Machine Learning "
+    },
+    {
+        "Position": "Assistant Professor",
+        "Name": "Mert Sabuncu",
+        "Research Interest": " biomedical image analysis, with an emphasis on neuroimaging. My group works at the intersection of computer vision, applied machine learning, and biomedical imaging "
+    },
+    {
+        "Position": "Assistant Professor",
+        "Name": "Adrian Sampson",
+        "Research Interest": " Hardware-software abstractions,computer architecture, programming languages, compilers, and software engineering "
+    },
+    {
+        "Position": "Professor",
+        "Name": "Fred Schneider",
+        "Research Interest": " Concurrent and distributed systems; computer and network security "
+    },
+    {
+        "Position": "Professor",
+        "Name": "Bart Selman",
+        "Research Interest": " Knowledge representation, reasoning and search, algorithms and complexity, planning, machine learning, cognitive science, software agents, and connections between computational complexity and statistical physics "
+    },
+    {
+        "Position": "Associate Professor",
+        "Name": "Phoebe Sengers",
+        "Research Interest": " Designing technology for social impact, rural infrastructure, critical data studies "
+    },
+    {
+        "Position": "Associate Professor",
+        "Name": "Elaine Shi",
+        "Research Interest": " Security, cryptography, programming languages, and systems, with applications to cryptocurrency, cloud computing, and privacy "
+    },
+    {
+        "Position": "Professor",
+        "Name": "Vitaly Shmatikov",
+        "Research Interest": " Reseach focus: Computer Security and privacy "
+    },
+    {
+        "Position": "Professor",
+        "Name": "David Shmoys",
+        "Research Interest": " Data Science; Design and analysis of efficient algorithms for discrete optimization problems, in particular approximation algorithms for NP-hard problems "
+    },
+    {
+        "Position": "Associate Professor",
+        "Name": "Emin G\\xc3\\xbcn Sirer",
+        "Research Interest": " Secure distributed systems, extensible operating systems, language-based security, automated testing "
+    },
+    {
+        "Position": "Associate Professor",
+        "Name": "Noah Snavely",
+        "Research Interest": " Computer vision and computer graphics, specifically 3D reconstruction and rendering from large community photo collections "
+    },
+    {
+        "Position": "Associate Professor",
+        "Name": "Karthik Sridharan",
+        "Research Interest": " Machine learning with a focus on theoretical analysis and design of learning algorithms. Online learning, statistical learning theory, stochastic optimization and empirical process theory "
+    },
+    {
+        "Position": "Assistant Professor",
+        "Name": "Noah Stephens-Davidowitz",
+        "Research Interest": " Theoretical Computer Science, Security, Cryptography "
+    },
+    {
+        "Position": "Associate Professor",
+        "Name": "G. Edward Suh",
+        "Research Interest": " Architectural support for security, reliability, and programmability; field extensible/repairable architecture; non-volatile microprocessors for highly embedded systems; intelligent on-chip networks "
+    },
+    {
+        "Position": "Assistant Professor",
+        "Name": "Wen Sun",
+        "Research Interest": " Machine Learning, Reinforcement Learning, Decision Making under Uncertainty "
+    },
+    {
+        "Position": "Associate Professor",
+        "Name": "A. Kevin Tang",
+        "Research Interest": " Management and optimization of computer networks; non-convex optimization "
+    },
+    {
+        "Position": "Professor",
+        "Name": "Eva Tardos",
+        "Research Interest": " Algorithm Design and Algorithmic Game Theory "
+    },
+    {
+        "Position": "Professor Emeritus",
+        "Name": "Tim Teitelbaum",
+        "Research Interest": " Automatic Program Analysis "
+    },
+    {
+        "Position": "Assistant Professor",
+        "Name": "Immanuel Trummer",
+        "Research Interest": " Databases, data science, optimization "
+    },
+    {
+        "Position": "Assistant Professor",
+        "Name": "Madeleine Udell",
+        "Research Interest": " Optimization and machine learning for large scale data analysis and control "
+    },
+    {
+        "Position": "Professor Emeritus",
+        "Name": "Charles Van Loan",
+        "Research Interest": " Numerical linear and multilinear algebra "
+    },
+    {
+        "Position": "Professor",
+        "Name": "Robbert van Renesse",
+        "Research Interest": " Scalable, adaptive, and secure group communication protocols "
+    },
+    {
+        "Position": "Assistant Professor",
+        "Name": "Marten van Schijndel",
+        "Research Interest": " Natural language processing, machine learning, cognitive modeling "
+    },
+    {
+        "Position": "Senior Lecturer",
+        "Name": "Anke van Zuylen",
+        "Research Interest": " Discrete Optimization, Computational Biology, Operations Research "
+    },
+    {
+        "Position": "Associate Professor",
+        "Name": "Aaron Wagner",
+        "Research Interest": " information theory, especially compression, feedback communication, security, and quantum information. "
+    },
+    {
+        "Position": "Associate Professor",
+        "Name": "Fei Wang",
+        "Research Interest": " Data Mining, Machine Learning, Health Data Science, Clinical Decision Support, Computational Drug Discovery "
+    },
+    {
+        "Position": "Associate Professor",
+        "Name": "Hakim Weatherspoon",
+        "Research Interest": " Fault-tolerance, reliability, security, and performance of Internet-scale systems "
+    },
+    {
+        "Position": "Associate Professor",
+        "Name": "Kilian Weinberger",
+        "Research Interest": " Machine Learning with a focus on real-world problems "
+    },
+    {
+        "Position": "Senior Lecturer",
+        "Name": "Walker White",
+        "Research Interest": " Database Theory, Information Privacy, Logic applications to Computer Science "
+    },
+    {
+        "Position": "Professor",
+        "Name": "Stephen Wicker",
+        "Research Interest": " Artificial intelligence, game theory and wireless information networks "
+    },
+    {
+        "Position": "Assistant Professor",
+        "Name": "Amy Williams",
+        "Research Interest": " Algorithms for large scale genetic data, inference of demographic history, population and individual relationships, and studies of recombination and mutation. "
+    },
+    {
+        "Position": "Professor",
+        "Name": "David Williamson",
+        "Research Interest": " Algorithms, combinatorial optimization, computer science "
+    },
+    {
+        "Position": "Assistant Professor",
+        "Name": "Christina Lee Yu",
+        "Research Interest": " Theory of Computing, Artificial Intelligence (Machine Learning), Scientific Computing "
+    },
+    {
+        "Position": "Professor",
+        "Name": "Haiyuan Yu",
+        "Research Interest": " Biomedical systems biology, machine learning, algorithm development, with an emphasis on network analysis, to understand human disease and evolution of species "
+    },
+    {
+        "Position": "Professor",
+        "Name": "Ramin Zabih",
+        "Research Interest": " Computer vision and its applications, especially in medical imaging, with an emphasis on the use of combinatorial optimization algorithms "
+    },
+    {
+        "Position": "Assistant Professor",
+        "Name": "Cheng Zhang",
+        "Research Interest": " Ubiquitous Computing, Wearable Computing, Human Computer Interaction "
+    },
+    {
+        "Position": "Assistant Professor",
+        "Name": "Zhiru Zhang",
+        "Research Interest": " Computer-aided design methodologies, optimization algorithms, compilers, and computer architectures of gigascale integrated systems; esp. system-on-chips "
+    }
+]

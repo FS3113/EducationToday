@@ -1,0 +1,446 @@
+[
+    {
+        "Name": "Omid Abari",
+        "Position": "Assistant Professor ",
+        "Email": "omid@cs.ucla.edu",
+        "Research Interest": "Missing"
+    },
+    {
+        "Name": "Kai-Wei Chang",
+        "Position": "Asisstant Professor",
+        "Email": "kwchang@cs.ucla.edu ",
+        "Research Interest": "Missing"
+    },
+    {
+        "Name": "Junghoo (John) Cho",
+        "Position": "Professor",
+        "Email": "cho@cs.ucla.edu",
+        "Research Interest": "Missing"
+    },
+    {
+        "Name": "Jason (Jingsheng) Cong",
+        "Position": "Professor",
+        "Email": "cong@cs.ucla.edu",
+        "Research Interest": "Missing"
+    },
+    {
+        "Name": "Adnan Darwiche",
+        "Position": "Professor",
+        "Email": "darwiche@cs.ucla.edu ",
+        "Research Interest": "Missing"
+    },
+    {
+        "Name": "Joseph DiStefano",
+        "Position": "Distinguished Professor",
+        "Email": "joed@cs.ucla.edu",
+        "Research Interest": "Missing"
+    },
+    {
+        "Name": "Paul Eggert",
+        "Position": "Senior Lecturer SOE",
+        "Email": "eggert@cs.ucla.edu",
+        "Research Interest": "Missing"
+    },
+    {
+        "Name": "Eleazar Eskin",
+        "Position": "Professor",
+        "Email": "eeskin@cs.ucla.edu",
+        "Research Interest": "Missing"
+    },
+    {
+        "Name": "Eliezer Gafni",
+        "Position": "Professor / Department Chair",
+        "Email": "eli@cs.ucla.edu",
+        "Research Interest": "Missing"
+    },
+    {
+        "Name": "Quanquan Gu",
+        "Position": "Assistant Professor",
+        "Email": "qgu@cs.ucla.edu",
+        "Research Interest": "Missing"
+    },
+    {
+        "Name": "Eran Halperin",
+        "Position": "Professor",
+        "Email": "ehalperin",
+        "Research Interest": "Missing"
+    },
+    {
+        "Name": "Cho-Jui Hsieh",
+        "Position": "Assistant Professor",
+        "Email": "chohsieh@cs.ucla.edu",
+        "Research Interest": "Missing"
+    },
+    {
+        "Name": "Miryung Kim",
+        "Position": "Professor",
+        "Email": "miryung@cs.ucla.edu",
+        "Research Interest": "Missing"
+    },
+    {
+        "Name": "Richard Korf",
+        "Position": "Professor ",
+        "Email": "korf@cs.ucla.edu",
+        "Research Interest": "Missing"
+    },
+    {
+        "Name": "Songwu Lu",
+        "Position": "Professor",
+        "Email": " slu@cs.ucla.edu",
+        "Research Interest": "Missing"
+    },
+    {
+        "Name": "Raghu Meka",
+        "Position": "Assistant Professor",
+        "Email": "raghum@cs.ucla.edu",
+        "Research Interest": "Missing"
+    },
+    {
+        "Name": "Todd Millstein",
+        "Position": "Professor/Vice Chair GradEducation ",
+        "Email": "todd@cs.ucla.edu",
+        "Research Interest": "Missing"
+    },
+    {
+        "Name": "Baharan Mirzasoleiman",
+        "Position": "Assistant Professor",
+        "Email": "baharan@cs.ucla.edu",
+        "Research Interest": "Missing"
+    },
+    {
+        "Name": "Ravi Netravali",
+        "Position": "Assistant Professor",
+        "Email": "ravi@cs.ucla.edu",
+        "Research Interest": "Missing"
+    },
+    {
+        "Name": "Tony Nowatzki",
+        "Position": "Assistant Professor",
+        "Email": "tjn@cs.ucla.edu",
+        "Research Interest": "Missing"
+    },
+    {
+        "Name": "Rafail Ostrovsky",
+        "Position": "Distinguished Professor",
+        "Email": "rafail@cs.ucla.edu",
+        "Research Interest": "Missing"
+    },
+    {
+        "Name": "Jens Palsberg",
+        "Position": "Professor ",
+        "Email": "palsberg@cs.ucla.edu",
+        "Research Interest": "Missing"
+    },
+    {
+        "Name": "Nanyun Peng",
+        "Position": "Assistant Professor",
+        "Email": "violetpeng@cs.ucla.edu",
+        "Research Interest": "Missing"
+    },
+    {
+        "Name": "Miodrag Potkonjak",
+        "Position": "Professor ",
+        "Email": "miodrag@cs.ucla.edu",
+        "Research Interest": "Missing"
+    },
+    {
+        "Name": "Glenn Reinman",
+        "Position": "Professor",
+        "Email": "reinman@cs.ucla.edu",
+        "Research Interest": "Missing"
+    },
+    {
+        "Name": "Amit Sahai",
+        "Position": "Professor ",
+        "Email": "sahai@cs.ucla.edu",
+        "Research Interest": "Missing"
+    },
+    {
+        "Name": "Sriram Sankararaman",
+        "Position": "Assistant Professor",
+        "Email": "sriram@cs.ucla.edu",
+        "Research Interest": "Missing"
+    },
+    {
+        "Name": "Majid Sarrafzadeh",
+        "Position": "Distinguished Professor",
+        "Email": "majid@cs.ucla.edu",
+        "Research Interest": "Missing"
+    },
+    {
+        "Name": "Alexander Sherstov",
+        "Position": "Associate Professor",
+        "Email": "sherstov@cs.ucla.edu",
+        "Research Interest": "Missing"
+    },
+    {
+        "Name": "David Smallberg",
+        "Position": "Senior Lecturer SOE",
+        "Email": "das@cs.ucla.edu",
+        "Research Interest": "Missing"
+    },
+    {
+        "Name": "Stefano Soatto",
+        "Position": "Professor",
+        "Email": "soatto@cs.ucla.edu",
+        "Research Interest": "Missing"
+    },
+    {
+        "Name": "Yizhou Sun",
+        "Position": "Associate Professor",
+        "Email": "yzsun@cs.ucla.edu",
+        "Research Interest": "Missing"
+    },
+    {
+        "Name": "Yuval Tamir",
+        "Position": "Associate Professor",
+        "Email": "tamir@cs.ucla.edu",
+        "Research Interest": "Missing"
+    },
+    {
+        "Name": "Demetri Terzopoulos",
+        "Position": "Distinguished Professor",
+        "Email": "dt@cs.ucla.edu",
+        "Research Interest": "Missing"
+    },
+    {
+        "Name": "Guy Van den Broeck",
+        "Position": "Associate Professor",
+        "Email": "guyvdb@cs.ucla.edu",
+        "Research Interest": "Missing"
+    },
+    {
+        "Name": "George Varghese",
+        "Position": "Professor ",
+        "Email": "varghese@cs.ucla.edu",
+        "Research Interest": "Missing"
+    },
+    {
+        "Name": "Wei Wang",
+        "Position": "Professor",
+        "Email": "weiwang@cs.ucla.edu",
+        "Research Interest": "Missing"
+    },
+    {
+        "Name": "Harry Xu",
+        "Position": "Associate Professor",
+        "Email": "harryxu@cs.ucla.edu",
+        "Research Interest": "Missing"
+    },
+    {
+        "Name": "Lixia Zhang",
+        "Position": "Distinguished Professor",
+        "Email": "lixia@cs.ucla.edu",
+        "Research Interest": "Missing"
+    },
+    {
+        "Name": "Algirdas Avizienis",
+        "Position": "Distinguished Professor Emeritus",
+        "Email": "aviz@cs.ucla.edu",
+        "Research Interest": "Missing"
+    },
+    {
+        "Name": "Rajive Bagrodia",
+        "Position": "Professor Emeritus",
+        "Email": "rajive@cs.ucla.edu",
+        "Research Interest": "Missing"
+    },
+    {
+        "Name": "Alfonso F. Cardenas",
+        "Position": "Professor Emeritus",
+        "Email": "cardenas@cs.ucla.edu",
+        "Research Interest": "Missing"
+    },
+    {
+        "Name": "Jack Carlyle",
+        "Position": "Professor Emeritus",
+        "Email": "jwc@cs.ucla.edu",
+        "Research Interest": "Missing"
+    },
+    {
+        "Name": "Wesley Chu",
+        "Position": "Distinguished Professor Emeritus",
+        "Email": "wwc@cs.ucla.edu",
+        "Research Interest": "Missing"
+    },
+    {
+        "Name": "Michael G. Dyer",
+        "Position": "Professor Emeritus",
+        "Email": "dyer@cs.ucla.edu",
+        "Research Interest": "Missing"
+    },
+    {
+        "Name": "Milos D. Ercegovac",
+        "Position": "Distinguished Professor Emeritus ",
+        "Email": "milos@cs.ucla.edu",
+        "Research Interest": "Missing"
+    },
+    {
+        "Name": "Sheila Greibach",
+        "Position": "Professor Emeritus",
+        "Email": "greibach@cs.ucla.edu",
+        "Research Interest": "Missing"
+    },
+    {
+        "Name": "Leonard Kleinrock",
+        "Position": "Distinguished Professor Emeritus",
+        "Email": "lk@cs.ucla.edu",
+        "Research Interest": "Missing"
+    },
+    {
+        "Name": "Allen Klinger",
+        "Position": "Professor Emeritus",
+        "Email": "klinger@cs.ucla.edu",
+        "Research Interest": "Missing"
+    },
+    {
+        "Name": "Lawrence P. McNamee",
+        "Position": "Professor Emeritus",
+        "Email": "mcnamee@cs.ucla.edu",
+        "Research Interest": "Missing"
+    },
+    {
+        "Name": "Richard R. Muntz",
+        "Position": "Distinguished Professor Emeritus ",
+        "Email": "muntz@cs.ucla.edu",
+        "Research Interest": "Missing"
+    },
+    {
+        "Name": "D. Stott Parker",
+        "Position": "Professor Emeritus",
+        "Email": "stott@cs.ucla.edu",
+        "Research Interest": "Missing"
+    },
+    {
+        "Name": "Judea Pearl",
+        "Position": "Chancellor\u2019s Professor Emeritus",
+        "Email": "judea@cs.ucla.edu",
+        "Research Interest": "Missing"
+    },
+    {
+        "Name": "David A. Rennels",
+        "Position": "Associate Professor Emeritus",
+        "Email": "rennels@cs.ucla.edu",
+        "Research Interest": "Missing"
+    },
+    {
+        "Name": "Carlo Zaniolo",
+        "Position": "Distinguished Professor Emeritus",
+        "Email": "zaniolo@cs.ucla.edu",
+        "Research Interest": "Missing"
+    },
+    {
+        "Name": "Alex Afanasyev",
+        "Position": "Adjunct Assistant Professor",
+        "Email": "aa@cs.ucla.edu",
+        "Research Interest": "Missing"
+    },
+    {
+        "Name": "David Heckerman",
+        "Position": "Adjunct Professor",
+        "Email": "email: heckerma@hotmail.com",
+        "Research Interest": "Missing"
+    },
+    {
+        "Name": "Van Jacobson",
+        "Position": "Adjunct Professor ",
+        "Email": "vanj@google.com",
+        "Research Interest": "Missing"
+    },
+    {
+        "Name": "Alan Kay",
+        "Position": "Adjunct Professor ",
+        "Email": "alan.kay@squeakland.org",
+        "Research Interest": "Missing"
+    },
+    {
+        "Name": "Carey Nachenberg",
+        "Position": "Adjunct Associate Professor ",
+        "Email": "climberkip@gmail.com",
+        "Research Interest": "Missing"
+    },
+    {
+        "Name": "Giovanni Pau",
+        "Position": "Adjunct Associate Professor",
+        "Email": "gpau@cs.ucla.edu",
+        "Research Interest": "Missing"
+    },
+    {
+        "Name": "Ramin Ramezani",
+        "Position": "Adjunct Associate Professor",
+        "Email": "raminr@ucla.edu",
+        "Research Interest": "Missing"
+    },
+    {
+        "Name": "Peter Reiher",
+        "Position": "Adjunct Professor",
+        "Email": "reiher@cs.ucla.edu",
+        "Research Interest": "Missing"
+    },
+    {
+        "Name": "Jason Ernst",
+        "Position": "Associate Professor",
+        "Email": "jason.ernst@ucla.edu",
+        "Research Interest": "Missing"
+    },
+    {
+        "Name": "Alyson Fletcher",
+        "Position": "Assistant Professor",
+        "Email": "akflectcher@ucla.edu",
+        "Research Interest": "Missing"
+    },
+    {
+        "Name": "Stanley Osher",
+        "Position": "Distinguished Professor",
+        "Email": "sjo@math.ucla.edu",
+        "Research Interest": "Missing"
+    },
+    {
+        "Name": "Fabien Scalzo",
+        "Position": "Assistant Professor in Residence",
+        "Email": "fab@cs.ucla.edu",
+        "Research Interest": "Missing"
+    },
+    {
+        "Name": "Mani Srivastava",
+        "Position": "Professor",
+        "Email": "mbs@ee.ucla.edu",
+        "Research Interest": "Missing"
+    },
+    {
+        "Name": "Mihaela van der Schaar",
+        "Position": "Chancellor\u2019s Professor",
+        "Email": "mihaela@ee.ucla.edu",
+        "Research Interest": "Missing"
+    },
+    {
+        "Name": "Song Chun Zhu",
+        "Position": "Professor ",
+        "Email": "sczhu@cs.ucla.edu",
+        "Research Interest": "Missing"
+    },
+    {
+        "Name": "Richard Korf",
+        "Position": "Professor ",
+        "Email": "korf@cs.ucla.edu",
+        "Research Interest": "Missing"
+    },
+    {
+        "Name": "Todd Millstein",
+        "Position": "Professor/Vice Chair GradEducation ",
+        "Email": "todd@cs.ucla.edu",
+        "Research Interest": "Missing"
+    },
+    {
+        "Name": "Paul Eggert",
+        "Position": "Senior Lecturer SOE",
+        "Email": "eggert@cs.ucla.edu",
+        "Research Interest": "Missing"
+    },
+    {
+        "Name": "David Smallberg",
+        "Position": "Senior Lecturer SOE",
+        "Email": "das@cs.ucla.edu",
+        "Research Interest": "Missing"
+    }
+]

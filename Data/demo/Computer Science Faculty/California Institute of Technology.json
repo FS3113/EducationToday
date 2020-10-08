@@ -1,0 +1,277 @@
+[
+    {
+        "Position": "Professor of Electrical Engineering and Computer Science",
+        "Research Interest": "Machine learning applies to any situation where there is data that we are trying to make sense of, and a target function that we cannot mathematically pin down. The spectrum of applications is huge, going from financial forecasting to medical diagnosis to industrial inspection to recommendation systems, to name a few. The field encompasses neural networks, statistical inference, and data mining.",
+        "Name": "Yaser S. Abu-Mostafa"
+    },
+    {
+        "Position": "Bren Professor of Mechanical and Civil Engineering and Control and Dynamical Systems",
+        "Research Interest": "Professor Ames\\xe2\\x80\\x99 research interests center on robotics, nonlinear control, hybrid systems and cyber-physical systems, with special emphasis on foundational theory and experimental realization on robotic systems; his lab designs, builds and tests novel bipedal robots and prosthesis with the goal of achieving human-like bipedal robotic walking and translating these capabilities to robotic assistive devices.",
+        "Name": "Aaron Ames"
+    },
+    {
+        "Position": "Bren Professor of Computing and Mathematical Sciences",
+        "Research Interest": "Professor Anandkumar\\'s research interests are in the areas of large-scale machine learning, non-convex optimization and high-dimensional statistics. In particular, she has been spearheading the development and analysis of tensor algorithms for machine learning. Tensor decomposition methods are embarrassingly parallel and scalable to enormous datasets. They are guaranteed to converge to the global optimum and yield consistent estimates for many probabilistic models such as topic models, community models, and hidden Markov models. More generally, Professor Anandkumar has been investigating efficient techniques to speed up non-convex optimization such as escaping saddle points efficiently.",
+        "Name": "Animashree (Anima) Anandkumar"
+    },
+    {
+        "Position": "Professor of Computer Science",
+        "Research Interest": "Professor Barr\\'s research involves (1) mathematical simulation methods for computer graphics (2) developing new types of mathematical and computational methods for the study of biophysical behaviors and structures, and (3) technological leveraging for medical health care and new medical devices. In addition, he has been collaborating with JPL researcher Dr. Martin Lo on new computational and mathematical methods for utilizing the InterPlanetary Superhighway for developing new missions in the Solar System. All of these research areas involve the development and application of new mathematical and computational methods in the context of new applications in the physical sciences.",
+        "Name": "Alan H. Barr"
+    },
+    {
+        "Position": "Assistant Professor of Computing and Mathematical Sciences and Electrical Engineering; Rosenberg Scholar",
+        "Research Interest": "Katie Bouman\\'s research focuses on computational imaging: designing systems that tightly integrate algorithm and sensor design, making it possible to observe phenomena previously difficult or impossible to measure with traditional approaches.\\xc2\\xa0Imaging plays a critical role in advancing science. However, as science continues to push boundaries, traditional sensors are reaching the limits of what they can measure.\\xc2\\xa0Katie\\'s group combines ideas from signal processing, computer vision, machine learning, and physics to find and exploit hidden signals for both scientific discovery and technological innovation. For example, in collaboration with the Event Horizon Telescope, Katie\\'s group is helping to build a computational earth-sized telescope that is taking the first images of a black hole and is analyzing its images to learn about general relativity in the strong-field regime.",
+        "Name": "Katherine L. (Katie) Bouman"
+    },
+    {
+        "Position": "Professor of Applied and Computational Mathematics",
+        "Research Interest": "Prof. Bruno\\'s work focuses on development of accurate, high-performance numerical PDE solvers capable of modeling faithfully realistic scientific and engineering configurations. Major theoretical and computational difficulties arise in associated areas of PDE theory, numerical analysis and computational science as a result of intricate and/or singular geometries as well as solution singularities, resonances, nonlinearities, high-frequencies, dispersion, etc. Recently developed Fourier Continuation (FC) and integral-equation techniques, which can successfully tackle such challenges, have enabled accurate solution of previously intractable PDE problems of fundamental importance in science and engineering.",
+        "Name": "Oscar P. Bruno"
+    },
+    {
+        "Position": "Richard L. and Dorothy M. Hayman Professor of Mechanical Engineering and Bioengineering; Jet Propulsion Laboratory Research Scientist",
+        "Research Interest": "Professor Burdick focuses on robotics, kinematics, mechanical systems and control. Active research areas include: robotic locomotion, sensor-based motion planning algorithms, multi-fingered robotic manipulation, applied nonlinear control theory, neural prosthetics, and medical applications of robotics.",
+        "Name": "Joel W. Burdick"
+    },
+    {
+        "Position": "Professor of Computing and Mathematical Sciences and Electrical Engineering",
+        "Research Interest": "Chandrasekaran\\xe2\\x80\\x99s research interests broadly lie in mathematical optimization and its interface with topics\\xc2\\xa0in the information sciences.\\xc2\\xa0 Specific areas of interest include convex optimization, mathematical signal processing, graphs and combinatorial optimization, applied algebraic geometry, computational harmonic analysis, and statistical inference.",
+        "Name": "Venkat Chandrasekaran"
+    },
+    {
+        "Position": "Carl F Braun Professor of Computing and Mathematical Sciences",
+        "Research Interest": "Applied geometry (geometry processing, meshing, and computer graphics); Discrete differential modeling (differential, yet readily-discretizable tools for computational modeling); finite element modeling.",
+        "Name": "Mathieu Desbrun"
+    },
+    {
+        "Position": "Jean-Lou Chameau Professor of Control and Dynamical Systems, Electrical Engineering, and Bioengineering",
+        "Research Interest": "Missing",
+        "Name": "John Doyle"
+    },
+    {
+        "Position": "Charles Lee Powell Professor of Applied and Computational Mathematics",
+        "Research Interest": "Professor Hou focuses on multiscale problems arising from geophysical applications and fluid dynamics, the Millennium Problem on the 3D incompressible Navier-Strokes equations, model reduction for stochastic problems with high dimensional input variables, and adaptive data analysis.",
+        "Name": "Thomas Y. Hou"
+    },
+    {
+        "Position": "Teaching Assistant Professor of Computing and Mathematical Sciences",
+        "Research Interest": "Melissa Hovik\\xe2\\x80\\x99s teaching philosophy is one that encourages students to discover and explore interdisciplinary connections between computer science and other fields such as biology. Her primary teaching interests are in introductory CS, web development, and databases, though she also enjoys introducing students to other areas in CS including security, programming languages, and theory foundations. In all of her classes, she strives to motivate real-world applications into material, including accessibility, ethics, and security.",
+        "Name": "Melissa Hovik"
+    },
+    {
+        "Position": "Frank J. Gilloon Professor of Computing and Mathematical Sciences and Electrical Engineering",
+        "Research Interest": "Power systems, cyber-physical systems, network architecture, energy-efficient networking.",
+        "Name": "Steven Low"
+    },
+    {
+        "Position": "Assistant Professor of Computing and Mathematical Sciences",
+        "Research Interest": "Mahadev\\'s broad theme of research is in cryptographic possibilities of quantum information, a topic of considerable interest in the field. She has built new quantum cryptographic primitives by adapting and extending techniques from modern classical cryptography and has pioneered two widely acclaimed fundamental breakthroughs: 1) Quantum homomorphic encryption (i.e., computing on encrypted data) and 2) Verifiable delegation of quantum computation. Mahadev plans to focus her future research efforts on exploring problems in the intersection of theoretical computer science and quantum computing.",
+        "Name": "Urmila Mahadev"
+    },
+    {
+        "Position": "Robert F. Christy Professor of Mathematics and Computing and Mathematical Sciences",
+        "Research Interest": "Missing",
+        "Name": "Matilde Marcolli"
+    },
+    {
+        "Position": "Fletcher Jones Professor of Aeronautics and Applied and Computational Mathematics",
+        "Research Interest": "Professor Meiron\\'s research focuses on computation and modelling of basic fluid mechanical phenomena. Particular interests include shock driven flow instabilities, turbulence, simulation approaches for high strain rate solid mechanics. He is also interested on development of adaptive numeriocal methods for such flows that are suitable for high performance computation.",
+        "Name": "Dan Meiron"
+    },
+    {
+        "Position": "Thomas E. and Doris Everhart Professor of Control and Dynamical Systems and Bioengineering; William K. Bowes Jr. Leadership Chair, Division of Biology and Biological Engineering",
+        "Research Interest": "Research in Richard Murray\\'s group is in the application of feedback and control to networked systems, with applications in biology and autonomy. Current projects include novel control system architectures, biomolecular feedback systems and networked control systems.",
+        "Name": "Richard M. Murray"
+    },
+    {
+        "Position": "Professor of Applied and Computational Mathematics and Control and Dynamical Systems",
+        "Research Interest": "Professor Owhadi\\xe2\\x80\\x99s research concerns the exploration of interplays between numerical approximation, statistical inference and learning\\xc2\\xa0 from a game theoretic perspective. Whereas the process of discovery is usually based on a combination of trial and error,\\xc2\\xa0 insight and plain guesswork, his research is motivated by the facilitation/automation possibilities\\xc2\\xa0 emerging from these interplays.",
+        "Name": "Houman Owhadi"
+    },
+    {
+        "Position": "Bren Professor of Computational Biology and Computing and Mathematical Sciences",
+        "Research Interest": "Professor Patcher is a computational biologist working in genomics. His career began in comparative genomics, and initially was interested in genome alignment, annotation, and the determination of conserved regions using phylogenetic methods. More recently he\\'s become focused on functional genomics, which includes answering questions about the function and interaction of DNA, RNA and protein products. He\\'s particularly interested in applications of high-throughput sequencing to RNA biology. Genomics requires the development of algorithms, statistical methodology and mathematical foundations, and a major part of his research is therefore on methods.",
+        "Name": "Lior Pachter"
+    },
+    {
+        "Position": "Professor of Applied and Computational Mathematics and Bioengineering",
+        "Research Interest": "Engineering small conditional DNAs and RNAs for signal transduction in vitro, in situ, and in vivo; computational algorithms for the analysis and design of nucleic acid structures, devices, and systems; programmable molecular technologies for readout and regulation of the state of endogenous biological circuitry.",
+        "Name": "Niles A. Pierce"
+    },
+    {
+        "Position": "Shaler Arthur Hanisch Professor of Computer Science and Applied and Computational Mathematics",
+        "Research Interest": "Professor Schr\\xc3\\xb6der is interested in the design of efficient and reliable algorithms for problems in computer graphics. These range from geometric modeling (effective methods to model the shape of objects) to animation (simulation of physical phenomena such as the deformation of cloth). His emphasis is on an area known as \"Discrete Differential Geometry.\" Its goals are to rebuild the foundations of classical differential geometry in a discrete setting which makes it immediately useful for computation.",
+        "Name": "Peter Schroeder"
+    },
+    {
+        "Position": "Professor of Computer Science",
+        "Research Interest": "Algorithms and Communication Protocols; Combinatorics and Probability; Coding and Information Theory; Quantum Computation.",
+        "Name": "Leonard J. Schulman"
+    },
+    {
+        "Position": "Bren Professor of Computing and Mathematical Sciences",
+        "Research Interest": "Professor Stuart\\'s research is focused on the development of mathematical and algorithmic frameworks for the seamless integration of models with data. He works in the Bayesian formulation of inverse problems, and in data assimilation for dynamical systems. Quantification of uncertainty plays a significant role in this work. Current applications of interest include a variety of problems in the geophysical sciences, and in graph-based learning.",
+        "Name": "Andrew Stuart"
+    },
+    {
+        "Position": "Steele Family Professor of Applied and Computational Mathematics ",
+        "Research Interest": "Joel Tropp\\'s work lies at the interface of applied mathematics, electrical engineering, computer science, and statistics. This research concerns the theoretical and computational aspects of data analysis, sparse modeling, randomized linear algebra, and random matrix theory.",
+        "Name": "Joel A. Tropp"
+    },
+    {
+        "Position": "Professor of Computer Science; EAS Division Deputy Chair",
+        "Research Interest": "Professor Umans is interested in theoretical computer science, and especially computational complexity. He enjoys problems with an algebraic flavor, and this often leads to research questions in derandomization and explicit combinatorial constructions, algebraic algorithms, coding theory, and hardness of approximation.",
+        "Name": "Christopher Umans"
+    },
+    {
+        "Position": "Professor of Computing and Mathematical Sciences",
+        "Research Interest": "Professor Vidick\\xe2\\x80\\x99s research is situated at the interface of theoretical computer science, quantum information and cryptography. He is interested in applying techniques from computer science, such as complexity theory, to study problems in quantum computing. He has investigated the role of entanglement in multi-prover interactive proof systems and obtained the first substantial computational hardness results on the power of entangled provers. Entanglement also plays a major role in quantum cryptography, and he has made important contributions to the field of device-independent cryptography. He is also interested in using quantum information theory to shed new light on fundamental techniques in theoretical computer science such as semidefinite programming and approximation algorithms.",
+        "Name": "Thomas Vidick"
+    },
+    {
+        "Position": "Professor of Computing and Mathematical Sciences; Executive Officer for Computing and Mathematical Sciences; Director, Information Science and Technology",
+        "Research Interest": "Adam Wierman\\'s research interests center around resource allocation and scheduling decisions in computer systems and services. More specifically, his work focuses both on developing analytic techniques in stochastic modeling, optimization, machine learning, and game theory, and applying these techniques to application domains such as energy-efficient computing, the cloud, the smart grid, and social networks.",
+        "Name": "Adam Wierman"
+    },
+    {
+        "Position": "Professor of Computer Science, Computation and Neural Systems, and Bioengineering",
+        "Research Interest": "Professor Winfree\\'s research involves theoretical and experimental aspects of molecular programming. Models of computation are developed that incorporate essential features of molecular folding, molecular self-assembly, biochemical circuits, and molecular robotics. These models are studied to determine their expressiveness for programming molecular-level tasks including decision-making, memory, behavior, and morphogenesis. \\xc2\\xa0Methods for compiling abstract molecular programs into actual molecules are developed and tested in the laboratory.",
+        "Name": "Erik Winfree"
+    },
+    {
+        "Position": "Professor of Computing and Mathematical Sciences",
+        "Research Interest": "Yisong Yue\\'s research interests lie primarily in the theory and application of statistical machine learning. He is particularly interested in developing novel methods for interactive machine learning and structured machine learning. In the past, his research has been applied to information retrieval, recommender systems, text classification, learning from rich user interfaces, analyzing implicit human feedback, clinical therapy, tutoring systems, data-driven animation, behavior analysis, sports analytics, experiment design for science, learning to optimize, policy learning in robotics, and adaptive planning & allocation problems.\\xc2\\xa0",
+        "Name": "Yisong Yue"
+    },
+    {
+        "Position": "Bren Professor of Theoretical Physics",
+        "Research Interest": "Fernando Brand\\xc3\\xa3o\\'s research is focused on quantum information science. He explores the interplay of physics, computer science and mathematics to study the role of quantum mechanics in computation and information transmission. He is also interested in the application of tools and concepts of quantum information to other branches of science, such as quantum many-body theory, complexity theory and thermodynamics/statistical mechanics. In recent years he has been exploring several directions in entanglement theory, from understanding the relation between entanglement and other physical properties (such as correlation length) in quantum many-body systems, to developing a sharper understanding of fundamental properties of entanglement such as its monogamous character (with applications in quantum cryptography, quantum Hamiltonian complexity, and even in convex optimisation).",
+        "Name": "Fernando Brandao"
+    },
+    {
+        "Position": "Bren Professor of Aerospace; Jet Propulsion Laboratory Research Scientist",
+        "Research Interest": "Professor Chung\\'s research focuses on distributed spacecraft systems, space autonomous systems, and aerospace robotics, and in particular, on the theory and application of complex nonlinear dynamics, control, estimation, guidance, and navigation of autonomous space and air vehicles.",
+        "Name": "Soon-Jo Chung"
+    },
+    {
+        "Position": "Professor of Philosophy",
+        "Research Interest": "Frederick Eberhardt\\'s research interests lie at the formal end of philosophy of science, the machine learning end of statistics and computer science, and the learning and modeling end of psychology and cognitive science. His work has focused primarily on methods for causal discovery from statistical data, the use of experiments in causal discovery, the integration of causal inferences from different data sets and the philosophical issues at the foundations of causality and probability. He has done some work on computational models in cognitive science and some historical work on the philosophy of Hans Reichenbach, especially his frequentist interpretation of probability.",
+        "Name": "Frederick Eberhardt"
+    },
+    {
+        "Position": "Mose and Lillian S. Bohn Professor of Electrical Engineering and Computing and Mathematical Sciences",
+        "Research Interest": "Hassibi\\'s research spans various aspects of information theory, signal processing, control theory, and machine learning. He has made contributions to the theory and practice of wireless communications and wireless networks, as well as to robust control, adaptive filtering and neural networks, network information theory, coding for control, phase retrieval, structured signal recovery, high dimensional statistics, epidemic spread in complex networks, and DNA micro-arrays. On the mathematical side, he is interested in\\xc2\\xa0linear algebra, with an emphasis on fast algorithms, random matrices, and group representation theory.",
+        "Name": "Babak Hassibi"
+    },
+    {
+        "Position": "Ronald and Maxine Linde Professor of Theoretical Physics and Mathematics",
+        "Research Interest": "Professor Kitaev works in the field of quantum computation and related areas of theoretical physics. His main contribution was the concept of topological quantum computation, a scheme where quantum information is protected from errors due to special properties of the underlying physical system, which are generally related to topology. He currently focuses on topological classification of quantum phases (a nontrivial example being the 2-dimensional electron liquid in the quantum Hall regime).",
+        "Name": "Alexei Kitaev"
+    },
+    {
+        "Position": "Professor of Electrical Engineering",
+        "Research Interest": "Victoria Kostina\\'s research spans information theory, coding, and wireless communications. Her current efforts explore one of the most exciting avenues in today\\'s information theory: the nonasymptotic regime. Leveraging tools from the theory of random processes and concentration of measure, she pursues fundamental insight into modern delay-constrained communication systems.",
+        "Name": "Victoria Kostina"
+    },
+    {
+        "Position": "Theodore von Karman Professor of Aeronautics",
+        "Research Interest": "Professor McKeon explores new ways to manipulate or control the boundary layer\\xe2\\x80\\x94the thin layer between a material and flowing air\\xe2\\x80\\x94to improve flow characteristics, such as a reduction of drag, noise, and structural loading or expansion of vehicle performance envelopes during travel. The unifying theme to her work is an experimental and theoretical approach at the intersection of fluid mechanics, control, and materials science to investigate fundamental flow questions, address efficiency and performance challenges in aerospace vehicle design, and respond to the energy conservation imperative in novel and efficient ways.",
+        "Name": "Beverley J. McKeon"
+    },
+    {
+        "Position": "Allen E. Puckett Professor of Electrical Engineering",
+        "Research Interest": "Professor Perona\\'s research focusses on vision: how do we see and how can we build machines that see.",
+        "Name": "Pietro Perona"
+    },
+    {
+        "Position": "Richard P. Feynman Professor of Theoretical Physics; Allen V.C. Davis and Lenabelle Davis Leadership Chair, Institute for Quantum Science and Technology",
+        "Research Interest": "Professor Preskill works on quantum computation and quantum information science. He is especially interested in methods for protecting quantum states from damage, and in applications of quantum information concepts to problems in physical science.",
+        "Name": "John P. Preskill"
+    },
+    {
+        "Position": "Professor of Bioengineering",
+        "Research Interest": "The Qian lab is interested in designing and constructing nucleic-acid systems from scratch that exhibit programmable behaviors \\xe2\\x80\\x93 at the basic level, such as recognizing molecular events from the environment, processing information, making decisions and taking actions; at the advanced level, such as learning and evolving \\xe2\\x80\\x93 to explore the principles of molecular programs that nature creates, to embed control within biochemical systems that directly interact with molecules, and eventually, to re-create synthetic molecular programs that approach the complexity and sophistication of life itself.",
+        "Name": "Lulu Qian"
+    },
+    {
+        "Position": "Professor of Economics and Mathematics",
+        "Research Interest": "Omer Tamuz\\'s work in Economics focuses on how people learn through social interaction, and on games and strategic behavior in networks. His mathematical interests lie in probability theory, ergodic theory, and their connections to group theory. He has also worked in machine learning and statistics, and in particular in combinatorial statistics, where the estimated parameter takes values in a finite set.",
+        "Name": "Omer Tamuz"
+    },
+    {
+        "Position": "Teaching Assistant Professor of Computing and Mathematical Sciences",
+        "Research Interest": "Adam Blank\\xe2\\x80\\x99s teaching approach involves developing new technologies and techniques to enhance the learning of computer science students. They experiment with new techniques and technologies involving machine learning, human computation, and collaboration to improve the classroom experience.",
+        "Name": "Adam Blank"
+    },
+    {
+        "Position": "Visiting Associate in Computing and Mathematical Sciences",
+        "Research Interest": "Franca Hoffmann\\'s research is focused on the interface between applied mathematics and data analysis, driven by the need to provide rigorous mathematical foundations for modeling tools used in applications. Franca Hoffmann is interested in (1) the theory of nonlinear and nonlocal partial differential equations, making use of gradient flows, entropy methods, functional inequalities, optimal transport techniques, kinetic theory, particle methods and relationships between different scales; and (2) the development of novel tools for data analysis and mathematical approaches to machine learning, involving graph based methods for unsupervised and semi-supervised learning, focusing on data clustering and classification, graph Laplacians and their continuum counterparts, spectral analysis, uncertainty quantification and consistency analysis. It is the intersection of these topics that allow for novel interesting mathematical frameworks, such as recently developed sampling algorithms combining ideas from (1) and (2) to create approximate samples from a posterior distribution solving general classes of inverse problems.",
+        "Name": "Franca Karoline Olga (Franca) Hoffmann"
+    },
+    {
+        "Position": "Lecturer in Computing and Mathematical Sciences",
+        "Research Interest": "Missing",
+        "Name": "Eugene Lavretsky"
+    },
+    {
+        "Position": "von Karman Instructor in Computing and Mathematical Sciences",
+        "Research Interest": "Missing",
+        "Name": "Krithika Manohar"
+    },
+    {
+        "Position": "Lecturer in Computing and Mathematical Sciences and Schmidt Software Academy Instructor",
+        "Research Interest": "Missing",
+        "Name": "Donald Pinkston"
+    },
+    {
+        "Position": "Lecturer in Computing and Mathematical Sciences",
+        "Research Interest": "Missing",
+        "Name": "Claire Ralph"
+    },
+    {
+        "Position": "Teaching Professor of Computing and Mathematical Sciences",
+        "Research Interest": "Missing",
+        "Name": "Michael Vanier"
+    },
+    {
+        "Position": "Teaching Assistant Professor of Computing and Mathematical Sciences",
+        "Research Interest": "Missing",
+        "Name": "Konstantin Zuev"
+    },
+    {
+        "Position": "George W. Housner Professor of Engineering and Applied Science, Emeritus",
+        "Research Interest": "Professor Beck focuses on the development of theory and algorithms for stochastic system modeling, uncertainty propagation and Bayesian updating of dynamic systems and networks based on sensor data, treating both modeling and excitation uncertainty. The primary computational tools are advanced stochastic simulation algorithms based on Markov chain Monte Carlo concepts. Some applications of current interest are stochastic predictions of the performance of structural systems under earthquakes, reliability assessment of technological networks, fast automated decision making for mitigation actions based on earthquake early warning systems, earthquake source inversions from seismic sensor networks, damage detection and assessment from structural sensor monitoring networks, Bayesian compressive sensing, and a stochastic mechanics approach to quantum mechanics.",
+        "Name": "James L. (Jim) Beck"
+    },
+    {
+        "Position": "Simon Ramo Professor of Computer Science, Emeritus",
+        "Research Interest": "Professor Chandy builds and analyzes systems that sense and respond to changes. He is currently working on systems that sense and respond to: (a) seismic events, (b) threat events such as the introduction of nuclear radiation material, (c) medical events such a fetal distress, and (d) events in the power grid. The systems use sensor networks, cloud computing and event-driven architecture. The theory is based on optimization, control, machine learning and game theory.",
+        "Name": "Kanianthra M. (Mani) Chandy"
+    },
+    {
+        "Position": "Professor of Computer Science, Emeritus",
+        "Research Interest": "Professor Martin focuses on asynchronous VLSI and parallel architecture.",
+        "Name": "Alain J. Martin"
+    },
+    {
+        "Position": "Gordon and Betty Moore Professor of Engineering and Applied Science, Emeritus",
+        "Research Interest": "Missing",
+        "Name": "Carver Mead"
+    },
+    {
+        "Position": "Franca Hoffmann\\'s research is focused on the interface between applied mathematics and data analysis, driven by the need to provide rigorous mathematical foundations for modeling tools used in applications. Franca Hoffmann is interested in (1) the theory of nonlinear and nonlocal partial differential equations, making use of gradient flows, entropy methods, functional inequalities, optimal transport techniques, kinetic theory, particle methods and relationships between different scales; and (2) the development of novel tools for data analysis and mathematical approaches to machine learning, involving graph based methods for unsupervised and semi-supervised learning, focusing on data clustering and classification, graph Laplacians and their continuum counterparts, spectral analysis, uncertainty quantification and consistency analysis. It is the intersection of these topics that allow for novel interesting mathematical frameworks, such as recently developed sampling algorithms combining ideas from (1) and (2) to create approximate samples from a posterior distribution solving general classes of inverse problems.",
+        "Research Interest": "Missing",
+        "Name": "Franca Karoline Olga (Franca) Hoffmann"
+    },
+    {
+        "Position": "Melissa Hovik\\xe2\\x80\\x99s teaching philosophy is one that encourages students to discover and explore interdisciplinary connections between computer science and other fields such as biology. Her primary teaching interests are in introductory CS, web development, and databases, though she also enjoys introducing students to other areas in CS including security, programming languages, and theory foundations. In all of her classes, she strives to motivate real-world applications into material, including accessibility, ethics, and security.",
+        "Research Interest": "Missing",
+        "Name": "Melissa Hovik"
+    },
+    {
+        "Position": "Mahadev\\'s broad theme of research is in cryptographic possibilities of quantum information, a topic of considerable interest in the field. She has built new quantum cryptographic primitives by adapting and extending techniques from modern classical cryptography and has pioneered two widely acclaimed fundamental breakthroughs: 1) Quantum homomorphic encryption (i.e., computing on encrypted data) and 2) Verifiable delegation of quantum computation. Mahadev plans to focus her future research efforts on exploring problems in the intersection of theoretical computer science and quantum computing.",
+        "Research Interest": "Missing",
+        "Name": "Urmila Mahadev"
+    }
+]

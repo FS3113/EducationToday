@@ -1,0 +1,156 @@
+[
+    {
+        "Position": "Professor, Computer Science",
+        "Research Interest": "Computer-supported communication, cooperation, and collaboration, learning and technology, cognitive engineering and modeling, human computer interaction, communication and discourse, internet and society. ",
+        "Name": "Rick Alterman",
+        "Phone number": "781-736-2703",
+        "Email": "ralterma@brandeis.edu"
+    },
+    {
+        "Position": "Associate Professor, Computer Science",
+        "Research Interest": "Databases and Systems supporting the management of \"Big Data\", software engineering. ",
+        "Name": "Mitch Cherniack",
+        "Phone number": "781-736-2738",
+        "Email": "mfc@brandeis.edu"
+    },
+    {
+        "Position": "Professor and Undergraduate Advising Chair, Computer Science",
+        "Research Interest": "Visual pattern recognition, content-based image retrieval, image processing and analysis, computer vision",
+        "Name": "Antonella DiLillo",
+        "Phone number": "781-736-2736",
+        "Email": "dilant@brandeis.edu"
+    },
+    {
+        "Position": "Professor, Linguistics; Director of Graduate Studies, Computational Linguistics",
+        "Research Interest": "Theoretical syntax and the syntax-semantics interface, ellipsis and null anaphora, morphosyntax, structure of Modern Hebrew and other Semitic languages, corpus linguistics. ",
+        "Name": "Lotus Goldberg",
+        "Phone number": "781-736-3265",
+        "Email": "lmgold@brandeis.edu"
+    },
+    {
+        "Position": "Professor and Chair, Computer Science",
+        "Research Interest": "Educational Technology, Computer Science Education, 3D Game Design, Interval Arithmetic, Scientific Visualization, Computer Supported Learning, Groupware and Collaborative Editing, Constraint Logic Programming. ",
+        "Name": "Tim Hickey",
+        "Phone number": "781-736-2706",
+        "Email": "tjhickey@brandeis.edu"
+    },
+    {
+        "Position": "Professor, Computer Science; Affiliation: International Business School",
+        "Research Interest": "Computer science, FinTech, machine learning, image processing, bioinformatics, biomedical informatics, intelligent education. ",
+        "Name": "Pengyu Hong",
+        "Phone number": "781-736-2729",
+        "Email": "hongpeng@brandeis.edu"
+    },
+    {
+        "Position": "Assistant Professor of Computational Linguistics",
+        "Research Interest": "Missing",
+        "Name": "Constantine Lignos",
+        "Phone number": "781-736-2807",
+        "Email": "lignos@brandeis.edu"
+    },
+    {
+        "Position": "Assistant Professor",
+        "Research Interest": "Data mining, machine learning and related applications in social media, computer vision and bioinformatics. ",
+        "Name": "Hongfu Liu",
+        "Phone number": "781-736-2735",
+        "Email": "hongfuliu@brandeis.edu"
+    },
+    {
+        "Position": "Professor, Computer Science",
+        "Research Interest": "&#65279;Logic in computer science, Lambda calculus, functional programming. ",
+        "Name": "Harry Mairson",
+        "Phone number": "781-736-2724",
+        "Email": "mairson@brandeis.edu"
+    },
+    {
+        "Position": "Associate Professor, Linguistics",
+        "Research Interest": "Formal semantics and pragmatics, corpus linguistics, speech acts, game and decision theory, reference and information structure, modality, impersonals and passives, heritage language acquisition. ",
+        "Name": "Sophia Malamud",
+        "Phone number": "781-736-2225",
+        "Email": "smalamud@brandeis.edu"
+    },
+    {
+        "Position": "Associate Professor of the Practice of Computer Science and Industry Liaison",
+        "Research Interest": "Computational linguistics, natural language processing, speech recognition. ",
+        "Name": "Marie Meteer",
+        "Phone number": "mmeteer@brandeis.edu",
+        "Email": "Missing"
+    },
+    {
+        "Position": "Associate Professor and Vice Chair, Computer Science",
+        "Research Interest": "D",
+        "Name": "Olga Papaemmanouil",
+        "Phone number": "781-736-2716",
+        "Email": "papaemmanouil@brandeis.edu"
+    },
+    {
+        "Position": "Lecturer, Linguistics",
+        "Research Interest": "Phonological theory, historical linguistics, morphology, heritage linguistics. ",
+        "Name": "Keith Plaster",
+        "Phone number": "781-736-2726",
+        "Email": "kplaster@brandeis.edu"
+    },
+    {
+        "Position": "Professor, Computer Science",
+        "Research Interest": "Artificial Intelligence, neural networks, machine learning, evolutionary computation and artificial life. ",
+        "Name": "Jordan Pollack",
+        "Phone number": "781-736-2713",
+        "Email": "pollack@brandeis.edu"
+    },
+    {
+        "Position": "TJX Feldberg Professor of Computer Science",
+        "Research Interest": "&#65279;Theoretical and computational linguistics, artificial intelligence and machine learning, corpus linguistics and annotation, lexical semantics, temporal and spatial reasoning. ",
+        "Name": "James Pustejovsky",
+        "Phone number": "781-736-2709",
+        "Email": "jamesp@cs.brandeis.edu"
+    },
+    {
+        "Position": "Professor of the Practice of Computer Science",
+        "Research Interest": "Applied Computer Science. Software Engineering, architecture and design; Development methodology, Scalability; Software Entrepreneurship; Robotics.",
+        "Name": "R. Pito Salas",
+        "Phone number": "617-388-6367",
+        "Email": "rpsalas@brandeis.edu"
+    },
+    {
+        "Position": "Professor, Computer Science",
+        "Research Interest": "Distributed Systems, reliable and scalable storage systems. ",
+        "Name": "Liuba Shrira",
+        "Phone number": "781-736-2704",
+        "Email": "liuba@brandeis.edu"
+    },
+    {
+        "Position": "Professor, Computer Science",
+        "Research Interest": "&#65279;Computer algorithms, data compression, communications and archiving (including text, images, video and multi-media), image retrieval and classification, object recognition and parallel computing. ",
+        "Name": "Jim Storer",
+        "Phone number": "781-736-2714",
+        "Email": "storer@brandeis.edu"
+    },
+    {
+        "Position": "Associate Professor, Computer Science",
+        "Research Interest": "Computer Vision, Multiple-View and Video-Based Dynamic 3-D Reconstruction. Website:&#160;",
+        "Name": "Iraklis Tsekourakis",
+        "Phone number": "TBA",
+        "Email": "tsekourakis@brandeis.edu"
+    },
+    {
+        "Position": "Associate Professor, Director of Graduate Studies, Computer Science",
+        "Research Interest": "Computational linguistics, Chinese language processing, Semantic role labeling, machine translation and linguistic annotation, including Chinese Treebank, Chinese Proposition Bank, OntoNotes. ",
+        "Name": "Nianwen Bert Xue",
+        "Phone number": "781-736-2728",
+        "Email": "xuen@brandeis.edu"
+    },
+    {
+        "Position": "Lecturer",
+        "Research Interest": "Information retrieval, information extraction, natural language processing, medical informatics",
+        "Name": "Peter Anick",
+        "Phone number": "panick@brandeis.edu",
+        "Email": "Volen 256"
+    },
+    {
+        "Position": "Lecturer",
+        "Research Interest": "Machine learning, computational linguistics, statistical natural language processing. ",
+        "Name": "Ben Wellner",
+        "Phone number": "wellner@cs.brandeis.edu",
+        "Email": "Missing"
+    }
+]

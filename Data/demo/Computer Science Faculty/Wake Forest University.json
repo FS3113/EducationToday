@@ -1,0 +1,38 @@
+[
+    {
+        "Email": "burg@wfu.edu",
+        "Position": "Assistant Professor",
+        "Name": "Sarra Alqahtani",
+        "Phone number": "(336) 758-3129"
+    },
+    {
+        "Email": "cochranw@wfu.edu",
+        "Position": "Assistant Professor",
+        "Name": "Minghan Chen",
+        "Phone number": "(336) 758-3732"
+    },
+    {
+        "Email": "227 Manchester Hall",
+        "Position": "Professor",
+        "Name": "Errin Fulp",
+        "Phone number": "(336) 758-3752"
+    },
+    {
+        "Email": "paucavp@wfu.edu",
+        "Position": "Adjunct Professor",
+        "Name": "Sami Khuri",
+        "Phone number": "Missing"
+    },
+    {
+        "Email": "ps@wfu.edu",
+        "Position": "Reynolds Professor of Computer Science &amp; Mathematics \u2013 Emeritus",
+        "Name": "Bob Plemmons",
+        "Phone number": "Missing"
+    },
+    {
+        "Email": "Missing",
+        "Position": "Associate Professor",
+        "Name": "William Turkett",
+        "Phone number": "(336) 758-4427"
+    }
+]

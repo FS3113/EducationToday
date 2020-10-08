@@ -1,0 +1,163 @@
+[
+    {
+        "Position": "John H. Dessauer Professor of Computer Science Professor of Linguistics Professor of Brain and Cognitive Sciences",
+        "Research Interest": "Interests:  Natural language understanding; Discourse; Knowledge representation; Common-sense reasoning; Planning",
+        "Name": "Allen, James F.",
+        "Email": "james@cs.rochester.edu",
+        "Phone number": " | (585) 275-7263"
+    },
+    {
+        "Position": "Assistant Professor of Computer Science",
+        "Research Interest": "Interests:  Human-Computer Interaction; Augmented Reality; Tangible User Interfaces; Embodied Conversational Agent; Technology-Enhanced Learning; Computer-Supported Collaborative Work; Assistive Technology",
+        "Name": "Bai, Zhen",
+        "Email": "zbai@cs.rochester.edu",
+        "Phone number": " | (585) 275-7747"
+    },
+    {
+        "Position": "Associate Professor of Computer Science",
+        "Research Interest": "Missing",
+        "Name": "Criswell, John",
+        "Email": "criswell@cs.rochester.edu",
+        "Phone number": "Missing"
+    },
+    {
+        "Position": "Professor of Computer Science",
+        "Research Interest": "Interests:  Locality theory and optimization; Compilers and run-time systems to improve locality and parallelism; Memory management; Parallel programming; High-performance computing ",
+        "Name": "Ding, Chen",
+        "Email": "chen.ding@rochester.edu",
+        "Phone number": " | (585) 275-1373"
+    },
+    {
+        "Position": "Albert Arendt Hopeman Professor of Computer Science Professor of Electrical and Computer Engineering",
+        "Research Interest": "Interests:  Parallel and distributed computing; Computer architecture and networks; Interaction and interface between the compiler, runtime system, and underlying architecture; Software distributed shared memory; Integrated compiler and runtime support for parallelism; Simulation methodology; Uniprocessor and multiprocessor architectures; Parallel applications development; Performance evaluation",
+        "Name": "Dwarkadas, Sandhya",
+        "Email": "sandhya@cs.rochester.edu",
+        "Phone number": " | (585) 275-5647"
+    },
+    {
+        "Position": "Associate Professor (Instruction) Co-Director Computer Science Undergraduate Program",
+        "Research Interest": "Interests:  Artificial intelligence; Intelligent agents; Agent communication languages; Agent architectures; User interfaces: speech recognition, natural language understanding, dialogue, conversational agents; Temporal reasoning: representation, planning, scheduling; Semantic web: ontologies, knowledge-based systems",
+        "Name": "Ferguson, George",
+        "Email": "ferguson@cs.rochester.edu",
+        "Phone number": " | (585) 275-5766"
+    },
+    {
+        "Position": "Professor of Computer Science",
+        "Research Interest": "Interests:  Machine translation; Semantic parsing; Algorithms for natural language processing",
+        "Name": "Gildea, Daniel",
+        "Email": "gildea@cs",
+        "Phone number": " | (585) 275-7230"
+    },
+    {
+        "Position": "Professor of Computer Science",
+        "Research Interest": "Interests:  Computational social choice (elections, preference aggregation, power indices, etc.); Computational complexity theory (counting-based computation, probabilistic computation, unambiguous computation, the importance of query order when accessing databases, the study of efficient algorithms for complex sets, complexity-theoretic aspects of security, fault-tolerance, and data compression, etc.)",
+        "Name": "Hemaspaandra, Lane A.",
+        "Email": "lane \"at\" cs.rochester.edu",
+        "Phone number": " | (585) 275-1203"
+    },
+    {
+        "Position": "Associate Professor of Computer Science",
+        "Research Interest": "Interests:  Human Computer Interaction; Artificial Intelligence ; Interactive machine learning; Health and wellbeing; Future of skills",
+        "Name": "Hoque, Ehsan",
+        "Email": "mehoque@cs.rochester.edu",
+        "Phone number": " | (585) 275-1351"
+    },
+    {
+        "Position": "Professor, Brain and Cognitive Sciences, Computer Science, and the Center for Visual Science",
+        "Research Interest": "Interests:  cognitive and perceptual learning; neural computation",
+        "Name": "Jacobs, Robert A.",
+        "Email": "Rjacobs@ur.rochester.edu",
+        "Phone number": " | (585) 275-0753"
+    },
+    {
+        "Position": "Professor of Computer Science",
+        "Research Interest": "Interests:  Artificial intelligence; Pervasive computing; Data science",
+        "Name": "Kautz, Henry",
+        "Email": "kautz@cs.rochester.edu",
+        "Phone number": " | (585) 520-1200"
+    },
+    {
+        "Position": "Professor of Computer Science",
+        "Research Interest": "Interests:  Computer Vision; Machine learning; Data Mining; Social Media; Biomedical Informatics; Human Computer Interaction; Ubiquitous and Mobile Computing",
+        "Name": "Luo, Jiebo",
+        "Email": "jluo@cs.rochester.edu",
+        "Phone number": " | (585) 276-5784"
+    },
+    {
+        "Position": "Assistant Professor of Computer Science",
+        "Research Interest": "Interests:  Data management ; Data science ; Data discovery and integration ",
+        "Name": "Nargesian, Fatemeh",
+        "Email": "f.nargesian@rochester.edu",
+        "Phone number": "Missing"
+    },
+    {
+        "Position": "Assistant Professor of Computer Science",
+        "Research Interest": "Interests:  Compilers; Heterogeneous Architectures; GPU algorithms; Performance Modeling",
+        "Name": "Pai, Sreepathi",
+        "Email": "sree@cs.rochester.edu",
+        "Phone number": "Missing"
+    },
+    {
+        "Position": "Associate Professor (Instruction)",
+        "Research Interest": "Interests:  Undergraduate eduction; Robotics; Computer vision; Artificial intelligence",
+        "Name": "Pawlicki, Thaddeus E.",
+        "Email": "pawlicki@cs.rochester.edu",
+        "Phone number": " | (585) 275-4198"
+    },
+    {
+        "Position": "Instructor",
+        "Research Interest": "Interests:  Natural language understanding ; Knowledge representation ; Commonsense reasoning ; Machine Learning ; Numerical programming ",
+        "Name": "Purtee, Adam",
+        "Email": "apurtee@cs.rochester.edu",
+        "Phone number": "Missing"
+    },
+    {
+        "Position": "Professor of Computer Science",
+        "Research Interest": "Interests:  Language and dialogue ; Knowledge representation and inference; Schema learning and schema-based behavior ; Self-motivated agents",
+        "Name": "Schubert, Lenhart K.",
+        "Email": "schubert@cs.rochester.edu",
+        "Phone number": "Missing"
+    },
+    {
+        "Position": "Arthur Gould Yates Professor and Chair of Computer Science",
+        "Research Interest": "Interests:  Systems software for parallel and distributed computing; Programming languages; Operating systems; Synchronization; Transactional memory; Persistent memory ",
+        "Name": "Scott, Michael L.",
+        "Email": "scott@cs.rochester.edu",
+        "Phone number": " | (585) 275-7745"
+    },
+    {
+        "Position": "Professor of Computer Science",
+        "Research Interest": "Interests:  Theoretical computer science: graph theory, combinatorics, Fourier transform, Markov chains/counting, learning theory, phylogeny, game theory, graph equations, routing",
+        "Name": "Stefankovic, Daniel",
+        "Email": "daniel.stefankovic@rochester.edu",
+        "Phone number": " | (585) 275-5492"
+    },
+    {
+        "Position": "Associate Professor of Computer Science",
+        "Research Interest": "Interests:  Cryptography; Complexity Theory",
+        "Name": "Venkitasubramaniam, Muthuramakrishnan",
+        "Email": "muthuv@cs.rochester.edu",
+        "Phone number": " | (585) 275-7968"
+    },
+    {
+        "Position": "Assistant Professor of Computer Science",
+        "Research Interest": "Interests:  Computer Vision; Video Analysis; Machine Learning; Deep Learning; Multimodal Modeling",
+        "Name": "Xu, Chenliang",
+        "Email": "chenliang.xu@rochester.edu",
+        "Phone number": " | (585) 275-5426"
+    },
+    {
+        "Position": "Assistant Professor of Computer Science",
+        "Research Interest": "Interests:  Computer architecture; Mobile visual computing; Web technologies; Cognitive edge computing",
+        "Name": "Zhu, Yuhao",
+        "Email": "yzhu@rochester.edu",
+        "Phone number": " | (585) 275-1192"
+    },
+    {
+        "Position": "Instructor",
+        "Research Interest": "Missing",
+        "Name": "Zhupa, Eustrat",
+        "Email": "ezhupa@cs.rochester.edu",
+        "Phone number": "Missing"
+    }
+]

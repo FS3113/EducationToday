@@ -1,0 +1,98 @@
+[
+    {
+        "Research Interest": "  Lecturer    625 Soda Hall; ball@berkeley.edu  Research Interests:   Education (EDUC) Human-Computer Interaction (HCI)   Education:  2016, MS, Computer Science, UC Berkeley; 2015, BA, Computer Science, UC Berkeley  Office Hours:  Tuesday 12-1pm (CS88); Thursday 11-12pm (CS169)  Teaching Schedule (Fall 2020): CS 88. Computational Structures in Data Science , MoWe 3:00PM - 3:59PM, Internet/Online  CS W169A. Software Engineering CS 198-93. Cubstart: Learn How to Build , Tu 6:00PM - 7:29PM, Internet/Online  CS 294-188. Design and Evaluation of Processes for Teaching Computer Science at Scale , We 6:00PM - 6:59PM, Internet/Online , Tu 7:00PM - 7:59PM, Internet/Online , Tu 7:00PM - 7:59PM, Internet/Online , Tu 7:00PM - 7:59PM, Internet/Online , Tu 7:00PM - 7:59PM, Internet/Online , Tu 7:00PM - 7:59PM, Internet/Online , Tu 7:00PM - 7:59PM, Internet/Online , Tu 7:00PM - 7:59PM, Internet/Online ",
+        "Name": "Michael Ball",
+        "Position": "Lecturer ",
+        "Email": "625 Soda Hall; ball@berkeley.edu "
+    },
+    {
+        "Research Interest": "  Professor    borgs@berkeley.edu  Research Interests:   Artificial Intelligence (AI) Theory (THY)   Education:  1987, PhD, Mathematical Physics, Max-Planck-Institute and Universitat Munchen  Teaching Schedule (Fall 2020): CS 294-179. Network Structure and Epidemics , TuTh 2:30PM - 3:59PM, Internet/Online ",
+        "Name": "Christian Borgs",
+        "Position": "Professor ",
+        "Email": "borgs@berkeley.edu "
+    },
+    {
+        "Research Interest": "  Assistant Professor    schasins@cs.berkeley.edu  Research Interests:   Programming Systems (PS) Human-Computer Interaction (HCI)   Education:  2019, Ph.D., Computer Science, University of California, Berkeley  Teaching Schedule (Fall 2020): CS 294-184. Building User-Centered Programming Tools , TuTh 11:00AM - 12:29PM, Internet/Online  CS 298-7. Research Culture and Community Norms , Tu 1:30PM - 2:59PM, Internet/Online ",
+        "Name": "Sarah Chasins",
+        "Position": "Assistant Professor ",
+        "Email": "schasins@cs.berkeley.edu "
+    },
+    {
+        "Research Interest": "  Professor    jchayes@berkeley.edu  Research Interests:   Information, Data, Network, and Communication Sciences (IDNCS) Theory (THY) Biosystems &amp; Computational Biology (BIO)   Education:  1983, PhD, Mathematical Physics, Princeton University ",
+        "Name": "Jennifer Chayes",
+        "Position": "Professor ",
+        "Email": "jchayes@berkeley.edu "
+    },
+    {
+        "Research Interest": "  Assistant Professor    785 Soda Hall; akcheung@cs.berkeley.edu  Research Interests:   Database Management Systems (DBMS) Programming Systems (PS)   Education:  2015, Ph.D., Computer Science, MIT  Teaching Schedule (Fall 2020): CS 186. Introduction to Database Systems , TuTh 5:00PM - 6:29PM, Internet/Online  CS 298-12. Database Seminar , Mo 3:00PM - 3:59PM, Internet/Online ",
+        "Name": "Alvin Cheung",
+        "Position": "Assistant Professor ",
+        "Email": "785 Soda Hall; akcheung@cs.berkeley.edu "
+    },
+    {
+        "Research Interest": "  Assistant Professor    ncrooks@berkeley.edu  Research Interests:   Database Management Systems (DBMS) Operating Systems &amp; Networking (OSNT)   Education:  2019, Ph.D., Distributed Systems, University of Texas; 2012, BA, Computer Science and Law, University of Cambridge  Teaching Schedule (Fall 2020): CS 294-171. Privacy Preserving Systems , MoWe 2:00PM - 3:29PM, Internet/Online  CS 298-7. Research Culture and Community Norms , Tu 1:30PM - 2:59PM, Internet/Online  CS 298-12. Database Seminar , Mo 3:00PM - 3:59PM, Internet/Online ",
+        "Name": "Natacha Crooks",
+        "Position": "Assistant Professor ",
+        "Email": "ncrooks@berkeley.edu "
+    },
+    {
+        "Research Interest": "  Professor    hfarid@berkeley.edu  Research Interests:   Graphics (GR)   Education:  1997, PhD, Computer Science, University of Pennsylvania  Teaching Schedule (Fall 2020): CS 47A. Self-paced courses CS 61A. The Structure and Interpretation of Computer Programs , MoWeFr 2:00PM - 2:59PM, Internet/Online ",
+        "Name": "Hany Farid",
+        "Position": "Professor ",
+        "Email": "hfarid@berkeley.edu "
+    },
+    {
+        "Research Interest": "  Assistant Professor    513 Soda Hall; nilah@berkeley.edu  Research Interests:   Biosystems &amp; Computational Biology (BIO)   Education:  2013, Ph.D., Biophysics, Harvard University  Teaching Schedule (Fall 2020): CS 294-172. Computational Methods in Genomics and Medicine , TuTh 3:00PM - 4:29PM, Internet/Online ",
+        "Name": "Nilah Ioannidis",
+        "Position": "Assistant Professor ",
+        "Email": "513 Soda Hall; nilah@berkeley.edu "
+    },
+    {
+        "Research Interest": "  Assistant Professor    257M Cory Hall;  Research Interests:   Artificial Intelligence (AI) Information, Data, Network, and Communication Sciences (IDNCS) Control, Intelligent Systems, and Robotics (CIR) Theory (THY) Signal Processing (SP) Operating Systems &amp; Networking (OSNT) Database Management Systems (DBMS) Cyber-Physical Systems and Design Automation (CPSDA)   Education:  2018, Ph.D., Electrical Engineering, Stanford University  Assistants:  Kim Kail, 253 Cory, 510-643-6633, kail@erso.berkeley.edu  Teaching Schedule (Fall 2020): EECS 225A. Statistical Signal Processing , TuTh 11:00AM - 12:29PM, Internet/Online ",
+        "Name": "Jiantao Jiao",
+        "Position": "Assistant Professor ",
+        "Email": "257M Cory Hall; "
+    },
+    {
+        "Research Interest": "  Assistant Professor    kanazawa@berkeley.edu  Research Interests:   Artificial Intelligence (AI) Graphics (GR)   Education:  2017, Ph.D., Computer Science, University of Maryland, College Park  Teaching Schedule (Fall 2020): CS 294-173. Learning for 3D Vision , TuTh 11:30AM - 12:59PM, Internet/Online ",
+        "Name": "Angjoo Kanazawa",
+        "Position": "Assistant Professor ",
+        "Email": "kanazawa@berkeley.edu "
+    },
+    {
+        "Research Interest": "  Professor    633 Soda Hall; minilek@berkeley.edu  Research Interests:   Theory (THY) Database Management Systems (DBMS)   Education:  2011, Ph.D., Computer Science, MIT; 2006, M.Eng., Computer Science, MIT; 2005, S.B., Computer Science, Mathematics, MIT  Teaching Schedule (Fall 2020): CS 294-165. Sketching Algorithms , MoWe 1:30PM - 2:59PM, ",
+        "Name": "Jelani Nelson",
+        "Position": "Professor ",
+        "Email": "633 Soda Hall; minilek@berkeley.edu "
+    },
+    {
+        "Research Interest": "  Assistant Professor    212 South Hall; adityagp@eecs.berkeley.edu  Research Interests:   Database Management Systems (DBMS) Human-Computer Interaction (HCI)   Education:  2013, PhD, Computer Science, Stanford; 2007, BTech, Computer Science and Engineering, IIT Bombay  Office Hours:  by appointment  Teaching Schedule (Fall 2020): CS 186. Introduction to Database Systems , TuTh 5:00PM - 6:29PM, Internet/Online  CS 298-12. Database Seminar , Mo 3:00PM - 3:59PM, Internet/Online ",
+        "Name": "Aditya Parameswaran",
+        "Position": "Assistant Professor ",
+        "Email": "212 South Hall; adityagp@eecs.berkeley.edu "
+    },
+    {
+        "Research Interest": "  Below The Line Assistant Professor    313 South Hall; nsalehi@berkeley.edu  Research Interests:   Human-Computer Interaction (HCI)   Education:  2019, Ph.D., Computer Science, Stanford University ",
+        "Name": "Niloufar Salehi",
+        "Position": "Below The Line Assistant Professor ",
+        "Email": "313 South Hall; nsalehi@berkeley.edu "
+    },
+    {
+        "Research Interest": "  Assistant Professor    570 Cory Hall; ysshao@berkeley.edu  Research Interests:   Computer Architecture &amp; Engineering (ARC) Integrated Circuits (INC) Cyber-Physical Systems and Design Automation (CPSDA)   Education:  2016, Ph.D., Computer Science, Harvard University  Office Hours:  Monday, 11am-12pm, 570 Cory  Teaching Schedule (Fall 2020): EECS 151. Introduction to Digital Design and Integrated Circuits , TuTh 3:30PM - 4:59PM, Internet/Online  EECS 151LA-2. Introduction to Digital Design and Integrated Circuits Lab , Tu 8:00AM - 10:59AM, Internet/Online  EECS 151LA-3. Introduction to Digital Design and Integrated Circuits Lab , We 5:00PM - 7:59PM, Internet/Online  EECS 151LB. Introduction to Digital Design and Integrated Circuits Lab , Mo 8:00AM - 10:59AM, Internet/Online  EECS 151LB-2. Introduction to Digital Design and Integrated Circuits Lab , Th 5:00PM - 7:59PM, Internet/Online  EECS 151LB-3. Introduction to Digital Design and Integrated Circuits Lab , Fr 1:00PM - 3:59PM, Internet/Online  EECS 251A. Introduction to Digital Design and Integrated Circuits , TuTh 3:30PM - 4:59PM, Internet/Online  EECS 251LA-102. Introduction to Digital Design and Integrated Circuits Lab , Tu 8:00AM - 10:59AM, Internet/Online  EECS 251LA-103. Introduction to Digital Design and Integrated Circuits Lab , We 5:00PM - 7:59PM, Internet/Online  EECS 251LB-101. Introduction to Digital Design and Integrated Circuits Lab , Mo 8:00AM - 10:59AM, Internet/Online  EECS 251LB-102. Introduction to Digital Design and Integrated Circuits Lab , Th 5:00PM - 7:59PM, Internet/Online  EECS 251LB-103. Introduction to Digital Design and Integrated Circuits Lab , Fr 1:00PM - 3:59PM, Internet/Online ",
+        "Name": "Sophia Shao",
+        "Position": "Assistant Professor ",
+        "Email": "570 Cory Hall; ysshao@berkeley.edu "
+    },
+    {
+        "Research Interest": "  Below The Line Assistant Professor    325 Evans Hall; jsteinhardt@berkeley.edu  Research Interests:   Artificial Intelligence (AI) Information, Data, Network, and Communication Sciences (IDNCS)   Education:  2018, PhD, Computer Science, Stanford; 2012, BSc, Mathematics, MIT ",
+        "Name": "Jacob Steinhardt",
+        "Position": "Below The Line Assistant Professor ",
+        "Email": "325 Evans Hall; jsteinhardt@berkeley.edu "
+    },
+    {
+        "Research Interest": "  Assistant Professor    635 Soda Hall; atal@berkeley.edu  Research Interests:   Theory (THY)   Education:  2015, PhD, Computer Science, Weizmann Institute of Science; 2012, MS, Computer Science, Weizmann Institute of Science; 2007, BA, Mathematics, The Technion, Haifa, Israel; 2005, BS, Software Engineering, The Technion, Haifa, Israel  Teaching Schedule (Fall 2020): CS 170. Efficient Algorithms and Intractable Problems , TuTh 3:30PM - 4:59PM, Internet/Online ",
+        "Name": "Avishay Tal",
+        "Position": "Assistant Professor ",
+        "Email": "635 Soda Hall; atal@berkeley.edu "
+    }
+]

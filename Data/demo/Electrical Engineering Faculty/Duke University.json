@@ -1,0 +1,592 @@
+[
+    {
+        "Research Interest": "Research Interests: Testing and design-for-testability of integrated circuits and systems (SOCs, 3D, manycore); microfluidic biochips and cyberphysical systems; resilient computing systems; hardware security; machine learning hardware and \\xc2\\xa0neuromorphic computing systems",
+        "Position": "John Cocke Distinguished Professor of Electrical and Computer Engineering",
+        "Name": "Krishnendu Chakrabarty"
+    },
+    {
+        "Research Interest": "Research Interests: Engineering education, pedagogy and curriculum development, applications of statistical signal processing",
+        "Position": "Professor of the Practice in the Department of Electrical and Computer Engineering",
+        "Name": "Lisa Gresham Huettel"
+    },
+    {
+        "Research Interest": "Research Interests: Neuromorphic computing systems Machine learning acceleration and trustworthy AIEmerging memory technologies, circuit and architecture Low power circuits and systems",
+        "Position": "Clare Boothe Luce Professor of Electrical and Computer Engineering",
+        "Name": "Hai &quot;Helen&quot; Li"
+    },
+    {
+        "Research Interest": "Research Interests: Software security, robotics, project-oriented education, and datacenter efficiency",
+        "Position": "Assistant Professor Of The Practice in the Department of Electrical and Computer Engineering",
+        "Name": "Tyler K Bletsch"
+    },
+    {
+        "Research Interest": "Research Interests: High performance scientific computing and simulation, novel computer architectures, cluster computing and parallel processing; ubiquitous computing.",
+        "Position": "Associate Professor of Electrical and Computer Engineering",
+        "Name": "John A. Board"
+    },
+    {
+        "Research Interest": "Research Interests: Professor Brady\\'s research focuses on \"smart cameras\" which use artificial intelligence to increase the amount of visual information captured and to render this information useful. In 2012 his group built the world\\'s first gigapixel camera, his work today focuses on making...",
+        "Position": "Michael J. Fitzpatrick Distinguished Professor of Photonics in the Edmund T. Pratt, Jr. School of Engineering",
+        "Name": "David J. Brady"
+    },
+    {
+        "Research Interest": "Research Interests: Analog, RF, and optoelectronic circuits. Sensor interface circuits. Deployable sensor systems",
+        "Position": "Associate Professor of Electrical and Computer Engineering",
+        "Name": "Martin A. Brooke"
+    },
+    {
+        "Research Interest": "",
+        "Position": "Professor of Electrical and Computer Engineering",
+        "Name": "April S. Brown"
+    },
+    {
+        "Research Interest": "Research Interests: Quantum error correction, quantum control, quantum computer architecture, ion trap quantum computing, and the spectroscopy of sympathetically cooled molecular ions",
+        "Position": "Associate Professor in the Department of Electrical and Computer Engineering",
+        "Name": "Kenneth R Brown"
+    },
+    {
+        "Research Interest": "Research Interests: Error control codes for quantum computing, wireless communication and the internet of things, coding theory for computer architecture, signal processing, machine learning",
+        "Position": "Charles S. Sydnor Distinguished Professor of Computer Science",
+        "Name": "Robert Calderbank"
+    },
+    {
+        "Research Interest": "Research Interests: Applied statistics and machine learning",
+        "Position": "James L. Meriam Distinguished Professor of Electrical and Computer Engineering",
+        "Name": "Lawrence Carin"
+    },
+    {
+        "Research Interest": "Research Interests: Testing and design-for-testability of integrated circuits and systems (SOCs, 3D, manycore); microfluidic biochips and cyberphysical systems; resilient computing systems; hardware security; machine learning hardware and \\xc2\\xa0neuromorphic computing systems",
+        "Position": "John Cocke Distinguished Professor of Electrical and Computer Engineering",
+        "Name": "Krishnendu Chakrabarty"
+    },
+    {
+        "Research Interest": "Research Interests: wireless networks, edge computing, Internet of Things (IoT) computing",
+        "Position": "Assistant Professor of Electrical and Computer Engineering (beginning August 1, 2021)",
+        "Name": "Tingjun Chen"
+    },
+    {
+        "Research Interest": "Research Interests: Nonvolatile memory and storage systems, neuromorphic computing, and mobile applications.",
+        "Position": "Professor in the Department of Electrical and Computer Engineering",
+        "Name": "Yiran Chen"
+    },
+    {
+        "Research Interest": "Research Interests: Physics-based machine learning algorithms for big data, including developing remediation strategies for the hearing impaired and sensor-based algorithms for the detection of hazardous buried objects",
+        "Position": "Professor of Electrical and Computer Engineering",
+        "Name": "Leslie M. Collins"
+    },
+    {
+        "Research Interest": "Research Interests: Theoretical and experimental electromagnetic problems related to geophysical remote sensing and engineered electromagnetic materials.",
+        "Position": "William H. Younger Distinguished Professor of Engineering",
+        "Name": "Steven A. Cummer"
+    },
+    {
+        "Research Interest": "Research Interests: Human-unmanned vehicle interaction, human-autonomous system collaboration, human-systems engineering, public policy implications of unmanned vehicles, and the ethical and social impact of technology.",
+        "Position": "Professor in the Department of Electrical and Computer Engineering",
+        "Name": "Mary &quot;Missy&quot; Cummings"
+    },
+    {
+        "Research Interest": "Research Interests: Design, implementation, and evaluation of technologies, curriculum and programs to support diversity, equity, and inclusion in STEM fields.\\xc2\\xa0",
+        "Position": "Associate Professor of the Practice in the Department of Electrical and Computer Engineering",
+        "Name": "Shaundra Daily"
+    },
+    {
+        "Research Interest": "Research Interests: Wavelet theory, signal processing, machine learning, computational geometry, time-frequency analysis",
+        "Position": "James B. Duke Distinguished Professor of Mathematics and Electrical and Computer Engineering",
+        "Name": "Ingrid Daubechies"
+    },
+    {
+        "Research Interest": "Research Interests: Microfluidic systems for lab-on-a-chip applications based on electrowetting technology",
+        "Position": "Lord-Chandran Distinguished Professor of Engineering",
+        "Name": "Richard B. Fair"
+    },
+    {
+        "Research Interest": "Research Interests: Nanomaterials in electronic devices, nanofabrication, printed electronics and internet of things (IoT), biosensing",
+        "Position": "Addy Professor of Electrical and Computer Engineering",
+        "Name": "Aaron D. Franklin"
+    },
+    {
+        "Research Interest": "Research Interests: Primarily computational and compressive sensing and measurement in all modalities (with special emphasis in Electromagnetic/Optical from RF to x-ray and all forms of Mass spectrometry), with side interests in optical physics, high-performance x-ray simulation, and rapid-...",
+        "Position": "Associate Professor of Electrical and Computer Engineering",
+        "Name": "Michael E. Gehm"
+    },
+    {
+        "Research Interest": "Research Interests: Electronic materials and the associated devices/instruments improved by these materials, especially electrode applications in miniature mass spectrometry, energy conversion and storage and liquid waste disinfection for developing regions. Electrochemical measurements and...",
+        "Position": "Professor of Electrical and Computer Engineering",
+        "Name": "Jeffrey Glass"
+    },
+    {
+        "Research Interest": "Research Interests: Security, privacy, and machine learning.\\xc2\\xa0",
+        "Position": "Assistant Professor of Electrical and Computer Engineering",
+        "Name": "Neil Gong"
+    },
+    {
+        "Research Interest": "Research Interests: Architectures, algorithms, and protocols for emerging mobile pervasive systems and the Internet of Things. Our work crosses traditional discipline boundaries and requires thinking across multiple layers of system and protocol stacks. We are focusing on breaking the barriers for...",
+        "Position": "Nortel Networks Assistant Professor of Electrical and Computer Engineering",
+        "Name": "Maria Gorlatova"
+    },
+    {
+        "Research Interest": "Research Interests: Computational methods for image analysis and information extraction, discrete event simulations, curriculum development and deployment",
+        "Position": "Associate Professor of the Practice of Electrical and Computer Engineering",
+        "Name": "Michael Richard Gustafson"
+    },
+    {
+        "Research Interest": "Research Interests: Computer architecture, specifically architectural support for security and energy-efficient performance",
+        "Position": "Associate Professor of the Practice in the Department of Electrical and Computer Engineering",
+        "Name": "Andrew Douglas Hilton"
+    },
+    {
+        "Research Interest": "Research Interests: Engineering education, pedagogy and curriculum development, applications of statistical signal processing",
+        "Position": "Professor of the Practice in the Department of Electrical and Computer Engineering",
+        "Name": "Lisa Gresham Huettel"
+    },
+    {
+        "Research Interest": "Research Interests: Electromagnetic field and wave interactions with materials and structures",
+        "Position": "Professor of Electrical and Computer Engineering",
+        "Name": "William T. Joines"
+    },
+    {
+        "Research Interest": "",
+        "Position": "J. A. Jones Distinguished Professor of Electrical and Computer Engineering",
+        "Name": "Nan Marie Jokerst"
+    },
+    {
+        "Research Interest": "Research Interests: Quantum Computing with Trapped Ions, Quantum Information Science, Novel Photonic Devices, Application of Quantum Computers",
+        "Position": "Professor in the Department of Electrical and Computer Engineering",
+        "Name": "Jungsang Kim"
+    },
+    {
+        "Research Interest": "Research Interests: Physics-based and statistical signal processing, sensor array processing, radar and sonar systems, pervasive distributed processing",
+        "Position": "Professor of Electrical and Computer Engineering",
+        "Name": "Jeffrey L. Krolik"
+    },
+    {
+        "Research Interest": "Research Interests: Integrated circuits, signal processing and data analytics",
+        "Position": "Professor in the Department of Electrical and Computer Engineering",
+        "Name": "Xin Li"
+    },
+    {
+        "Research Interest": "Research Interests: Neuromorphic computing systems Machine learning acceleration and trustworthy AIEmerging memory technologies, circuit and architecture Low power circuits and systems",
+        "Position": "Clare Boothe Luce Professor of Electrical and Computer Engineering",
+        "Name": "Hai &quot;Helen&quot; Li"
+    },
+    {
+        "Research Interest": "",
+        "Position": "Assistant Professor of the Practice in the Department of Electrical and Computer Engineering",
+        "Name": "Genevieve Lipp"
+    },
+    {
+        "Research Interest": "Research Interests: Nanophotonics; Photonic Metamaterials; Nonlinear Optics; Fiber Optics; Photonic Crystal Fibers",
+        "Position": "Professor in the Department of Electrical and Computer Engineering",
+        "Name": "Natalia Litchinitser"
+    },
+    {
+        "Research Interest": "Research Interests: Computational electromagnetics and acoustics; inverse problems, and their application in geophysics, nanophotonics, and biomedical imaging",
+        "Position": "Professor of Electrical and Computer Engineering",
+        "Name": "Qing Huo Liu"
+    },
+    {
+        "Research Interest": "Research Interests: Quantum information and computation theory",
+        "Position": "Assistant Professor in the Department of Electrical and Computer Engineering",
+        "Name": "Iman Marvian"
+    },
+    {
+        "Research Interest": "Research Interests: Ultrathin gate dielectrics for CMOS ULSI \\xe2\\x80\\x93 the technology, physics, modeling, simulation, and characterization of ultrathin-oxide MOSFETs",
+        "Position": "Professor of Electrical and Computer Engineering",
+        "Name": "Hisham Z. Massoud"
+    },
+    {
+        "Research Interest": "Research Interests: Quantum nanophotonics, plasmonics, light-matter interactions in artificially structured nanoscale materials, hybrid molecular-scale materials and spin phenomena in the solid state",
+        "Position": "James N. and Elizabeth H. Barton Associate Professor of Electrical and Computer Engineering",
+        "Name": "Maiken Mikkelsen"
+    },
+    {
+        "Research Interest": "Research Interests: quantum physics, applications in quantum information science",
+        "Position": "Professor of Electrical and Computer Engineering and Physics (beginning January 1, 2021)",
+        "Name": "Christopher Monroe"
+    },
+    {
+        "Research Interest": "Research Interests: Bayesian and physics-based approaches to signal detection, classification, estimation, tracking and decision and sensor fusion. Machine learning. Applications include ocean acoustics and medical imaging-based decision theory for cancer research.",
+        "Position": "Professor of Electrical and Computer Engineering",
+        "Name": "Loren W. Nolte"
+    },
+    {
+        "Research Interest": "Research Interests: Link between acoustic and motor behavior in marine mammals, specifically, how they use sound in ecological processes. Development of tools for marine conservation research",
+        "Position": "Randolph K. Repass and Sally-Christine Rodgers University Distinguished Professor of Conservation Technology in Environment and Engineering",
+        "Name": "Douglas Nowacek"
+    },
+    {
+        "Research Interest": "Research Interests: Theoretical and experimental investigation of electromagnetic metamaterials and metasurfaces, and their application to imaging and sensing at microwave, terahertz, and infrared frequencies",
+        "Position": "Professor in the Department of Electrical and Computer Engineering",
+        "Name": "Willie John Padilla"
+    },
+    {
+        "Research Interest": "Research Interests: Design and analysis of cyber-physical systems (CPS), in particular, embedded systems, distributed/networked control systems, CPS security, and high-confidence medical systems",
+        "Position": "Dickinson Family Associate Professor",
+        "Name": "Miroslav Pajic"
+    },
+    {
+        "Research Interest": "Research Interests: Information theory, communications, probabilistic graphical models, machine learning, and deep neural networks",
+        "Position": "Professor in the Department of Electrical and Computer Engineering",
+        "Name": "Henry Pfister"
+    },
+    {
+        "Research Interest": "Research Interests: Information theory, high-dimensional statistical inference, statistical signal processing, compressed sensing, machine learning",
+        "Position": "Associate Professor in the Department of Electrical and Computer Engineering",
+        "Name": "Galen Reeves"
+    },
+    {
+        "Research Interest": "Research Interests: computer and communications security, distributed computing",
+        "Position": "Professor of Computer Science and Electrical and Computer Engineering (beginning January 1, 2021)",
+        "Name": "Michael Reiter"
+    },
+    {
+        "Research Interest": "Research Interests: Machine learning, interpretability and transparency of predictive models, causal inference, energy, criminal justice, healthcare",
+        "Position": "Professor of Computer Science",
+        "Name": "Cynthia D. Rudin"
+    },
+    {
+        "Research Interest": "Research Interests: Image and video processing, computer vision, computer graphics, computational vision, biomedical imaging, brain imaging, cryo-tomography of viruses, computational tools in cryo-tomography, computational tools in early diagnosis of psychiatric disorders, differential geometry and...",
+        "Position": "James B. Duke Distinguished Professor of Electrical and Computer Engineering",
+        "Name": "Guillermo Sapiro"
+    },
+    {
+        "Research Interest": "Research Interests: Theory, simulation and demonstration of novel electromagnetic metamaterials across the spectrum, from microwave through optical. Applications of metamaterials for antennas and imaging devices, with a focus on security imaging and satellite imaging. General studies on advanced...",
+        "Position": "James B. Duke Distinguished Professor of Electrical and Computer Engineering",
+        "Name": "David R. Smith"
+    },
+    {
+        "Research Interest": "Research Interests: Computer architecture, designing microarchitectures so that they are easier to verify, improving computer system fault tolerance, developing memory systems for multicore processors, and designing special-purpose accelerators",
+        "Position": "Professor of Electrical and Computer Engineering",
+        "Name": "Daniel J. Sorin"
+    },
+    {
+        "Research Interest": "Research Interests: Thin-film deposition, MAPLE, hybrid perovskites, hybrid nanocomposites, organic thin films",
+        "Position": "Jeffrey N. Vinik Professor",
+        "Name": "Adrienne Stiff-Roberts"
+    },
+    {
+        "Research Interest": "Research Interests: Signal detection and estimation theory, statistical signal processing, pattern recognition and machine learning, remote sensing, matched-field processing, and ocean acoustics",
+        "Position": "Bell-Rhodes Associate Professor of the Practice of Electrical and Computer Engineering",
+        "Name": "Stacy L. Tantum"
+    },
+    {
+        "Research Interest": "Research Interests: Representation, modeling, inference and prediction from data",
+        "Position": "Rhodes Family Professor of Electrical and Computer Engineering",
+        "Name": "Vahid Tarokh"
+    },
+    {
+        "Research Interest": "Research Interests: Markov models, Fault trees, Stochastic Petri nets, Reliability Modeling, Availability Modeling, Performability modeling, Survivability modeling, Cyber Security, Software reliability, Software Fault Tolerance, Software Aging and Rejuvenation",
+        "Position": "Hudson Distinguished Professor of Electrical and Computer Engineering",
+        "Name": "Kishor S. Trivedi"
+    },
+    {
+        "Research Interest": "Research Interests: I enjoy solving difficult problems surrounding computations with the goal to\\xc2\\xa0process\\xc2\\xa0large volumes of data efficiently. My research interests include computer architecture and microarchitecture, hardware-software co-designs, accelerators, and emerging application domains \\xe2\\x80\\x95...",
+        "Position": "Clare Boothe Luce Assistant Professor of Computer Science and Electrical and Computer Engineering",
+        "Name": "Lisa Wills"
+    },
+    {
+        "Research Interest": "Research Interests: Wearable computing,\\xc2\\xa0activity recognition, context awareness, machine learning, engineering education, and Middle Eastern politics",
+        "Position": "Assistant Professor Of The Practice in the Department of Electrical and Computer Engineering",
+        "Name": "Rabih Younes"
+    },
+    {
+        "Research Interest": "Research Interests: Image analysis, data science, computer vision, machine learning, image reconstruction, cryo-electron microscopy, protein structure",
+        "Position": "Associate Professor of Computer Science",
+        "Name": "Alberto Bartesaghi"
+    },
+    {
+        "Research Interest": "Research Interests: Solving energy problems using machine learning and statistical modeling",
+        "Position": "Assistant Research Professor in the Department of Electrical and Computer Engineering",
+        "Name": "Kyle Bradbury"
+    },
+    {
+        "Research Interest": "Research Interests: Machine learning, predictive modeling, health data science, statistical neuroscience",
+        "Position": "Assistant Professor of Civil and Environmental Engineering",
+        "Name": "David Carlson"
+    },
+    {
+        "Research Interest": "Research Interests: Theory and computation of spectral methods, geometrical data analysis, high dimensional statistics, mathematical analysis of deep neural networks.",
+        "Position": "Assistant Professor of Mathematics",
+        "Name": "Xiuyuan Cheng"
+    },
+    {
+        "Research Interest": "Research Interests: Artificial Intelligence Materials Science; Autonomous Materials Design; Computational materials science; High-Entropy Disordered Systems; Materials for Energy Applications; Materials for Aerospace Applications. Prof. Curtarolo multidisciplinary research makes use of state-of-the...",
+        "Position": "Professor in the Department of Mechanical Engineering and Materials Science",
+        "Name": "Stefano Curtarolo"
+    },
+    {
+        "Research Interest": "",
+        "Position": "James B. Duke Distinguished Professor of Computer Science",
+        "Name": "Bruce Randall Donald"
+    },
+    {
+        "Research Interest": "Research Interests: Focused on medical imaging and machine learning to improve the overall health and vision outcome of patients with ocular and neurological diseases (e.g., age-related macular degeneration, diabetic retinopathy, Alzheimer, and ALS) through earlier and personalized therapy.",
+        "Position": "Paul Ruffin Scarborough Distinguished Associate Professor of Engineering",
+        "Name": "Sina Farsiu"
+    },
+    {
+        "Research Interest": "",
+        "Position": "Assistant Professor in Psychiatry &amp; Behavioral Sciences",
+        "Name": "Stefan M Goetz"
+    },
+    {
+        "Research Interest": "Research Interests: Recording and understanding brain activity by developing novel combinations of optical microscopy and genetically encoded sensors. Using these technologies, we wish to dissect neural circuit function and investigate how neural activity drives complex behaviors.",
+        "Position": "Assistant Professor in the Department of Biomedical Engineering",
+        "Name": "Yiyang Gong"
+    },
+    {
+        "Research Interest": "Research Interests: Neural engineering and neural prostheses and include design and testing of electrodes and stimulation techniques, the electrical properties of tissues and cells, and computational neuroscience with applications in restoration of bladder function, treatment of movement disorders...",
+        "Position": "Professor of Biomedical Engineering",
+        "Name": "Warren M. Grill"
+    },
+    {
+        "Research Interest": "",
+        "Position": "Assistant Research Professor of Statistical Science",
+        "Name": "Katherine Heller"
+    },
+    {
+        "Research Interest": "",
+        "Position": "Assistant Professor in Biostatistics and Bioinformatics",
+        "Name": "Ricardo Henao"
+    },
+    {
+        "Research Interest": "Research Interests: Computational optics, machine learning, and designing new algorithms for image processing. A main focus is to improve how we capture and use images of microscopic phenomena within a range of biomedical contexts. In general, I like to create new optical devices that can improve...",
+        "Position": "Assistant Professor of Biomedical Engineering",
+        "Name": "Roarke W. Horstmeyer"
+    },
+    {
+        "Research Interest": "Research Interests: Biomedical signal processing (ECG, EEG, PPG, ICP, cerebral blood flow velocity), machine learning in healthcare, mathematical modeling of physiological systems, brain monitoring.",
+        "Position": "Professor in the School of Nursing",
+        "Name": "Xiao Hu"
+    },
+    {
+        "Research Interest": "Research Interests: Biophotonics and include coherence-based biomedical imaging and microscopy, novel technologies for ophthalmic imaging, and nanoscale studies of cellular morphology and dynamics.",
+        "Position": "Michael J. Fitzpatrick Distinguished Professor of Engineering in the Edmund T. Pratt, Jr. School of Engineering",
+        "Name": "Joseph A. Izatt"
+    },
+    {
+        "Research Interest": "Research Interests: Accelerating Statistical Machine LearningNovel computer architectures targeted at machine learning problems that rely on Markov Chain Monte Carlo techniques and probabilistic computing in general.Multicore/multiprocessor and Distributed Systems (including data centers)Cache...",
+        "Position": "Professor of Computer Science",
+        "Name": "Alvin R. Lebeck"
+    },
+    {
+        "Research Interest": "Research Interests: Computer vision and machine learning for medical imaging diagnosis; radiogenomics for improved management of breast cancer; computational and physical breast models for virtual clinical trials",
+        "Position": "Professor of Radiology",
+        "Name": "Joseph Yuan-Chieh Lo"
+    },
+    {
+        "Research Interest": "",
+        "Position": "Pelham Wilder Distinguished Professor of Computer Science",
+        "Name": "Bruce Maggs"
+    },
+    {
+        "Research Interest": "",
+        "Position": "Associate Professor in Radiology",
+        "Name": "Maciej A Mazurowski"
+    },
+    {
+        "Research Interest": "",
+        "Position": "Joseph A.C. Wadsworth Distinguished Professor of Ophthalmology",
+        "Name": "Felipe Medeiros"
+    },
+    {
+        "Research Interest": "",
+        "Position": "Assistant Professor of Biostatistics and Bioinformatics",
+        "Name": "John Pearson"
+    },
+    {
+        "Research Interest": "Research Interests: Development and modeling of devices and application paradigms for transcranial brain stimulation; projects related to power electronics, with applications in electrical energy conversion and storage",
+        "Position": "Associate Professor in Psychiatry and Behavioral Sciences",
+        "Name": "Angel Vladimirov Peterchev"
+    },
+    {
+        "Research Interest": "Research Interests: Molecular assembly, DNA computing, robot motion planning, parallel algorithms, randomized algorithms, graph algorithms, algebraic computation, data compression, optical computation, and quantum computation.",
+        "Position": "A. Hollis Edens Distinguished Professor of Computer Science",
+        "Name": "John H. Reif"
+    },
+    {
+        "Research Interest": "Research Interests: X-ray imaging, theoretical imaging models, simulation methods, and experimental techniques in medical image formation, analysis, assessment, and perception",
+        "Position": "Professor of Radiology",
+        "Name": "Ehsan Samei"
+    },
+    {
+        "Research Interest": "Research Interests: Precision medicine for cancer, regeneration, microbiome, and gut-brain axis. Multi-omics approaches including organoid, epigenetics, CRISPR, single-cell, metabolomics, machine learning, droplet microfluidics, humanized immune model and intravital imaging.",
+        "Position": "Hawkins Family Associate Professor",
+        "Name": "Xiling Shen"
+    },
+    {
+        "Research Interest": "Research Interests: Network science, machine learning, high-dimensional statistical inference, information theory, optimization, stochastic systems, game theory, communications and networking",
+        "Position": "Assistant Professor of Business Administration",
+        "Name": "Jiaming Xu"
+    },
+    {
+        "Research Interest": "",
+        "Position": "Associate Professor of Computer Science",
+        "Name": "Xiaowei Yang"
+    },
+    {
+        "Research Interest": "Research Interests: Control theory, optimization, and learning; in particular, robotics and autonomous systems, networked and distributed control systems, and cyber-physical systems.",
+        "Position": "Yoh Family Associate Professor of Mechanical Engineering and Materials Science",
+        "Name": "Michael Zavlanos"
+    },
+    {
+        "Research Interest": "Research Interests: My area of interest is in the application of computational and compressive techniques to improve spectroscopic instrument design. Spectroscopic measurements are a convolution of the instrument response and the desired spectrum. Conventional spectroscopic instruments are designed...",
+        "Position": "Associate Research Professor in the Department of Electrical and Computer Engineering",
+        "Name": "Jason Amsden"
+    },
+    {
+        "Research Interest": "",
+        "Position": "Assistant Research Professor in the Department of Electrical and Computer Engineering",
+        "Name": "Juan Matias Di Martino"
+    },
+    {
+        "Research Interest": "",
+        "Position": "Assistant Research Professor in the Department of Electrical and Computer Engineering",
+        "Name": "Kebin Fan"
+    },
+    {
+        "Research Interest": "Research Interests: Computational sensing with a focus on novel, physics-based measurement techniques for\\xc2\\xa0practical applications. \\xc2\\xa0Primarily focused in the electromagnetic/optical spectrum ranging from ELF through visible and hard X-rays, with applications to\\xc2\\xa0security, non-destructive testing, and...",
+        "Position": "Associate Research Professor in the Department of Electrical and Computer Engineering",
+        "Name": "Joel Alter Greenberg"
+    },
+    {
+        "Research Interest": "",
+        "Position": "Associate Research Professor in theDepartment of Electrical and Computer Engineering",
+        "Name": "Sonia Grego"
+    },
+    {
+        "Research Interest": "Research Interests: Application of advanced machine learning and computer vision techniques to real-world problems",
+        "Position": "Assistant Research Professor in the Department of Electrical and Computer Engineering",
+        "Name": "Jordan Milton Malof"
+    },
+    {
+        "Research Interest": "Research Interests: Metamaterials and Synthetic Electromagnetic Materials, Computational Imaging, Imaging System Design, Inverse Scattering, Mathematical Inference, and Optical Design",
+        "Position": "Associate Research Professor in the Department of Electrical and Computer Engineering",
+        "Name": "Daniel L. Marks"
+    },
+    {
+        "Research Interest": "Research Interests: Machine learning, computer vision, pattern recognition, deep learning, biometrics applications, human activity recognition, image classification, object detection, representation learning",
+        "Position": "Assistant Research Professor in the Department of Electrical and Computer Engineering",
+        "Name": "Qiang Qiu"
+    },
+    {
+        "Research Interest": "",
+        "Position": "Research Professor in the Department of Electrical and Computer Engineering",
+        "Name": "Brian R. Stoner"
+    },
+    {
+        "Research Interest": "",
+        "Position": "Adjunct Professor of Electrical and Computer Engineering",
+        "Name": "Jeffrey Derby"
+    },
+    {
+        "Research Interest": "",
+        "Position": "Adjunct Assistant Professor in the Department of Electrical and Computer Engineering",
+        "Name": "Adel F Fahmy"
+    },
+    {
+        "Research Interest": "",
+        "Position": "Adjunct Assistant Professor in the Department of Electrical and Computer Engineering",
+        "Name": "Farshad Firouzi"
+    },
+    {
+        "Research Interest": "",
+        "Position": "Adjunct Assistant Professor in the Department of Electrical and Computer Engineering",
+        "Name": "John Charles Goss"
+    },
+    {
+        "Research Interest": "Research Interests: Robot motion planning and control, semiautonomous robots, and integrating perception and planning",
+        "Position": "Adjunct Associate Professor in the Department of Electrical and Computer Engineering",
+        "Name": "Kris Hauser"
+    },
+    {
+        "Research Interest": "",
+        "Position": "Adjunct Assistant Professor in the Department of Electrical and Computer Engineering",
+        "Name": "Jay Lawrence Hineman"
+    },
+    {
+        "Research Interest": "",
+        "Position": "Adjunct Assistant Professor in the Department of Electrical and Computer Engineering",
+        "Name": "Nathan Kundtz"
+    },
+    {
+        "Research Interest": "Research Interests: Computer architecture and systems, energy efficiency, performance modeling, and algorithmic economics for resource management; policy for environmentally sustainable information technology infrastructure",
+        "Position": "Associate Professor in the Department of Electrical and Computer Engineering",
+        "Name": "Benjamin C Lee"
+    },
+    {
+        "Research Interest": "",
+        "Position": "Adjunct Assistant Professor in the Department of Electrical and Computer Engineering",
+        "Name": "Xuejun Liao"
+    },
+    {
+        "Research Interest": "Research Interests: Mixed-Signal CMOS circuit design, layout and testingBioelectronic circuits for wireless neural interfaces: Recording and StimulationSigma Delta ADC and DACs architecture and circuit designUltrasound Pre-Amplifier and multiplexingLiquid Crystal on Silicon (LCOS) Pixel driver...",
+        "Position": "Adjunct Associate Professor in the Department of Electrical and Computer Engineering",
+        "Name": "James Morizio"
+    },
+    {
+        "Research Interest": "",
+        "Position": "Adjunct Professor in the Department of Electrical and Computer Engineering",
+        "Name": "Joe X Qiu"
+    },
+    {
+        "Research Interest": "",
+        "Position": "Adjunct Professor in the Department of Electrical and Computer Engineering",
+        "Name": "Andrew Rindos"
+    },
+    {
+        "Research Interest": "",
+        "Position": "Adjunct Assistant Professor in the Department of Electrical and Computer Engineering",
+        "Name": "Brian M Rogers"
+    },
+    {
+        "Research Interest": "",
+        "Position": "Adjunct Assistant Professor in the Department of Electrical and Computer Engineering",
+        "Name": "Evan Runnerstrom"
+    },
+    {
+        "Research Interest": "Research Interests: Signal processing for hearing aids and auditory prostheses, computational modeling of the auditory periphery, and the use of intracochlear and cortical evoked potentials in the development and refinement of methods for coding sound for users of cochlear implants.",
+        "Position": "Adjunct Assistant Professor in the Department of Electrical and Computer Engineering",
+        "Name": "Joshua Stohl"
+    },
+    {
+        "Research Interest": "",
+        "Position": "Adjunct Assistant Professor in the Department of Electrical and Computer Engineering",
+        "Name": "Patrick Wang"
+    },
+    {
+        "Research Interest": "Research Interests: Signal processing and neural prostheses.",
+        "Position": "Adjunct Professor in the Department of Head and Neck Surgery &amp; Communication Sciences",
+        "Name": "Blake Shaw Wilson"
+    },
+    {
+        "Research Interest": "Research Interests: Development of inexpensive and accessible newborn screening and pediatric diagnostic products",
+        "Position": "Entrepreneur in Residence",
+        "Name": "Vamsee K. Pamula"
+    },
+    {
+        "Research Interest": "",
+        "Position": "Professor Emeritus of Electrical and Computer Engineering",
+        "Name": "H. Craig Casey"
+    },
+    {
+        "Research Interest": "",
+        "Position": "Assistant Professor Emeritus",
+        "Name": "Rhett T. George"
+    },
+    {
+        "Research Interest": "",
+        "Position": "Professor Emeritus of Electrical and Computer Engineering",
+        "Name": "Peter N. Marinos"
+    },
+    {
+        "Research Interest": "",
+        "Position": "Emeritus Visiting Professor",
+        "Name": "Dean E. McCumber"
+    },
+    {
+        "Research Interest": "",
+        "Position": "Professor Emeritus of Electrical and Computer Engineering",
+        "Name": "Paul P. Wang"
+    }
+]

@@ -65,9 +65,3 @@ Structural Mechanics
  Physics 
  Political Science 
  Structural Mechanics 
-Division of Biology and Biological Engineering
-Division of Chemistry and Chemical Engineering
-Division of Engineering and Applied Science
-Division of Geological and Planetary Sciences
-Division of the Humanities and Social Sciences
-Division of Physics, Mathematics and Astronomy

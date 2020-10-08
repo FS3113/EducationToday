@@ -1,0 +1,368 @@
+[
+    {
+        "Position": "  Professor ",
+        "Research Interest": "  I am interested in machine learning, artificial intelligence, and computational statistics, with applications across science and engineering. I have broad interests but often work on probabilistic methods and approximate Bayesian inference. ",
+        "Phone number": " (609) 258-8682 ",
+        "Name": "Ryan Adams"
+    },
+    {
+        "Position": "  Eugene Higgins Professor ",
+        "Research Interest": "  Software verification, computer security, programming languages, compilers.",
+        "Phone number": " (609) 258-4627 ",
+        "Name": "Andrew Appel"
+    },
+    {
+        "Position": "  Charles C. Fitzmorris Professor ",
+        "Research Interest": "  Uses of randomness in complexity theory and algorithms; Efficient algorithms for finding approximate solutions to NP-hard problems (or proving that they don't exist); Cryptography.",
+        "Phone number": " (609) 258-3869 ",
+        "Name": "Sanjeev Arora"
+    },
+    {
+        "Position": "  Professor ",
+        "Research Interest": "  Computer Architecture and Compilers ",
+        "Phone number": " (609) 258-2085 ",
+        "Name": "David August"
+    },
+    {
+        "Position": "  Senior Research Scholar ",
+        "Research Interest": "Missing",
+        "Phone number": " 313 Sherrerd Hall ",
+        "Name": "Jack Brassil"
+    },
+    {
+        "Position": "  Professor ",
+        "Research Interest": "  Complexity theory, algorithms, game theory, machine learning, and applications of computer science in healthcare and medicine.",
+        "Phone number": " (609) 258-8130 ",
+        "Name": "Mark Braverman"
+    },
+    {
+        "Position": "  Eugene Higgins Professor ",
+        "Research Interest": "  Natural Algorithms, Dynamical Systems, Dynamic Networks, Computational Geometry, Discrepancy Theory.",
+        "Phone number": " (609) 258-5380 ",
+        "Name": "Bernard Chazelle"
+    },
+    {
+        "Position": "  Assistant Professor ",
+        "Research Interest": "  My research is in natural language processing (NLP) and machine learning. I am particularly interested in the intersection of text understanding and knowledge representation &amp; reasoning and applications in question answering, information extraction, and conversational systems. ",
+        "Phone number": " 412 Computer Science ",
+        "Name": "Danqi Chen"
+    },
+    {
+        "Position": "  Assistant Professor ",
+        "Research Interest": "Missing",
+        "Phone number": " (609) 258-1203 ",
+        "Name": "Jia Deng"
+    },
+    {
+        "Position": "  Phillip Y. Goldman '86 Professor ",
+        "Research Interest": "  Visualization, pervasive computing, software engineering.",
+        "Phone number": " (609) 258-9907 ",
+        "Name": "David Dobkin"
+    },
+    {
+        "Position": "  Lecturer ",
+        "Research Interest": "Missing",
+        "Phone number": " (609) 258-2211 ",
+        "Name": "Robert Dondero"
+    },
+    {
+        "Position": "  Associate Professor ",
+        "Research Interest": "Missing",
+        "Phone number": " (609) 258-6469 ",
+        "Name": "Zeev Dvir"
+    },
+    {
+        "Position": "  Associate Professor ",
+        "Research Interest": "  Machine learning, Bayesian statistics, statistical genetics, computational biology, quantitative genetics.",
+        "Phone number": " (609) 258-0933 ",
+        "Name": "Barbara Engelhardt"
+    },
+    {
+        "Position": "  Lecturer ",
+        "Research Interest": "  Lexical semantics, the syntax-semantics interface, syntactic alternations, computational linguistics, large-scale lexical resources, idioms, ontology.",
+        "Phone number": " (609) 258-2824 ",
+        "Name": "Christiane Fellbaum"
+    },
+    {
+        "Position": "  Robert E. Kahn Professor of Computer Science and Public Affairs ",
+        "Research Interest": "  Computer security; network software; technology law and policy.",
+        "Phone number": " (609) 258-5906 ",
+        "Name": "Edward Felten"
+    },
+    {
+        "Position": "  Professor, Associate Chair ",
+        "Research Interest": "  Computer graphics, animation.",
+        "Phone number": " (609) 258-5756 ",
+        "Name": "Adam Finkelstein"
+    },
+    {
+        "Position": "  Lecturer ",
+        "Research Interest": "  Networking and Telecommunications, Computer-Human Interaction, Online Learning and MOOCs, R&amp;D Innovation Methodologies ",
+        "Phone number": " (609) 258-0839 ",
+        "Name": "Robert Fish"
+    },
+    {
+        "Position": "  Professor ",
+        "Research Interest": "  Distributed systems, security, networking.",
+        "Phone number": " (609) 258-9179 ",
+        "Name": "Michael Freedman"
+    },
+    {
+        "Position": "  Lecturer ",
+        "Research Interest": "Missing",
+        "Phone number": " (609) 258-1978 ",
+        "Name": "Donna Gabai"
+    },
+    {
+        "Position": "  Lecturer ",
+        "Research Interest": "Missing",
+        "Phone number": " (609) 258-6484 ",
+        "Name": "Maia Ginsburg"
+    },
+    {
+        "Position": "  Henry R. Luce Professor of Information Technology, Consciousness and Culture ",
+        "Research Interest": "Missing",
+        "Phone number": " (609) 258-4285 ",
+        "Name": "Tom Griffiths"
+    },
+    {
+        "Position": "  Professor ",
+        "Research Interest": "  Formal verification, program analysis, logic decision procedures.",
+        "Phone number": " (609) 258-8017 ",
+        "Name": "Aarti Gupta"
+    },
+    {
+        "Position": "  Professor ",
+        "Research Interest": "  Theoretical foundations of machine learning, design and analysis of efficient algorithms for machine learning and mathematical optimization. ",
+        "Phone number": " (609) 258-6031 ",
+        "Name": "Elad Hazan"
+    },
+    {
+        "Position": "  Assistant Professor ",
+        "Research Interest": "  Computational Imaging, Computer Vision, Computer Graphics, Optics ",
+        "Phone number": " (609) 258-0419 ",
+        "Name": "Felix Heide"
+    },
+    {
+        "Position": "  Associate Professor ",
+        "Research Interest": "  Networking, Wireless Systems, Internet of Things ",
+        "Phone number": " (609) 258-7477 ",
+        "Name": "Kyle Jamieson"
+    },
+    {
+        "Position": "  Lecturer ",
+        "Research Interest": "  Mobile software, middleware and protocols; communication and networking for consumer applications and services, software engineering. ",
+        "Phone number": " (609) 258-1745 ",
+        "Name": "Alan Kaplan"
+    },
+    {
+        "Position": "  Professor, Director of Undergraduate Studies ",
+        "Research Interest": "  Application-specific languages, document preparation, user interfaces, software tools, programming methodology.",
+        "Phone number": " (609) 258-2089 ",
+        "Name": "Brian Kernighan"
+    },
+    {
+        "Position": "  Assistant Professor ",
+        "Research Interest": "  programming languages, program analysis, program verification, automated reasoning ",
+        "Phone number": " (609) 258-5330 ",
+        "Name": "Zachary Kincaid"
+    },
+    {
+        "Position": "  Assistant Professor ",
+        "Research Interest": "Missing",
+        "Phone number": " (609) 258-5386 ",
+        "Name": "Gillat Kol"
+    },
+    {
+        "Position": "  Assistant Professor ",
+        "Research Interest": "Missing",
+        "Phone number": " (609) 258-8701 ",
+        "Name": "Amit Levy"
+    },
+    {
+        "Position": "  Lecturer ",
+        "Research Interest": "Missing",
+        "Phone number": " (609) 258-9300 ",
+        "Name": "Daniel Leyzberg"
+    },
+    {
+        "Position": "  Paul M. and Marcia R. Wythes Professor ",
+        "Research Interest": "  Parallel architectures and systems; distributed systems; operating systems.",
+        "Phone number": " (609) 258-4637 ",
+        "Name": "Kai Li"
+    },
+    {
+        "Position": "  Lecturer ",
+        "Research Interest": "Missing",
+        "Phone number": " (609) 258-7844 ",
+        "Name": "Xiaoyan Li"
+    },
+    {
+        "Position": "  Assistant Professor ",
+        "Research Interest": "  Distributed Systems ",
+        "Phone number": " (609) 258-1795 ",
+        "Name": "Wyatt Lloyd"
+    },
+    {
+        "Position": "  Lecturer ",
+        "Research Interest": "  Probabilistic algorithms, data streaming, data structures, analysis of algorithms, analytic combinatorics. ",
+        "Phone number": " (609) 258-5379 ",
+        "Name": "J\u00e9r\u00e9mie Lumbroso"
+    },
+    {
+        "Position": "  Hugh Trumbull Adams '35 Professor ",
+        "Research Interest": "  Computer Architecture, Power-Aware Computing, and Mobile Computing.",
+        "Phone number": " (609) 258-1912 ",
+        "Name": "Margaret Martonosi"
+    },
+    {
+        "Position": "  Assistant Professor ",
+        "Research Interest": "  Technology law and policy, with emphasis on national security, criminal procedure, consumer privacy, network management, and online speech. ",
+        "Phone number": " (609) 258-2175 ",
+        "Name": "Jonathan Mayer"
+    },
+    {
+        "Position": "  Lecturer ",
+        "Research Interest": "  Distributed systems, computer science education ",
+        "Phone number": " (609) 258-5388 ",
+        "Name": "Christopher Moretti"
+    },
+    {
+        "Position": "  Lecturer ",
+        "Research Interest": "Missing",
+        "Phone number": " (609) 258-9248 ",
+        "Name": "Soohyun Nam Liao"
+    },
+    {
+        "Position": "  Assistant Professor ",
+        "Research Interest": "  Natural language processing, Reinforcement learning, Grounded language understanding ",
+        "Phone number": " (609) 258-8702 ",
+        "Name": "Karthik Narasimhan"
+    },
+    {
+        "Position": "  Associate Professor ",
+        "Research Interest": "  Information privacy, fairness in machine learning, cryptocurrencies, tech policy ",
+        "Phone number": " (609) 258-9302 ",
+        "Name": "Arvind Narayanan"
+    },
+    {
+        "Position": "  Robert E. Kahn Professor, Emeritus ",
+        "Research Interest": "  Networked systems, communication protocols, operating systems. ",
+        "Phone number": "Missing",
+        "Name": "Larry Peterson"
+    },
+    {
+        "Position": "  Lecturer ",
+        "Research Interest": "  Quantum computation, Information-Based Complexity ",
+        "Phone number": " (609) 258-1794 ",
+        "Name": "Iasonas Petras"
+    },
+    {
+        "Position": "  Professor, Director of Graduate Studies ",
+        "Research Interest": "  Developing and applying computational and mathematical methods to address biological questions at the molecular and cellular level. Human and cancer genomics, including algorithmic approaches to identify and interpret genomic alterations in genomes, reconstruct tumor evolution, and discover novel therapeutic interventions. Comparative genomics, particularly analysis of genome rearrangements in evolution. Algorithms for analysis of data from high-throughput genomics and proteomics technologies. ",
+        "Phone number": " (609) 258-6314 ",
+        "Name": "Ben Raphael"
+    },
+    {
+        "Position": "  Professor ",
+        "Research Interest": "Missing",
+        "Phone number": " (609) 258-2086 ",
+        "Name": "Ran Raz"
+    },
+    {
+        "Position": "  Gordon Y.S. Wu Professor of Engineering, Department Chair ",
+        "Research Interest": "  Networking, network virtualization, Internet measurement, network management, network troubleshooting.",
+        "Phone number": " (609) 258-5182 ",
+        "Name": "Jennifer Rexford"
+    },
+    {
+        "Position": "  David M. Siegel \u201983 Professor of Computer Science ",
+        "Research Interest": "  Computer graphics; acquisition of 3D shape, reflectance, and appearance of real-world objects. ",
+        "Phone number": " (609) 258-7479 ",
+        "Name": "Szymon Rusinkiewicz"
+    },
+    {
+        "Position": "  Assistant Professor ",
+        "Research Interest": "Missing",
+        "Phone number": " (609) 258-8118 ",
+        "Name": "Olga Russakovsky"
+    },
+    {
+        "Position": "  Lecturer with Rank of Professor ",
+        "Research Interest": "Missing",
+        "Phone number": "Missing",
+        "Name": "Robert Schapire"
+    },
+    {
+        "Position": "  William O. Baker '39 Professor ",
+        "Research Interest": "  Algorithm science, Analytic combinatorics, Data structures",
+        "Phone number": " (609) 258-4345 ",
+        "Name": "Robert Sedgewick"
+    },
+    {
+        "Position": "  Evnin Professor in Neuroscience, Professor of Computer Science and Princeton Neurosciences Institute ",
+        "Research Interest": "  Ho-Am Prize in Engineering, 2008; McKnight Scholar Award, 2000. ",
+        "Phone number": " (609) 258-7713 ",
+        "Name": "Sebastian Seung"
+    },
+    {
+        "Position": "  Lecturer ",
+        "Research Interest": "Missing",
+        "Phone number": "Missing",
+        "Name": "Mohammad Shahrad"
+    },
+    {
+        "Position": "  Lecturer with the rank of Professor ",
+        "Research Interest": "Missing",
+        "Phone number": "Missing",
+        "Name": "Yoram Singer"
+    },
+    {
+        "Position": "  Professor, Director of Undergraduate Studies ",
+        "Research Interest": "  Parallel computing systems and applications: parallel applications and their implications for software and architectural design; system software and programming environments for multiprocessors. Special interest in applications of computing in computational biology, especially protein structure determination and simulating the immune system.",
+        "Phone number": " (609) 258-5329 ",
+        "Name": "Jaswinder Singh"
+    },
+    {
+        "Position": "  Professor ",
+        "Research Interest": "  Computational molecular biology, as well as its interface with machine learning and algorithms.",
+        "Phone number": " (609) 258-2087 ",
+        "Name": "Mona Singh"
+    },
+    {
+        "Position": "  James S. McDonnell Distinguished University Professor ",
+        "Research Interest": "  Data structures; graph algorithms; combinatorial optimization; computational complexity; computational geometry; parallel algorithms.",
+        "Phone number": " (609) 258-4797 ",
+        "Name": "Robert Tarjan"
+    },
+    {
+        "Position": "  Professor ",
+        "Research Interest": "  Bioinformatics; analysis of large-scale biological data sets (genomics, gene expression, proteomics, biological networks); algorithms for integration of data from multiple data sources; visualization of biological data; machine learning methods in bioinformatics.",
+        "Phone number": " (609) 258-1749 ",
+        "Name": "Olga Troyanskaya"
+    },
+    {
+        "Position": "  Professor ",
+        "Research Interest": "  Programming languages, type systems, compilers, domain-specific languages, and software-defined networking. ",
+        "Phone number": " (609) 258-7654 ",
+        "Name": "David Walker"
+    },
+    {
+        "Position": "  Phillip Y. Goldman '86 Senior Lecturer ",
+        "Research Interest": "  ACM Distinguished Educator, 2014. ",
+        "Phone number": " (609) 258-4455 ",
+        "Name": "Kevin Wayne"
+    },
+    {
+        "Position": "  Assistant Professor ",
+        "Research Interest": "Missing",
+        "Phone number": " (609) 258-0944 ",
+        "Name": "Matthew Weinberg"
+    },
+    {
+        "Position": "  Assistant Professor ",
+        "Research Interest": "  Cryptography, Privacy, Quantum Computing ",
+        "Phone number": " (609) 258-5135 ",
+        "Name": "Mark Zhandry"
+    }
+]

@@ -1,0 +1,821 @@
+[
+    {
+        "Research Interest": "Computer Science",
+        "Name": "Nina Amenta",
+        "Position": "Professor",
+        "Phone number": "530-754-5377",
+        "Email": "amenta@cs.ucdavis.edu"
+    },
+    {
+        "Research Interest": "Mathematics",
+        "Name": "Zhaojun Bai",
+        "Position": "Professor",
+        "Phone number": "530-752-4874",
+        "Email": "bai@cs.ucdavis.edu"
+    },
+    {
+        "Research Interest": "Computer Science",
+        "Name": "Matt Bishop",
+        "Position": "Professor",
+        "Phone number": "530-752-8060",
+        "Email": "mabishop@ucdavis.edu"
+    },
+    {
+        "Research Interest": "Computer Science",
+        "Name": "Hao Chen",
+        "Position": "Professor",
+        "Phone number": "530-754-5375",
+        "Email": "chen@ucdavis.edu"
+    },
+    {
+        "Research Interest": "Mechanical and Aerospace Engineering",
+        "Name": "Raissa M. D&#039;Souza",
+        "Position": "Professor",
+        "Phone number": "530-754-8405",
+        "Email": "rmdsouza@ucdavis.edu"
+    },
+    {
+        "Research Interest": "Computer Science",
+        "Name": "Ian Davidson",
+        "Position": "Professor",
+        "Phone number": "davidson@cs.ucdavis.edu",
+        "Email": "https://web.cs.ucdavis.edu/~davidson/"
+    },
+    {
+        "Research Interest": "Computer Science",
+        "Name": "Prem Devanbu",
+        "Position": "Professor",
+        "Phone number": "530-752-7324",
+        "Email": "ptdevanbu@ucdavis.edu"
+    },
+    {
+        "Research Interest": "Computer Science",
+        "Name": "David Doty",
+        "Position": "Assistant Professor",
+        "Phone number": "402-590-5333",
+        "Email": "doty@ucdavis.edu"
+    },
+    {
+        "Research Interest": "Computer Science",
+        "Name": "Kurt Eiselt",
+        "Position": "Associate Professor of Teaching",
+        "Phone number": "530-752-2103",
+        "Email": "eiselt@ucdavis.edu"
+    },
+    {
+        "Research Interest": "Computer Science",
+        "Name": "Matthew Farrens",
+        "Position": "Professor &amp; Chair",
+        "Phone number": "(530) 752-9678 (office)",
+        "Email": "530-754-8016 (chair)"
+    },
+    {
+        "Research Interest": "Computer Science",
+        "Name": "Vladimir Filkov",
+        "Position": "Professor",
+        "Phone number": "530-752-8393",
+        "Email": "filkov@cs.ucdavis.edu"
+    },
+    {
+        "Research Interest": "Computer Science",
+        "Name": "Matt Franklin",
+        "Position": "Professor",
+        "Phone number": "530-752-2017",
+        "Email": "franklin@cs.ucdavis.edu"
+    },
+    {
+        "Research Interest": "Professor",
+        "Name": "Dipak Ghosal",
+        "Position": "Professor",
+        "Phone number": "530-754 9251",
+        "Email": "ghosal@cs.ucdavis.edu"
+    },
+    {
+        "Research Interest": "Computer Science",
+        "Name": "Francois Gygi",
+        "Position": "Professor",
+        "Phone number": "530-752-4042",
+        "Email": "http://eslab.ucdavis.edu"
+    },
+    {
+        "Research Interest": "Computer Science",
+        "Name": "Bernd Hamann",
+        "Position": "Professor",
+        "Phone number": "530-754-9157",
+        "Email": "hamann@cs.ucdavis.edu"
+    },
+    {
+        "Research Interest": "Computer Science",
+        "Name": "Sam King",
+        "Position": "Associate Professor",
+        "Phone number": "kingst@ucdavis.edu",
+        "Email": "https://bob.cs.ucdavis.edu"
+    },
+    {
+        "Research Interest": "Computer Science",
+        "Name": "Patrice Koehl",
+        "Position": "Professor &amp; Vice Chair",
+        "Phone number": "530-752-8254",
+        "Email": "pakoehl@ucdavis.edu"
+    },
+    {
+        "Research Interest": "Computer Science",
+        "Name": "Yong Jae Lee",
+        "Position": "Assistant Professor",
+        "Phone number": "530-752-3788",
+        "Email": "yongjaelee@ucdavis.edu"
+    },
+    {
+        "Research Interest": "Computer Science",
+        "Name": "Xin Liu",
+        "Position": "Professor",
+        "Phone number": "530-754-6907",
+        "Email": "https://web.cs.ucdavis.edu/~liu/"
+    },
+    {
+        "Research Interest": "Computer Science",
+        "Name": "Jason Lowe-Power",
+        "Position": "Assistant Professor",
+        "Phone number": "jlowepower@ucdavis.edu",
+        "Email": "https://arch.cs.ucdavis.edu/"
+    },
+    {
+        "Research Interest": "Computer Science",
+        "Name": "Kwan-Liu Ma",
+        "Position": "Distinguished Professor",
+        "Phone number": "415-307-2425",
+        "Email": "ma@cs.ucdavis.edu"
+    },
+    {
+        "Research Interest": "Computer Science",
+        "Name": "Norman Matloff",
+        "Position": "Professor",
+        "Phone number": "530-752-1953",
+        "Email": "matloff@cs.ucdavis.edu"
+    },
+    {
+        "Research Interest": "Cinema and Digital Media",
+        "Name": "Joshua McCoy",
+        "Position": "Assistant Professor",
+        "Phone number": "530-754-0776",
+        "Email": "jamccoy@ucdavis.edu"
+    },
+    {
+        "Research Interest": "Computer Science",
+        "Name": "Prasant Mohapatra",
+        "Position": "Distinguished Professor &amp; Vice Chancellor for Research",
+        "Phone number": "https://faculty.engineering.ucdavis.edu/mohapatra/research/",
+        "Email": "Missing"
+    },
+    {
+        "Research Interest": "Cinema and Digital Media",
+        "Name": "Michael Neff",
+        "Position": "Professor",
+        "Phone number": "530-754-9510",
+        "Email": "https://web.cs.ucdavis.edu/~neff/"
+    },
+    {
+        "Research Interest": "Computer Science",
+        "Name": "Christopher Nitta",
+        "Position": "Assistant Professor of Teaching",
+        "Phone number": "530-752-6468",
+        "Email": "cjnitta@ucdavis.edu"
+    },
+    {
+        "Research Interest": "Center for Neuroscience",
+        "Name": "Randall O\\xe2\\x80\\x99Reilly",
+        "Position": "Professor",
+        "Phone number": "530-757-8870",
+        "Email": "oreilly@ucdavis.edu"
+    },
+    {
+        "Research Interest": "Computer Science",
+        "Name": "Julian Panetta",
+        "Position": "Assistant Professor",
+        "Phone number": "jpanetta@ucdavis.edu",
+        "Email": "http://julianpanetta.com/"
+    },
+    {
+        "Research Interest": "Computer Science",
+        "Name": "Jo\\xc3\\xabl Porquet-Lupine",
+        "Position": "Assistant Professor of Teaching",
+        "Phone number": "jporquet@ucdavis.edu",
+        "Email": "Research lab"
+    },
+    {
+        "Research Interest": "Computer Science",
+        "Name": "Phillip Rogaway",
+        "Position": "Professor",
+        "Phone number": "rogaway@cs.ucdavis.edu",
+        "Email": "https://web.cs.ucdavis.edu/~rogaway/"
+    },
+    {
+        "Research Interest": "Computer Science",
+        "Name": "Cindy Rubio Gonz\\xc3\\xa1lez",
+        "Position": "Associate Professor",
+        "Phone number": "530-752-7069",
+        "Email": "crubio@ucdavis.edu"
+    },
+    {
+        "Research Interest": "Computer Science",
+        "Name": "Mohammad Sadoghi",
+        "Position": "Assistant Professor",
+        "Phone number": "530-752-4070",
+        "Email": "msadoghi@ucdavis.edu"
+    },
+    {
+        "Research Interest": "Computer Science",
+        "Name": "Zubair Shafiq",
+        "Position": "Associate Professor",
+        "Phone number": "zshafiq@ucdavis.edu",
+        "Email": "https://web.cs.ucdavis.edu/~zubair/"
+    },
+    {
+        "Research Interest": "Genome Center",
+        "Name": "Ilias Tagkopoulos",
+        "Position": "Professor",
+        "Phone number": "530-752-7707",
+        "Email": "530-752-4821"
+    },
+    {
+        "Research Interest": "Computer Science",
+        "Name": "Aditya Thakur",
+        "Position": "Assistant Professor",
+        "Phone number": "530-754-0434",
+        "Email": "avthakur@ucdavis.edu"
+    },
+    {
+        "Research Interest": "Computer Science",
+        "Name": "Hao-Chuan Wang",
+        "Position": "Associate Professor",
+        "Phone number": "530-752-7016",
+        "Email": "hciwang@ucdavis.edu"
+    },
+    {
+        "Research Interest": "Computer Science",
+        "Name": "S. Felix Wu",
+        "Position": "Professor",
+        "Phone number": "530-754-7748",
+        "Email": "wu@cs.ucdavis.edu"
+    },
+    {
+        "Research Interest": "Computer Science",
+        "Name": "Zhou Yu",
+        "Position": "Assistant Professor",
+        "Phone number": "530-752-4494",
+        "Email": "joyu@ucdavis.edu"
+    },
+    {
+        "Research Interest": "Computer Science",
+        "Name": "Sean Peisert",
+        "Position": "Adjunct Associate Professor",
+        "Phone number": "530-746-8717",
+        "Email": "https://web.cs.ucdavis.edu/~peisert/bio.html"
+    },
+    {
+        "Research Interest": "Computer Science",
+        "Name": "Massimo Tornatore",
+        "Position": "Adjunct Professor",
+        "Phone number": "Missing",
+        "Email": "Missing"
+    },
+    {
+        "Research Interest": "Computer Science",
+        "Name": "Gunther Weber",
+        "Position": "Adjunct Professor",
+        "Phone number": "530-754-9470",
+        "Email": "ghweber@ucdavis.edu"
+    },
+    {
+        "Research Interest": "Electrical and Computer Engineering",
+        "Name": "Venkatesh Akella",
+        "Position": "Professor",
+        "Phone number": "415-347-5764",
+        "Email": "akella@ucdavis.edu"
+    },
+    {
+        "Research Interest": "School of Medicine",
+        "Name": "Nicholas Anderson",
+        "Position": "Director of Informatics Research",
+        "Phone number": "https://behavioralhealth.ucdavis.edu/people/nicholas-anderson",
+        "Email": "Missing"
+    },
+    {
+        "Research Interest": "Biomedical Engineering",
+        "Name": "Sharon Aviran",
+        "Position": "Associate Professor",
+        "Phone number": "530-752-6978",
+        "Email": "saviran@ucdavis.edu"
+    },
+    {
+        "Research Interest": "Graduate School of Management",
+        "Name": "Hemant Bhargava",
+        "Position": "Professor",
+        "Phone number": "530-754-5961",
+        "Email": "hemantb@ucdavis.edu"
+    },
+    {
+        "Research Interest": "Coastal and Marine Sciences Institute",
+        "Name": "C. Titus Brown",
+        "Position": "Associate Professor",
+        "Phone number": "ctbrown@ucdavis.edu",
+        "Email": "Lab for Data Intensive Biology website"
+    },
+    {
+        "Research Interest": "Mechanical and Aerospace Engineering",
+        "Name": "Harry H. Cheng",
+        "Position": "Professor",
+        "Phone number": "530-752-5020",
+        "Email": "hhcheng@ucdavis.edu"
+    },
+    {
+        "Research Interest": "Department of Molecular and Cellular Biology, College of Biological Sciences",
+        "Name": "R. Holland Cheng",
+        "Position": "Professor",
+        "Phone number": "530-9888 659",
+        "Email": "rhch@ucdavis.edu"
+    },
+    {
+        "Research Interest": "Computer Science",
+        "Name": "Chen-Nee Chuah",
+        "Position": "Professor",
+        "Phone number": "530-752-5825",
+        "Email": "chuah@ucdavis.edu"
+    },
+    {
+        "Research Interest": "Physics",
+        "Name": "James P. Crutchfield",
+        "Position": "Distinguished Professor",
+        "Phone number": "530-752-0600",
+        "Email": "crutchfield@ucdavis.edu"
+    },
+    {
+        "Research Interest": "Mathematics",
+        "Name": "Jesus De Loera",
+        "Position": "Professor",
+        "Phone number": "530-554-9702",
+        "Email": "deloera@math.ucdavis.edu"
+    },
+    {
+        "Research Interest": "School of Medicine",
+        "Name": "Jonathan A. Eisen",
+        "Position": "Professor",
+        "Phone number": "530-752-3498",
+        "Email": "jaeisen@ucdavis.edu"
+    },
+    {
+        "Research Interest": "Sociology",
+        "Name": "Robert Faris",
+        "Position": "Professor",
+        "Phone number": "510-221-8876",
+        "Email": "rwfaris@ucdavis.edu"
+    },
+    {
+        "Research Interest": "Communication",
+        "Name": "Seth Frey",
+        "Position": "Assistant Professor",
+        "Phone number": "sfrey@ucdavis.edu",
+        "Email": "https://enfascination.com/research"
+    },
+    {
+        "Research Interest": "Electrical and Computer Engineering",
+        "Name": "Soheil Ghiasi",
+        "Position": "Missing",
+        "Phone number": "530-752-0836",
+        "Email": "ghiasi@ucdavis.edu"
+    },
+    {
+        "Research Interest": "Communication",
+        "Name": "Martin Hilbert",
+        "Position": "Professor",
+        "Phone number": "hilbert@ucdavis.edu",
+        "Email": "http://www.martinhilbert.net/"
+    },
+    {
+        "Research Interest": "School of Medicine",
+        "Name": "Michael Hogarth",
+        "Position": "Professor",
+        "Phone number": "916-817-9951",
+        "Email": "mahogarth@ucdavis.edu"
+    },
+    {
+        "Research Interest": "Department of Biochemistry and Molecular Medicine, School of Medicine",
+        "Name": "Fereydoun Hormozdiari",
+        "Position": "Assistant Professor",
+        "Phone number": "530-754-9725",
+        "Email": "fhormozd@ucdavis.edu"
+    },
+    {
+        "Research Interest": "Mechanical and Aerospace Engineering",
+        "Name": "Sanjay Joshi",
+        "Position": "Professor",
+        "Phone number": "530-400-5746",
+        "Email": "maejoshi@ucdavis.edu"
+    },
+    {
+        "Research Interest": "Mathematics",
+        "Name": "Matthias Koeppe",
+        "Position": "Professor",
+        "Phone number": "530-754-0479",
+        "Email": "mkoeppe@math.ucdavis.edu"
+    },
+    {
+        "Research Interest": "Computer Science",
+        "Name": "Greg Kuperberg",
+        "Position": "Professor",
+        "Phone number": "greg@math.ucdavis.edu",
+        "Email": "https://www.math.ucdavis.edu/~greg/"
+    },
+    {
+        "Research Interest": "Graduate School of Management",
+        "Name": "Pantelis Loupos",
+        "Position": "Assistant Professor",
+        "Phone number": "530-752-7662",
+        "Email": "ploupos@ucdavis.edu"
+    },
+    {
+        "Research Interest": "Biomedical Engineering",
+        "Name": "Laura Marcu",
+        "Position": "Professor",
+        "Phone number": "530-752-0288",
+        "Email": "lmarcu@ucdavis.edu"
+    },
+    {
+        "Research Interest": "Civil and Environmental Engineering",
+        "Name": "Debbie Niemeier",
+        "Position": "Emerita",
+        "Phone number": "530-752-8918",
+        "Email": "dniemeier@ucdavis.edu"
+    },
+    {
+        "Research Interest": "Earth and Planetary Sciences",
+        "Name": "Michael Oskin",
+        "Position": "Professor and Department Chair",
+        "Phone number": "530-752-3993",
+        "Email": "meoskin@ucdavis.edu"
+    },
+    {
+        "Research Interest": "Electrical and Computer Engineering",
+        "Name": "John D. Owens",
+        "Position": "Professor",
+        "Phone number": "530-754-4289",
+        "Email": "jowens@ece.ucdavis.edu"
+    },
+    {
+        "Research Interest": "Land, Air and Water Resources",
+        "Name": "Gregory B. Pasternack",
+        "Position": "Professor of Hydrology",
+        "Phone number": "530-302-5658",
+        "Email": "gpast@ucdavis.edu"
+    },
+    {
+        "Research Interest": "Molecular and Cellular Biology",
+        "Name": "Gerald Quon",
+        "Position": "Assistant Professor",
+        "Phone number": "530-752-8263",
+        "Email": "gquon@ucdavis.edu"
+    },
+    {
+        "Research Interest": "Mathematics",
+        "Name": "Luis Rademacher",
+        "Position": "Associate Professor",
+        "Phone number": "530-754-0209",
+        "Email": "lrademac@math.ucdavis.edu"
+    },
+    {
+        "Research Interest": "Mechanical and Aerospace Engineering",
+        "Name": "Bahram Ravani",
+        "Position": "Distinguished Professor",
+        "Phone number": "530-754-6130",
+        "Email": "bravani@ucdavis.edu"
+    },
+    {
+        "Research Interest": "Electrical and Computer Engineering",
+        "Name": "G. Robert Redinbo",
+        "Position": "Emeritus",
+        "Phone number": "530-752-3087",
+        "Email": "grredinbo@ucdavis.edu"
+    },
+    {
+        "Research Interest": "Public Health Sciences",
+        "Name": "David Rocke",
+        "Position": "Distinguished Professor",
+        "Phone number": "dmrocke@ucdavis.edu",
+        "Email": "UC Davis Health"
+    },
+    {
+        "Research Interest": "Linguistics",
+        "Name": "Kenji Sagae",
+        "Position": "Assistant Professor",
+        "Phone number": "sagae@ucdavis.edu",
+        "Email": "https://compling.ucdavis.edu/sagae/"
+    },
+    {
+        "Research Interest": "Psychology",
+        "Name": "Jeffrey Schank",
+        "Position": "Professor",
+        "Phone number": "530-752-6332",
+        "Email": "jcschank@ucdavis.edu"
+    },
+    {
+        "Research Interest": "Plant Sciences",
+        "Name": "Kenneth Shackel",
+        "Position": "Professor",
+        "Phone number": "530-752-0928",
+        "Email": "kashackel@ucdavis.edu"
+    },
+    {
+        "Research Interest": "Public Health Sciences",
+        "Name": "Prabhu Shankar",
+        "Position": "Assistant Adjunct Professor",
+        "Phone number": "916-703-6995",
+        "Email": "rvpshankar@ucdavis.edu"
+    },
+    {
+        "Research Interest": "Biological and Agricultural Engineering",
+        "Name": "David Slaughter",
+        "Position": "Professor and Department Vice Chair",
+        "Phone number": "(530) 752-5553",
+        "Email": "dcslaughter@ucdavis.edu"
+    },
+    {
+        "Research Interest": "Religious Studies",
+        "Name": "Mairaj Syed",
+        "Position": "Associate Professor",
+        "Phone number": "(530) 754-2822",
+        "Email": "msyed@ucdavis.edu"
+    },
+    {
+        "Research Interest": "Land, Air and Water Resources",
+        "Name": "Susan L. Ustin",
+        "Position": "Professor",
+        "Phone number": "530-752-0621",
+        "Email": "slustin@ucdavis.edu"
+    },
+    {
+        "Research Interest": "Design",
+        "Name": "Katia Vega",
+        "Position": "Assistant Professor",
+        "Phone number": "kvega@ucdavis.edu",
+        "Email": "http://katiavega.com/"
+    },
+    {
+        "Research Interest": "UC Davis Eye Center",
+        "Name": "John S. Werner",
+        "Position": "Distinguished Professor",
+        "Phone number": "jswerner@ucdavis.edu",
+        "Email": "jswerner@ucdavis.edu"
+    },
+    {
+        "Research Interest": "Electrical and Computer Engineering",
+        "Name": "Kent D. Wilken",
+        "Position": "Emeritus",
+        "Phone number": "530-754-0845",
+        "Email": "kdwilken@ucdavis.edu"
+    },
+    {
+        "Research Interest": "Graduate School of Management",
+        "Name": "Catherine Yang",
+        "Position": "Associate Professor",
+        "Phone number": "530-754-5967",
+        "Email": "yiyang@ucdavis.edu"
+    },
+    {
+        "Research Interest": "Electrical and Computer Engineering",
+        "Name": "S.J. Ben Yoo",
+        "Position": "Distinguished Professor",
+        "Phone number": "530-752-7063",
+        "Email": "sbyoo@ucdavis.edu"
+    },
+    {
+        "Research Interest": "Computer Science",
+        "Name": "David H. Bailey",
+        "Position": "Research Associate",
+        "Phone number": "https://www.davidhbailey.com",
+        "Email": "Missing"
+    },
+    {
+        "Research Interest": "Computer Science",
+        "Name": "Silvia Crivelli",
+        "Position": "Associate Researcher",
+        "Phone number": "sncrivelli@ucdavis.edu",
+        "Email": "Missing"
+    },
+    {
+        "Research Interest": "Computer Science",
+        "Name": "Amit Pande",
+        "Position": "Professional Researcher",
+        "Phone number": "530-752-0870",
+        "Email": "pande@ucdavis.edu"
+    },
+    {
+        "Research Interest": "Computer Science",
+        "Name": "Matt Butner",
+        "Position": "Lecturer",
+        "Phone number": "Missing",
+        "Email": "Missing"
+    },
+    {
+        "Research Interest": "Computer Science",
+        "Name": "Sean Davis",
+        "Position": "Lecturer Emeritus",
+        "Phone number": "Missing",
+        "Email": "Missing"
+    },
+    {
+        "Research Interest": "Computer Science",
+        "Name": "Yelena Frid",
+        "Position": "Missing",
+        "Phone number": "yafrid@ucdavis.edu",
+        "Email": "Missing"
+    },
+    {
+        "Research Interest": "Computer Science",
+        "Name": "John Bruno",
+        "Position": "Emeritus",
+        "Phone number": "jlbruno@ucdavis.edu",
+        "Email": "Missing"
+    },
+    {
+        "Research Interest": "Computer Science",
+        "Name": "Dan Gusfield",
+        "Position": "Distinguished Professor Emeritus",
+        "Phone number": "530-752-7131",
+        "Email": "gusfield@cs.ucdavis.edu"
+    },
+    {
+        "Research Interest": "Computer Science",
+        "Name": "Kenneth Joy",
+        "Position": "Emeritus",
+        "Phone number": "530-752-1077",
+        "Email": "joy@cs.ucdavis.edu"
+    },
+    {
+        "Research Interest": "Computer Science",
+        "Name": "Lawrence Kou",
+        "Position": "Emeritus",
+        "Phone number": "Missing",
+        "Email": "Missing"
+    },
+    {
+        "Research Interest": "Computer Science",
+        "Name": "Karl Levitt",
+        "Position": "Emeritus",
+        "Phone number": "530-752-0832",
+        "Email": "levitt@cs.ucdavis.edu"
+    },
+    {
+        "Research Interest": "Computer Science",
+        "Name": "Peter Linz",
+        "Position": "Emeritus",
+        "Phone number": "linz@cs.ucdavis.edu",
+        "Email": "Missing"
+    },
+    {
+        "Research Interest": "Computer Science",
+        "Name": "Charles &quot;Chip&quot; Martel",
+        "Position": "Emeritus",
+        "Phone number": "cumartel@ucdavis.edu",
+        "Email": "https://web.cs.ucdavis.edu/~martel/main/"
+    },
+    {
+        "Research Interest": "Computer Science",
+        "Name": "Nelson Max",
+        "Position": "Distinguished Professor Emeritus",
+        "Phone number": "530-752-3798",
+        "Email": "max@cs.ucdavis.edu"
+    },
+    {
+        "Research Interest": "Computer Science",
+        "Name": "Biswanath Mukherjee",
+        "Position": "Distinguished Professor Emeritus",
+        "Phone number": "bmukherjee@ucdavis.edu",
+        "Email": "http://networks.cs.ucdavis.edu/bmukherjee.html"
+    },
+    {
+        "Research Interest": "Computer Science",
+        "Name": "Ron Olsson",
+        "Position": "Emeritus",
+        "Phone number": "530-752-7004",
+        "Email": "olsson@cs.ucdavis.edu"
+    },
+    {
+        "Research Interest": "Computer Science",
+        "Name": "Raju Pandey",
+        "Position": "Emeritus",
+        "Phone number": "530-752-3584",
+        "Email": "pandey@cs.ucdavis.edu"
+    },
+    {
+        "Research Interest": "Computer Science",
+        "Name": "Richard Walters",
+        "Position": "Emeritus",
+        "Phone number": "530-752-3241",
+        "Email": "walters@ucdavis.edu"
+    },
+    {
+        "Research Interest": "Computer Science",
+        "Name": "Jeffery Adams",
+        "Position": "Academic Personnel Coordinator",
+        "Phone number": "530-752-7223",
+        "Email": "jpadams@ucdavis.edu"
+    },
+    {
+        "Research Interest": "Computer Science",
+        "Name": "Alyssa Bates",
+        "Position": "Graduate Student Affairs Officer",
+        "Phone number": "530-752-7893",
+        "Email": "csgradadvising@ucdavis.edu"
+    },
+    {
+        "Research Interest": "Computer Science",
+        "Name": "Sara Chilimidos",
+        "Position": "Undergraduate Program Advisor",
+        "Phone number": "530-754-1918",
+        "Email": "csugadvising@ucdavis.edu"
+    },
+    {
+        "Research Interest": "Computer Science",
+        "Name": "Octavio Alexander Corona",
+        "Position": "Applications Programmer",
+        "Phone number": "oacorona@ucdavis.edu",
+        "Email": "Missing"
+    },
+    {
+        "Research Interest": "Computer Science",
+        "Name": "Anatoli Fedorenko",
+        "Position": "Business Technical Support",
+        "Phone number": "530-752-6990",
+        "Email": "fedorenko@ucdavis.edu"
+    },
+    {
+        "Research Interest": "Computer Science",
+        "Name": "Ken Gribble",
+        "Position": "Senior Systems Administrator III",
+        "Phone number": "530-754-8567",
+        "Email": "kwgribble@ucdavis.edu"
+    },
+    {
+        "Research Interest": "Computer Science",
+        "Name": "Noreen Johnson",
+        "Position": "Research Administrator",
+        "Phone number": "530-754-5830",
+        "Email": "nnjohnson@ucdavis.edu"
+    },
+    {
+        "Research Interest": "Computer Science",
+        "Name": "Meshell Louderman",
+        "Position": "Chief Administrative Officer",
+        "Phone number": "530-752-7005",
+        "Email": "mlouderman@ucdavis.edu"
+    },
+    {
+        "Research Interest": "Computer Science",
+        "Name": "Melinda Meeker",
+        "Position": "Reception and Instructional Support",
+        "Phone number": "530-752-7004",
+        "Email": "mmeeker@ucdavis.edu"
+    },
+    {
+        "Research Interest": "Computer Science",
+        "Name": "Jim Moersfelder",
+        "Position": "Systems Administrator",
+        "Phone number": "530-752-8621",
+        "Email": "moersfel@cs.ucdavis.edu"
+    },
+    {
+        "Research Interest": "Computer Science",
+        "Name": "Cassady Ogedegbe",
+        "Position": "Undergraduate Program Manager",
+        "Phone number": "530-752-7036",
+        "Email": "csugadvising@ucdavis.edu"
+    },
+    {
+        "Research Interest": "Computer Science",
+        "Name": "Rachael Rubinato",
+        "Position": "Events and Facilities Coordinator",
+        "Phone number": "530-752-4439",
+        "Email": "rlanders@ucdavis.edu"
+    },
+    {
+        "Research Interest": "Computer Science",
+        "Name": "Jane Ryan",
+        "Position": "Analyst II",
+        "Phone number": "530-752-0415",
+        "Email": "jbryan@ucdavis.edu"
+    },
+    {
+        "Research Interest": "Computer Science",
+        "Name": "Jason Sison",
+        "Position": "Undergraduate Program Advisor",
+        "Phone number": "530-752-1338",
+        "Email": "csugadvising@ucdavis.edu"
+    },
+    {
+        "Research Interest": "Computer Science",
+        "Name": "Jessica Stoller",
+        "Position": "Graduate Students Services Advisor",
+        "Phone number": "530-752-7224",
+        "Email": "csgradadvising@ucdavis.edu"
+    }
+]

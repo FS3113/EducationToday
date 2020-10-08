@@ -43,3 +43,46 @@
 #
 # render('a.png')
 
+i = 3
+s = set()
+while True:
+    a = (i ** 2 + i - 1) % 64
+    b = (i ** 4 + i - 2) % 64
+    c = (i ** 6 + i - 3) % 64
+    if a in s and b in s and c in s:
+        print(i)
+        break
+    s.add(a)
+    s.add(b)
+    s.add(c)
+    i += 3
+
+
+class valuable:
+    def __init__(self, id, weight):
+        self.id = id
+        self.weight = weight
+
+
+class box:
+    def __init__(self):
+        self.contents = {}
+        self.weights = [[0, 0]]
+
+    def add(self, a, t):
+        self.contents[a.id] = a
+        self.weights.append([self.weights[-1][0] + a.weight, t])
+
+    def remove(self, a, t):
+        if a in self.contents.keys():
+            self.weights.append([self.weights[-1][0] - self.contents[a].weight, t])
+            del self.contents[a]
+
+
+b = box()
+v1 = valuable(1, 10)
+v2 = valuable(2, 20)
+b.add(v1, 60)
+b.add(v2, 70)
+b.remove(2, 80)
+print(b.weights)

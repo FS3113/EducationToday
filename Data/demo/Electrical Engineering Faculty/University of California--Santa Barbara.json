@@ -1,0 +1,954 @@
+[
+    {
+        "Name": "Reza Abdolee",
+        "Position": "Lecturer, Adjunct Professor ",
+        "Email": "Missing",
+        "Research Interest": "Missing",
+        "Phone number": "rabdolee@ucsb.edu"
+    },
+    {
+        "Name": "Rod Alferness",
+        "Position": "Dean of the College of Engineering",
+        "Email": "alferness@engineering.ucsb.edu",
+        "Research Interest": "Distinguished Professor ",
+        "Phone number": "+1 805-893-3141"
+    },
+    {
+        "Name": "Mahnoosh Alizadeh",
+        "Position": "Assistant Professor ",
+        "Email": "alizadeh@ece.ucsb.edu",
+        "Research Interest": "Missing",
+        "Phone number": "+1 805-893-3981"
+    },
+    {
+        "Name": "Bassam Bamieh",
+        "Position": "Affiliated Professor",
+        "Email": " ",
+        "Research Interest": "Mechanical Engineering ",
+        "Phone number": "Missing"
+    },
+    {
+        "Name": "Kaustav Banerjee",
+        "Position": "Professor ",
+        "Email": "kaustav@ece.ucsb.edu",
+        "Research Interest": "Missing",
+        "Phone number": "+1 805-893-3337"
+    },
+    {
+        "Name": "Doug Baney",
+        "Position": "Adjunct Professor ",
+        "Email": " ",
+        "Research Interest": "Missing",
+        "Phone number": "Missing"
+    },
+    {
+        "Name": "Elizabeth Belding",
+        "Position": "Affiliated Professor",
+        "Email": " ",
+        "Research Interest": "Computer Science ",
+        "Phone number": "Missing"
+    },
+    {
+        "Name": "Ilan Ben-Yaacov",
+        "Position": "Lecturer, SOE ",
+        "Email": "ilan@ece.ucsb.edu",
+        "Research Interest": "Missing",
+        "Phone number": "+1 805-893-5295"
+    },
+    {
+        "Name": "Daniel Blumenthal",
+        "Position": "Professor ",
+        "Email": "danb@ece.ucsb.edu",
+        "Research Interest": "Missing",
+        "Phone number": "+1 805-893-4168"
+    },
+    {
+        "Name": "Tony Bosch",
+        "Position": "Equipment Engineer ",
+        "Email": "tbosch@ece.ucsb.edu",
+        "Research Interest": "Missing",
+        "Phone number": "+1 805-893-3486"
+    },
+    {
+        "Name": "John Bowers",
+        "Position": "Distinguished Professor",
+        "Email": "bowers@ece.ucsb.edu",
+        "Research Interest": "Kavli Chair in Nanotechnology (ECE) ",
+        "Phone number": "+1 805-893-8447"
+    },
+    {
+        "Name": "Forrest Brewer",
+        "Position": "Professor ",
+        "Email": "forrest@ece.ucsb.edu",
+        "Research Interest": "Missing",
+        "Phone number": "+1 805-729-1410"
+    },
+    {
+        "Name": "James Buckwalter",
+        "Position": "Professor ",
+        "Email": "buckwalter@ece.ucsb.edu",
+        "Research Interest": "Missing",
+        "Phone number": "+1 805-893-5639"
+    },
+    {
+        "Name": "Francesco Bullo",
+        "Position": "Affiliated Professor",
+        "Email": " ",
+        "Research Interest": "Mechanical Engineering ",
+        "Phone number": "Missing"
+    },
+    {
+        "Name": "Steven Butner",
+        "Position": "Professor Emeritus ",
+        "Email": "Missing",
+        "Research Interest": "Missing",
+        "Phone number": "butner@ece.ucsb.edu"
+    },
+    {
+        "Name": "Katie Byl",
+        "Position": "Associate Professor ",
+        "Email": "katiebyl@ece.ucsb.edu",
+        "Research Interest": "Missing",
+        "Phone number": "+1 805-893-4924"
+    },
+    {
+        "Name": "Kerem Camsari",
+        "Position": "Assistant Professor ",
+        "Email": "camsari@ece.ucsb.edu",
+        "Research Interest": "Missing",
+        "Phone number": "+1 805-893-2721"
+    },
+    {
+        "Name": "James Candy",
+        "Position": "Adjunct Professor ",
+        "Email": "Missing",
+        "Research Interest": "Missing",
+        "Phone number": "jcandy@ece.ucsb.edu"
+    },
+    {
+        "Name": "Ning Cao",
+        "Position": "Senior Process Scientist ",
+        "Email": "ningcao@ece.ucsb.edu",
+        "Research Interest": "Missing",
+        "Phone number": "+1 805-893-4689"
+    },
+    {
+        "Name": "Shiv Chandrasekaran",
+        "Position": "Professor ",
+        "Email": "shiv@ece.ucsb.edu",
+        "Research Interest": "Missing",
+        "Phone number": "+1 805-893-7542"
+    },
+    {
+        "Name": "Kwang-Ting (Tim) Cheng",
+        "Position": "Professor Emeritus ",
+        "Email": "Missing",
+        "Research Interest": "Missing",
+        "Phone number": "timcheng@ece.ucsb.edu"
+    },
+    {
+        "Name": "Tessa Christensen",
+        "Position": "ComSenTer Program Coordinator ",
+        "Email": "comsenter-admin@ece.ucsb.edu",
+        "Research Interest": "Missing",
+        "Phone number": "+1 805-893-8956"
+    },
+    {
+        "Name": "Larry Coldren",
+        "Position": "Research Professor",
+        "Email": "coldren@ece.ucsb.edu",
+        "Research Interest": "Professor Emeritus ",
+        "Phone number": "+1 805-893-4486"
+    },
+    {
+        "Name": "Nadir Dagli",
+        "Position": "Professor ",
+        "Email": "dagli@ece.ucsb.edu",
+        "Research Interest": "Missing",
+        "Phone number": "+1 805-893-4847"
+    },
+    {
+        "Name": "Michael Day",
+        "Position": "Facility Engineer ",
+        "Email": "day@ece.ucsb.edu",
+        "Research Interest": "Missing",
+        "Phone number": "+1 805-893-3101"
+    },
+    {
+        "Name": "Val De Veyra",
+        "Position": "Student Affairs Manager ",
+        "Email": "val@ece.ucsb.edu",
+        "Research Interest": "Missing",
+        "Phone number": "+1 805-893-2269"
+    },
+    {
+        "Name": "Steven DenBaars",
+        "Position": "Distinguished Professor",
+        "Email": "denbaars@engineering.ucsb.edu",
+        "Research Interest": "Mitsubishi Chem. Corp. Chair in SSL &amp; Display ",
+        "Phone number": "+1 805-893-8511"
+    },
+    {
+        "Name": "Ranjit Deshmukh",
+        "Position": "Affiliated Professor",
+        "Email": " ",
+        "Research Interest": "Environmental Studies ",
+        "Phone number": "Missing"
+    },
+    {
+        "Name": "Yufei Ding",
+        "Position": "Affiliated Professor",
+        "Email": " ",
+        "Research Interest": "Computer Science ",
+        "Phone number": "Missing"
+    },
+    {
+        "Name": "Miguel Eckstein",
+        "Position": "Affiliated Professor",
+        "Email": " ",
+        "Research Interest": "Psychological &amp; Brain Sciences ",
+        "Phone number": "Missing"
+    },
+    {
+        "Name": "Beth English",
+        "Position": "Undergraduate Program Officer ",
+        "Email": "ugrad-advisor@ece.ucsb.edu",
+        "Research Interest": "Missing",
+        "Phone number": "+1 805-893-8292"
+    },
+    {
+        "Name": "Jorge Fontana",
+        "Position": "Professor Emeritus ",
+        "Email": " ",
+        "Research Interest": "Missing",
+        "Phone number": "Missing"
+    },
+    {
+        "Name": "Don Freeborn",
+        "Position": "Equipment Engineer ",
+        "Email": "dfreeborn@ece.ucsb.edu",
+        "Research Interest": "Missing",
+        "Phone number": "+1 805-893-4171"
+    },
+    {
+        "Name": "Shannon Gann",
+        "Position": "Personnel Analyst ",
+        "Email": "shannon@ece.ucsb.edu",
+        "Research Interest": "Missing",
+        "Phone number": "+1 805-893-8748"
+    },
+    {
+        "Name": "Allen Gersho",
+        "Position": "Professor Emeritus ",
+        "Email": " ",
+        "Research Interest": "Missing",
+        "Phone number": "Missing"
+    },
+    {
+        "Name": "Jerry Gibson",
+        "Position": "Distinguished Professor ",
+        "Email": "gibson@ece.ucsb.edu",
+        "Research Interest": "Missing",
+        "Phone number": "+1 805-893-6187"
+    },
+    {
+        "Name": "Alex Glover",
+        "Position": "Contracts and Grants Analyst ",
+        "Email": "alex@ece.ucsb.edu",
+        "Research Interest": "Missing",
+        "Phone number": "+1 805-893-3325"
+    },
+    {
+        "Name": "Gayle Gonzales",
+        "Position": "Graduate Admissions Coordinator ",
+        "Email": "grad-admit@ece.ucsb.edu",
+        "Research Interest": "Missing",
+        "Phone number": "+1 805-893-3114"
+    },
+    {
+        "Name": "Arthur Gossard",
+        "Position": "Research Professor",
+        "Email": "gossard@engineering.ucsb.edu",
+        "Research Interest": "Professor Emeritus ",
+        "Phone number": "+1 805-893-2686"
+    },
+    {
+        "Name": "Paul Gritt",
+        "Position": "Electronics Support / Building Manager ",
+        "Email": "paulg@ece.ucsb.edu",
+        "Research Interest": "Missing",
+        "Phone number": "+1 805-893-5775"
+    },
+    {
+        "Name": "Claudia Gutierrez",
+        "Position": "Financial Analyst, NanoFabrications Facility ",
+        "Email": "claudia@ece.ucsb.edu",
+        "Research Interest": "Missing",
+        "Phone number": "+1 805-893-7989"
+    },
+    {
+        "Name": "Eydie Harridge",
+        "Position": "Financial Analyst ",
+        "Email": "eydie@ece.ucsb.edu",
+        "Research Interest": "Missing",
+        "Phone number": "+1 805-893-8740"
+    },
+    {
+        "Name": "Glenn Heidbreder",
+        "Position": "Professor Emeritus ",
+        "Email": " ",
+        "Research Interest": "Missing",
+        "Phone number": "Missing"
+    },
+    {
+        "Name": "Jo\\xc3\\xa3o Hespanha",
+        "Position": "Distinguished Professor ",
+        "Email": "hespanha@ece.ucsb.edu",
+        "Research Interest": "Missing",
+        "Phone number": "+1 805-893-7042"
+    },
+    {
+        "Name": "Bob Hill",
+        "Position": "R&amp;D Engineer ",
+        "Email": "bob@ece.ucsb.edu",
+        "Research Interest": "Missing",
+        "Phone number": "+1 805-893-4142"
+    },
+    {
+        "Name": "Aidan Hopkins",
+        "Position": "Facility Staff Manager ",
+        "Email": "hopkins@ece.ucsb.edu",
+        "Research Interest": "Missing",
+        "Phone number": "+1 805-893-2343"
+    },
+    {
+        "Name": "Steven Horvath",
+        "Position": "Professor Emeritus ",
+        "Email": " ",
+        "Research Interest": "Missing",
+        "Phone number": "Missing"
+    },
+    {
+        "Name": "Ron Iltis",
+        "Position": "Professor Emeritus ",
+        "Email": "Missing",
+        "Research Interest": "Missing",
+        "Phone number": "iltis@ece.ucsb.edu"
+    },
+    {
+        "Name": "Yogananda Isukapalli",
+        "Position": "Lecturer, SOE ",
+        "Email": "yoga@ece.ucsb.edu",
+        "Research Interest": "Missing",
+        "Phone number": "+1 805-893-7277"
+    },
+    {
+        "Name": "Nikil Jayant",
+        "Position": "Adjunct Professor ",
+        "Email": "Missing",
+        "Research Interest": "Missing",
+        "Phone number": "jayant@ece.ucsb.edu"
+    },
+    {
+        "Name": "Robin Jenneve",
+        "Position": "Academic Business Officer ",
+        "Email": "robin@ece.ucsb.edu",
+        "Research Interest": "Missing",
+        "Phone number": "+1 805-893-2101"
+    },
+    {
+        "Name": "Demis John",
+        "Position": "Process Scientist Manager ",
+        "Email": "demis@ece.ucsb.edu",
+        "Research Interest": "Missing",
+        "Phone number": "+1 805-893-5934"
+    },
+    {
+        "Name": "Stacia Keller",
+        "Position": "R&amp;D Engineer - Mishra ",
+        "Email": "stacia@ece.ucsb.edu",
+        "Research Interest": "Missing",
+        "Phone number": "+1 805-893-8278"
+    },
+    {
+        "Name": "Lisa King",
+        "Position": "Contracts &amp; Grants Analyst ",
+        "Email": "lisa@ece.ucsb.edu",
+        "Research Interest": "Missing",
+        "Phone number": "+1 805-893-3939"
+    },
+    {
+        "Name": "Jonathan Klamkin",
+        "Position": "Professor ",
+        "Email": "klamkin@ece.ucsb.edu",
+        "Research Interest": "Missing",
+        "Phone number": "+1 805-893-7163"
+    },
+    {
+        "Name": "Petar Kokotovic",
+        "Position": "Professor Emeritus ",
+        "Email": "Missing",
+        "Research Interest": "Missing",
+        "Phone number": "petar@ece.ucsb.edu"
+    },
+    {
+        "Name": "Chandra Krintz",
+        "Position": "Affiliated Professor",
+        "Email": " ",
+        "Research Interest": "Computer Science ",
+        "Phone number": "Missing"
+    },
+    {
+        "Name": "Herbert Kroemer",
+        "Position": "Professor Emeritus ",
+        "Email": "Missing",
+        "Research Interest": "Missing",
+        "Phone number": "+1 805-893-3078"
+    },
+    {
+        "Name": "Olivia La Pierre",
+        "Position": "Administrative Office Coordinator ",
+        "Email": "cao-admin@ece.ucsb.edu",
+        "Research Interest": "Missing",
+        "Phone number": "+1 805-893-5364"
+    },
+    {
+        "Name": "Pablo Landriz",
+        "Position": "System Administrator ",
+        "Email": "pablolandriz@ucsb.edu",
+        "Research Interest": "Missing",
+        "Phone number": "+1 805-893-8524"
+    },
+    {
+        "Name": "Daryl Lee",
+        "Position": "Information Technology Manager ",
+        "Email": "daryllee@ece.ucsb.edu",
+        "Research Interest": "Missing",
+        "Phone number": "+1 805-893-2223"
+    },
+    {
+        "Name": "Hua Lee",
+        "Position": "Distinguished Professor ",
+        "Email": "hualee@ece.ucsb.edu",
+        "Research Interest": "Missing",
+        "Phone number": "+1 805-893-4480"
+    },
+    {
+        "Name": "Peng Li",
+        "Position": "Professor ",
+        "Email": "lip@ece.ucsb.edu",
+        "Research Interest": "Missing",
+        "Phone number": "+1 805-893-6051"
+    },
+    {
+        "Name": "Michael Liebling",
+        "Position": "Adjunct Professor ",
+        "Email": "Missing",
+        "Research Interest": "Missing",
+        "Phone number": "liebling@ece.ucsb.edu"
+    },
+    {
+        "Name": "Brian Lingg",
+        "Position": "Equipment Engineer ",
+        "Email": "lingg@ece.ucsb.edu",
+        "Research Interest": "Missing",
+        "Phone number": "+1 805-893-8145"
+    },
+    {
+        "Name": "Stephanie Lofgren",
+        "Position": "Administrative Assistant, CCDC ",
+        "Email": "ccdc-admin@ece.ucsb.edu",
+        "Research Interest": "Missing",
+        "Phone number": "+1 805-893-7066"
+    },
+    {
+        "Name": "Stephen Long",
+        "Position": "Professor Emeritus ",
+        "Email": "Missing",
+        "Research Interest": "Missing",
+        "Phone number": "long@ece.ucsb.edu"
+    },
+    {
+        "Name": "Upamanyu Madhow",
+        "Position": "Distinguished Professor ",
+        "Email": "madhow@ece.ucsb.edu",
+        "Research Interest": "Missing",
+        "Phone number": "+1 805-893-5210"
+    },
+    {
+        "Name": "B.S. Manjunath",
+        "Position": "ECE Chair",
+        "Email": "manj@ece.ucsb.edu",
+        "Research Interest": "Distinguished Professor ",
+        "Phone number": "+1 805-893-7112"
+    },
+    {
+        "Name": "Jason Marden",
+        "Position": "Professor ",
+        "Email": "jrmarden@ece.ucsb.edu",
+        "Research Interest": "Missing",
+        "Phone number": "+1 805-893-2299"
+    },
+    {
+        "Name": "Margaret Marek-Sadowska",
+        "Position": "Professor Emeritus ",
+        "Email": "mms@ece.ucsb.edu",
+        "Research Interest": "Missing",
+        "Phone number": "+1 805-893-2721"
+    },
+    {
+        "Name": "Robbin Marie Mata",
+        "Position": "Financial Affairs Assistant ",
+        "Email": "budget-admin@ece.ucsb.edu",
+        "Research Interest": "Missing",
+        "Phone number": "+1 805-893-7703"
+    },
+    {
+        "Name": "George Matthaei",
+        "Position": "Professor Emeritus ",
+        "Email": " ",
+        "Research Interest": "Missing",
+        "Phone number": "Missing"
+    },
+    {
+        "Name": "Eric McFarland",
+        "Position": "Affiliated Professor",
+        "Email": " ",
+        "Research Interest": "Chemical Engineering ",
+        "Phone number": "Missing"
+    },
+    {
+        "Name": "Michael Melliar-Smith",
+        "Position": "Professor Emeritus ",
+        "Email": "pmms@ece.ucbs.edu",
+        "Research Interest": "Missing",
+        "Phone number": "+1 805-893-4897"
+    },
+    {
+        "Name": "Nicole Mendoza",
+        "Position": "Financial Analyst ",
+        "Email": "financial-analyst@ece.ucsb.edu",
+        "Research Interest": "Missing",
+        "Phone number": "+1 805-893-2967"
+    },
+    {
+        "Name": "James Merz",
+        "Position": "Professor Emeritus ",
+        "Email": " ",
+        "Research Interest": "Missing",
+        "Phone number": "Missing"
+    },
+    {
+        "Name": "Renee Meuret",
+        "Position": "Academic Affairs Manager ",
+        "Email": "renee@ece.ucsb.edu",
+        "Research Interest": "Missing",
+        "Phone number": "+1 805-893-3821"
+    },
+    {
+        "Name": "Amanda Miller",
+        "Position": "Administrative Assistant, OTC ",
+        "Email": "otc-admin@ece.ucsb.edu",
+        "Research Interest": "Missing",
+        "Phone number": "+1 805-893-7104"
+    },
+    {
+        "Name": "Umesh Mishra",
+        "Position": "Distinguished Professor",
+        "Email": "mishra@ece.ucsb.edu",
+        "Research Interest": "Donald E. Whittier Chair in ECE ",
+        "Phone number": "+1 805-893-3586"
+    },
+    {
+        "Name": "Bill Mitchell",
+        "Position": "Process Expert ",
+        "Email": "mitchell@ece.ucsb.edu",
+        "Research Interest": "Missing",
+        "Phone number": "+1 805-893-4974"
+    },
+    {
+        "Name": "Sanjit Mitra",
+        "Position": "Professor Emeritus ",
+        "Email": "mitra@ece.ucsb.edu",
+        "Research Interest": "Missing",
+        "Phone number": "+1 805-893-3957"
+    },
+    {
+        "Name": "Galan Moody",
+        "Position": "Assistant Professor ",
+        "Email": "moody@ece.ucsb.edu",
+        "Research Interest": "Missing",
+        "Phone number": "+1 805-893-6141"
+    },
+    {
+        "Name": "Mike Moore",
+        "Position": "Financial Affairs Manager ",
+        "Email": "moore@ece.ucsb.edu",
+        "Research Interest": "Missing",
+        "Phone number": "+1 805-893-7702"
+    },
+    {
+        "Name": "Louise Moser",
+        "Position": "Professor Emeritus ",
+        "Email": "moser@ece.ucsb.edu",
+        "Research Interest": "Missing",
+        "Phone number": "+1 805-893-4897"
+    },
+    {
+        "Name": "Yasamin Mostofi",
+        "Position": "Professor ",
+        "Email": "ymostofi@ece.ucsb.edu",
+        "Research Interest": "Missing",
+        "Phone number": "+1 805-893-4251"
+    },
+    {
+        "Name": "Shuji Nakamura",
+        "Position": "Affiliated Professor",
+        "Email": " ",
+        "Research Interest": "Materials ",
+        "Phone number": "Missing"
+    },
+    {
+        "Name": "Venkatesh Narayanamurti",
+        "Position": "Professor Emeritus ",
+        "Email": " ",
+        "Research Interest": "Missing",
+        "Phone number": "Missing"
+    },
+    {
+        "Name": "Roderick Newill",
+        "Position": "System Administrator ",
+        "Email": "rnewill@ece.ucsb.edu",
+        "Research Interest": "Missing",
+        "Phone number": "+1 805-893-5790"
+    },
+    {
+        "Name": "Bettina Norton",
+        "Position": "Administrative Assistant - Bowers ",
+        "Email": "bowers-admin@ece.ucsb.edu",
+        "Research Interest": "Missing",
+        "Phone number": "+1 805-893-2149"
+    },
+    {
+        "Name": "Philip Ordung",
+        "Position": "Professor Emeritus ",
+        "Email": " ",
+        "Research Interest": "Missing",
+        "Phone number": "Missing"
+    },
+    {
+        "Name": "Christopher Palmstr\\xc3\\xb8m",
+        "Position": "Distinguished Professor ",
+        "Email": "cpalmstrom@ece.ucsb.edu",
+        "Research Interest": "Missing",
+        "Phone number": "+1 805-893-3618"
+    },
+    {
+        "Name": "Behrooz Parhami",
+        "Position": "Professor ",
+        "Email": "parhami@ece.ucsb.edu",
+        "Research Interest": "Missing",
+        "Phone number": "+1 805-893-3211"
+    },
+    {
+        "Name": "Audra Pearce",
+        "Position": "Administrative Assistant - Palmstrom ",
+        "Email": "palmstrom-admin@ece.ucsb.edu",
+        "Research Interest": "Missing",
+        "Phone number": "+1 805-893-2089"
+    },
+    {
+        "Name": "Audra Pearce",
+        "Position": "Administrative Assistant - Rodwell ",
+        "Email": "rodwell-admin@ece.ucsb.edu",
+        "Research Interest": "Missing",
+        "Phone number": "+1 805-893-2089"
+    },
+    {
+        "Name": "Ramtin Pedarsani",
+        "Position": "Assistant Professor ",
+        "Email": "ramtin@ece.ucsb.edu",
+        "Research Interest": "Missing",
+        "Phone number": "+1 805-893-4166"
+    },
+    {
+        "Name": "Jon Peters",
+        "Position": "R&amp;D Engineer - Bowers ",
+        "Email": "peters@ece.ucsb.edu",
+        "Research Interest": "Missing",
+        "Phone number": "+1 805-893-4883"
+    },
+    {
+        "Name": "Pierre Petroff",
+        "Position": "Professor Emeritus ",
+        "Email": "petroff@engineering.ucsb.edu",
+        "Research Interest": "Missing",
+        "Phone number": "+1 805-893-8256"
+    },
+    {
+        "Name": "Larry Rabiner",
+        "Position": "Professor Emeritus ",
+        "Email": "Missing",
+        "Research Interest": "Missing",
+        "Phone number": "rabiner@ece.ucsb.edu"
+    },
+    {
+        "Name": "Raul Ramirez",
+        "Position": "Electronic Shop Assistant ",
+        "Email": "bear@ece.ucsb.edu",
+        "Research Interest": "Missing",
+        "Phone number": "+1 805-893-2403"
+    },
+    {
+        "Name": "Tom Reynolds",
+        "Position": "Engineering Expert ",
+        "Email": "reynolds@ece.ucsb.edu",
+        "Research Interest": "Missing",
+        "Phone number": "+1 805-893-8158"
+    },
+    {
+        "Name": "Ian Rhodes",
+        "Position": "Professor Emeritus ",
+        "Email": " ",
+        "Research Interest": "Missing",
+        "Phone number": "Missing"
+    },
+    {
+        "Name": "Mark Rodwell",
+        "Position": "Distinguished Professor",
+        "Email": "rodwell@ece.ucsb.edu",
+        "Research Interest": "Doluca Family Chair in ECE ",
+        "Phone number": "+1 805-893-3244"
+    },
+    {
+        "Name": "Kenneth Rose",
+        "Position": "Distinguished Professor ",
+        "Email": "rose@ece.ucsb.edu",
+        "Research Interest": "Missing",
+        "Phone number": "+1 805-893-7024"
+    },
+    {
+        "Name": "Adel Saleh",
+        "Position": "Adjunct Professor ",
+        "Email": "adelsaleh@ece.ucsb.edu",
+        "Research Interest": "Missing",
+        "Phone number": "+1 805-893-2374"
+    },
+    {
+        "Name": "Loai Salem",
+        "Position": "Assistant Professor ",
+        "Email": "salem@ece.ucsb.edu",
+        "Research Interest": "Missing",
+        "Phone number": "+1 805-893-3805"
+    },
+    {
+        "Name": "Lee Sawyer",
+        "Position": "Equipment Engineer ",
+        "Email": "lee_sawyer@ece.ucsb.edu",
+        "Research Interest": "Missing",
+        "Phone number": "+1 805-893-2123"
+    },
+    {
+        "Name": "Clint Schow",
+        "Position": "Professor",
+        "Email": "schow@ece.ucsb.edu",
+        "Research Interest": "Vice Chair of Graduate Studies ",
+        "Phone number": "+1 805-893-2875"
+    },
+    {
+        "Name": "Jon Schuller",
+        "Position": "Associate Professor ",
+        "Email": "jonschuller@ece.ucsb.edu",
+        "Research Interest": "Missing",
+        "Phone number": "+1 805-893-4295"
+    },
+    {
+        "Name": "Pradeep Sen",
+        "Position": "Professor ",
+        "Email": "psen@ece.ucsb.edu",
+        "Research Interest": "Missing",
+        "Phone number": "+1 805-893-4265"
+    },
+    {
+        "Name": "Tim Sherwood",
+        "Position": "Affiliated Professor",
+        "Email": " ",
+        "Research Interest": "Computer Science ",
+        "Phone number": "Missing"
+    },
+    {
+        "Name": "John Shynk",
+        "Position": "Professor Emeritus ",
+        "Email": "shynk@ece.ucsb.edu",
+        "Research Interest": "Missing",
+        "Phone number": "+1 805-893-3977"
+    },
+    {
+        "Name": "Mike Silva",
+        "Position": "Equipment Engineer Manager ",
+        "Email": "silva@ece.ucsb.edu",
+        "Research Interest": "Missing",
+        "Phone number": "+1 805-893-3096"
+    },
+    {
+        "Name": "John Skalnik",
+        "Position": "Professor Emeritus ",
+        "Email": " ",
+        "Research Interest": "Missing",
+        "Phone number": "Missing"
+    },
+    {
+        "Name": "Spencer L. Smith",
+        "Position": "Associate Professor ",
+        "Email": "sls@ece.ucsb.edu",
+        "Research Interest": "Missing",
+        "Phone number": "+1 805-893-5282"
+    },
+    {
+        "Name": "Tori Smith",
+        "Position": "Academic Personnel Coordinator ",
+        "Email": "cao-academic@ece.ucsb.edu",
+        "Research Interest": "Missing",
+        "Phone number": "+1 805-893-3716"
+    },
+    {
+        "Name": "Biljana Stamenic",
+        "Position": "Process Scientist ",
+        "Email": "biljana@ece.ucsb.edu",
+        "Research Interest": "Missing",
+        "Phone number": "+1 805-893-4002"
+    },
+    {
+        "Name": "Libby Straight",
+        "Position": "ECE Webmaster &amp; Asst. to the Dir., CE ",
+        "Email": "libby@ece.ucsb.edu",
+        "Research Interest": "Missing",
+        "Phone number": "+1 805-893-5615"
+    },
+    {
+        "Name": "Dmitri Strukov",
+        "Position": "Professor ",
+        "Email": "strukov@ece.ucsb.edu",
+        "Research Interest": "Missing",
+        "Phone number": "+1 805-893-2971"
+    },
+    {
+        "Name": "Tino Sy",
+        "Position": "Facility Staff ",
+        "Email": "sy@ece.ucsb.edu",
+        "Research Interest": "Missing",
+        "Phone number": "+1 805-893-4796"
+    },
+    {
+        "Name": "Andrew Teel",
+        "Position": "Distinguished Professor ",
+        "Email": "teel@ece.ucsb.edu",
+        "Research Interest": "Missing",
+        "Phone number": "+1 805-893-3616"
+    },
+    {
+        "Name": "Luke Theogarajan",
+        "Position": "Professor",
+        "Email": "ltheogar@ece.ucsb.edu",
+        "Research Interest": "Vice Chair of Undergraduate Studies ",
+        "Phone number": "+1 805-893-3985"
+    },
+    {
+        "Name": "Brian Thibeault",
+        "Position": "Nanofab Technical / Operational Director ",
+        "Email": "thibeault@ece.ucsb.edu",
+        "Research Interest": "Missing",
+        "Phone number": "+1 805-893-2268"
+    },
+    {
+        "Name": "Christos Thrampoulidis",
+        "Position": "Assistant Professor ",
+        "Email": "cthrampo@ece.ucsb.edu",
+        "Research Interest": "Missing",
+        "Phone number": "+1 805-893-2037"
+    },
+    {
+        "Name": "Yon Visell",
+        "Position": "Associate Professor ",
+        "Email": "yonvisell@ece.ucsb.edu",
+        "Research Interest": "Missing",
+        "Phone number": "+1 805-893-8352"
+    },
+    {
+        "Name": "Glen Wade",
+        "Position": "Professor Emeritus ",
+        "Email": " ",
+        "Research Interest": "Missing",
+        "Phone number": "Missing"
+    },
+    {
+        "Name": "William Wang",
+        "Position": "Affiliated Professor",
+        "Email": " ",
+        "Research Interest": "Computer Science ",
+        "Phone number": "Missing"
+    },
+    {
+        "Name": "Li-C. Wang",
+        "Position": "Professor",
+        "Email": "licwang@ece.ucsb.edu",
+        "Research Interest": "Director of Computer Engineering ",
+        "Phone number": "+1 805-893-5916"
+    },
+    {
+        "Name": "Alyssa Warren",
+        "Position": "Purchasing Assistant ",
+        "Email": "purchasing-admin@ece.ucsb.edu",
+        "Research Interest": "Missing",
+        "Phone number": "+1 805-893-3003"
+    },
+    {
+        "Name": "Christopher Wimmel",
+        "Position": "Principal Electronics Technician ",
+        "Email": "chrisw@ece.ucsb.edu",
+        "Research Interest": "Missing",
+        "Phone number": "+1 805-893-2403"
+    },
+    {
+        "Name": "Roger Wood",
+        "Position": "Professor Emeritus ",
+        "Email": " ",
+        "Research Interest": "Missing",
+        "Phone number": "Missing"
+    },
+    {
+        "Name": "Yuan Xie",
+        "Position": "Professor ",
+        "Email": "yuanxie@ece.ucsb.edu",
+        "Research Interest": "Missing",
+        "Phone number": "+1 805-893-5563"
+    },
+    {
+        "Name": "Pochi Yeh",
+        "Position": "Professor Emeritus ",
+        "Email": "Missing",
+        "Research Interest": "Missing",
+        "Phone number": "pochi@ece.ucsb.edu"
+    },
+    {
+        "Name": "Robert York",
+        "Position": "Distinguished Professor ",
+        "Email": "rayork@ece.ucsb.edu",
+        "Research Interest": "Missing",
+        "Phone number": "+1 805-895-2562"
+    },
+    {
+        "Name": "Zheng Zhang",
+        "Position": "Assistant Professor ",
+        "Email": "zhengzhang@ece.ucsb.edu",
+        "Research Interest": "Missing",
+        "Phone number": "+1 805-893-7294"
+    },
+    {
+        "Name": "Luis Zuzunaga",
+        "Position": "Facility Staff ",
+        "Email": "luis@ece.ucsb.edu",
+        "Research Interest": "Missing",
+        "Phone number": "+1 805-893-8258"
+    }
+]

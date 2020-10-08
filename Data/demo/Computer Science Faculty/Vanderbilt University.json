@@ -1,0 +1,597 @@
+[
+    {
+        "Name": "Matthew Berger",
+        "Position": "Missing",
+        "Research Interest": "              Data visualization, machine learning, computer vision, geometry processing     "
+    },
+    {
+        "Name": "Bharat Bhuva",
+        "Position": "Missing",
+        "Research Interest": " Computer aided design tools, radiation effects on integrated circuits, modeling of semiconductor devices and fabrication processes, and VLSI design "
+    },
+    {
+        "Name": "Gautam Biswas",
+        "Position": "Missing",
+        "Research Interest": " Modeling and analysis of Cyber Physical Systems, Model-based Diagnosis, Data Mining for Diagnosis, Intelligent Learning Environments, Educational Data Mining, Integrated Planning, Scheduling, Control, and Resource Allocation for Complex systems "
+    },
+    {
+        "Name": "Robert Bodenheimer",
+        "Position": "Missing",
+        "Research Interest": " Virtual Environments, Computer Animation, Computer Graphics "
+    },
+    {
+        "Name": "Catie Chang",
+        "Position": "Missing",
+        "Research Interest": " Functional neuroimaging techniques and applications; signal processing and computational analysis          "
+    },
+    {
+        "Name": "Benoit Dawant",
+        "Position": "Missing",
+        "Research Interest": " Medical image processing and analysis, image registration, image segmentation, image-guided surgery. "
+    },
+    {
+        "Name": "Abhishek Dubey",
+        "Position": "Missing",
+        "Research Interest": " Dynamic and resilient cyber-physical platforms "
+    },
+    {
+        "Name": "Philippe Fauchet",
+        "Position": "Missing",
+        "Research Interest": " Photonics, energy, and the semiconductor/biology interface, all using silicon-based nanoscience and nanotechnology "
+    },
+    {
+        "Name": "Douglas Fisher",
+        "Position": "Missing",
+        "Research Interest": " Artificial Intelligence, particularly machine learning. "
+    },
+    {
+        "Name": "Daniel Fleetwood",
+        "Position": "Missing",
+        "Research Interest": " Effects of ionizing radiation on microelectronic devices and materials, microelectronics reliability, defects and low-frequency noise. "
+    },
+    {
+        "Name": "Aniruddha Gokhale",
+        "Position": "Missing",
+        "Research Interest": " Fault tolerant and real-time middleware; cyber physical systems; model driven engineering "
+    },
+    {
+        "Name": "Yuankai Huo",
+        "Position": "Missing",
+        "Research Interest": " Biomedical data representation, biomedical image processing, machine learning, data science       "
+    },
+    {
+        "Name": "Taylor Johnson",
+        "Position": "Missing",
+        "Research Interest": " Cyber-physical systems, IoT, formal methods, software engineering, software safety, verification and validation, formal verification, hybrid systems, switched systems, control theory, programming languages, distributed systems, cyber-security, control theory, reliability, automotive systems, aerospace systems, transportation systems, robotics, power electronics, power systems, medical devices "
+    },
+    {
+        "Name": "Weng Poo Kang",
+        "Position": "Missing",
+        "Research Interest": " Solid-state sensors, semiconductor devices, VLSI design "
+    },
+    {
+        "Name": "Gabor Karsai",
+        "Position": "Missing",
+        "Research Interest": " Model-driven software and system development, model-integrated computing, distributed and resilient software platforms, verification and assurance of autonomous systems       "
+    },
+    {
+        "Name": "Xenofon Koutsoukos",
+        "Position": "Missing",
+        "Research Interest": " Hybrid and embedded systems, cyber-physical systems, sensor networks "
+    },
+    {
+        "Name": "Maithilee Kunda",
+        "Position": "Missing",
+        "Research Interest": "   Artificial intelligence, computational cognitive systems, interactive tools for education and assessment, technology and autism   "
+    },
+    {
+        "Name": "Bennett Landman",
+        "Position": "Missing",
+        "Research Interest": " Magnetic resonance imaging &amp; statistical analysis with emphasis on medical imaging. "
+    },
+    {
+        "Name": "Akos Ledeczi",
+        "Position": "Missing",
+        "Research Interest": " Wireless sensor networks, model integrated computing, embedded systems,computer science education "
+    },
+    {
+        "Name": "Lloyd Massengill",
+        "Position": "Missing",
+        "Research Interest": " Radiation-hardened circuit design, simulation of radiation effects on microelectronic circuits, soft error analysis, analog circuit design. "
+    },
+    {
+        "Name": "Justus Ndukaife",
+        "Position": "Missing",
+        "Research Interest": " Nanophotonics, microfluidics, novel bio-inspired soft actuators and robots "
+    },
+    {
+        "Name": "Sandeep Neema",
+        "Position": "Missing",
+        "Research Interest": " Embedded systems, design-space exploration, model integrated computing "
+    },
+    {
+        "Name": "Jack Noble",
+        "Position": "Missing",
+        "Research Interest": " Medical image processing including image segmentation as well as other techniques related to computer-aided surgery. "
+    },
+    {
+        "Name": "Ipek Oguz",
+        "Position": "Missing",
+        "Research Interest": " Medical image analysis, image segmentation, machine learning, image registration     "
+    },
+    {
+        "Name": "Sokrates Pantelides",
+        "Position": "Missing",
+        "Research Interest": "Missing"
+    },
+    {
+        "Name": "Richard Alan Peters",
+        "Position": "Missing",
+        "Research Interest": " Digital image processing, computer vision, Digital signal processing, computer graphics, software engineering, electromagnetic theory, applied mathematics "
+    },
+    {
+        "Name": "Padma Raghavan",
+        "Position": "Missing",
+        "Research Interest": "  enhancing the parallel  performance, energy efficiency and reliability of computations that  involve high-dimensional sparse and unstructured data including  matrices, and graphs   "
+    },
+    {
+        "Name": "Robert Reed",
+        "Position": "Missing",
+        "Research Interest": " Radiation effects on electronics "
+    },
+    {
+        "Name": "William H. Robinson",
+        "Position": "Missing",
+        "Research Interest": " Computer Architecture, VLSI Design, Field-Programmable Gate Arrays (FPGAs), Reliable and Secure Hardware Design "
+    },
+    {
+        "Name": "Douglas Schmidt",
+        "Position": "Missing",
+        "Research Interest": " Mobile cloud computing, distributed real-time and embedded middleware, cyber-physical systems, software patterns and frameworks, and digital learning "
+    },
+    {
+        "Name": "Ronald Schrimpf",
+        "Position": "Missing",
+        "Research Interest": " Semiconductor device physics, radiation effects and reliability in semiconductor devices, microelectronic test structures, and simulation tools for microelectronics "
+    },
+    {
+        "Name": "Jeremy Spinrad",
+        "Position": "Missing",
+        "Research Interest": " graph algorithms "
+    },
+    {
+        "Name": "Janos Sztipanovits",
+        "Position": "Missing",
+        "Research Interest": " Embedded software, Structurally adaptive systems, Model-integrated computing "
+    },
+    {
+        "Name": "Sharon Weiss",
+        "Position": "Missing",
+        "Research Interest": " Light-matter interaction, silicon photonics, porous silicon biosensors, nanotechnology, nanocomposite materials "
+    },
+    {
+        "Name": "Jules White",
+        "Position": "Missing",
+        "Research Interest": "Missing"
+    },
+    {
+        "Name": "D. Mitchell Wilkes",
+        "Position": "Missing",
+        "Research Interest": " Digital signal processing, image processing and computer vision, digital signal processing hardware, structurally adaptive systems, sonar, signal modeling "
+    },
+    {
+        "Name": "Yaqiong Xu",
+        "Position": "Missing",
+        "Research Interest": " Nanoelectronics, optoelectronics, nanobiohybrids "
+    },
+    {
+        "Name": "Daniel Arena",
+        "Position": "Missing",
+        "Research Interest": " Computer Science Education Research, Web Design &amp; Development "
+    },
+    {
+        "Name": "A.B. Bonds",
+        "Position": "Missing",
+        "Research Interest": " Information processing in the brain. "
+    },
+    {
+        "Name": "Ralph Bruce",
+        "Position": "Missing",
+        "Research Interest": "Missing"
+    },
+    {
+        "Name": "Uttam Ghosh",
+        "Position": "Missing",
+        "Research Interest": " Cybersecurity, software defied networking (SDN), distributed &amp; mobile computing, wireless security, cloud computing and content centric networking     "
+    },
+    {
+        "Name": "Graham Hemingway",
+        "Position": "Missing",
+        "Research Interest": " model integrated computing, software integrated systems "
+    },
+    {
+        "Name": "Julie Johnson",
+        "Position": "Missing",
+        "Research Interest": " Graph algorithms, CS Education Research "
+    },
+    {
+        "Name": "Amy Kauppila",
+        "Position": "Missing",
+        "Research Interest": " radiation effects on integrated circuits, computers and ethics "
+    },
+    {
+        "Name": "Diego Mesa",
+        "Position": "Missing",
+        "Research Interest": "Missing"
+    },
+    {
+        "Name": "Dominique Piot",
+        "Position": "Missing",
+        "Research Interest": " Computer science education "
+    },
+    {
+        "Name": "Gerald Roth",
+        "Position": "Missing",
+        "Research Interest": " compiler construction, computer science education "
+    },
+    {
+        "Name": "Vikash Singh",
+        "Position": "Missing",
+        "Research Interest": "Missing"
+    },
+    {
+        "Name": "Robert Tairas",
+        "Position": "Missing",
+        "Research Interest": " Program analysis and understanding, software evolution and maintenance, empirical software engineering "
+    },
+    {
+        "Name": "Clark Turner",
+        "Position": "Missing",
+        "Research Interest": " Software System Safety in Embedded Systems, Software Requirements Engineering, Legal Liability for Injuries Caused by Software Systems "
+    },
+    {
+        "Name": "Michael Alles",
+        "Position": "Missing",
+        "Research Interest": "Missing"
+    },
+    {
+        "Name": "Theodore Bapty",
+        "Position": "Missing",
+        "Research Interest": " model integrated computing, software integrated systems "
+    },
+    {
+        "Name": "J. L. Davidson",
+        "Position": "Missing",
+        "Research Interest": " Microelectronics processing, Solid state sensors, Diamond technology, Micromechanical structures "
+    },
+    {
+        "Name": "Pierre DHaese",
+        "Position": "Missing",
+        "Research Interest": " medical image processing "
+    },
+    {
+        "Name": "Zhaohua Ding",
+        "Position": "Missing",
+        "Research Interest": " medical imaging, magnetic resonance imaging (MRI) "
+    },
+    {
+        "Name": "J. Michael Fitzpatrick",
+        "Position": "Missing",
+        "Research Interest": " Medical imaging, image processing, image registration, magnetic resonance imaging (MRI) "
+    },
+    {
+        "Name": "Kenneth Galloway",
+        "Position": "Missing",
+        "Research Interest": " Solid state devices, microelectronics, reliability, radiation effects "
+    },
+    {
+        "Name": "Tim Holman",
+        "Position": "Missing",
+        "Research Interest": " Low power/low voltage/low noise analog/mixed-signal IC design; radiation-tolerant analog/mixed-signal circuit design "
+    },
+    {
+        "Name": "Jeffrey Kauppila",
+        "Position": "Missing",
+        "Research Interest": " Radiation-Hardened Circuit Design, Radiation-Enabled Compact Modeling, Simulation of Radiation Effects on Circuits and Systems, Layout-Aware Modeling, Near-Threshold Computing, Digital Circuit Design, Analog Circuit Design, Mixed-Signal Circuit Design "
+    },
+    {
+        "Name": "Kazuhiko Kawamura",
+        "Position": "Missing",
+        "Research Interest": " Intelligent systems, cognitive robotics, humanoid robotics, human-robot symbiosis, behavior learning, computational intelligence "
+    },
+    {
+        "Name": "Robert Laddaga",
+        "Position": "Missing",
+        "Research Interest": " model integrated computing, software integrated systems "
+    },
+    {
+        "Name": "Ilwoo Lyu",
+        "Position": "Missing",
+        "Research Interest": " Computer vision, surface registration, computational neuroanatomy, shape analysis       "
+    },
+    {
+        "Name": "Himanshu Neema",
+        "Position": "Missing",
+        "Research Interest": " Heterogeneous simulation integration, modeling and simulation, cloud computing, model-integrated computing, design-space exploration, artificial intelligence, planning and scheduling     "
+    },
+    {
+        "Name": "Supil Raina",
+        "Position": "Missing",
+        "Research Interest": " Thin-film diamond and carbon nanotubes, advanced energy storage solutions using lithium ion batteries and ultracapacitors, vacuum field emission technology, sensors. "
+    },
+    {
+        "Name": "Brian Sierawski",
+        "Position": "Missing",
+        "Research Interest": " Radiation effects on microelectronics, simulation of on-orbit soft error rates in memories, small satellite design "
+    },
+    {
+        "Name": "Hongyang Sun",
+        "Position": "Missing",
+        "Research Interest": " High-performance computing, computational data science, cloud/edge-computing, resource scheduling, fault tolerance, energy efficiency, algorithms, performance modeling and optimization      "
+    },
+    {
+        "Name": "Arthur Witulski",
+        "Position": "Missing",
+        "Research Interest": " Radiation effects on electronic power semiconductor devices and power electronic converters, radiation reliability of complex systems in radiation environments such as satellites and robots in nuclear disasters. "
+    },
+    {
+        "Name": "Enxia Zhang",
+        "Position": "Missing",
+        "Research Interest": " radiation effects on microelectronics, RF devices and ICs "
+    },
+    {
+        "Name": "Julie A. Adams",
+        "Position": "Missing",
+        "Research Interest": " Human-System Interaction,Human-Robot Interaction,Artificial IntelligenceRobotics "
+    },
+    {
+        "Name": "Daniel Balasubramanian",
+        "Position": "Missing",
+        "Research Interest": " Symbolic execution, code analysis     "
+    },
+    {
+        "Name": "Jeff Black",
+        "Position": "Missing",
+        "Research Interest": " Radiation effects in microelectronics, spacecraft signal processing, microelectronics reliability "
+    },
+    {
+        "Name": "Ashok Choudhury",
+        "Position": "Missing",
+        "Research Interest": " materials science, technology transfer "
+    },
+    {
+        "Name": "William Hofmeister",
+        "Position": "Missing",
+        "Research Interest": " Additive Manufacture, Laser/Material Processing, bioMEMS. Nucleation, solidification and diamond microelectronics.     "
+    },
+    {
+        "Name": "Shuren Hu",
+        "Position": "Missing",
+        "Research Interest": "Missing"
+    },
+    {
+        "Name": "David Kerns",
+        "Position": "Missing",
+        "Research Interest": " Microelectronics circuits and devices, Solid state sensors, Diamond technology, Microelectromechanical (MEMS) devices. Engineering education. "
+    },
+    {
+        "Name": "Steven Kosier",
+        "Position": "Missing",
+        "Research Interest": " Radiation effects on integrated circuits and power devices, hardness assurance of commercial and automotive semiconductors in space and military applications.       "
+    },
+    {
+        "Name": "Daniel Loveless",
+        "Position": "Missing",
+        "Research Interest": " radiation effects on integrated circuits "
+    },
+    {
+        "Name": "Gerald Lucovsky",
+        "Position": "Missing",
+        "Research Interest": " semiconductor physics, dielectric fabrication and technology "
+    },
+    {
+        "Name": "Eugene Vorobeychik",
+        "Position": "Missing",
+        "Research Interest": " Adversarial machine learning and data mining, data-driven agent-based modeling, economics of data sharing, game theoretic modeling of security and privacy, cyber-physical system security. "
+    },
+    {
+        "Name": "Shilo Anders",
+        "Position": "Missing",
+        "Research Interest": " Human factors engineering, cognitive systems engineering and human-system interaction, healthcare informatics     "
+    },
+    {
+        "Name": "Clifford Anderson",
+        "Position": "Missing",
+        "Research Interest": "Missing"
+    },
+    {
+        "Name": "Kirill Bolotin",
+        "Position": "Missing",
+        "Research Interest": " nanoscience, graphene "
+    },
+    {
+        "Name": "Audrey Bowden",
+        "Position": "Missing",
+        "Research Interest": " Biophotonics tools for applications in early detection, diagnosis and therapy for cancer; development and deployment of low-cost, high-performing point-of-care technologies for rural and global health applications     "
+    },
+    {
+        "Name": "Corey Brady",
+        "Position": "Missing",
+        "Research Interest": "Missing"
+    },
+    {
+        "Name": "David Braun",
+        "Position": "Missing",
+        "Research Interest": "    Robotics, optimal control, system dynamics, compliant robot actuators, human performance augmentation technology "
+    },
+    {
+        "Name": "Joshua Caldwell",
+        "Position": "Missing",
+        "Research Interest": " Nano-optics, polaritonics, nanophotonics, infrared and Raman spectroscopy, active photonics, infrared optics and imaging, power electronic materials, defects in semiconductors "
+    },
+    {
+        "Name": "John Capra",
+        "Position": "Missing",
+        "Research Interest": " Addressing problems in genetics, evolution, and biomedicine.   "
+    },
+    {
+        "Name": "Mark Does",
+        "Position": "Missing",
+        "Research Interest": " MRI, neuroimaging, cardiac imaging, MR microscopy "
+    },
+    {
+        "Name": "Daniel Fabbri",
+        "Position": "Missing",
+        "Research Interest": "Missing"
+    },
+    {
+        "Name": "Leonard Feldman",
+        "Position": "Missing",
+        "Research Interest": " nanoscience and engineering, semiconductor materials "
+    },
+    {
+        "Name": "Ivelin Georgiev",
+        "Position": "Missing",
+        "Research Interest": "Missing"
+    },
+    {
+        "Name": "Michael Goldfarb",
+        "Position": "Missing",
+        "Research Interest": " Design, modeling, and control of electromechanical devices and systems. Design of high-energy-density robotic actuators. Control of fluid-powered actuators and devices. "
+    },
+    {
+        "Name": "William Grissom",
+        "Position": "Missing",
+        "Research Interest": " Magnetic resonance imaging; Inverse problems; Optimization;Signal processing; Electromagnetics. "
+    },
+    {
+        "Name": "Dennis Hall",
+        "Position": "Missing",
+        "Research Interest": " Interaction of light with matter; optical waveguide phenomena; propagation of light "
+    },
+    {
+        "Name": "Bradley Malin",
+        "Position": "Missing",
+        "Research Interest": " Biomedical informatics, data science, big data, machine learning, data privacy and security     "
+    },
+    {
+        "Name": "Mikail Rubinov",
+        "Position": "Missing",
+        "Research Interest": " Integrative statistical models of big neuroscience networks, evolutionary principles of brain network organization, information transfer in neural systems, neuropsychiatric connectivity phenotypes       "
+    },
+    {
+        "Name": "Nilanjan Sarkar",
+        "Position": "Missing",
+        "Research Interest": " Intelligent and autonomous systems,robot-assisted rehabilitation,computer-based intelligent systems,human-robot and human-computer interaction, kinematics, dynamics and control theory "
+    },
+    {
+        "Name": "Richard Shiavi",
+        "Position": "Missing",
+        "Research Interest": " Signal processing applied to biomedical applications and speech, innovations in engineering education "
+    },
+    {
+        "Name": "Nabil Simaan",
+        "Position": "Missing",
+        "Research Interest": " Robotic systems for surgical assistance,theoretical kinematics of mechanisms, synthesis and optimization of robots and mechanisms, design of flexure mechanisms and flexible robots, parallel robots,actuation redundancy and kinematic redundancy "
+    },
+    {
+        "Name": "Keivan Stassun",
+        "Position": "Missing",
+        "Research Interest": " Data visualization; data science, machine learning and artificial intelligence; small satellites; neurodiversity inspired science and engineering     "
+    },
+    {
+        "Name": "Jason Valentine",
+        "Position": "Missing",
+        "Research Interest": " Optical metamaterials, plasmonics, transformation optics, nanophotonics, nanoimaging, active photonics, gradient index optics, high spatial resolution bioimaging and sensing, solar energy conversion, scalable 3D nanomanufacturing. "
+    },
+    {
+        "Name": "Greg Walker",
+        "Position": "Missing",
+        "Research Interest": " Micro-scale heat transfer, heat flux measurement, energy transport processes, ultrasonic pyrometry, thermographic phospors, energy conversion devices, high-performance computing "
+    },
+    {
+        "Name": "Robert Webster",
+        "Position": "Missing",
+        "Research Interest": " Image guidance, robotic surgery,screw theory, mechanics-based modeling, and optimal mechanism design "
+    },
+    {
+        "Name": "Thilo Womelsdorf",
+        "Position": "Missing",
+        "Research Interest": "Missing"
+    },
+    {
+        "Name": "Daniel Work",
+        "Position": "Missing",
+        "Research Interest": "   transportation cyber physical systems, transportation data analytics, traffic estimation &amp; control, connected &amp; autonomous vehicles, mathematical models of traffic, inverse modeling, mobile sensing "
+    },
+    {
+        "Name": "Zhijun Yin",
+        "Position": "Missing",
+        "Research Interest": " Data mining and machine learning techniques for modeling, analyzing, and predicting health-related behaviors and outcomes;data processing systems and social computing   "
+    },
+    {
+        "Name": "A.B. Bonds",
+        "Position": "Missing",
+        "Research Interest": " Information processing in the brain. "
+    },
+    {
+        "Name": "Arthur Brodersen",
+        "Position": "Missing",
+        "Research Interest": " Intelligent tutoring systems, asynchronous distance learning courseware, first-year engineering courseware, and integrated electronic circuits and semiconductor devices. "
+    },
+    {
+        "Name": "George Cook",
+        "Position": "Missing",
+        "Research Interest": " Industrial automation, simulation, robotics "
+    },
+    {
+        "Name": "J. L. Davidson",
+        "Position": "Missing",
+        "Research Interest": " Microelectronics processing, Solid state sensors, Diamond technology, Micromechanical structures "
+    },
+    {
+        "Name": "Lawrence Dowdy",
+        "Position": "Missing",
+        "Research Interest": " Performance Prediction Models, Workload characterization, Multiprocessor scheduling, Modeling of Real Time Systems, Experimental Studies of Parallel Systems "
+    },
+    {
+        "Name": "J. Michael Fitzpatrick",
+        "Position": "Missing",
+        "Research Interest": " Medical imaging, image processing, image registration, magnetic resonance imaging (MRI) "
+    },
+    {
+        "Name": "Kenneth Galloway",
+        "Position": "Missing",
+        "Research Interest": " Solid state devices, microelectronics, reliability, radiation effects "
+    },
+    {
+        "Name": "Kazuhiko Kawamura",
+        "Position": "Missing",
+        "Research Interest": " Intelligent systems, cognitive robotics, humanoid robotics, human-robot symbiosis, behavior learning, computational intelligence "
+    },
+    {
+        "Name": "Stephen Schach",
+        "Position": "Missing",
+        "Research Interest": " Object-oriented software engineering "
+    },
+    {
+        "Name": "Charles Stephenson",
+        "Position": "Missing",
+        "Research Interest": " electricity and magnetism "
+    },
+    {
+        "Name": "Robert Weller",
+        "Position": "Missing",
+        "Research Interest": " Radiation effects in semiconductor devices and materials, computer simulation of radiation effects and semiconductor devices, thin film materials and nanostructures "
+    },
+    {
+        "Name": "Francis Wells",
+        "Position": "Missing",
+        "Research Interest": " Arc detection in power equipment, discontinous control of space conditioning processes "
+    },
+    {
+        "Name": "James Wittig",
+        "Position": "Missing",
+        "Research Interest": " Undercool-rapid-quench processing, magnetic materials, analytical electron "
+    }
+]

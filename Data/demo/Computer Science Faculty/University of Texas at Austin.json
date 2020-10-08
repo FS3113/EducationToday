@@ -1,0 +1,547 @@
+[
+    {
+        "Position": "Professor",
+        "Research Interest": "Theoretical Computer Science",
+        "Name": "Scott Aaronson"
+    },
+    {
+        "Position": "Assistant Professor of Instruction",
+        "Research Interest": "Graphics and Visualization",
+        "Name": "Sarah Abraham"
+    },
+    {
+        "Position": "Professor Emeritus",
+        "Research Interest": "Operating systems, Distributed systems, and Networking",
+        "Name": "Lorenzo Alvisi"
+    },
+    {
+        "Position": "Postdoctoral Researcher",
+        "Research Interest": "Missing",
+        "Name": "Yosi Atia"
+    },
+    {
+        "Position": "Entrepreneur in Residence",
+        "Research Interest": "Missing",
+        "Name": "Joshua Baer"
+    },
+    {
+        "Position": "Professor",
+        "Research Interest": "Bioinformatics and Computational Biology",
+        "Name": "Chandrajit Bajaj"
+    },
+    {
+        "Position": "Professor",
+        "Research Interest": "Artificial Intelligence",
+        "Name": "Dana Ballard"
+    },
+    {
+        "Position": "Professor Emeritus",
+        "Research Interest": "Formal Methods",
+        "Name": "Don Batory "
+    },
+    {
+        "Position": "Assistant Professor of Instruction",
+        "Research Interest": "Missing",
+        "Name": "Angela Beasley"
+    },
+    {
+        "Position": "Assistant Professor",
+        "Research Interest": "Artificial Intelligence",
+        "Name": " Joydeep Biswas"
+    },
+    {
+        "Position": "Assistant Professor",
+        "Research Interest": "Formal Methods",
+        "Name": "James Bornholt"
+    },
+    {
+        "Position": "Professor Emeritus",
+        "Research Interest": "Missing",
+        "Name": "Robert Boyer"
+    },
+    {
+        "Position": "Assistant Professor of Instruction",
+        "Research Interest": "Artificial Intelligence",
+        "Name": "William Bulko"
+    },
+    {
+        "Position": "Assistant Professor of Instruction",
+        "Research Interest": "Artificial Intelligence",
+        "Name": "Anna Chaney"
+    },
+    {
+        "Position": "Professor of Instruction",
+        "Research Interest": "Computer Architecture",
+        "Name": "Siddhartha Chatterjee"
+    },
+    {
+        "Position": "Associate Professor",
+        "Research Interest": "Artificial Intelligence",
+        "Name": "Swarat Chaudhuri"
+    },
+    {
+        "Position": "Assistant Professor",
+        "Research Interest": "Operating systems, Distributed systems, and Networking",
+        "Name": "Vijay Chidambaram"
+    },
+    {
+        "Position": "Assistant Professor",
+        "Research Interest": "Data Mining, Machine Learning, and Natural Computation",
+        "Name": "Eunsol Choi"
+    },
+    {
+        "Position": "Professor Emeritus",
+        "Research Interest": "Scientific Computing",
+        "Name": "Alan Cline"
+    },
+    {
+        "Position": "Adjunct Assistant Professor",
+        "Research Interest": "Missing",
+        "Name": "Shirley Cohen"
+    },
+    {
+        "Position": "Associate Professor ",
+        "Research Interest": "Model Driven Engineering",
+        "Name": "William Cook"
+    },
+    {
+        "Position": "Professor ",
+        "Research Interest": "Artificial Intelligence",
+        "Name": "Inderjit Dhillon"
+    },
+    {
+        "Position": "Associate Professor",
+        "Research Interest": "Artificial Intelligence",
+        "Name": "Isil Dillig"
+    },
+    {
+        "Position": "Assistant Professor of Instruction",
+        "Research Interest": "Missing",
+        "Name": "Glenn Downing"
+    },
+    {
+        "Position": "Assistant Professor ",
+        "Research Interest": "Artificial Intelligence",
+        "Name": "Greg Durrett"
+    },
+    {
+        "Position": "Professor Emeritus",
+        "Research Interest": "Formal Methods",
+        "Name": "E. Allen Emerson"
+    },
+    {
+        "Position": "Assistant Professor of Instruction ",
+        "Research Interest": "Missing",
+        "Name": "Fares Fraij"
+    },
+    {
+        "Position": "Department Chair and Professor",
+        "Research Interest": "Computer Architecture",
+        "Name": "Don Fussell"
+    },
+    {
+        "Position": "Professor",
+        "Research Interest": "Theoretical Computer Science",
+        "Name": "Anna Gal"
+    },
+    {
+        "Position": "Adjunct Professor",
+        "Research Interest": "Computer Architecture",
+        "Name": "Ahmed Gheith"
+    },
+    {
+        "Position": "Research Scientist",
+        "Research Interest": "Artificial Intelligence",
+        "Name": "Hans Ulrich Grasemann"
+    },
+    {
+        "Position": "Professor",
+        "Research Interest": "Artificial Intelligence",
+        "Name": "Kristen Grauman"
+    },
+    {
+        "Position": "Assistant Professor of Practice",
+        "Research Interest": "Artificial Intelligence",
+        "Name": "Justin Hart"
+    },
+    {
+        "Position": "Assistant Professor",
+        "Research Interest": "Artificial Intelligence",
+        "Name": "David Harwath"
+    },
+    {
+        "Position": "Assistant Professor",
+        "Research Interest": "Artificial Intelligence",
+        "Name": "Qixing Huang"
+    },
+    {
+        "Position": "Professor",
+        "Research Interest": "Bioinformatics and Computational Biology",
+        "Name": "Warren Hunt Jr. "
+    },
+    {
+        "Position": "Assistant Professor",
+        "Research Interest": "Artificial Intelligence",
+        "Name": "Alexander Huth"
+    },
+    {
+        "Position": "Research Associate",
+        "Research Interest": "Computer Architecture",
+        "Name": "Akanksha Jain"
+    },
+    {
+        "Position": "Adjunct Assistant Professor",
+        "Research Interest": "Security",
+        "Name": "Oliver Jensen"
+    },
+    {
+        "Position": "Assistant Professor of Instruction",
+        "Research Interest": "Bioinformatics and Computational Biology",
+        "Name": "Chand John"
+    },
+    {
+        "Position": "Adjunct Professor",
+        "Research Interest": "Computer Architecture",
+        "Name": "Stephen Keckler"
+    },
+    {
+        "Position": "Professor",
+        "Research Interest": "Artificial Intelligence",
+        "Name": "Adam Klivans"
+    },
+    {
+        "Position": "Assistant Professor",
+        "Research Interest": "Artificial Intelligence",
+        "Name": "Philipp Kr\\xc3\\xa4henb\\xc3\\xbchl"
+    },
+    {
+        "Position": "Assistant Professor of Instruction",
+        "Research Interest": "Missing",
+        "Name": "Devdatta Kulkarni"
+    },
+    {
+        "Position": "Professor Emeritus",
+        "Research Interest": "Operating systems, Distributed systems, and Networking",
+        "Name": "Simon Lam"
+    },
+    {
+        "Position": "Assistant Professor of Instruction",
+        "Research Interest": "Missing",
+        "Name": "Karen Landolt"
+    },
+    {
+        "Position": "Professor Emeritus",
+        "Research Interest": "Artificial Intelligence",
+        "Name": "Vladimir Lifschitz"
+    },
+    {
+        "Position": "Professor",
+        "Research Interest": "Computer Architecture",
+        "Name": "Calvin Lin"
+    },
+    {
+        "Position": "Assistant Professor ",
+        "Research Interest": "Data Mining, Machine Learning, and Natural Computation",
+        "Name": "Qiang Liu"
+    },
+    {
+        "Position": "Professor",
+        "Research Interest": "Artificial Intelligence",
+        "Name": "Risto Miikkulainen"
+    },
+    {
+        "Position": "Professor",
+        "Research Interest": "Bioinformatics and Computational Biology",
+        "Name": "Daniel P. Miranker"
+    },
+    {
+        "Position": "Research Fellow",
+        "Research Interest": "Missing",
+        "Name": "Reuth Mirsky"
+    },
+    {
+        "Position": "Professor Emeritus",
+        "Research Interest": "Formal Methods",
+        "Name": "Jayadev Misra"
+    },
+    {
+        "Position": "Associate Professor of Instruction",
+        "Research Interest": "Data Mining, Machine Learning, and Natural Computation",
+        "Name": "Shyamal Mitra"
+    },
+    {
+        "Position": "Professor",
+        "Research Interest": "Model Driven Engineering",
+        "Name": "Aloysius K. Mok"
+    },
+    {
+        "Position": "Professor",
+        "Research Interest": "Artificial Intelligence",
+        "Name": "Raymond Mooney"
+    },
+    {
+        "Position": "Professor Emeritus ",
+        "Research Interest": "Missing",
+        "Name": "J Strother Moore"
+    },
+    {
+        "Position": "Associate Professor",
+        "Research Interest": "Theoretical Computer Science",
+        "Name": "Dana Moshkovitz"
+    },
+    {
+        "Position": "Lecturer",
+        "Research Interest": "Formal Methods",
+        "Name": "Margaret Myers"
+    },
+    {
+        "Position": "Assistant Professor",
+        "Research Interest": "Artificial Intelligence",
+        "Name": "Scott Niekum"
+    },
+    {
+        "Position": "Associate Professor of Instruction",
+        "Research Interest": "Missing",
+        "Name": "Alison Norman"
+    },
+    {
+        "Position": "Professor",
+        "Research Interest": "Artificial Intelligence",
+        "Name": "Gordon Novak"
+    },
+    {
+        "Position": "Assistant Professor of Instruction",
+        "Research Interest": "Missing",
+        "Name": "Devangi Parikh"
+    },
+    {
+        "Position": "Assistant Professor",
+        "Research Interest": "Operating systems, Distributed systems, and Networking",
+        "Name": "Simon Peter"
+    },
+    {
+        "Position": "Assistant Professor of Practice",
+        "Research Interest": "Missing",
+        "Name": "Tina Peterson"
+    },
+    {
+        "Position": "Professor",
+        "Research Interest": "Programming Languages and Implementation",
+        "Name": "Keshav Pingali"
+    },
+    {
+        "Position": "Professor",
+        "Research Interest": "Theoretical Computer Science",
+        "Name": "Greg Plaxton"
+    },
+    {
+        "Position": "Professor",
+        "Research Interest": "Artificial Intelligence",
+        "Name": "Bruce Porter"
+    },
+    {
+        "Position": "Professor",
+        "Research Interest": "Bioinformatics and Computational Biology",
+        "Name": "Bill Press"
+    },
+    {
+        "Position": "Associate Professor",
+        "Research Interest": "Theoretical Computer Science",
+        "Name": "Eric Price"
+    },
+    {
+        "Position": "Instructor, Longhorn Startup",
+        "Research Interest": "Missing",
+        "Name": "Melinda Price"
+    },
+    {
+        "Position": "Adjunct Assistant Professor",
+        "Research Interest": "Missing",
+        "Name": "Chris Prosise"
+    },
+    {
+        "Position": "Professor",
+        "Research Interest": "Operating systems, Distributed systems, and Networking",
+        "Name": "Lili Qiu"
+    },
+    {
+        "Position": "Professor",
+        "Research Interest": "Theoretical Computer Science",
+        "Name": "Vijaya Ramachandran"
+    },
+    {
+        "Position": "Postdoctoral Researcher",
+        "Research Interest": "Missing",
+        "Name": "Andrea Rocchetto"
+    },
+    {
+        "Position": "Assistant Professor",
+        "Research Interest": "Operating systems, Distributed systems, and Networking",
+        "Name": "Christopher Rossbach"
+    },
+    {
+        "Position": "Professor of Instruction",
+        "Research Interest": "Missing",
+        "Name": "Michael Scott"
+    },
+    {
+        "Position": "Professor ",
+        "Research Interest": "Security",
+        "Name": "Hovav Shacham"
+    },
+    {
+        "Position": "Postdoctoral Researcher",
+        "Research Interest": "Missing",
+        "Name": "Supreeth Shastri"
+    },
+    {
+        "Position": "Professor ",
+        "Research Interest": "Artificial Intelligence",
+        "Name": "Peter Stone"
+    },
+    {
+        "Position": "Professor of Instruction",
+        "Research Interest": "Missing",
+        "Name": "Paul Toprac"
+    },
+    {
+        "Position": "Research Scientist",
+        "Research Interest": "Data Mining, Machine Learning, and Natural Computation",
+        "Name": "Cem Tutum"
+    },
+    {
+        "Position": "Professor",
+        "Research Interest": "Scientific Computing",
+        "Name": "Robert van de Geijn"
+    },
+    {
+        "Position": "Research Scientist",
+        "Research Interest": "Scientific Computing",
+        "Name": "Field G. Van Zee"
+    },
+    {
+        "Position": "Assistant Professor",
+        "Research Interest": "Graphics and Visualization",
+        "Name": "Etienne Vouga"
+    },
+    {
+        "Position": "Professor",
+        "Research Interest": "Security",
+        "Name": "Brent Waters"
+    },
+    {
+        "Position": "Professor",
+        "Research Interest": "Computer Architecture",
+        "Name": "Emmett Witchel"
+    },
+    {
+        "Position": "Assistant Professor",
+        "Research Interest": "Theoretical Computer Science",
+        "Name": "John Wright"
+    },
+    {
+        "Position": "Postdoctoral Researcher",
+        "Research Interest": "Artificial Intelligence",
+        "Name": "Xuesu Xiao"
+    },
+    {
+        "Position": "Postdoctoral Researcher",
+        "Research Interest": "Artificial Intelligence",
+        "Name": "Harel Yedidsion"
+    },
+    {
+        "Position": "Associate Professor of Instruction",
+        "Research Interest": "Missing",
+        "Name": "William Young"
+    },
+    {
+        "Position": "Assistant Professor",
+        "Research Interest": "Artificial Intelligence",
+        "Name": "Yuke Zhu"
+    },
+    {
+        "Position": "Professor",
+        "Research Interest": "Theoretical Computer Science",
+        "Name": "David Zuckerman "
+    },
+    {
+        "Position": "Professor, Oden Institute, Department of Mechanical Engineering",
+        "Research Interest": "Missing",
+        "Name": "George Biros"
+    },
+    {
+        "Position": "Professor, Department of Electrical and Computer Engineering",
+        "Research Interest": "Missing",
+        "Name": "Alan Bovik"
+    },
+    {
+        "Position": "Associate Professor, Department of Electrical and Computer Engineering",
+        "Research Interest": "Missing",
+        "Name": "Alexandros Dimakis"
+    },
+    {
+        "Position": "Professor, Oden Institute for Computational Engineering and Sciences",
+        "Research Interest": "Missing",
+        "Name": "Ron Elber"
+    },
+    {
+        "Position": "Professor, Department of Linguistics",
+        "Research Interest": "Missing",
+        "Name": "Katrin Erk"
+    },
+    {
+        "Position": "Professor, Department of Electrical and Computer Engineering",
+        "Research Interest": "Missing",
+        "Name": "Vijay K Garg"
+    },
+    {
+        "Position": "Professor, Oden Institute, Department of Mechanical Engineering",
+        "Research Interest": "Missing",
+        "Name": "Omar Ghattas"
+    },
+    {
+        "Position": "Professor, Department of Electrical and Computer Engineering",
+        "Research Interest": "Data Mining, Machine Learning, and Natural Computation",
+        "Name": "Joydeep Ghosh"
+    },
+    {
+        "Position": "Professor, Department of Electrical and Computer Engineering",
+        "Research Interest": "Computer Architecture",
+        "Name": "Lizy K John"
+    },
+    {
+        "Position": "Associate Professor, School of Information",
+        "Research Interest": "Missing",
+        "Name": "Matthew Lease"
+    },
+    {
+        "Position": "Assistant Professor of Practice, College of Natural Sciences",
+        "Research Interest": "Data Mining, Machine Learning, and Natural Computation",
+        "Name": "Rudolf Lioutikov"
+    },
+    {
+        "Position": "Professor, Oden Institute, Aerospace Engineering and Engineering Mechanics",
+        "Research Interest": "Missing",
+        "Name": "J. Tinsley Oden "
+    },
+    {
+        "Position": "Professor, Department of Electrical &amp; Computer Engineering",
+        "Research Interest": "Missing",
+        "Name": "David Zhigang Pan"
+    },
+    {
+        "Position": "Professor, Department of Electrical and Computer Engineering",
+        "Research Interest": "Computer Architecture",
+        "Name": "Yale N. Patt"
+    },
+    {
+        "Position": "Professor, Red McCombs School of Business",
+        "Research Interest": "Artificial Intelligence",
+        "Name": "Andrew Whinston"
+    },
+    {
+        "Position": "Director, Oden Institute for Computational Engineering and Sciences",
+        "Research Interest": "Missing",
+        "Name": "Karen E. Willcox"
+    }
+]

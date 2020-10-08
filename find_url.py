@@ -14,9 +14,14 @@ from get_data_from_multiple_lists import view_html_structure
 
 def find(university, department):
     url = 'https://www.google.com/'
-    chrome_option = Options()
+    option = webdriver.ChromeOptions()
+    option.add_argument(' — incognito')
+    option.add_argument('--no - sandbox')
+    option.add_argument('--window - size = 1420, 1080')
+    option.add_argument('--headless')
+    option.add_argument('--disable - gpu')
     driver = webdriver.Chrome(executable_path='/Users/juefei/Desktop/EducationToday/chromedriver',
-                              chrome_options=chrome_option)
+                              chrome_options=option)
     driver.get(url)
     input_tab = driver.find_element_by_xpath('//*[@id="tsf"]/div[2]/div[1]/div[1]/div/div[2]/input')
     time.sleep(1)
@@ -44,9 +49,9 @@ def find(university, department):
     res_data = {}
     res_url = ''
     res_num = 0
-    for option in ['urllib']:
+    for option in ['urllib', 'urllibs']:
         for url in possibleURLs:
-            print(option, url)
+            # print(option, url)
             try:
                 r = view_html_structure(url, option)
             except:
@@ -63,8 +68,8 @@ def find(university, department):
                 return url, r
             if len(r) > 20 and valid_data / (5 * len(r)) > 0.36 and r[0]['Name'] != 'Missing':
                 return url, r
-            print(valid_data)
-            print(len(r), r)
+            # print(valid_data)
+            # print(len(r), r)
             if valid_data > res_num:
                 res_url = url
                 res_data = r.copy()
@@ -72,13 +77,13 @@ def find(university, department):
     return res_url, res_data
 
 
-# u = 'uiuc'
-# a = 'Advertising, BS'
+# u = 'emory universiy'
+# a = 'computer science'
 # r1, r2 = find(u, a)
 # for i in r2:
 #     print(i)
 # print(r1)
-#
+
 # with open('Data/faculty_data/' + u + '/' + a + '.json', 'w') as f1:
 #     json.dump(r2, f1, indent=4)
 

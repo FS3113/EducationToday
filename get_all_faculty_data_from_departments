@@ -3,17 +3,38 @@ from find_url import find
 
 
 # txt
-def run(university):
-    f = open('Data/departments/' + university + '.txt', 'r')
-    for i in f.readlines():
-        i = i.replace('\n', '')
-        print(i)
-        try:
-            r1, r2 = find(university, i)
-            with open('Data/faculty_data/' + university + '/' + i + '.json', 'w') as f1:
-                json.dump(r2, f1, indent=4)
-        except:
-            print(i, '???????????????????????')
+# def run(university):
+#     f = open('Data/departments/' + university + '.txt', 'r')
+#     for i in f.readlines():
+#         i = i.replace('\n', '')
+#         print(i)
+#         try:
+#             r1, r2 = find(university, i)
+#             with open('Data/faculty_data/' + university + '/' + i + '.json', 'w') as f1:
+#                 json.dump(r2, f1, indent=4)
+#         except:
+#             print(i, '???????????????????????')
 
 
-run('uiuc')
+def run2(university):
+    try:
+        r1, r2 = find(university, "Electrical Engineering")
+        with open('Data/demo/Electrical Engineering Faculty/' + university + '.json', 'w') as f1:
+            json.dump(r2, f1, indent=4)
+    except:
+        print(university, '???????????????????????')
+
+
+universities = []
+f = open('Data/universities/US_Universities.txt', 'r')
+for i in f.readlines():
+    universities.append(i[:-1])
+    if len(universities) == 50:
+        break
+print(universities)
+
+for i in universities:
+    print(i)
+    run2(i)
+
+# run2("University of Wisconsin--Madison")

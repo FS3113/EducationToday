@@ -1,0 +1,284 @@
+[
+    {
+        "Name": "Stan Ahalt",
+        "Position": "Professor",
+        "Research Interest": "Director, Renaissance Computing Institute (RENCI)",
+        "Phone number": "919-445-9641\\xc2\\xa0(phone)"
+    },
+    {
+        "Name": "Jay Aikat",
+        "Position": "Research Associate Professor",
+        "Research Interest": "Chief Operating Officer, Renaissance Computing Institute (RENCI)",
+        "Phone number": "919-590-6178\\xc2\\xa0(phone)"
+    },
+    {
+        "Name": "Ron Alterovitz",
+        "Position": "Professor",
+        "Research Interest": "Director of Graduate Admissions",
+        "Phone number": "919-590-6068\\xc2\\xa0(phone)"
+    },
+    {
+        "Name": "James Anderson",
+        "Position": "Kenan Professor",
+        "Research Interest": "Missing",
+        "Phone number": "919-590-6057\\xc2\\xa0(phone)"
+    },
+    {
+        "Name": "Mohit Bansal",
+        "Position": "John R. and Louise S. Parker Associate Professor",
+        "Research Interest": "Missing",
+        "Phone number": "Home Page"
+    },
+    {
+        "Name": "Alexander C. Berg",
+        "Position": "Research Associate Professor",
+        "Research Interest": "Missing",
+        "Phone number": "919-590-6022\\xc2\\xa0(phone)"
+    },
+    {
+        "Name": "Gary Bishop",
+        "Position": "Professor",
+        "Research Interest": "Missing",
+        "Phone number": "919-590-6186\\xc2\\xa0(phone)"
+    },
+    {
+        "Name": "Samarjit Chakraborty",
+        "Position": "William R. Kenan, Jr. Distinguished Professor",
+        "Research Interest": "Missing",
+        "Phone number": "919-590-6038 (phone)"
+    },
+    {
+        "Name": "Snigdha Chaturvedi",
+        "Position": "Assistant Professor",
+        "Research Interest": "Missing",
+        "Phone number": "919-590-6068 (phone)"
+    },
+    {
+        "Name": "Prasun Dewan",
+        "Position": "Professor",
+        "Research Interest": "Missing",
+        "Phone number": "Virtual Office"
+    },
+    {
+        "Name": "Parasara Sridhar Duggirala",
+        "Position": "Assistant Professor",
+        "Research Interest": "Missing",
+        "Phone number": "919-445-6116 (phone)"
+    },
+    {
+        "Name": "Michael J. Fern",
+        "Position": "Professor of the Practice of Entrepreneurship",
+        "Research Interest": "Associate Chair for Business Affairs",
+        "Phone number": "919-590-6077\\xc2\\xa0(phone)"
+    },
+    {
+        "Name": "Jan-Michael Frahm",
+        "Position": "Professor",
+        "Research Interest": "Missing",
+        "Phone number": "919-590-6003\\xc2\\xa0(phone)"
+    },
+    {
+        "Name": "Henry Fuchs",
+        "Position": "Federico Gil Distinguished Professor",
+        "Research Interest": "Missing",
+        "Phone number": "919-590-6211\\xc2\\xa0(phone)"
+    },
+    {
+        "Name": "Kevin Jeffay",
+        "Position": "Gillian Cell Distinguished Professor and Department Chair",
+        "Research Interest": "Missing",
+        "Phone number": "919-590-6238\\xc2\\xa0(phone)"
+    },
+    {
+        "Name": "Kris Jordan",
+        "Position": "Teaching Assistant Professor",
+        "Research Interest": "Missing",
+        "Phone number": "919-590-6041 (phone)"
+    },
+    {
+        "Name": "Tessa Joseph-Nicholas",
+        "Position": "Teaching Associate Professor",
+        "Research Interest": "Missing",
+        "Phone number": "919-590-6230\\xc2\\xa0(phone)"
+    },
+    {
+        "Name": "Jasleen Kaur",
+        "Position": "Associate Professor",
+        "Research Interest": "Director of Graduate Studies",
+        "Phone number": "919-590-6066\\xc2\\xa0(phone)"
+    },
+    {
+        "Name": "Ashok Krishnamurthy",
+        "Position": "Research Professor",
+        "Research Interest": "Deputy Director, Renaissance Computing Institute (RENCI)",
+        "Phone number": "Missing"
+    },
+    {
+        "Name": "Ming C. Lin",
+        "Position": "Research Professor",
+        "Research Interest": "John R. &amp; Louise S. Parker Distinguished Professor Emeritus",
+        "Phone number": "Home Page"
+    },
+    {
+        "Name": "David Luebke",
+        "Position": "Research Professor",
+        "Research Interest": "Vice President of Research, NVIDIA",
+        "Phone number": "Home Page"
+    },
+    {
+        "Name": "John Majikes",
+        "Position": "Teaching Assistant Professor",
+        "Research Interest": "Missing",
+        "Phone number": "919-590-6093 (phone)"
+    },
+    {
+        "Name": "Dinesh Manocha",
+        "Position": "Research Professor",
+        "Research Interest": "Phi Delta Theta/Matthew Mason Distinguished Professor Emeritus",
+        "Phone number": "Home Page"
+    },
+    {
+        "Name": "Ketan Mayer-Patel",
+        "Position": "Associate Professor",
+        "Research Interest": "Director of Undergraduate Studies",
+        "Phone number": "919-590-6009\\xc2\\xa0(phone)"
+    },
+    {
+        "Name": "Leonard McMillan",
+        "Position": "Associate Professor",
+        "Research Interest": "Missing",
+        "Phone number": "919-590-6078\\xc2\\xa0(phone)"
+    },
+    {
+        "Name": "Fabian Monrose",
+        "Position": "Kenan Professor",
+        "Research Interest": "Missing",
+        "Phone number": "919-590-6063\\xc2\\xa0(phone)"
+    },
+    {
+        "Name": "Brent Munsell",
+        "Position": "Teaching Assistant Professor",
+        "Research Interest": "Adjunct Research Assistant Professor, Department of Psychiatry",
+        "Phone number": "Missing"
+    },
+    {
+        "Name": "Marc Niethammer",
+        "Position": "Professor",
+        "Research Interest": "Associate Chair for Academic Affairs",
+        "Phone number": "919-590-6149\\xc2\\xa0(phone)"
+    },
+    {
+        "Name": "Shahriar Nirjon",
+        "Position": "Assistant Professor",
+        "Research Interest": "Missing",
+        "Phone number": "919-590-6039 (phone)"
+    },
+    {
+        "Name": "Junier Oliva",
+        "Position": "Assistant Professor",
+        "Research Interest": "Missing",
+        "Phone number": "919-590-6158 (phone)"
+    },
+    {
+        "Name": "Stephen M. Pizer",
+        "Position": "Kenan Professor",
+        "Research Interest": "Missing",
+        "Phone number": "919-590-6085\\xc2\\xa0(phone)"
+    },
+    {
+        "Name": "David A. Plaisted",
+        "Position": "Professor",
+        "Research Interest": "Missing",
+        "Phone number": "919-590-6051\\xc2\\xa0(phone)"
+    },
+    {
+        "Name": "Donald Porter",
+        "Position": "Associate Professor",
+        "Research Interest": "Missing",
+        "Phone number": "Home Page"
+    },
+    {
+        "Name": "Diane Pozefsky",
+        "Position": "Research Professor",
+        "Research Interest": "Missing",
+        "Phone number": "919-590-6117\\xc2\\xa0(phone)"
+    },
+    {
+        "Name": "Jan F. Prins",
+        "Position": "Professor",
+        "Research Interest": "Missing",
+        "Phone number": "919-590-6213\\xc2\\xa0(phone)"
+    },
+    {
+        "Name": "Colin Raffel",
+        "Position": "Assistant Professor",
+        "Research Interest": "Missing",
+        "Phone number": "Home Page"
+    },
+    {
+        "Name": "Mike Reed",
+        "Position": "Professor of the Practice",
+        "Research Interest": "Engineering Director, Google Chapel Hill",
+        "Phone number": "Missing"
+    },
+    {
+        "Name": "Michael K. Reiter",
+        "Position": "Lawrence M. Slifkin Distinguished Professor",
+        "Research Interest": "Associate Chair for Diversity and Inclusion",
+        "Phone number": "919-590-6136\\xc2\\xa0(phone)"
+    },
+    {
+        "Name": "Montek Singh",
+        "Position": "Associate Professor",
+        "Research Interest": "Missing",
+        "Phone number": "919-590-6132\\xc2\\xa0(phone)"
+    },
+    {
+        "Name": "F. Don Smith",
+        "Position": "Research Professor",
+        "Research Interest": "Missing",
+        "Phone number": "919-590-6184\\xc2\\xa0(phone)"
+    },
+    {
+        "Name": "Jack Snoeyink",
+        "Position": "Professor",
+        "Research Interest": "Missing",
+        "Phone number": "919-590-6069\\xc2\\xa0(phone)"
+    },
+    {
+        "Name": "Shashank Srivastava",
+        "Position": "Assistant Professor",
+        "Research Interest": "Missing",
+        "Phone number": "919-590-6105\\xc2\\xa0(fax)   ssrivastava (at) cs.unc.edu"
+    },
+    {
+        "Name": "David Stotts",
+        "Position": "Professor",
+        "Research Interest": "Missing",
+        "Phone number": "919-590-6133\\xc2\\xa0(phone)"
+    },
+    {
+        "Name": "Cynthia Sturton",
+        "Position": "Associate Professor and Peter Thacher Grauer Fellow",
+        "Research Interest": "Missing",
+        "Phone number": "919-590-6020\\xc2\\xa0(phone)"
+    },
+    {
+        "Name": "Martin Styner",
+        "Position": "Research Associate Professor",
+        "Research Interest": "Associate Professor, Department of Psychiatry",
+        "Phone number": "919-590-6209\\xc2\\xa0(phone)"
+    },
+    {
+        "Name": "Jeff Terrell",
+        "Position": "Professor of the Practice",
+        "Research Interest": "Missing",
+        "Phone number": "919-590-6103 (phone)"
+    },
+    {
+        "Name": "Mary C. Whitton",
+        "Position": "Research Professor",
+        "Research Interest": "Missing",
+        "Phone number": "919-590-6150\\xc2\\xa0(phone)"
+    }
+]

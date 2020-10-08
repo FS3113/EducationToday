@@ -20,6 +20,12 @@ import string
 from find_possible_list_department import find_possible_list
 from find_possible_list import handle_extreme_edge_case
 import os
+from googlesearch import search
+import signal
+
+
+def signal_handler(signum, frame):
+    raise Exception("Timed out!")
 
 
 f = open('Get_Departments/majors.txt', 'r')
@@ -73,10 +79,11 @@ def get_html(url, scrape_option):
             option.add_argument('--window - size = 1420, 1080')
             option.add_argument('--headless')
             option.add_argument('--disable - gpu')
-            driver1 = webdriver.Chrome(executable_path=os.getcwd() + '/chromedriver', chrome_options=option)
+            driver1 = webdriver.Chrome(executable_path=os.getcwd() + '/chromedriver', options=option)
             driver1.get(url)
+            time.sleep(1)
             the_page = str(driver1.page_source)
-            time.sleep(5)
+            time.sleep(2)
         except:
             return []
 
@@ -566,31 +573,22 @@ def view_html_structure(url, scrape_option, known_html=[], wrong_words=[]):
                 result.append(d.copy())
             total_miss += missing
             total_num += 1
-        # try:
-        #     a_num, a = handle_extreme_edge_case(subtree_dict, subtree_path, raw_html)
-        #     print('???')
-        #     if a_num > total_match:
-        #         print(3113)
-        #         for r in a:
-        #             if 'Department' in r.keys() and r['Department'] != 'Missing':
-        #                 final_result.append(r.copy())
-        #         return subtree_path
-        # except:
-        #     a31 = 0
-        #     # print('nothing happens')
 
-        # print(result)
+        # print(result, total_miss / total_num)
         if total_miss / total_num > 0.66:
             # print('Warning----------Total Miss:', total_miss, '  Num: ', total_num)
             # print()
             return {}
 
         review_match = 0
+        non_missing = 0
         for i in result:
-            if i['Department'] and check(i['Department']):
-                review_match += 1
+            if 'Department' in i.keys() and i['Department'] != 'Missing':
+                non_missing += 1
+                if check(i['Department']):
+                    review_match += 1
 
-        if review_match / (len(result) + 0.0001) < 0.5:
+        if review_match / (non_missing + 0.0001) < 0.5:
             return {}
 
         for r in result:
@@ -645,78 +643,77 @@ for i in f.readlines():
 
 
 def find(keywords):
-    url = 'https://www.google.com/'
-    option = webdriver.ChromeOptions()
-    option.add_argument(' — incognito')
-    option.add_argument('--no - sandbox')
-    option.add_argument('--window - size = 1420, 1080')
-    option.add_argument('--headless')
-    option.add_argument('--disable - gpu')
-    driver = webdriver.Chrome(executable_path=os.getcwd() + '/chromedriver', chrome_options=option)
-    driver.get(url)
-    input_tab = driver.find_element_by_xpath('//*[@id="tsf"]/div[2]/div[1]/div[1]/div/div[2]/input')
-    time.sleep(1)
-    input_tab.send_keys(keywords, Keys.ENTER)
-    elems = driver.find_elements_by_xpath("//a[@href]")
+    l = []
+    for j in search(keywords, tld="co.in", num=36, stop=36, pause=2):
+        l.append(j)
     possibleURLs = []
     words = ['google', 'wiki', 'news', 'instagram', 'twitter', 'linkedin', 'criminal', 'student', 'course', 'facebook', 'usnews']
     n = 0
-    for elem in elems:
-        t = elem.get_attribute("href")
+    for elem in l:
         flag = True
         for i in words:
-            if i in t:
+            if i in elem:
                 flag = False
                 break
         if flag:
-            possibleURLs.append(t)
+            possibleURLs.append(elem)
             n += 1
         if n == 10:
             break
-    time.sleep(2)
-    driver.quit()
     return possibleURLs
 
 
-# a = view_html_structure('https://oru.edu/academics/explore-programs.php', 'urllib')
-# print(len(a))
+# a = view_html_structure('https://myillini.illinois.edu/Programs', 'urllibf')
+# l = []
 # for i in a:
+#     t = i['Department']
+#     while len(t) > 0 and t[-1] == " ":
+#         t = t[:-1]
+#     if t not in l:
+#         l.append(t)
+# print(len(l))
+# for i in l:
 #     print(i)
 
 
 def get_departments_of_university(university):
     urls = find(university + ' majors')
     for url in urls:
-        print(url)
-        try:
-            r = view_html_structure(url, 'urllib')
-        except:
-            continue
-        res = []
-        count = 0
+        for scrape_option in ['urllib', 'selenium']:
+            signal.signal(signal.SIGALRM, signal_handler)
+            signal.alarm(120)
+            try:
+                r = view_html_structure(url, scrape_option)
+            except Exception as msg:
+                continue
+            res = []
+            count = 0
+            for j in r:
+                if 'Department' in j.keys():
+                    if check(j['Department']):
+                        count += 1
+                    res.append(j['Department'])
+            if count / (len(res) + 0.0001) > 0.6 and len(res) > 10:
+                # for j in res:
+                #     print(j)
+                return res
+    return []
+
+
+for i in range(101, 102):
+    print(i, universities[i])
+    try:
+        r = get_departments_of_university(universities[i])
+    except:
+        r = ''
+    f = open(os.getcwd() + '/Data/departments/' + universities[i] + '.txt', 'w')
+    if r:
         for j in r:
-            if 'Department' in j.keys():
-                if check(j['Department']):
-                    count += 1
-                res.append(j['Department'])
-        if count / (len(res) + 0.0001) > 0.6 and len(res) > 10:
-            # for j in res:
-            #     print(j)
-            return res
+            f.write(j + '\n')
+    else:
+        f.write('???')
+    f.close()
 
-
-# for i in range(61, 100):
-#     print(i, universities[i])
-#     try:
-#         r = get_departments_of_university(universities[i])
-#     except:
-#         continue
-#     print(r)
-#     if r:
-#         f = open(os.getcwd() + '/Data/departments/' + universities[i] + '.txt', 'w')
-#         for j in r:
-#             f.write(j + '\n')
-#     f.close()
-
-r = get_departments_of_university('columbia university')
-print(r)
+# r = get_departments_of_university('Florida College')
+# for i in r:
+#     print(i)

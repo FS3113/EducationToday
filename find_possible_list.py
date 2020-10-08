@@ -21,7 +21,7 @@ def find_possible_list(path_dict):
         t = sorted(t, key=lambda x: x[1], reverse=True)
         # print(t)
         try:
-            if t[0][1] > 0.15 * candidate_num:
+            if t[0][1] > 0.1 * candidate_num:
                 common_structure.append(t[0][0])
             else:
                 break

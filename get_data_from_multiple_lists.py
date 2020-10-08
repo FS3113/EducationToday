@@ -63,12 +63,18 @@ def get_html(url, scrape_option):
             return []
     else:
         try:
-            chrome_option = Options()
+            option = webdriver.ChromeOptions()
+            option.add_argument(' — incognito')
+            option.add_argument('--no - sandbox')
+            option.add_argument('--window - size = 1420, 1080')
+            option.add_argument('--headless')
+            option.add_argument('--disable - gpu')
             driver1 = webdriver.Chrome(executable_path=os.getcwd() + '/chromedriver',
-                                       chrome_options=chrome_option)
+                                       chrome_options=option)
             driver1.get(url)
+            time.sleep(1)
             the_page = str(driver1.page_source)
-            time.sleep(5)
+            time.sleep(2)
         except:
             return []
 
@@ -456,7 +462,7 @@ def view_html_structure(url, scrape_option, known_html=[], wrong_words=[]):
                                     subtree_path[j][a] = 0
                                 else:
                                     subtree_path[i][a] = 0
-            print(subtree_path)
+            # print(subtree_path)
 
             subtree_path1 = {}
             for i in subtree_path.keys():
@@ -720,8 +726,8 @@ def view_html_structure(url, scrape_option, known_html=[], wrong_words=[]):
         except:
             a31 = 0
             # print('nothing happens')
-
-        if total_miss / total_num > 0.66:
+        # print(total_miss / total_num, result)
+        if total_miss / total_num > 0.8:
             # print('Warning----------Total Miss:', total_miss, '  Num: ', total_num)
             # print()
             return {}
@@ -751,12 +757,14 @@ def view_html_structure(url, scrape_option, known_html=[], wrong_words=[]):
     noise = []
     for i in ['Name', 'Position', 'Research Interest', 'Email', 'Phone number']:
         m = {}
+        t = 0.01
         for j in final_result:
             if i in j.keys() and j[i] != 'Missing':
                 if j[i] not in m.keys():
                     m[j[i]] = 0
                 m[j[i]] += 1
-        if len(m) > 0 and max(m.values()) / (len(final_result)) > 0.93:
+                t += 1
+        if len(m) > 0 and max(m.values()) / t > 0.93:
             noise.append(max(m, key=m.get))
     # print(wrong_words)
     # print(final_result)
@@ -774,7 +782,10 @@ def view_html_structure(url, scrape_option, known_html=[], wrong_words=[]):
     return final_result
 
 
-a = view_html_structure('https://math.illinois.edu/research/faculty-research/actuarial-science', 'urllib')
+a = view_html_structure('https://www.hajim.rochester.edu/ece/people/faculty/index.html', 'urllib')
 print(len(a))
 for i in a:
     print(i)
+u = "William & Mary"
+with open('Data/demo/Electrical Engineering Faculty/' + u + '.json', 'w') as f1:
+    json.dump(a, f1, indent=4)
