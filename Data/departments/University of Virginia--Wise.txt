@@ -1,0 +1,28 @@
+Levels at which colleges offer undergraduate majors are designated by these letters : 
+A = Associate degree, B = Bachelor\'s degree, C = Certificate degree, D = Doctor degree, M = Master degree 
+Biological & Biomedical Sciences
+Business, Management, Marketing, & Related Support
+Communication, Journalism & Related Programs
+Computer & Information Sciences, Support Services
+Engineering Technologies/Technicians
+English Language, Literature & Letters
+Foreign Language, Literatures & Linguistics
+Health Professions & Related Clinical Sciences
+History
+Liberal Arts & Sciences, Gen Studies & Humanities
+Mathematics & Statistics
+Natural Resources & Conservation
+Physical Sciences
+Psychology
+Public Administration & Social Services
+Security & Protective Services
+Social Sciences
+Visual & Performing Arts
+History
+English
+Math
+Science
+Science Lab
+Social Studies
+Foreign Language
+Academic Electives

@@ -17,17 +17,17 @@ warnings.filterwarnings(action='ignore')
 ed = set(words.words())
 
 
+# check if a string is an English word
 def check_english(aa):
     a = aa.lower()
     if a in ed or a[0].upper() + a[1:] in ed:
         return True
     if a[-1] == 's' and a[:-1] in ed:
         return True
-    # if len(a) > 2 and a[-2:] == 'ed' and a[:-2] in ed:
-    #     return True
     return False
 
 
+# read training data
 def handle_input():
     result = []
     data = []
@@ -82,7 +82,7 @@ for i in range(len(data)):
         j += 1
     splited_data.append(tmp.split())
 
-# n
+
 keywords_dict = {}
 for i in range(len(splited_data)):
     if label[i] not in keywords_dict.keys():
@@ -101,16 +101,16 @@ keyword_list = []
 for i in words_dict.keys():
     a = 0
     for j in words_dict[i]:
-        # if j[1] not in string.punctuation and english_dictionary.check(j[1]):
         if j[1] not in string.punctuation and check_english(j[1]):
             a += 1
             keyword_list.append(j[1])
         if a == 20:
             break
-# print(keywords_dict)
+# print(keyword_list)
 
 entries = list(keywords_dict.keys())
 def vectorize(d):
+    # split by space and punctuation
     space = 0
     tmp = d
     while '  ' in tmp:
@@ -125,16 +125,24 @@ def vectorize(d):
             j += 2
         j += 1
     data = tmp.split()
+
+    # feature: number of English works, number of numerical numbers, number of punctuations,
+    # number of strings that is a combination of numerical number and characters
     english, number, punctuation, number_words = 0, 0, 0, 0
+
+    # scores of words appear in each field
     keywords = [0] * len(keywords_dict.keys())
+
+    # not used in this version
     keywords_match = [0] * len(entries)
+
+    # total score of words appear in the negative examples
     negative = 0
     for j in data:
         if j.isnumeric():
             number += 1
         elif j in string.punctuation:
             punctuation += 1
-        # elif english_dictionary.check(j):
         elif check_english(j):
             english += 1
         flag_n, flag_w = False, False
@@ -175,3 +183,5 @@ for i in range(len(data)):
 model = RandomForestClassifier(n_estimators=10, max_depth=10)
 model.fit(data, label)
 pickle.dump(model, open('random_forest_model.sav', 'wb'))
+
+# a = "Ar

@@ -1,0 +1,139 @@
+-- Select Interest Area
+Accounting
+Advertising and Public Relations
+African/African American Studies
+Allied Health Sciences
+Anthropology
+Applied Linguistics
+Archaeology
+Art Education
+Art History
+Athletic Training
+Audiology
+Behavioral Neuroscience
+Biochemistry
+Bioinformatics and Genomics
+Biology
+Biomedical Engineering
+Biomedical Science
+Biostatistics
+Business
+Business Economics
+Cardiovascular Sonography
+Cell and Molecular Biology
+Chemistry
+Classics
+Clinical Dietetics
+Communication Sciences and Disorders
+Communications
+Comprehensive Science and Arts for Teaching
+Computer Engineering
+Computer Information Systems
+Computer Science
+Criminal Justice
+Cybersecurity
+Dance
+Data Science and Analytics
+Diagnostic Medical Sonography
+Earth Science
+East Asian Studies
+Economics
+Education, Elementary to Middle Teaching
+Education, General
+Education, Middle/Secondary Teaching
+Education, Special Education
+Educational Specialist in Leadership
+Electrical Engineering
+Engineering
+English
+Entrepreneurship
+Environmental and Sustainability
+Exercise Science
+Film and Video
+Finance
+French
+Geography
+Geology
+Geology-Chemistry
+German
+Global Studies and Social Impact
+Greek
+Health Administration
+Health Communication
+Health Informatics and Bioinformatics
+Health Information Management
+Health Professions
+Health Science
+History
+Hospitality and Tourism Management
+Human Resource Management
+Human Resources
+Information Systems
+Information Technology
+Integrated Science
+Integrative Studies
+Interdisciplinary Engineering
+International Business
+International Relations
+Latin
+Latin American Studies
+Legal Studies
+Liberal Studies
+Management
+Management, General
+Marketing
+Mathematics
+Mechanical Engineering
+Medical Dosimetry
+Medical Laboratory Science
+Microbiology
+Middle East Studies
+Modern Languages
+Multimedia Journalism
+Music
+Music Education
+Natural Resources Management
+Nonprofit Leadership
+Nursing
+Occupational Safety and Health Management
+Occupational Therapy
+Online/Blended Instruction and Assessment
+Operations Management
+Palliative and Hospice Care
+Philanthropy and Nonprofit Leadership
+Philosophy
+Photography
+Physical Education
+Physical Therapy
+Physician Assistant Studies
+Physics
+Political Science
+Predental
+Prelaw
+Premedical
+Prepharmacy
+Product Design and Manufacturing Engineering
+Psychology
+Psychology - Applied Behavioral Analysis certificate
+Psychology, M.S. &amp; Psy.S
+Public Administration
+Public and Nonprofit Administration
+Public Health
+Radiation Therapy
+Recreational Therapy
+Religious Studies
+School Counseling
+Social Innovation
+Social Studies
+Social Work
+Sociology
+Spanish
+Speech-Language Pathology
+Sport Management
+Statistics
+Studio Art
+Supply Chain Management
+Taxation
+Theatre
+Women and Gender Studies
+Writing

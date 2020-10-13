@@ -1,0 +1,23 @@
+Associate of Arts (AA)
+Applied Psychology (BA)
+Business Administration (BA)
+Human Services (BA)
+Organizational Leadership (BA)
+Business Administration (MBA)
+Clinical Mental Health Counseling (MA)
+Human Services Administration (MA)
+Organizational Leadership (MA)
+AA - Associate of Arts
+BA - Applied Psychology
+BA - Business Administration
+BA - Human Services
+BA - Organizational Leadership
+AA - Associate of Arts
+BA - Applied Psychology
+BA - Business Administration
+BA - Human Services
+BA - Organizational Leadership
+MBA - Business Administration
+MA - Clinical Mental Health Counseling
+MA - Human Services Administration
+MA - Organizational Leadership

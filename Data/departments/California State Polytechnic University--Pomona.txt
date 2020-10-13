@@ -1,0 +1,35 @@
+ Agricultural Business and Management, General.
+ Architecture.
+ Ethnic, Cultural Minority, Gender, and Group Studies, Other.
+ Biology/Biological Sciences, General.
+ Business Administration and Management, General.
+ Speech Communication and Rhetoric.
+ Computer Science.
+ Agricultural Teacher Education.
+ Construction Engineering Technologies.
+ Aerospace, Aeronautical and Astronautical/Space Engineering.
+ English Language and Literature, General.
+ Apparel and Textiles, General.
+ Spanish Language and Literature.
+ History, General.
+ General Studies.
+ Mathematics, General.
+ Nutrition Sciences.
+ Health and Physical Education/Fitness, General.
+ Philosophy.
+ Chemistry, General.
+ Psychology, General.
+ Anthropology.
+ Art History, Criticism and Conservation.
+Men\'s Sports (Broncos)
+Asian
+African-American
+Hispanic
+Caucasian
+Unknown
+International
+Math
+Science
+English
+Social Studies
+AP Support

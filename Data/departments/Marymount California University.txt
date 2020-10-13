@@ -1,0 +1,27 @@
+Bachelor of Arts in Business
+Bachelor of Arts in Criminal Justice
+Bachelor of Arts in Multidisciplinary Studies
+Bachelor of Arts in Psychology
+Bachelor of Science in Accounting
+Bachelor of Science in Biology
+Bachelor of Science in Digital Communication Media
+Bachelor of Science in Management
+Master of Business Administration
+Bachelor of Arts in Business
+Bachelor of Arts in Criminal Justice
+Bachelor of Science in Digital Communication Media
+Bachelor of Arts in Psychology
+Bachelor of Science in Accounting
+Bachelor of Science in Management
+Bachelor of Science in Marketing
+Bachelor of Arts in Multidisciplinary Studies
+Bachelor of Arts or Bachelor of Science in Biology
+Accounting (BS)
+Biology (BA, BS)
+Business (BA)
+Criminal Justice (BA)
+Digital Communication Media (BS)
+Management (BS)
+Marketing (BS)
+Multidisciplinary Studies (BA)
+Psychology (BA)
