@@ -184,7 +184,3 @@ model = RandomForestClassifier(n_estimators=10, max_depth=10)
 model.fit(data, label)
 pickle.dump(model, open('random_forest_model.sav', 'wb'))
 
-# a = "217-904-9456"
-# v = vectorize(a)
-# r = model.predict([v])
-# print(r)
