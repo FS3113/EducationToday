@@ -77,12 +77,12 @@ def find(university, department):
     return res_url, res_data
 
 
-# u = 'emory universiy'
-# a = 'computer science'
-# r1, r2 = find(u, a)
-# for i in r2:
-#     print(i)
-# print(r1)
+u = 'emory universiy'
+a = 'computer science'
+r1, r2 = find(u, a)
+for i in r2:
+    print(i)
+print(r1)
 
 # with open('Data/faculty_data/' + u + '/' + a + '.json', 'w') as f1:
 #     json.dump(r2, f1, indent=4)

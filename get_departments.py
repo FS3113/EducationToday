@@ -643,27 +643,27 @@ for i in f.readlines():
 
 
 def find(keywords):
-    # l = []
-    #     # for j in search(keywords, tld="com", num=36, stop=36, pause=2):
-    #     #     l.append(j)
-    url = 'https://www.google.com/'
-    option = webdriver.ChromeOptions()
-    option.add_argument(' — incognito')
-    option.add_argument('--no - sandbox')
-    option.add_argument('--window - size = 1420, 1080')
-    option.add_argument('--headless')
-    option.add_argument('--disable - gpu')
-    driver = webdriver.Chrome(executable_path=os.getcwd() + '/chromedriver', options=option)
-    driver.get(url)
-    input_tab = driver.find_element_by_xpath('//*[@id="tsf"]/div[2]/div[1]/div[1]/div/div[2]/input')
-    time.sleep(1)
-    input_tab.send_keys(keywords, Keys.ENTER)
-    elems = driver.find_elements_by_xpath("//a[@href]")
+    l = []
+    for j in search(keywords, tld="com", num=36, stop=36, pause=2):
+        l.append(j)
+    # url = 'https://www.google.com/'
+    # option = webdriver.ChromeOptions()
+    # option.add_argument(' — incognito')
+    # option.add_argument('--no - sandbox')
+    # option.add_argument('--window - size = 1420, 1080')
+    # option.add_argument('--headless')
+    # option.add_argument('--disable - gpu')
+    # driver = webdriver.Chrome(executable_path=os.getcwd() + '/chromedriver', options=option)
+    # driver.get(url)
+    # input_tab = driver.find_element_by_xpath('//*[@id="tsf"]/div[2]/div[1]/div[1]/div/div[2]/input')
+    # time.sleep(1)
+    # input_tab.send_keys(keywords, Keys.ENTER)
+    # elems = driver.find_elements_by_xpath("//a[@href]")
     possibleURLs = []
     words = ['google', 'wiki', 'news', 'instagram', 'twitter', 'linkedin', 'criminal', 'student', 'course', 'facebook']
     n = 0
-    for elem in elems:
-        t = elem.get_attribute("href")
+    for elem in l:
+        t = elem
         flag = True
         for i in words:
             if i in t:
@@ -675,11 +675,11 @@ def find(keywords):
         if n == 10:
             break
     time.sleep(2)
-    driver.quit()
+    # driver.quit()
     return possibleURLs
 
 
-# a = view_html_structure('https://myillini.illinois.edu/Programs', 'urllibf')
+# a = view_html_structure('https://myillini.illinois.edu/Programs', 'urllib')
 # l = []
 # for i in a:
 #     t = i['Department']
@@ -693,7 +693,10 @@ def find(keywords):
 
 
 def get_departments_of_university(university):
-    urls = find(university + ' majors')
+    try:
+        urls = find(university + ' majors')
+    except Exception as msg:
+        print(msg)
     for url in urls:
         print(url)
         for scrape_option in ['urllib', 'selenium']:
@@ -717,19 +720,19 @@ def get_departments_of_university(university):
     return []
 
 
-for i in range(len(universitiesg)):
-    print(i, universities[i])
-    try:
-        r = get_departments_of_university(universities[i])
-    except:
-        r = ''
-    f = open(os.getcwd() + '/Data/departments/' + universities[i] + '.txt', 'w')
-    if r:
-        for j in r:
-            f.write(j + '\n')
-    else:
-        f.write('???')
-    f.close()
+# for i in range(len(universities)):
+#     print(i, universities[i])
+#     try:
+#         r = get_departments_of_university(universities[i])
+#     except:
+#         r = ''
+#     f = open(os.getcwd() + '/Data/departments/' + universities[i] + '.txt', 'w')
+#     if r:
+#         for j in r:
+#             f.write(j + '\n')
+#     else:
+#         f.write('???')
+#     f.close()
 
 # r = get_departments_of_university('Florida College')
 # for i in r:

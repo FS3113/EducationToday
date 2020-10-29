@@ -782,10 +782,10 @@ def view_html_structure(url, scrape_option, known_html=[], wrong_words=[]):
     return final_result
 
 
-a = view_html_structure('https://www.hajim.rochester.edu/ece/people/faculty/index.html', 'urllib')
-print(len(a))
-for i in a:
-    print(i)
-u = "William & Mary"
-with open('Data/demo/Electrical Engineering Faculty/' + u + '.json', 'w') as f1:
-    json.dump(a, f1, indent=4)
+# a = view_html_structure('https://www.hajim.rochester.edu/ece/people/faculty/index.html', 'urllib')
+# print(len(a))
+# for i in a:
+#     print(i)
+# u = "William & Mary"
+# with open('Data/demo/Electrical Engineering Faculty/' + u + '.json', 'w') as f1:
+#     json.dump(a, f1, indent=4)
