@@ -678,6 +678,43 @@ def find(keywords):
     # driver.quit()
     return possibleURLs
 
+def find2(keywords):
+    # l = []
+    #     # for j in search(keywords, tld="com", num=36, stop=36, pause=2):
+    #     #     l.append(j)
+    url = 'https://www.google.com/'
+    option = webdriver.ChromeOptions()
+    option.add_argument(' — incognito')
+    option.add_argument('--no - sandbox')
+    option.add_argument('--window - size = 1420, 1080')
+    option.add_argument('--headless')
+    option.add_argument('--disable - gpu')
+    driver = webdriver.Chrome(executable_path=os.getcwd() + '/chromedriver', options=option)
+    driver.get(url)
+    input_tab = driver.find_element_by_xpath('//*[@id="tsf"]/div[2]/div[1]/div[1]/div/div[2]/input')
+    time.sleep(1)
+    input_tab.send_keys(keywords, Keys.ENTER)
+    elems = driver.find_elements_by_xpath("//a[@href]")
+    possibleURLs = []
+    words = ['google', 'wiki', 'news', 'instagram', 'twitter', 'linkedin', 'criminal', 'student', 'course', 'facebook']
+    n = 0
+    for elem in elems:
+        t = elem.get_attribute("href")
+        flag = True
+        for i in words:
+            if i in t:
+                flag = False
+                break
+        if flag:
+            possibleURLs.append(t)
+            n += 1
+        if n == 10:
+            break
+    time.sleep(2)
+    driver.quit()
+    return possibleURLs
+
+
 
 # a = view_html_structure('https://myillini.illinois.edu/Programs', 'urllib')
 # l = []
@@ -694,7 +731,7 @@ def find(keywords):
 
 def get_departments_of_university(university):
     try:
-        urls = find(university + ' majors')
+        urls = find2(university + ' majors')
     except Exception as msg:
         print(msg)
     for url in urls:
@@ -734,6 +771,6 @@ def get_departments_of_university(university):
 #         f.write('???')
 #     f.close()
 
-# r = get_departments_of_university('Florida College')
-# for i in r:
-#     print(i)
+r = get_departments_of_university('uiuc')
+for i in r:
+    print(i)
