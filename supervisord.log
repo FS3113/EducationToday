@@ -1,0 +1,167 @@
+2021-08-21 11:33:33,419 INFO supervisord started with pid 25443
+2021-08-21 11:33:34,421 INFO spawnerr: unknown error making dispatchers for 'crawler': EACCES
+2021-08-21 11:33:35,423 INFO spawnerr: unknown error making dispatchers for 'crawler': EACCES
+2021-08-21 11:33:37,426 INFO spawnerr: unknown error making dispatchers for 'crawler': EACCES
+2021-08-21 11:33:40,431 INFO spawnerr: unknown error making dispatchers for 'crawler': EACCES
+2021-08-21 11:33:40,432 INFO gave up: crawler entered FATAL state, too many start retries too quickly
+2021-08-21 11:33:48,442 WARN received SIGINT indicating exit request
+2021-08-21 11:35:39,264 INFO supervisord started with pid 25624
+2021-08-21 11:35:40,269 INFO spawned: 'crawler' with pid 25629
+2021-08-21 11:35:41,272 INFO success: crawler entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2021-08-21 11:40:00,602 WARN received SIGINT indicating exit request
+2021-08-21 11:40:00,604 INFO waiting for crawler to die
+2021-08-21 11:40:00,607 INFO stopped: crawler (terminated by SIGTERM)
+2021-08-21 11:42:15,335 INFO supervisord started with pid 26149
+2021-08-21 11:42:16,342 INFO spawned: 'crawler' with pid 26152
+2021-08-21 11:42:17,345 INFO success: crawler entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2021-08-21 11:44:12,489 WARN received SIGINT indicating exit request
+2021-08-21 11:44:12,490 INFO waiting for crawler to die
+2021-08-21 11:44:12,493 INFO stopped: crawler (terminated by SIGTERM)
+2021-08-21 11:44:34,160 INFO supervisord started with pid 29032
+2021-08-21 11:44:35,165 INFO spawned: 'crawler' with pid 29035
+2021-08-21 11:44:37,057 INFO success: crawler entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2021-08-21 11:47:27,175 INFO daemonizing the supervisord process
+2021-08-21 11:47:27,180 INFO supervisord started with pid 29209
+2021-08-21 11:47:28,185 INFO spawned: 'crawler' with pid 29210
+2021-08-21 11:47:30,129 INFO success: crawler entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2021-08-21 12:05:06,540 WARN received SIGTERM indicating exit request
+2021-08-21 12:05:06,541 INFO waiting for crawler to die
+2021-08-21 12:05:06,544 INFO stopped: crawler (terminated by SIGTERM)
+2021-08-21 12:10:32,982 INFO daemonizing the supervisord process
+2021-08-21 12:10:32,986 INFO supervisord started with pid 33413
+2021-08-21 12:10:33,992 INFO spawned: 'crawler' with pid 33414
+2021-08-21 12:10:34,994 INFO success: crawler entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2021-08-21 12:12:44,516 WARN received SIGTERM indicating exit request
+2021-08-21 12:12:44,517 INFO waiting for crawler to die
+2021-08-21 12:12:44,520 INFO stopped: crawler (terminated by SIGTERM)
+2021-08-21 12:58:01,048 INFO daemonizing the supervisord process
+2021-08-21 12:58:01,051 INFO supervisord started with pid 4037
+2021-08-21 12:58:02,057 INFO spawned: 'crawler' with pid 4038
+2021-08-21 12:58:03,905 INFO success: crawler entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2021-08-21 13:07:42,146 WARN received SIGTERM indicating exit request
+2021-08-21 13:07:42,146 INFO waiting for crawler to die
+2021-08-21 13:07:42,150 INFO stopped: crawler (terminated by SIGQUIT)
+2021-08-21 13:09:16,544 INFO daemonizing the supervisord process
+2021-08-21 13:09:16,547 INFO supervisord started with pid 7572
+2021-08-21 13:09:17,553 INFO spawned: 'crawler' with pid 7573
+2021-08-21 13:09:17,752 INFO exited: crawler (exit status 1; not expected)
+2021-08-21 13:09:18,758 INFO spawned: 'crawler' with pid 7575
+2021-08-21 13:09:18,912 INFO exited: crawler (exit status 1; not expected)
+2021-08-21 13:09:20,919 INFO spawned: 'crawler' with pid 7578
+2021-08-21 13:09:21,074 INFO exited: crawler (exit status 1; not expected)
+2021-08-21 13:09:24,083 INFO spawned: 'crawler' with pid 7579
+2021-08-21 13:09:24,225 INFO exited: crawler (exit status 1; not expected)
+2021-08-21 13:09:25,227 INFO gave up: crawler entered FATAL state, too many start retries too quickly
+2021-08-21 13:10:31,301 INFO daemonizing the supervisord process
+2021-08-21 13:10:31,305 INFO supervisord started with pid 7612
+2021-08-21 13:10:32,311 INFO spawned: 'crawler' with pid 7624
+2021-08-21 13:10:33,485 INFO success: crawler entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2021-08-21 13:11:21,536 WARN received SIGTERM indicating exit request
+2021-08-21 13:11:21,537 INFO waiting for crawler to die
+2021-08-21 13:11:21,540 INFO stopped: crawler (terminated by SIGQUIT)
+2021-08-21 13:11:29,389 WARN received SIGTERM indicating exit request
+2021-08-21 13:11:38,394 INFO daemonizing the supervisord process
+2021-08-21 13:11:38,397 INFO supervisord started with pid 7652
+2021-08-21 13:11:39,403 INFO spawned: 'crawler' with pid 7653
+2021-08-21 13:11:40,586 INFO success: crawler entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2021-08-21 13:13:07,680 WARN received SIGTERM indicating exit request
+2021-08-21 13:13:07,680 INFO waiting for crawler to die
+2021-08-21 13:13:07,683 INFO stopped: crawler (terminated by SIGQUIT)
+2021-08-21 13:13:30,754 INFO daemonizing the supervisord process
+2021-08-21 13:13:30,757 INFO supervisord started with pid 7697
+2021-08-21 13:13:31,763 INFO spawned: 'crawler' with pid 7698
+2021-08-21 13:13:32,803 INFO success: crawler entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2021-08-21 13:18:01,206 INFO daemonizing the supervisord process
+2021-08-21 13:18:01,209 INFO supervisord started with pid 7931
+2021-08-21 13:18:02,215 INFO spawned: 'crawler' with pid 7932
+2021-08-21 13:18:03,253 INFO success: crawler entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2021-08-21 13:19:48,191 WARN received SIGTERM indicating exit request
+2021-08-21 13:19:48,191 INFO waiting for crawler to die
+2021-08-21 13:19:48,193 INFO stopped: crawler (terminated by SIGQUIT)
+2021-08-21 13:19:48,363 WARN received SIGTERM indicating exit request
+2021-08-21 13:19:48,364 INFO waiting for crawler to die
+2021-08-21 13:19:48,365 INFO stopped: crawler (terminated by SIGQUIT)
+2021-08-21 13:20:21,381 INFO daemonizing the supervisord process
+2021-08-21 13:20:21,385 INFO supervisord started with pid 8119
+2021-08-21 13:20:22,391 INFO spawned: 'crawler' with pid 8120
+2021-08-21 13:20:23,430 INFO success: crawler entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2021-08-21 13:32:21,167 WARN received SIGTERM indicating exit request
+2021-08-21 13:32:21,167 INFO waiting for crawler to die
+2021-08-21 13:32:21,169 INFO stopped: crawler (terminated by SIGQUIT)
+2021-08-21 13:33:53,765 INFO daemonizing the supervisord process
+2021-08-21 13:33:53,768 INFO supervisord started with pid 14132
+2021-08-21 13:33:54,774 INFO spawned: 'crawler' with pid 14133
+2021-08-21 13:33:55,813 INFO success: crawler entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2021-08-24 02:14:12,558 WARN received SIGTERM indicating exit request
+2021-08-24 02:14:12,569 INFO waiting for crawler to die
+2021-08-24 02:14:12,574 INFO stopped: crawler (terminated by SIGQUIT)
+2021-08-27 16:32:44,785 INFO daemonizing the supervisord process
+2021-08-27 16:32:44,789 INFO supervisord started with pid 19748
+2021-08-27 16:32:45,795 INFO spawned: 'crawler' with pid 19749
+2021-08-27 16:32:46,835 INFO success: crawler entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2021-08-27 16:33:24,884 WARN received SIGTERM indicating exit request
+2021-08-27 16:33:24,884 INFO waiting for crawler to die
+2021-08-27 16:33:24,886 INFO stopped: crawler (terminated by SIGQUIT)
+2021-08-27 16:38:26,051 INFO daemonizing the supervisord process
+2021-08-27 16:38:26,055 INFO supervisord started with pid 19921
+2021-08-27 16:38:27,060 INFO spawned: 'crawler' with pid 19955
+2021-08-27 16:38:28,062 INFO success: crawler entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2021-08-27 16:39:08,799 WARN received SIGTERM indicating exit request
+2021-08-27 16:39:08,800 INFO waiting for crawler to die
+2021-08-27 16:39:08,803 INFO stopped: crawler (terminated by SIGQUIT)
+2021-08-27 16:39:23,459 INFO daemonizing the supervisord process
+2021-08-27 16:39:23,462 INFO supervisord started with pid 20151
+2021-08-27 16:39:24,468 INFO spawned: 'crawler' with pid 20152
+2021-08-27 16:39:25,471 INFO success: crawler entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2021-08-27 21:22:31,640 WARN received SIGTERM indicating exit request
+2021-08-27 21:22:31,641 INFO waiting for crawler to die
+2021-08-27 21:22:31,646 INFO stopped: crawler (terminated by SIGQUIT)
+2021-08-27 21:53:18,933 INFO daemonizing the supervisord process
+2021-08-27 21:53:18,937 INFO supervisord started with pid 10346
+2021-08-27 21:53:19,942 INFO spawned: 'crawler' with pid 10347
+2021-08-27 21:53:21,795 INFO success: crawler entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2021-08-27 21:54:06,594 WARN received SIGTERM indicating exit request
+2021-08-27 21:54:06,595 INFO waiting for crawler to die
+2021-08-27 21:54:06,598 INFO stopped: crawler (terminated by SIGQUIT)
+2021-08-27 21:54:20,802 INFO daemonizing the supervisord process
+2021-08-27 21:54:20,805 INFO supervisord started with pid 10376
+2021-08-27 21:54:21,811 INFO spawned: 'crawler' with pid 10377
+2021-08-27 21:54:23,543 INFO success: crawler entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2021-08-28 12:08:05,253 WARN received SIGTERM indicating exit request
+2021-08-28 12:08:05,254 INFO waiting for crawler to die
+2021-08-28 12:08:05,260 INFO stopped: crawler (terminated by SIGQUIT)
+2021-09-10 23:04:28,620 INFO daemonizing the supervisord process
+2021-09-10 23:04:28,624 INFO supervisord started with pid 866
+2021-09-10 23:04:29,630 INFO spawned: 'crawler' with pid 867
+2021-09-10 23:04:31,269 INFO success: crawler entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2021-09-10 23:04:59,305 WARN received SIGTERM indicating exit request
+2021-09-10 23:04:59,305 INFO waiting for crawler to die
+2021-09-10 23:04:59,309 INFO stopped: crawler (terminated by SIGQUIT)
+2021-09-10 23:05:01,897 INFO daemonizing the supervisord process
+2021-09-10 23:05:01,900 INFO supervisord started with pid 1027
+2021-09-10 23:05:02,907 INFO spawned: 'crawler' with pid 1028
+2021-09-10 23:05:03,909 INFO success: crawler entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2021-09-10 23:05:16,215 WARN received SIGTERM indicating exit request
+2021-09-10 23:05:16,215 INFO waiting for crawler to die
+2021-09-10 23:05:16,218 INFO stopped: crawler (terminated by SIGQUIT)
+2021-09-10 23:12:07,595 INFO daemonizing the supervisord process
+2021-09-10 23:12:07,602 INFO supervisord started with pid 4345
+2021-09-10 23:12:08,607 INFO spawned: 'crawler' with pid 4346
+2021-09-10 23:12:10,375 INFO success: crawler entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2021-09-10 23:13:03,892 WARN received SIGTERM indicating exit request
+2021-09-10 23:13:03,892 INFO waiting for crawler to die
+2021-09-10 23:13:03,896 INFO stopped: crawler (terminated by SIGQUIT)
+2021-09-10 23:14:00,656 INFO daemonizing the supervisord process
+2021-09-10 23:14:00,660 INFO supervisord started with pid 4408
+2021-09-10 23:14:01,666 INFO spawned: 'crawler' with pid 4409
+2021-09-10 23:14:03,270 INFO success: crawler entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2021-09-11 12:33:10,993 WARN received SIGTERM indicating exit request
+2021-09-11 12:33:10,994 INFO waiting for crawler to die
+2021-09-11 12:33:10,998 INFO stopped: crawler (terminated by SIGQUIT)
+2021-09-11 12:37:37,458 INFO daemonizing the supervisord process
+2021-09-11 12:37:37,462 INFO supervisord started with pid 26378
+2021-09-11 12:37:38,468 INFO spawned: 'crawler' with pid 26379
+2021-09-11 12:37:39,470 INFO success: crawler entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2021-09-11 23:28:01,476 WARN received SIGTERM indicating exit request
+2021-09-11 23:28:01,477 INFO waiting for crawler to die
+2021-09-11 23:28:01,484 INFO stopped: crawler (terminated by SIGQUIT)

@@ -1,30 +1,24 @@
-from nltk.tokenize import sent_tokenize, word_tokenize
-import warnings
-from selenium.webdriver.chrome.options import Options
-import urllib.request
 import time
-import numpy as np
+import warnings
 import string
 import pickle
-from sklearn.ensemble import RandomForestClassifier
-# import enchant
-import nltk
-nltk.download('words')
-from nltk.corpus import words
+# from sklearn.ensemble import RandomForestClassifier
+import enchant
+# import nltk
+# from nltk.corpus import words
+import pathlib
+import json
 
+
+# nltk.download('words')
+abs_path = str(pathlib.Path(__file__).parent.absolute()) + '/'
 warnings.filterwarnings(action='ignore')
-# english_dictionary = enchant.Dict("en_US")
-ed = set(words.words())
-
+ed = enchant.Dict("en_US")
+# ed = set(words.words())
 
 # check if a string is an English word
-def check_english(aa):
-    a = aa.lower()
-    if a in ed or a[0].upper() + a[1:] in ed:
-        return True
-    if a[-1] == 's' and a[:-1] in ed:
-        return True
-    return False
+def check_english(a):
+    return ed.check(a)
 
 
 # read training data
@@ -32,7 +26,7 @@ def handle_input():
     result = []
     data = []
     label = []
-    f = open('faculty_list.txt', 'r')
+    f = open(abs_path + 'faculty_list.txt', 'r')
     for i in f.readlines():
         if len(i) > 1:
             a = i.replace('\n', '')
@@ -41,19 +35,19 @@ def handle_input():
             data.append(a)
             label.append(i[: i.index(':')])
 
-    f = open('phone_numbers.txt', 'r')
+    f = open(abs_path + 'phone_numbers.txt', 'r')
     for i in f.readlines():
         result.append(i)
         data.append(i)
         label.append('Phone number')
 
-    f = open('email.txt', 'r')
+    f = open(abs_path + 'email.txt', 'r')
     for i in f.readlines():
         result.append(i)
         data.append(i)
         label.append('Email')
 
-    f = open('negative.txt', 'r')
+    f = open(abs_path + 'negative.txt', 'r')
     negative_dict = {}
     for i in f.readlines():
         if len(i) > 1:
@@ -106,9 +100,9 @@ for i in words_dict.keys():
             keyword_list.append(j[1])
         if a == 20:
             break
-# print(keyword_list)
 
 entries = list(keywords_dict.keys())
+# print(keywords_dict)
 def vectorize(d):
     # split by space and punctuation
     space = 0
@@ -176,11 +170,10 @@ def vectorize(d):
     #         v.append(0)
     return v
 
+# for i in range(len(data)):
+#     data[i] = vectorize(data[i])
 
-for i in range(len(data)):
-    data[i] = vectorize(data[i])
-
-model = RandomForestClassifier(n_estimators=10, max_depth=10)
-model.fit(data, label)
-pickle.dump(model, open('random_forest_model.sav', 'wb'))
+# model = RandomForestClassifier(n_estimators=10, max_depth=10)
+# model.fit(data, label)
+# pickle.dump(model, open(abs_path + 'random_forest_model.sav', 'wb'))
 

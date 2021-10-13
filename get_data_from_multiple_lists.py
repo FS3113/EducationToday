@@ -1,49 +1,59 @@
+import time
 import json
 import urllib.request
 from urllib.request import urlopen
-# from bs4 import BeautifulSoup
 from selenium import webdriver
 from selenium.webdriver.chrome.options import Options
-import time
 import re
 import sys
-from selenium import webdriver
 from selenium.webdriver.common.by import By
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as ECg
 from selenium.webdriver.chrome.options import Options
 from selenium.webdriver.common.keys import Keys
-import re
 import pickle
 from collections import defaultdict
 from random_forest import vectorize
 import string
 from find_possible_list import find_possible_list
-from find_possible_list import handle_extreme_edge_case
+from find_possible_list import find_info_in_grandchildren
 import os
+import pathlib
 
-random_forest_model = pickle.load(open('random_forest_model.sav', 'rb'))
 
-f1 = open('dblp_authors/first_name.pkl', 'rb')
+abs_path = str(pathlib.Path(__file__).parent.absolute()) + '/'
+random_forest_model = pickle.load(open(abs_path + 'random_forest_model.sav', 'rb'))
+
+f1 = open(abs_path + 'dblp_authors/first_name.pkl', 'rb')
 dblp_first_name = pickle.load(f1)
-f2 = open('dblp_authors/last_name.pkl', 'rb')
+f2 = open(abs_path + 'dblp_authors/last_name.pkl', 'rb')
 dblp_last_name = pickle.load(f2)
 invalid_dblp_names = {'only', 'every', 'faculty', 'research', 'international', 'study', 'group', 'department', 'policy', 'internet'
-                'the', 'of', 'people', 'peoples', 'found', 'lab', 'team', 'offer', 'doctor', 'task', 'school', 'new', 'old'
+                      'the', 'of', 'people', 'peoples', 'found', 'lab', 'team', 'offer', 'doctor', 'task', 'school', 'new', 'old'
                       'single', 'add', 'to', 'event', 'all', 'day', 'university', 'data', 'learn', 'internet', 'architecture'
                       , 'urban', 'court', 'train', 'manage', 'child', 'family', 'this', 'site', 'search', 'main', 'close',
                       'at', 'are', 'you', 'here', 'skip', 'content', 'english', 'and', 'latin', 'world', 'fellows', 'summer',
                       'haven', 'about', 'jobs', 'meet', 'us', 'or', 'call', 'start', 'dates', 'from', 'crowd', 'state',
                       'university', 'general', 'finance', 'as', 'few', 'far', 'supply', 'chain', 'planner', 'buyer',
-                      'market', 'works', 'major', 'minor', 'plus', 'max', 'by', 'in', 'we', 'have', 'name', 'personal',
+                      'market', 'works', 'major', 'minor', 'minors', 'plus', 'max', 'by', 'in', 'we', 'have', 'name', 'personal',
                       'link', 'for', 'general', 'information', 'room', 'street', 'wall', 'reading', 'list', 'with',
                       'divine', 'comedy', 'times', 'more', 'please', 'visit', 'south', 'north', 'west', 'east',
                       'africa', 'machine', 'learning', 'part', 'states', 'united', 'year', 'back', '3rd', 'durability',
                       'life', 'students', 'must', 'student', 'monday', 'tuesday', 'wednesday', 'thursday', 'friday',
                       'saturday', 'sunday', 'seminar', 'what', 'is', 'are', 'an', 'be', 'honors', 'gold', 'real',
                       'analysis', 'algebra', 'software', 'design', 'designer', 'studio', 'media', 'scales', 'about',
-                      'college', 'column', 'footer', 'first', 'second', 'third', 'fourth', 'on', 'market'}
+                      'college', 'column', 'footer', 'first', 'second', 'third', 'fourth', 'on', 'market', 'contact',
+                      'home', 'colleges', 'schools', 'database', 'center', 'server', 'alumni', 'awards', 'interests',
+                      'q:','requirements', 'hall', 'master', 'plan', 'knowledge', 'base', 'live', 'work', 'bridge', 'vote', 'how',
+                      'to', 'form', 'self', 'report', 'reporting', 'health', 'community', 'international', 'leadership', 'fees',
+                      'bookstore', 'board', 'core', 'values', 'policies', 'policy', 'experience', 'title', 'model', 'unitied',
+                      'club', 'music', 'camera', 'change', 'overview', 'mission', 'vision', 'why', 'glance', 'brave', 'start', 
+                      'grant', 'admission', 'about', 'faqs', 'building', 'summer', 'home', 'academics', 'position', 'news', 'events', 
+                      'advising', 'undergraduate', 'catalog', 'map', 'campus', 'support', 'ask', 'question', 'give', 'apply', 'visit',
+                      'small', 'farm', 'venture', 'area', 'about', 'my', 'bs', 'ba', 'ma', 'staff', 'stay', 'centre', 'message',
+                      'dean', 'messager', 'food', 'dinning', 'tools', 'apps', 'awards', 'more', 'find', 'out', 'majors'}
 max_name_length = 0
+
 
 
 # given an url, get whole html in a good format (a list)
@@ -74,6 +84,7 @@ def get_html(url, scrape_option):
             driver1.get(url)
             time.sleep(1)
             the_page = str(driver1.page_source)
+            # print(the_page)
             time.sleep(2)
         except:
             return []
@@ -105,9 +116,9 @@ def view_html_structure(url, scrape_option, known_html=[], wrong_words=[]):
         html = known_html
     if not html:
         return {}
-    f = open('html_structure.txt', 'w')
-    f1 = open('whole_html.txt', 'w')
-    f2 = open('raw_html.txt', 'w')
+    f = open(abs_path + 'html_structure.txt', 'w')
+    f1 = open(abs_path + 'whole_html.txt', 'w')
+    f2 = open(abs_path + 'raw_html.txt', 'w')
     raw_html = []
     for j in range(len(html)):
         i = html[j]
@@ -183,6 +194,7 @@ def view_html_structure(url, scrape_option, known_html=[], wrong_words=[]):
     # for i in html_tree:
     #     print(len(i), i)
 
+    # path_dict: keys are fields we are looking for such as names and positions, values are lists of correspond tag path
     path_dict = {}
     tmp = []
     for level in range(len(html_tree) - 1, -1, -1):
@@ -223,7 +235,8 @@ def view_html_structure(url, scrape_option, known_html=[], wrong_words=[]):
                     r = random_forest_model.predict([vectorize(raw_html[html_tree[level][i][2] + 1])])[0]
                     if r == 'Name':
                         r = 'None'
-                # print(r, raw_html[html_tree[level][i][2] + 1])
+                # if r != 'None':
+                #     print(r, '---', raw_html[html_tree[level][i][2] + 1])
                 if r != 'None':
                     p = []
                     t = level
@@ -237,19 +250,22 @@ def view_html_structure(url, scrape_option, known_html=[], wrong_words=[]):
                     p = p[::-1]
                     p.append(i)
                     flag = True
+                    # if r != 'Name':
+                    #     flag = False
                     if r == 'Research Interest':
                         if 'Research' in raw_html[html_tree[level][i][2] + 1]:
                             aa = raw_html[html_tree[level][i][2] + 1].split(' ')
                             if len(aa) <= 3:
                                 flag = False
-                    invalid_names = ['Admission', 'About', 'FAQs', 'Building', 'Summer', 'HOME', 'Academics', 'Position', 'News', 'Events', 'Advising', 'Undergraduate']
+                    invalid_names = ['admission', 'about', 'faqs', 'building', 'summer', 'home', 'academics', 'position', 'news', 'events', 'advising', 
+                                    'undergraduate', 'catalog', 'map', 'campus', 'support', 'ask', 'question', 'give', 'apply', 'visit']
                     if r == 'Name':
                         for j in invalid_names:
-                            if j in raw_html[html_tree[level][i][2] + 1]:
+                            if j in raw_html[html_tree[level][i][2] + 1].lower():
                                 flag = False
                                 break
                     if r == 'Name' or r == 'Position' or r == 'Research Interest':
-                        for j in ['0', '1', '2', '3', '4', '5', '6', '7', '8', '9', 'Email', 'Phone', 'Homepage', '@', 'E-mail', 'Full Profile', 'PhD', '.edu']:
+                        for j in ['0', '1', '2', '3', '4', '5', '6', '7', '8', '9', 'Email', 'Phone', 'Homepage', '@', 'E-mail', 'Full Profile', '.edu']:
                             if j in raw_html[html_tree[level][i][2] + 1]:
                                 flag = False
                                 break
@@ -263,18 +279,23 @@ def view_html_structure(url, scrape_option, known_html=[], wrong_words=[]):
                         path_dict[r].append(list(p).copy())
 
         tmp = update_tmp.copy()
-    # print(path_dict)
+    # for i in path_dict:
+    #     print(i)
+    #     for j in path_dict[i]:
+    #         print(j)
+    #     print()
 
-    for i in path_dict.keys():
-        for j in path_dict[i]:
-            t = []
-            n = 0
-            for k in j:
-                t.append(html_tree[n][k][1])
-                n += 1
+    # for i in path_dict.keys():
+    #     for j in path_dict[i]:
+    #         t = []
+    #         n = 0
+    #         for k in j:
+    #             t.append(html_tree[n][k][1])
+    #             n += 1
             # print(i, j, raw_html[html_tree[n - 1][k][2] + 1], t, html_tree[n - 1][k])
             # print(i, raw_html[html_tree[n - 1][k][2] + 1])
 
+    # find the cluster in HTML that is most likely to contain a list faculty info
     candidate_num = sum([len(path_dict[i]) for i in path_dict.keys()])
     common_structure = []
     a = 0
@@ -290,8 +311,9 @@ def view_html_structure(url, scrape_option, known_html=[], wrong_words=[]):
         t = []
         for i in count.keys():
             t.append([i, count[i]])
+        # print(t)
         t = sorted(t, key=lambda x: x[1], reverse=True)
-        if t[0][1] > 0.2 * candidate_num:
+        if t and t[0][1] > 0.2 * candidate_num:
             common_structure.append(t[0][0])
         else:
             break
@@ -312,6 +334,7 @@ def view_html_structure(url, scrape_option, known_html=[], wrong_words=[]):
             path_dict_2[i] = a.copy()
         # print(path_dict_2)
 
+        # each subtree is expected to contain information of a faculty member
         dict_for_building_subtree = {}
         each_structure = {}
         for i in path_dict_2.keys():
@@ -337,7 +360,7 @@ def view_html_structure(url, scrape_option, known_html=[], wrong_words=[]):
                 # print(a[0][0], i)
                 each_structure[i] = a[0][0]
             except:
-                a31 = 0
+                continue
                 # print('No ' + i)
         # print(common_structure)
 
@@ -349,6 +372,7 @@ def view_html_structure(url, scrape_option, known_html=[], wrong_words=[]):
                 subtree_roots.append(t)
         # print(subtree_roots)
 
+        # return list of subtrees of a root node
         def get_subtree(n):
             root = []
             for i in subtree_roots:
@@ -425,6 +449,7 @@ def view_html_structure(url, scrape_option, known_html=[], wrong_words=[]):
                 for k in j:
                     translation[k[-1]] = k[1]
 
+        # find tag path leading to each field of interest
         subtree_path = {}
         if len(correct_subtree_path.keys()) > 0:
             subtree_path = correct_subtree_path
@@ -510,6 +535,7 @@ def view_html_structure(url, scrape_option, known_html=[], wrong_words=[]):
                 for k in j:
                     path_to_result[i][k[1]] = [k[2], k[3]]
 
+        # apply "anchor point" technique
         if len(correct_subtree_path) == 0:
             for i in subtree_path.keys():
                 if subtree_path[i] == 'None' or ' ' in subtree_path[i][subtree_path[i].rfind('<'):]:
@@ -599,34 +625,9 @@ def view_html_structure(url, scrape_option, known_html=[], wrong_words=[]):
                 # print()
                 subtree_path[i] = best_anchor_point.copy()
 
-        use_expected_name = True
-        expected_names = []
-        for i in path_to_result.keys():
-            cell_range = [0, 0]
-            for j in path_to_result[i].keys():
-                if j.count('<') == 1:
-                    cell_range = path_to_result[i][j].copy()
-            expected_name = ''
-            for j in range(cell_range[0], cell_range[1]):
-                if raw_html[j][0] != '<' and len(raw_html[j]) > 2:
-                    if 1 < len(raw_html[j].split()) < 5:
-                        expected_name = raw_html[j]
-                        break
-                    elif len(raw_html[j].split()) == 1:
-                        expected_name = raw_html[j] + ' '
-                        for k in range(j + 1, cell_range[1]):
-                            if raw_html[k][0] != '<' and len(raw_html[k]) > 2:
-                                if len(raw_html[k].split()) < 2:
-                                    expected_name += raw_html[k]
-                                else:
-                                    expected_name = ''
-                                break
-                        break
-            expected_names.append(expected_name)
-        if len(expected_names) > 3 and expected_names[0] == expected_names[1] == expected_names[2]:
-            use_expected_name = False
-
         # print(subtree_path)
+
+        # analyzing result
         result = []
         total_miss, total_num, total_match = 0, 1, 0
         for i in path_to_result.keys():
@@ -700,20 +701,17 @@ def view_html_structure(url, scrape_option, known_html=[], wrong_words=[]):
                         missing += 1
 
             # print()
-            if missing < 5:
+            if missing < 4:
                 result.append(d.copy())
             total_miss += missing
             total_num += 5
         # print(subtree_path)
         # print('--------------------------------------------------------------------')
-        # print('--------------------------------------------------------------------')
-        # print('--------------------------------------------------------------------')
-        # print('--------------------------------------------------------------------')
-        # print('--------------------------------------------------------------------')
-        # print('--------------------------------------------------------------------')
 
         try:
-            a_num, a = handle_extreme_edge_case(subtree_dict, subtree_path, raw_html)
+            # handle the case when each cell of faculty info is not the direct decendent of the root
+            a_num, a = find_info_in_grandchildren(subtree_dict, subtree_path, raw_html)
+            # print(a_num, a, total_match)
             if a_num > total_match:
                 for r in a:
                     if 'Name' in r.keys() and r['Name'] != 'Missing':
@@ -725,8 +723,6 @@ def view_html_structure(url, scrape_option, known_html=[], wrong_words=[]):
                 return subtree_path
         except:
             a31 = 0
-            # print('nothing happens')
-        # print(total_miss / total_num, result)
         if total_miss / total_num > 0.8:
             # print('Warning----------Total Miss:', total_miss, '  Num: ', total_num)
             # print()
@@ -782,10 +778,3 @@ def view_html_structure(url, scrape_option, known_html=[], wrong_words=[]):
     return final_result
 
 
-# a = view_html_structure('https://www.hajim.rochester.edu/ece/people/faculty/index.html', 'urllib')
-# print(len(a))
-# for i in a:
-#     print(i)
-# u = "William & Mary"
-# with open('Data/demo/Electrical Engineering Faculty/' + u + '.json', 'w') as f1:
-#     json.dump(a, f1, indent=4)
